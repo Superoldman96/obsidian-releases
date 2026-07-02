@@ -21252,13 +21252,6 @@
     "repo": "luolanaatud/obsidian-graph-analysis"
   },
   {
-    "id": "limn",
-    "name": "Limn",
-    "author": "tednaleid",
-    "description": "Keyboard-first mind mapping. Open .limn files as interactive mind map views. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tednaleid/limn"
-  },
-  {
     "id": "mood-atlas",
     "name": "Mood Atlas",
     "author": "alpinemily",
@@ -32277,6 +32270,13 @@
     "repo": "notnilc-n/obsidian-desmos-live"
   },
   {
+    "id": "local-pdf-annotator",
+    "name": "PDF Annotator",
+    "author": "Tianchen Hao",
+    "description": "Read PDFs, highlight passages, place page notes, and manage searchable margin annotations stored as local Markdown sidecars. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "alexandert142/Alex-annotator"
+  },
+  {
     "id": "douyin-capture-pro",
     "name": "Douyin Capture Pro",
     "author": "zhaoyaoyuan",
@@ -37023,6 +37023,13 @@
     "repo": "gitmorric/towrite-open-questions"
   },
   {
+    "id": "step-viewer",
+    "name": "STEP Viewer",
+    "author": "ondreu",
+    "description": "Open and view STEP (.step/.stp) CAD models in an interactive 3D viewer. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ondreu/STEP-viewer"
+  },
+  {
     "id": "moon",
     "name": "Moon",
     "author": "kneecaps",
@@ -37175,5 +37182,12 @@
     "author": "Maksim Volkov",
     "description": "Style files in the file explorer by their frontmatter properties: exposes chosen properties as data attributes for your CSS snippets, updated instantly. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hemy301/explorer-property-attributes"
+  },
+  {
+    "id": "vuln-report-kit",
+    "name": "Vuln Report Kit",
+    "author": "Aleff",
+    "description": "Local-first toolkit for vulnerability cases, reports, templates, secret review, sanitization, dashboards and exports inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aleff-github/vuln-report-kit"
   }
 ]
