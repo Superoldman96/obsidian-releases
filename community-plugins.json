@@ -33719,6 +33719,13 @@
     "repo": "tenor-john/obsidian-scholarium"
   },
   {
+    "id": "mv-obcc",
+    "name": "mv-SenceAI",
+    "author": "MV",
+    "description": "AI assistant for Obsidian with inline completion, selection prompts, Claude Code and Codex bridge, MCP tools, and editable diffs. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aitingtingya/mv-obcc"
+  },
+  {
     "id": "art-de-one",
     "name": "ART de ONE",
     "author": "ART de ONE",
@@ -37294,5 +37301,19 @@
     "author": "Waldemar",
     "description": "Adds a command to replace the current tab with an empty page, the same screen shown when opening a new tab. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "waldemar-one/obsidian-empty-tab"
+  },
+  {
+    "id": "bamboo-immortals",
+    "name": "Bamboo Immortals",
+    "author": "羽鳞君",
+    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-bamboo-immortals"
+  },
+  {
+    "id": "pie-tasks",
+    "name": "Pie Tasks",
+    "author": "Pie Of Mind",
+    "description": "Manage tasks from Markdown files across multiple boards. Switch task files instantly and view them as a board, list, calendar, or dashboard, with checkboxes written straight back to the file. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pieofmind/pie-task-plugin-obsidian"
   }
 ]
