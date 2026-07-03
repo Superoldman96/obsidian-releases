@@ -20104,13 +20104,6 @@
     "repo": "cursivez/journalit"
   },
   {
-    "id": "direct-git-sync",
-    "name": "Direct Git Sync",
-    "author": "swekizer",
-    "description": "Sync your vault natively with a private GitHub repository on both Desktop and Mobile. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "swekizer/GitHub-Sync"
-  },
-  {
     "id": "inline-tag",
     "name": "Inline Tag",
     "author": "mb-yul",
@@ -31668,13 +31661,6 @@
     "repo": "krental/obsidian-auto-card-link"
   },
   {
-    "id": "drawio-editor",
-    "name": "Drawio",
-    "author": "doge-liang",
-    "description": "Embed, preview, and edit draw.io diagrams directly in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "doge-liang/obsidian-drawio"
-  },
-  {
     "id": "jot",
     "name": "Jot",
     "author": "Ben Verbeken",
@@ -37226,6 +37212,13 @@
     "repo": "jiangzizhao/huanmuyu-plugin"
   },
   {
+    "id": "caption-numbering",
+    "name": "Caption Numbering",
+    "author": "Caption Numbering Plugin",
+    "description": "Automatically number figure/table captions using 6th-level headings (######) - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhangyitong625-zjuchem/Caption-Numbering-Obsidian"
+  },
+  {
     "id": "explorer-property-attributes",
     "name": "Explorer Property Attributes",
     "author": "Maksim Volkov",
@@ -37315,5 +37308,12 @@
     "author": "Pie Of Mind",
     "description": "Manage tasks from Markdown files across multiple boards. Switch task files instantly and view them as a board, list, calendar, or dashboard, with checkboxes written straight back to the file. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "pieofmind/pie-task-plugin-obsidian"
+  },
+  {
+    "id": "advanced-bases",
+    "name": "Advanced Bases",
+    "author": "Brightwav3",
+    "description": "Notion-style views for Obsidian Bases — Cards Compact, Feed, and Timeline. A lighter build with only the core views. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "brightwav3/advanced-bases"
   }
 ]
