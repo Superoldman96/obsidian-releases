@@ -11382,13 +11382,6 @@
     "repo": "name/obsidian-rpg"
   },
   {
-    "id": "syrinscape-player-control",
-    "name": "Syrinscape Online Player",
-    "author": "Stephen Cooper",
-    "description": "Control Syrinscape Online Player from inside of notes.",
-    "repo": "scooper4711/obsidian-syrinscape"
-  },
-  {
     "id": "edit-in-neovim",
     "name": "Edit in Neovim",
     "author": "theseusgrey",
@@ -29708,6 +29701,13 @@
     "repo": "reggie86/vaultdex"
   },
   {
+    "id": "gallery-view",
+    "name": "Gallery View",
+    "author": "mkshp-dev",
+    "description": "Create beautiful image galleries in your notes using obs-gallery code blocks. Supports local folders, external URLs, and Immich with responsive grids, masonry, thumbnails, and carousels. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mkshp-dev/obsidian-gallery-plugin"
+  },
+  {
     "id": "draw-in-canvas",
     "name": "Draw in Canvas",
     "author": "xryul",
@@ -33341,6 +33341,13 @@
     "repo": "saberzero1/motions"
   },
   {
+    "id": "lindar",
+    "name": "Lindar",
+    "author": "punkyard",
+    "description": "Yearly linear calendar plugin for Obsidian, designed for long-horizon planning - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "punkyard/obsidian-lindar"
+  },
+  {
     "id": "swift-match",
     "name": "SwiftMatch",
     "author": "swiSwift",
@@ -34471,7 +34478,7 @@
     "id": "block-reference-enhancer",
     "name": "Block Reference Enhancer",
     "author": "msjsc001",
-    "description": "Render UUID-based block references and block embeds from Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Render and navigate Logseq-style UUID block references and block embeds in Obsidian, with outlines, backlinks, and page-property/YAML sync. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "msjsc001/obsidian-block-reference-enhancer"
   },
   {
@@ -37241,9 +37248,9 @@
   },
   {
     "id": "explorer-property-attributes",
-    "name": "Explorer Property Attributes",
+    "name": "Mark as Read",
     "author": "Maksim Volkov",
-    "description": "Style files in the file explorer by their frontmatter properties: exposes chosen properties as data attributes for your CSS snippets, updated instantly. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Mark a note read or done with one click and see it in the file explorer: finished notes are grayed out with a checkmark. Any frontmatter property can style files via CSS snippets, updated instantly. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hemy301/explorer-property-attributes"
   },
   {
@@ -37352,10 +37359,24 @@
     "repo": "jamescliffordspratt/obsidian-habits"
   },
   {
+    "id": "inkedmark",
+    "name": "InkedMark",
+    "author": "Liqpil",
+    "description": "Handwrite inside your markdown notes with pressure-aware ink, a searchable text layer, inline sketches, and Apple Pencil support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pcrausaz/obsidian-inkedmark"
+  },
+  {
     "id": "task-deck",
     "name": "Task Deck",
     "author": "Ismail Ivanov",
     "description": "Trello-style task boards with Markdown-backed cards, labels, dates, and checklists. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ismailivanov/task-deck"
+  },
+  {
+    "id": "vault-link",
+    "name": "Vault Link",
+    "author": "",
+    "description": "Link files and folders between vaults so they share the same content on disk, with per-file exclude rules for things you want to keep vault-specific (e.g. themes). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "armalv/vault-link"
   }
 ]
