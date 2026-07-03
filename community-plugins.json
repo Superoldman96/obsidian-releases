@@ -31115,6 +31115,13 @@
     "repo": "ringeringeraja33/NarrativeCanvas"
   },
   {
+    "id": "buildian",
+    "name": "Buildian",
+    "author": "YuChenSSR",
+    "description": "Unofficial Obsidian bridge for Grok Build, Cursor Agent, Factory Droid, Amp code and provider-backed coding agents. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yuchenssr/buildian"
+  },
+  {
     "id": "graph-context-for-claude-code",
     "name": "Graph Context for Claude Code",
     "author": "senna-lang",
@@ -31197,6 +31204,13 @@
     "author": "zen",
     "description": "A clean timeline calendar with grid-aligned time labels for daily notes and tasks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "deemsd/timeline-calendar"
+  },
+  {
+    "id": "chess-tree",
+    "name": "Chess Tree",
+    "author": "west-shell",
+    "description": "Chess variation tree. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "west-shell/obsidian-chess-tree"
   },
   {
     "id": "gz-sync",
@@ -35238,6 +35252,13 @@
     "repo": "linkongren/obsidian-bible-study"
   },
   {
+    "id": "pdf-scholia-scribe",
+    "name": "PDF Scholia Scribe",
+    "author": "michellegdyason",
+    "description": "Citation-focused PDF annotation and note-linking for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "michellegdyason/pdf-scholia-scribe"
+  },
+  {
     "id": "watch-later-synthesizer",
     "name": "Watch Later Synthesizer",
     "author": "ibrh96-prog",
@@ -36515,7 +36536,7 @@
     "id": "best-downloader",
     "name": "Best Downloader",
     "author": "trikorka",
-    "description": "Download YouTube videos and audio in various formats directly to your vault using yt-dlp - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Download videos and audio in various formats directly to your vault using yt-dlp. [EN/RU] - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "trikorka/BestDownloader"
   },
   {
@@ -36692,6 +36713,13 @@
     "author": "Khiip",
     "description": "Capture + recall through your local Khiip daemon — URLs in, markdown in your vault, semantic recall over everything - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "khiipai/khiip-obsidian"
+  },
+  {
+    "id": "live-pdf-preview",
+    "name": "Live PDF Preview",
+    "author": "kimsunin",
+    "description": "Zero-latency, real-time A4 PDF preview in the right sidebar with page breaks and layout controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kimsunin/obsidian-live-pdf-preview"
   },
   {
     "id": "media-gallery-grid",
@@ -37222,7 +37250,7 @@
     "id": "caption-numbering",
     "name": "Caption Numbering",
     "author": "Caption Numbering Plugin",
-    "description": "Automatically number figure/table captions using 6th-level headings (######) - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Automatically number figure/table captions using 6th-level headings (######). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zhangyitong625-zjuchem/Caption-Numbering-Obsidian"
   },
   {
@@ -37329,5 +37357,12 @@
     "author": "myeongsoyi",
     "description": "Project management: projects, tasks & subtasks with status, deadlines, and Gantt/WBS/board views. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "myeongsoyi/obsidian-docket"
+  },
+  {
+    "id": "habits",
+    "name": "Habits",
+    "author": "jamescliffordspratt",
+    "description": "Habit tracker with streaks, charts, and statistics. Log daily habits from a carousel dashboard or sidebar panel, pause habits without losing streaks, and export printable PDF reports. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jamescliffordspratt/obsidian-habits"
   }
 ]
