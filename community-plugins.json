@@ -36004,7 +36004,7 @@
     "id": "thirdbrain",
     "name": "ThirdBrain",
     "author": "ImCuriosity",
-    "description": "\"Turn your scattered thoughts into a self-purifying knowledge graph.\" Powered by AxiomBrain, it extracts logic, links edges, and auto-resolves conflicts. (한국어 텍스트에 최적화된 무모순 논리 연산 지원) - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "\"무모순의 3번째 뇌를 깨우세요.\"  세상을 보는 파편화된 기록들을 모아, 단 하나의 논리적 충돌도 없는 나만의 견고한 지식 요새를 구축하세요. 당신의 회의록, 강의, 스터디 자료는 단순한 메모를 넘어, 서로의 아이디어가 충돌하고 교배되며 새로운 인사이트를 낳는 '살아있는 이야기'가 됩니다. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "imcuriosity/third-brain-release"
   },
   {
@@ -37058,6 +37058,13 @@
     "repo": "sdkay/obsidian-rich-table"
   },
   {
+    "id": "local-sync",
+    "name": "Local Sync",
+    "author": "Liu Bo",
+    "description": "LAN bidirectional vault sync — CRDT auto-merge, PSK auth, UDP discovery - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "liuboacean/obsidian-local-sync-plugin"
+  },
+  {
     "id": "voice-to-text",
     "name": "Voice to Text",
     "author": "SATOSprod",
@@ -37189,6 +37196,13 @@
     "author": "Maksim Volkov",
     "description": "Style files in the file explorer by their frontmatter properties: exposes chosen properties as data attributes for your CSS snippets, updated instantly. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hemy301/explorer-property-attributes"
+  },
+  {
+    "id": "canvas-template-manager",
+    "name": "Canvas Template Manager",
+    "author": "Phillip Wood",
+    "description": "Allows the ability to easily duplicate templates. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "phillip383/obsidian-canvas-template-manager"
   },
   {
     "id": "vuln-report-kit",
