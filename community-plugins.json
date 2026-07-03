@@ -29708,13 +29708,6 @@
     "repo": "reggie86/vaultdex"
   },
   {
-    "id": "gallery-view",
-    "name": "Gallery View",
-    "author": "mkshp-dev",
-    "description": "Create beautiful image galleries in your notes using obs-gallery code blocks. Supports local folders, external URLs, and Immich with responsive grids, masonry, thumbnails, and carousels. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mkshp-dev/obsidian-gallery-plugin"
-  },
-  {
     "id": "draw-in-canvas",
     "name": "Draw in Canvas",
     "author": "xryul",
@@ -33346,13 +33339,6 @@
     "author": "Emile Bangma",
     "description": "Enhances Obsidian's Vim mode with Markdown-aware text objects, structural navigation, workspace keyboard control, and a polished Neovim-native experience. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "saberzero1/motions"
-  },
-  {
-    "id": "lindar",
-    "name": "Lindar",
-    "author": "punkyard",
-    "description": "Yearly linear calendar plugin for Obsidian, designed for long-horizon planning - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "punkyard/obsidian-lindar"
   },
   {
     "id": "swift-match",
@@ -37364,5 +37350,12 @@
     "author": "jamescliffordspratt",
     "description": "Habit tracker with streaks, charts, and statistics. Log daily habits from a carousel dashboard or sidebar panel, pause habits without losing streaks, and export printable PDF reports. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jamescliffordspratt/obsidian-habits"
+  },
+  {
+    "id": "task-deck",
+    "name": "Task Deck",
+    "author": "Ismail Ivanov",
+    "description": "Trello-style task boards with Markdown-backed cards, labels, dates, and checklists. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ismailivanov/task-deck"
   }
 ]
