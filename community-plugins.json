@@ -13741,13 +13741,6 @@
     "repo": "soundslikeinfo/obsidian-clipper-catalog"
   },
   {
-    "id": "large-language-models",
-    "name": "Large Language Models",
-    "author": "eharris128",
-    "description": "Enables access to LLMs via remote providers (OpenAI, Claude, Gemini) and local LLMs via GPT4ALL.",
-    "repo": "eharris128/Obsidian-LLM-Plugin"
-  },
-  {
     "id": "flowcharts",
     "name": "Flowcharts",
     "author": "land0r",
@@ -26705,13 +26698,6 @@
     "repo": "totocaster/vault-tasks-obsidian"
   },
   {
-    "id": "lexvoice",
-    "name": "LexVoice",
-    "author": "Lynnx",
-    "description": "后台录音、实时转写、AI 结构化纪要与知识沉淀 | Background recording, segmented or streaming transcription, and AI-organized Markdown notes for meetings, interviews, monologues, and learning material. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "lynn-x/LexVoice"
-  },
-  {
     "id": "zulu-agent",
     "name": "Zulu Agent",
     "author": "foundlegacy",
@@ -31983,6 +31969,13 @@
     "repo": "xiaoqiang-huang/obsidian-life-os-community"
   },
   {
+    "id": "live-image-editor",
+    "name": "Live Image Editor",
+    "author": "britz",
+    "description": "Edit images non-destructively: crop, rotate, flip, resize, and apply CSS filters live, without modifying the original file. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "britz/obsidian-live-image-editor"
+  },
+  {
     "id": "logcollector",
     "name": "Logcollector",
     "author": "AwkMan",
@@ -33726,13 +33719,6 @@
     "repo": "tenor-john/obsidian-scholarium"
   },
   {
-    "id": "mv-obcc",
-    "name": "mv-SenceAI",
-    "author": "MV",
-    "description": "AI assistant for Obsidian with inline completion, selection prompts, Claude Code bridge, MCP tools, and editable diffs. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "aitingtingya/mv-obcc"
-  },
-  {
     "id": "art-de-one",
     "name": "ART de ONE",
     "author": "ART de ONE",
@@ -35168,6 +35154,13 @@
     "repo": "chaskane/autoscroller"
   },
   {
+    "id": "echo-recall",
+    "name": "Echo Recall",
+    "author": "sxjeel",
+    "description": "Memorize, Revise and Review your notes and paragraphs actively with spaced repetition and retrospective deadlines. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sajee05/echo-recall"
+  },
+  {
     "id": "tasknotes-review-intervals",
     "name": "TaskNotes Review Intervals",
     "author": "Callum Macdonald",
@@ -35817,13 +35810,6 @@
     "author": "Real-Fruit-Snacks",
     "description": "Bookmark manager with four switchable layouts. Each bookmark is a Markdown file with YAML frontmatter — no proprietary database, no lock-in. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "real-fruit-snacks/Cove"
-  },
-  {
-    "id": "vault-viewer",
-    "name": "Vault Viewer",
-    "author": "zhouzeqiang",
-    "description": "Browse all file types, filter/sort, and preview Office documents in Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zhouzeqiang/obsidian-vault-viewer"
   },
   {
     "id": "ai-rewrite",
@@ -37294,5 +37280,19 @@
     "author": "khr0907",
     "description": "Practice handwriting with your mouse. Trace letters, words, and famous passages (Korean/English/Japanese) on a full-page canvas with text or ruled-line guides. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "khr0907/obsidian-mouse-handwriting"
+  },
+  {
+    "id": "dxf-viewer-editor",
+    "name": "DXF Viewer and Editor",
+    "author": "ondreu",
+    "description": "Simple light DXF viewer and editor, capable of measuring lenght, area, diameter, angles, and more. Aswell as simple editing like lines, polylines, rectangles, circles, elipses, arcs, fill, hatches... - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ondreu/DXF-Viewer-and-editor"
+  },
+  {
+    "id": "empty-tab",
+    "name": "Empty Tab",
+    "author": "Waldemar",
+    "description": "Adds a command to replace the current tab with an empty page, the same screen shown when opening a new tab. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "waldemar-one/obsidian-empty-tab"
   }
 ]
