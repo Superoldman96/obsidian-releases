@@ -28518,13 +28518,6 @@
     "repo": "geokhv/obsidian-daily-checkbox-focus"
   },
   {
-    "id": "knowlery",
-    "name": "Knowlery",
-    "author": "Jay Jiang",
-    "description": "A warm personal knowledge review space for Obsidian vaults. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jayjiangct/knowlery"
-  },
-  {
     "id": "deep-research-formatter",
     "name": "Deep Research Formatter",
     "author": "Longxiao Zhang",
@@ -36025,7 +36018,7 @@
     "id": "thirdbrain",
     "name": "ThirdBrain",
     "author": "ImCuriosity",
-    "description": "\"무모순의 3번째 뇌를 깨우세요.\"  세상을 보는 파편화된 기록들을 모아, 단 하나의 논리적 충돌도 없는 나만의 견고한 지식 요새를 구축하세요. 당신의 회의록, 강의, 스터디 자료는 단순한 메모를 넘어, 서로의 아이디어가 충돌하고 교배되며 새로운 인사이트를 낳는 '살아있는 이야기'가 됩니다. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "\"Turn your scattered thoughts into a self-purifying knowledge graph.\" ThirdBrain extracts verifiable propositions, links them with typed edges, and auto-resolves contradictions - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "imcuriosity/third-brain-release"
   },
   {
@@ -37212,6 +37205,13 @@
     "repo": "hxxxl/obsidian-deepseek-cli"
   },
   {
+    "id": "vimium-plus",
+    "name": "Vimium+",
+    "author": "Stian Lyng",
+    "description": "Navigate with Vimium-style keys: f for click hints, j/k/d/u scrolling, J/K tab switching, and i to drop into the editor's native Vim mode. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "stianlyng/obsidian-vimium-plus"
+  },
+  {
     "id": "jokebakery-sync",
     "name": "JokeBakery Sync",
     "author": "James Hooker",
@@ -37287,5 +37287,12 @@
     "author": "@raulanatol",
     "description": "Obsidian is the source of truth for your contacts; sync a chosen subset one-way to macOS Contacts, with desync alerts. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "raulanatol/obsidian-contact-forge"
+  },
+  {
+    "id": "mouse-handwriting-practice",
+    "name": "Mouse Handwriting",
+    "author": "khr0907",
+    "description": "Practice handwriting with your mouse. Trace letters, words, and famous passages (Korean/English/Japanese) on a full-page canvas with text or ruled-line guides. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "khr0907/obsidian-mouse-handwriting"
   }
 ]
