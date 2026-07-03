@@ -20104,6 +20104,13 @@
     "repo": "cursivez/journalit"
   },
   {
+    "id": "direct-git-sync",
+    "name": "Direct Git Sync",
+    "author": "swekizer",
+    "description": "Sync your vault natively with a GitHub repository on both Desktop and Mobile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "swekizer/GitHub-Sync"
+  },
+  {
     "id": "inline-tag",
     "name": "Inline Tag",
     "author": "mb-yul",
@@ -31108,13 +31115,6 @@
     "repo": "ringeringeraja33/NarrativeCanvas"
   },
   {
-    "id": "buildian",
-    "name": "Buildian",
-    "author": "YuChenSSR",
-    "description": "Unofficial Obsidian bridge for Grok Build, Cursor Agent, Factory Droid, Amp code and provider-backed coding agents. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "yuchenssr/buildian"
-  },
-  {
     "id": "graph-context-for-claude-code",
     "name": "Graph Context for Claude Code",
     "author": "senna-lang",
@@ -31197,13 +31197,6 @@
     "author": "zen",
     "description": "A clean timeline calendar with grid-aligned time labels for daily notes and tasks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "deemsd/timeline-calendar"
-  },
-  {
-    "id": "chess-tree",
-    "name": "Chess Tree",
-    "author": "west-shell",
-    "description": "Chess variation tree. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "west-shell/obsidian-chess-tree"
   },
   {
     "id": "gz-sync",
@@ -31659,6 +31652,13 @@
     "author": "KreNtal",
     "description": "Automatically convert URLs into beautiful card-styled links with metadata, thumbnails and favicons. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "krental/obsidian-auto-card-link"
+  },
+  {
+    "id": "drawio-editor",
+    "name": "Drawio",
+    "author": "doge-liang",
+    "description": "Embed, preview, and edit draw.io diagrams directly in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "doge-liang/obsidian-drawio"
   },
   {
     "id": "jot",
@@ -37191,6 +37191,13 @@
     "repo": "stianlyng/obsidian-vimium-plus"
   },
   {
+    "id": "auto-gitkeep",
+    "name": "Auto GitKeep",
+    "author": "SATOSprod",
+    "description": "Automatically places a .gitkeep file in every folder of your vault so empty directories are tracked by Git. Scans existing folders on load and watches for new ones. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "satosprod/auto-gitkeep"
+  },
+  {
     "id": "jokebakery-sync",
     "name": "JokeBakery Sync",
     "author": "James Hooker",
@@ -37315,5 +37322,12 @@
     "author": "Brightwav3",
     "description": "Notion-style views for Obsidian Bases — Cards Compact, Feed, and Timeline. A lighter build with only the core views. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "brightwav3/advanced-bases"
+  },
+  {
+    "id": "docket",
+    "name": "Docket",
+    "author": "myeongsoyi",
+    "description": "Project management: projects, tasks & subtasks with status, deadlines, and Gantt/WBS/board views. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "myeongsoyi/obsidian-docket"
   }
 ]
