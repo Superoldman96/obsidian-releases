@@ -20111,6 +20111,13 @@
     "repo": "cursivez/journalit"
   },
   {
+    "id": "direct-git-sync",
+    "name": "Direct Git Sync",
+    "author": "swekizer",
+    "description": "Sync your vault natively with a private GitHub repository on both Desktop and Mobile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "swekizer/GitHub-Sync"
+  },
+  {
     "id": "inline-tag",
     "name": "Inline Tag",
     "author": "mb-yul",
@@ -21257,6 +21264,13 @@
     "author": "luolanaatud",
     "description": "Analyze your vault using graph algorithms with Rust WASM for high-performance insights into note structure and relationships. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "luolanaatud/obsidian-graph-analysis"
+  },
+  {
+    "id": "limn",
+    "name": "Limn",
+    "author": "tednaleid",
+    "description": "Keyboard-first mind mapping. Open .limn files as interactive mind map views. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tednaleid/limn"
   },
   {
     "id": "mood-atlas",
@@ -28742,6 +28756,13 @@
     "repo": "brianling/obsidian-copy-as-rich-url"
   },
   {
+    "id": "obsidian-moonreader-sync",
+    "name": "MoonReader Note Sync",
+    "author": "seeyou2night",
+    "description": "Sync MoonReader reading notes via WebDAV and parse .an files directly into your Vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "seeyou2n1ght/obsidian-MoonReaderNoteSync"
+  },
+  {
     "id": "meetings-plus",
     "name": "Meetings Plus",
     "author": "jabaho9523",
@@ -36218,6 +36239,13 @@
     "repo": "moonweave/obsidian-graph-styler"
   },
   {
+    "id": "csvzall-mobile",
+    "name": "csvzall Mobile",
+    "author": "Vincent La",
+    "description": "A fast CSV viewer and editor for Obsidian Mobile - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vincentlaucsb/obsidian-csvzall-mobile"
+  },
+  {
     "id": "clip-link",
     "name": "Clip Link",
     "author": "kanade2511",
@@ -37051,6 +37079,13 @@
     "repo": "dmgx0/obsidian-stonks"
   },
   {
+    "id": "image-auto-rename",
+    "name": "Image Auto Rename",
+    "author": "Contributors",
+    "description": "Automatically rename newly created, pasted, or current-file images with the file name and a per-file sequence. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "milin-jad/Obsidian_plugins"
+  },
+  {
     "id": "rich-table",
     "name": "Rich Table",
     "author": "sdking",
@@ -37238,5 +37273,19 @@
     "author": "markcrobbins",
     "description": "Colors file explorer items according to their first alphabetical character using custom data attributes and muted resting color states. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "markcrobbins2112/op-file-tree-alpha-hue"
+  },
+  {
+    "id": "bases-toolbox",
+    "name": "Bases Toolbox",
+    "author": "Human",
+    "description": "Quality-of-life tools for Bases and properties: find & replace property values across the vault, stop number properties from changing on arrow keys, and a searchable index of every property. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/Bases-Toolbox"
+  },
+  {
+    "id": "contact-forge",
+    "name": "Contact Forge",
+    "author": "@raulanatol",
+    "description": "Obsidian is the source of truth for your contacts; sync a chosen subset one-way to macOS Contacts, with desync alerts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "raulanatol/obsidian-contact-forge"
   }
 ]
