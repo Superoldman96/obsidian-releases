@@ -18732,6 +18732,13 @@
     "repo": "jundamin/obsidian-hwpx-writer"
   },
   {
+    "id": "colophon-writer",
+    "name": "Colophon",
+    "author": "David Golding",
+    "description": "A dedicated, typographically refined writing canvas for structuring long-form manuscripts and screenplays. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "davidgolding/obsidian-colophon"
+  },
+  {
     "id": "quran-inserter",
     "name": "Quran inserter",
     "author": "ramysami",
@@ -37189,5 +37196,12 @@
     "author": "Aleff",
     "description": "Local-first toolkit for vulnerability cases, reports, templates, secret review, sanitization, dashboards and exports inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "aleff-github/vuln-report-kit"
+  },
+  {
+    "id": "sobriety-tracker",
+    "name": "Sobriety Tracker",
+    "author": "tiancaijb",
+    "description": "Urge timer, daily check-in reminder, and streak tracking for sobriety recovery. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tiancaijb/obsidian-sobriety-tracker"
   }
 ]
