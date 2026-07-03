@@ -19838,13 +19838,6 @@
     "repo": "felixleopold/obsidian-code-suite"
   },
   {
-    "id": "colorful-folders",
-    "name": "Colorful Folders",
-    "author": "rohitnahar-offical",
-    "description": "Automatically adds premium preset colors to all folders and subfolders. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "rohitnahar-offical/colorful-folders-obsidian"
-  },
-  {
     "id": "obvec-sync",
     "name": "AI Search for Your Second Brain",
     "author": "snoopyrain",
@@ -25436,13 +25429,6 @@
     "author": "HJ",
     "description": "Render IT project artifacts — ERD, API specs, WBS, architecture diagrams, requirements, manuals, and meeting notes — with purpose-built type-aware views. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gs-ax/docflow-obsidian"
-  },
-  {
-    "id": "canvas-markdown-side-editor",
-    "name": "Canvas Markdown Side Editor",
-    "author": "shawnswu",
-    "description": "Open a Canvas card's linked Markdown file in a right-side editor pane with one click. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "shawnswu/Obsidian-Canvas-Markdown-Side-Editor"
   },
   {
     "id": "microblog-publisher",
@@ -35915,13 +35901,6 @@
     "author": "NEWO-J",
     "description": "Color-codes notes by duration since you last reviewed them, using SM-2 spaced repetition. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "newo-j/note-decay"
-  },
-  {
-    "id": "lotus",
-    "name": "Lotus",
-    "author": "James Karlsson & Thomas Goldman",
-    "description": "Run normal fenced Markdown code blocks in Obsidian while keeping native syntax highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tzadikimbiu/lotus"
   },
   {
     "id": "html-effectiveness",
