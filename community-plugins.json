@@ -26054,6 +26054,13 @@
     "repo": "jochenbernard/obsidian-view-mode-rules"
   },
   {
+    "id": "kanban-base",
+    "name": "Kanban Base",
+    "author": "jaidetree",
+    "description": "Add kanban views to Bases, organized by folder structure or property values. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jaidetree/obsidian-kanban-base"
+  },
+  {
     "id": "brand-icons",
     "name": "Brand icons",
     "author": "richin13",
@@ -31724,6 +31731,13 @@
     "repo": "mayeenulislam/obsidian-dbml-visualizer"
   },
   {
+    "id": "ai-knowledge-hub",
+    "name": "Vault Audit AI",
+    "author": "Zinvernix",
+    "description": "AI-powered vault audit: find orphan notes, cluster topics, get tag and link suggestions, batch-process notes with filters. Works with OpenRouter, OpenAI, Groq or locally via Ollama. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zinverno/obsidian-ai-hub"
+  },
+  {
     "id": "maps-of-content",
     "name": "Maps of Content",
     "author": "mkshp-dev",
@@ -37296,6 +37310,13 @@
     "repo": "waldemar-one/obsidian-empty-tab"
   },
   {
+    "id": "bamboo-immortals",
+    "name": "Bamboo Immortals",
+    "author": "羽鳞君",
+    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-bamboo-immortals"
+  },
+  {
     "id": "pie-tasks",
     "name": "Pie Tasks",
     "author": "Pie Of Mind",
@@ -37357,5 +37378,12 @@
     "author": "jaidetree",
     "description": "Randomly draws a task from the checklist at your cursor and stamps tasks with selected-at / completed-at datetimes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jaidetree/obsidian-random-task"
+  },
+  {
+    "id": "query-control",
+    "name": "Query Control",
+    "author": "yuanzhixiang",
+    "description": "An experimental Obsidian plugin that adds additional control to queries - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yuanzhixiang/obsidian-query-control"
   }
 ]
