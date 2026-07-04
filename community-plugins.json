@@ -714,6 +714,13 @@
     "repo": "silentvoid13/Chesser"
   },
   {
+    "id": "notetweet",
+    "name": "NoteTweet",
+    "author": "chhoumann",
+    "description": "Post tweets and threads to X (Twitter) directly from your notes.",
+    "repo": "chhoumann/notetweet_obsidian"
+  },
+  {
     "id": "format-hotkeys-obsidian",
     "name": "Format Hotkeys",
     "author": "anstosa",
@@ -12743,7 +12750,7 @@
     "id": "callout-toggles",
     "name": "Callout Toggles",
     "author": "alythobani",
-    "description": "Quickly add, change, or remove callouts in your notes.",
+    "description": "Instantly add, switch, or remove callouts in your notes. Provides a separate command for every callout type.",
     "repo": "alythobani/obsidian-callout-toggles"
   },
   {
@@ -30233,6 +30240,13 @@
     "repo": "nicholas-yu/InkPilot"
   },
   {
+    "id": "autosave-control",
+    "name": "Autosave Control",
+    "author": "Miha Smrekar",
+    "description": "An Obsidian plugin for delaying or disabling automatic saves. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mihasm/obsidian-autosave-control"
+  },
+  {
     "id": "stardew-valley-pals",
     "name": "stardew-valley-pals",
     "author": "miaowuduck",
@@ -30749,6 +30763,13 @@
     "author": "Imed Ghomari",
     "description": "Adds configurable Templater-powered buttons to Obsidian Bases. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "imed-ghomari/obsidian-bases-buttons"
+  },
+  {
+    "id": "grafily",
+    "name": "Grafily",
+    "author": "Pavlo Myroniuk",
+    "description": "Obsidian plugin for rendering family graphs (family trees) - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "thebesttvarynka/grafily"
   },
   {
     "id": "vault-prompt-assistant",
@@ -37567,5 +37588,19 @@
     "author": "maxonamission",
     "description": "Where research thinking takes shape: explore a problem before searching, weigh graded evidence from OpenAlex & Semantic Scholar, challenge your framing, track your beliefs, and keep a deterministic methodological account. Free by default; bring any LLM or none. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maxonamission/obsidian-parallax"
+  },
+  {
+    "id": "cfr-find",
+    "name": "CFR Find",
+    "author": "cferrugem",
+    "description": "Search your vault with a fast, worker-powered index. Typo-tolerant fuzzy matching, in-file search, and optional PDF, image, and Office document indexing. Inspired by Omnisearch. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cferrugem/obsidian-cfr-find"
+  },
+  {
+    "id": "beautytasks",
+    "name": "BeautyTasks",
+    "author": "Avni Bilgin",
+    "description": "Aufgaben- und Projektsystem im Todoist-Stil – eine Markdown-Notiz pro Aufgabe, ganz ohne externe Abhängigkeiten. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "avnibilgin/BeautyTasks"
   }
 ]
