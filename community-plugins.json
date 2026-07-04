@@ -25830,6 +25830,13 @@
     "repo": "jalad25/contact-note"
   },
   {
+    "id": "mp-publisher",
+    "name": "MP Publisher",
+    "author": "joeytoday",
+    "description": "Preview with custom CSS themes and publish articles to WeChat Official Accounts with one click. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "joeytoday/obsidian-mp-publisher"
+  },
+  {
     "id": "table-master",
     "name": "Table Master",
     "author": "moranrs",
@@ -31381,6 +31388,13 @@
     "repo": "lumargh/obsidian-calendar-list"
   },
   {
+    "id": "ai-audio-transcription-summary",
+    "name": "AI Audio Transcription and Summary",
+    "author": "HackerHomeLab",
+    "description": "Record audio meetings locally, auto-chunk, and transcribe using Whisper or Gemini, then summarize using your LLM of choice. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hackerhomelab/AITranscribe"
+  },
+  {
     "id": "auto-link-suggester",
     "name": "Auto Link Suggester",
     "author": "hornat",
@@ -34923,6 +34937,13 @@
     "repo": "bryanbans/Notional"
   },
   {
+    "id": "novels-note-jp",
+    "name": "Novels Note JP",
+    "author": "p77-don",
+    "description": "Japanese novel writing support tools for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "p77-don/novels-note-jp"
+  },
+  {
     "id": "vaultcast",
     "name": "VaultCast",
     "author": "sourit2001",
@@ -35320,13 +35341,6 @@
     "author": "Sabin Pokharel",
     "description": "Flashcard plugin powered by the FSRS spaced repetition algorithm. Supports basic and cloze cards, custom study sessions, review statistics, and optional CouchDB sync. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sapienskid/Lemma"
-  },
-  {
-    "id": "glossa",
-    "name": "Glossa",
-    "author": "yiiwang",
-    "description": "AI sidebar with multi-provider chat, @-context, semantic search (RAG), agent mode with sandboxed file edits, MCP bridge, encrypted keys, and Codex CLI integration. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "yiiwang118/obsidian-glossa"
   },
   {
     "id": "quick-capture-triage",
@@ -37436,6 +37450,13 @@
     "repo": "sphragis-oss/pinax"
   },
   {
+    "id": "secure-git-sync",
+    "name": "Secure Git Sync",
+    "author": "",
+    "description": "Password-confirmed Git sync with optional encrypted remote note snapshots. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vinci0007/obsidian-EncryptSecure-GitSync"
+  },
+  {
     "id": "html-tables",
     "name": "HTML Tables",
     "author": "SunnyYYLin",
@@ -37476,5 +37497,26 @@
     "author": "Almas Abulkhairov",
     "description": "Sync and back up your vault across devices with end-to-end encryption. Requires an Obsyncian account; free tier available, paid plans add storage and vault limit - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "aabulkhairov/obsyncian"
+  },
+  {
+    "id": "folder-limit",
+    "name": "Folder Limit",
+    "author": "Naggischnulu",
+    "description": "Limits the number of visible files in folders and provides a show more button. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "naggischnulu/obsidian-folder-limit"
+  },
+  {
+    "id": "ishibashi-web-clipper",
+    "name": "Ishibashi Web Clipper",
+    "author": "IshibashiCustomize",
+    "description": "Captures shared web links as Markdown notes with public metadata, duplicate checks, tags, and clip history. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ishibashi-c/ishibashi-web-clipper"
+  },
+  {
+    "id": "basecraft",
+    "name": "Basecraft",
+    "author": "Hewnpath",
+    "description": "Pivot tables for Bases. Group rows × columns with count, sum, average and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cexyz01/obsidian-basecraft"
   }
 ]
