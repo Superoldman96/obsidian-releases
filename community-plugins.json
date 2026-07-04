@@ -24612,13 +24612,6 @@
     "repo": "hyungyunlim/obsidian-naver-blog-importer"
   },
   {
-    "id": "semantic-vault-mcp",
-    "name": "Semantic Notes Vault MCP",
-    "author": "Aaron Bockelie",
-    "description": "Give Claude Desktop and other AI assistants semantic access to your notes through a built-in Model Context Protocol (MCP) server. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "aaronsb/obsidian-mcp-plugin"
-  },
-  {
     "id": "co-intelligence",
     "name": "Co-Intelligence AI",
     "author": "epistemic-technology",
@@ -25835,13 +25828,6 @@
     "author": "Jalad",
     "description": "Turn frontmatter in notes designated as contacts into visual contact cards. Browse them with a built-in sidebar panel view or surface them through a Bases view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jalad25/contact-note"
-  },
-  {
-    "id": "mp-publisher",
-    "name": "MP Publisher",
-    "author": "joeytoday",
-    "description": "Preview with custom CSS themes and publish articles to WeChat Official Accounts with one click. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "joeytoday/obsidian-mp-publisher"
   },
   {
     "id": "table-master",
@@ -35959,6 +35945,13 @@
     "repo": "ghostdrift/JiraTicketObsidianPlugin"
   },
   {
+    "id": "render-api",
+    "name": "Render API",
+    "author": "caesarloo",
+    "description": "Expose dataview/Tasks rendering results via REST API and MCP Server. Let AI tools access your vault's rendered content programmatically. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "caesarloo/render-api"
+  },
+  {
     "id": "vault-spotlight",
     "name": "Vault Spotlight",
     "author": "saiken",
@@ -36386,6 +36379,13 @@
     "repo": "liveaquietlife/obsidian-hold-course"
   },
   {
+    "id": "urlautofill",
+    "name": "Extended Browser",
+    "author": "Sharbel Marshi",
+    "description": "Embed websites and automatically fill URLs and login credentials when you open them. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sharbelmarshi/obsidian-url-autofill-plugin"
+  },
+  {
     "id": "yaml-editor",
     "name": "YAML Editor",
     "author": "Ivan Heitmann",
@@ -36641,7 +36641,7 @@
     "id": "ginkgo-backup",
     "name": "Ginkgo Backup",
     "author": "Ginkgo Backup",
-    "description": "Time machine for your Obsidian vault — auto backup, version diff, one-click restore. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Real-time backup on every save, visual version history, and diff any two snapshots — no Git required. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ginkgobackup/obsidian-ginkgo-backup"
   },
   {
@@ -36783,13 +36783,6 @@
     "author": "dmc",
     "description": "LLM-powered text polishing and quick Q&A without leaving your editor. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "davidmjchoi/obsidian-meow"
-  },
-  {
-    "id": "pantryfin",
-    "name": "PantryFin",
-    "author": "PantryFin",
-    "description": "AI-powered meal planner that flows ingredients from your pantry to your plate. Mobile-optimized with Chinese ingredient recognition and calorie tracking. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "crx2003/PantryFin"
   },
   {
     "id": "stp-viewer",
@@ -36951,13 +36944,6 @@
     "author": "Wisdio",
     "description": "Sync Wisdio browser notes with your local Obsidian vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "young-caveman/wisdio-companion"
-  },
-  {
-    "id": "secret-notes",
-    "name": "Secret Notes",
-    "author": "Kasukabe Tsumugi",
-    "description": "Encrypt and preview editable secret code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "baendlorel/obsidian-secret-notes"
   },
   {
     "id": "daily-notes-compiler",
@@ -37362,7 +37348,7 @@
     "id": "bullet-time",
     "name": "Bullet-time",
     "author": "Herve Sliwa",
-    "description": "Turn a simple bullet list into a Gantt-style timeline with auto-scheduling, work-day math, and overtime highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Turn a bullet list into a Gantt-style timeline █ █ █ ▒ ▒ - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "novitcz/Bullet-Time"
   },
   {
@@ -37387,9 +37373,16 @@
     "repo": "yuanzhixiang/obsidian-query-control"
   },
   {
+    "id": "whatsapp-local-sync",
+    "name": "WhatsApp Local Sync",
+    "author": "Nabheet Madan",
+    "description": "Read your local WhatsApp Desktop message database and mirror chats into your vault as one transcript note per conversation. Read-only, incremental, fully local — no network, no cloud, no API keys. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nabheetcloud/Obsidian-Whatsapp"
+  },
+  {
     "id": "flux-tts",
     "name": "Flux TTS",
-    "author": "smbp",
+    "author": "Saunak Karnati",
     "description": "Record audio from the ribbon, save it to your vault, and create Groq-powered transcription notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sonickarnati/flux-tts"
   }
