@@ -36785,6 +36785,13 @@
     "repo": "davidmjchoi/obsidian-meow"
   },
   {
+    "id": "pantryfin",
+    "name": "PantryFin",
+    "author": "PantryFin",
+    "description": "AI-powered meal planner that flows ingredients from your pantry to your plate. Mobile-optimized with Chinese ingredient recognition and calorie tracking. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "crx2003/PantryFin"
+  },
+  {
     "id": "stp-viewer",
     "name": "STP Viewer",
     "author": "ove",
@@ -37345,6 +37352,13 @@
     "repo": "armalv/vault-link"
   },
   {
+    "id": "auto-headings",
+    "name": "Auto Headings",
+    "author": "AArlert",
+    "description": "Automatic heading numbering with fully customizable templates, per-folder rules, whitelist and backlink sync. Bilingual UI (English / 中文). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aarlert/obsidian-auto-headings"
+  },
+  {
     "id": "bullet-time",
     "name": "Bullet-time",
     "author": "Herve Sliwa",
@@ -37373,6 +37387,13 @@
     "repo": "yuanzhixiang/obsidian-query-control"
   },
   {
+    "id": "windrose-md",
+    "name": "Windrose MapDesigner",
+    "author": "alas, poor ophelia",
+    "description": "Interactive dungeon and world mapping tool for tabletop RPGs - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "alas-poor-ophelia/windrose-md"
+  },
+  {
     "id": "whatsapp-local-sync",
     "name": "WhatsApp Local Sync",
     "author": "Nabheet Madan",
@@ -37385,5 +37406,19 @@
     "author": "Saunak Karnati",
     "description": "Record audio from the ribbon, save it to your vault, and create Groq-powered transcription notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sonickarnati/flux-tts"
+  },
+  {
+    "id": "html-tables",
+    "name": "HTML Tables",
+    "author": "SunnyYYLin",
+    "description": "Enhance Markdown tables with headers, cell merging, column resizing, formulas, and captions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sunnyyylin/obsidian-html-tables"
+  },
+  {
+    "id": "better-figures",
+    "name": "Better Figures",
+    "author": "SunnyYYLin",
+    "description": "Add captions to images using native Markdown syntax even in LIVE PREVIEW. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sunnyyylin/obsidian-better-figures"
   }
 ]
