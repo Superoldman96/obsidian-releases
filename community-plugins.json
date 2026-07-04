@@ -35322,6 +35322,13 @@
     "repo": "sapienskid/Lemma"
   },
   {
+    "id": "glossa",
+    "name": "Glossa",
+    "author": "yiiwang",
+    "description": "AI sidebar with multi-provider chat, @-context, semantic search (RAG), agent mode with sandboxed file edits, MCP bridge, encrypted keys, and Codex CLI integration. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yiiwang118/obsidian-glossa"
+  },
+  {
     "id": "quick-capture-triage",
     "name": "Quick Capture Triage",
     "author": "hazel",
@@ -36675,7 +36682,7 @@
   {
     "id": "konbini-kanban",
     "name": "Konbini Kanban",
-    "author": "nickvo",
+    "author": "Nick",
     "description": "Organize notes as a Linear-style kanban board in a Bases view, with status columns, drag-to-restatus, priority, labels, and sub-issues. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nicholasvo/konbini-kanban"
   },
@@ -37352,6 +37359,13 @@
     "repo": "armalv/vault-link"
   },
   {
+    "id": "vault-reader",
+    "name": "Vault Reader",
+    "author": "MaverickHQ",
+    "description": "Focused speed reading for Obsidian notes with in-note highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "maverickhq/obsidian-vault-reader"
+  },
+  {
     "id": "auto-headings",
     "name": "Auto Headings",
     "author": "AArlert",
@@ -37408,6 +37422,13 @@
     "repo": "sonickarnati/flux-tts"
   },
   {
+    "id": "pinax",
+    "name": "Pinax",
+    "author": "Nick Nikolakakis",
+    "description": "Build config-driven dashboards on top of any vault: tables, kanban boards, heatmaps and forms from a single profile.json. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sphragis-oss/pinax"
+  },
+  {
     "id": "html-tables",
     "name": "HTML Tables",
     "author": "SunnyYYLin",
@@ -37420,5 +37441,26 @@
     "author": "SunnyYYLin",
     "description": "Add captions to images using native Markdown syntax even in LIVE PREVIEW. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sunnyyylin/obsidian-better-figures"
+  },
+  {
+    "id": "leetlog-bridge",
+    "name": "LeetLog Bridge",
+    "author": "YzYhhhstudy",
+    "description": "Receives events from the LeetLog browser extension and auto-writes LeetCode practice notes (timing, submissions, accepted code) into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yzyhhhstudy/leetlog"
+  },
+  {
+    "id": "mcp-notes-tools",
+    "name": "MCP Notes Tools",
+    "author": "msnp",
+    "description": "Expose local MCP tools to search, read, and append confirmed change notes in a project vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "msnp1381/mcp-notes-tools"
+  },
+  {
+    "id": "heading-aligner",
+    "name": "H1Aligner",
+    "author": "Aiken Lin",
+    "description": "Keep note filenames aligned with the first H1 — automatically and safely. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aiken884/obsidian-h1aligner"
   }
 ]
