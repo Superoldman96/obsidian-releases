@@ -35175,13 +35175,6 @@
     "repo": "chmac/tasknotes-review-intervals"
   },
   {
-    "id": "cards-for-links",
-    "name": "Cards4Links",
-    "author": "Matthew",
-    "description": "Paste URLs to generate beautiful card-styled links - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mats324/cards4links"
-  },
-  {
     "id": "docli-connect",
     "name": "Docli Connect",
     "author": "Stanislav Ageev",
@@ -35341,6 +35334,13 @@
     "author": "Sabin Pokharel",
     "description": "Flashcard plugin powered by the FSRS spaced repetition algorithm. Supports basic and cloze cards, custom study sessions, review statistics, and optional CouchDB sync. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sapienskid/Lemma"
+  },
+  {
+    "id": "glossa",
+    "name": "Glossa",
+    "author": "yiiwang",
+    "description": "AI sidebar with multi-provider chat, @-context, semantic search (RAG), agent mode with sandboxed file edits, MCP bridge, encrypted keys, and Codex CLI integration. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yiiwang118/obsidian-glossa"
   },
   {
     "id": "quick-capture-triage",
@@ -35873,13 +35873,6 @@
     "author": "Luis Mendez",
     "description": "Plan, run, and review provider-native AI agents inside your vault, keeping every conversation and edit as Markdown you own. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "luis85/specorator"
-  },
-  {
-    "id": "canvas-kit",
-    "name": "Canvas Kit",
-    "author": "yaye.work",
-    "description": "Add marker, highlighter, tape, text tool, quick drag-out card, make new notes or embed straight in the canvas FAST. Interactive table. Your canvas power house with annonations. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "yaye-work/canvas-kit"
   },
   {
     "id": "neat-file-tree",
@@ -36974,6 +36967,13 @@
     "repo": "young-caveman/wisdio-companion"
   },
   {
+    "id": "secret-notes",
+    "name": "Secret Notes",
+    "author": "Kasukabe Tsumugi",
+    "description": "Encrypt and preview editable secret code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "baendlorel/obsidian-secret-notes"
+  },
+  {
     "id": "daily-notes-compiler",
     "name": "Daily Notes Compiler",
     "author": "pragatinath",
@@ -37406,6 +37406,13 @@
     "author": "Nabheet Madan",
     "description": "Sync Microsoft 365 into your vault: Outlook mail (one note per email + thread index), calendar events, and Teams messages (chats + channels). Incremental sync, PKCE auth, read-only scopes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nabheetcloud/Obsidian-Outlook-Mail-Chats-Calendar-Plugin"
+  },
+  {
+    "id": "mdfriday-sync",
+    "name": "MDFriday Sync",
+    "author": "mdfriday",
+    "description": "Sync your Obsidian vault across devices using CouchDB — with end-to-end encryption, selective sync, and live sync. Desktop & Mobile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mdfriday/obsidian-sync"
   },
   {
     "id": "query-control",
