@@ -21156,7 +21156,7 @@
   {
     "id": "base-settings",
     "name": "Base Settings",
-    "author": "jaidetree",
+    "author": "Jay",
     "description": "Enforce shared base settings across multi-user vaults by deeply merging template JSON files into config files. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jaidetree/obsidian-base-settings"
   },
@@ -26056,7 +26056,7 @@
   {
     "id": "kanban-base",
     "name": "Kanban Base",
-    "author": "jaidetree",
+    "author": "Jay",
     "description": "Add kanban views to Bases, organized by folder structure or property values. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jaidetree/obsidian-kanban-base"
   },
@@ -36386,13 +36386,6 @@
     "repo": "liveaquietlife/obsidian-hold-course"
   },
   {
-    "id": "urlautofill",
-    "name": "Extended Browser",
-    "author": "Sharbel Marshi",
-    "description": "Embed websites and automatically fill URLs and login credentials when you open them. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sharbelmarshi/obsidian-url-autofill-plugin"
-  },
-  {
     "id": "yaml-editor",
     "name": "YAML Editor",
     "author": "Ivan Heitmann",
@@ -37375,9 +37368,16 @@
   {
     "id": "random-task-selector",
     "name": "Random Task Selector",
-    "author": "jaidetree",
+    "author": "Jay",
     "description": "Randomly draws a task from the checklist at your cursor and stamps tasks with selected-at / completed-at datetimes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jaidetree/obsidian-random-task"
+  },
+  {
+    "id": "outlook-teams-calendar",
+    "name": "Outlook Teams and Calendar",
+    "author": "Nabheet Madan",
+    "description": "Sync Microsoft 365 into your vault: Outlook mail (one note per email + thread index), calendar events, and Teams messages (chats + channels). Incremental sync, PKCE auth, read-only scopes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nabheetcloud/Obsidian-Outlook-Mail-Chats-Calendar-Plugin"
   },
   {
     "id": "query-control",
@@ -37385,5 +37385,12 @@
     "author": "yuanzhixiang",
     "description": "An experimental Obsidian plugin that adds additional control to queries - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yuanzhixiang/obsidian-query-control"
+  },
+  {
+    "id": "flux-tts",
+    "name": "Flux TTS",
+    "author": "smbp",
+    "description": "Record audio from the ribbon, save it to your vault, and create Groq-powered transcription notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sonickarnati/flux-tts"
   }
 ]
