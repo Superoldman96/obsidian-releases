@@ -28483,6 +28483,13 @@
     "repo": "geokhv/obsidian-daily-checkbox-focus"
   },
   {
+    "id": "knowlery",
+    "name": "Knowlery",
+    "author": "Jay Jiang",
+    "description": "A warm personal knowledge review space for Obsidian vaults. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jayjiangct/knowlery"
+  },
+  {
     "id": "deep-research-formatter",
     "name": "Deep Research Formatter",
     "author": "Longxiao Zhang",
@@ -29146,6 +29153,13 @@
     "author": "keithwithAI",
     "description": "Shows remaining reading time and scroll progress for the current note in both edit and reading modes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "keithwithai/reading-progress"
+  },
+  {
+    "id": "lark-doc",
+    "name": "Lark Wiki",
+    "author": "SpatialOnee",
+    "description": "Bridge your Obsidian vault with Lark and Feishu documents. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "oneeme/obsidian-lark-doc"
   },
   {
     "id": "canvas-svg-export",
@@ -31486,13 +31500,6 @@
     "repo": "profesr-chaos/obsidian-checklist-progress-bar"
   },
   {
-    "id": "stacktube",
-    "name": "StackTube",
-    "author": "unstackd",
-    "description": "Sync your StackTube YouTube knowledge notes into your vault. Pulls AI-structured notes for monitored YouTube channels via the StackTube API. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "bije0327/obsidian-stacktube"
-  },
-  {
     "id": "web-view",
     "name": "Web View",
     "author": "serhat-can",
@@ -31715,13 +31722,6 @@
     "author": "Mayeenul Islam",
     "description": "Renders modified DBML code blocks into interactive Entity Relationship Diagrams (ERDs). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mayeenulislam/obsidian-dbml-visualizer"
-  },
-  {
-    "id": "ai-knowledge-hub",
-    "name": "Vault Audit AI",
-    "author": "Zinvernix",
-    "description": "AI-powered vault audit: find orphan notes, cluster topics, get tag and link suggestions, batch-process notes with filters. Works with OpenRouter, OpenAI, Groq or locally via Ollama. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zinverno/obsidian-ai-hub"
   },
   {
     "id": "maps-of-content",
@@ -34881,6 +34881,13 @@
     "repo": "toyotathief/obsidian-workspace-clock"
   },
   {
+    "id": "real-chat",
+    "name": "Real Chat",
+    "author": "Chris Gage",
+    "description": "Chat sidebar for any OpenAI-compatible API (DeepSeek, OpenRouter and more). Bring your own key. Reads and edits your notes, ranked vault search, web access, image tools, and persistent memory. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "saorgage/real-chat"
+  },
+  {
     "id": "ugreen-sync",
     "name": "UGREEN NAS Sync",
     "author": "tsfreddie",
@@ -34914,13 +34921,6 @@
     "author": "bryanbans",
     "description": "Two-way sync for your Markdown notes and Notion: one-click connect, wiki-links become Notion page mentions, and conflict-aware Push/Pull that never overwrites silently. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "bryanbans/Notional"
-  },
-  {
-    "id": "novels-note-jp",
-    "name": "Novels Note JP",
-    "author": "p77-don",
-    "description": "Japanese novel writing support tools for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "p77-don/novels-note-jp"
   },
   {
     "id": "vaultcast",
@@ -35320,13 +35320,6 @@
     "author": "Sabin Pokharel",
     "description": "Flashcard plugin powered by the FSRS spaced repetition algorithm. Supports basic and cloze cards, custom study sessions, review statistics, and optional CouchDB sync. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sapienskid/Lemma"
-  },
-  {
-    "id": "glossa",
-    "name": "Glossa",
-    "author": "yiiwang",
-    "description": "AI sidebar with multi-provider chat, @-context, semantic search (RAG), agent mode with sandboxed file edits, MCP bridge, encrypted keys, and Codex CLI integration. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "yiiwang118/obsidian-glossa"
   },
   {
     "id": "quick-capture-triage",
@@ -35903,6 +35896,13 @@
     "repo": "newo-j/note-decay"
   },
   {
+    "id": "lotus",
+    "name": "Lotus",
+    "author": "James Karlsson & Thomas Goldman",
+    "description": "Run normal fenced Markdown code blocks in Obsidian while keeping native syntax highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tzadikimbiu/lotus"
+  },
+  {
     "id": "html-effectiveness",
     "name": "HTML Effectiveness",
     "author": "rosswang",
@@ -35943,13 +35943,6 @@
     "author": "Jessica Crowson",
     "description": "Fetches data for Jira tickets directly from Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ghostdrift/JiraTicketObsidianPlugin"
-  },
-  {
-    "id": "render-api",
-    "name": "Render API",
-    "author": "caesarloo",
-    "description": "Expose dataview/Tasks rendering results via REST API and MCP Server. Let AI tools access your vault's rendered content programmatically. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "caesarloo/render-api"
   },
   {
     "id": "vault-spotlight",
@@ -36885,7 +36878,7 @@
   {
     "id": "property-streak",
     "name": "Property Streak",
-    "author": "Daniel Khansa",
+    "author": "Daniel",
     "description": "Create and persist Duolingo inspired habit streaks from daily-note frontmatter with widgets, colours, and customisable streak types. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "git-hub-dangel/obsidian-property-streaks"
   },
@@ -37303,13 +37296,6 @@
     "repo": "waldemar-one/obsidian-empty-tab"
   },
   {
-    "id": "bamboo-immortals",
-    "name": "Bamboo Immortals",
-    "author": "羽鳞君",
-    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-bamboo-immortals"
-  },
-  {
     "id": "pie-tasks",
     "name": "Pie Tasks",
     "author": "Pie Of Mind",
@@ -37357,5 +37343,19 @@
     "author": "",
     "description": "Link files and folders between vaults so they share the same content on disk, with per-file exclude rules for things you want to keep vault-specific (e.g. themes). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "armalv/vault-link"
+  },
+  {
+    "id": "bullet-time",
+    "name": "Bullet-time",
+    "author": "Herve Sliwa",
+    "description": "Turn a simple bullet list into a Gantt-style timeline with auto-scheduling, work-day math, and overtime highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "novitcz/Bullet-Time"
+  },
+  {
+    "id": "random-task-selector",
+    "name": "Random Task Selector",
+    "author": "jaidetree",
+    "description": "Randomly draws a task from the checklist at your cursor and stamps tasks with selected-at / completed-at datetimes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jaidetree/obsidian-random-task"
   }
 ]
