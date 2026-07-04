@@ -4236,5 +4236,12 @@
     "repo": "fyaic/DIDADI-obsidian-theme",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "termina",
+    "author": "Yash Bavadiya",
+    "repo": "xevrion/obsidian-termina",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]

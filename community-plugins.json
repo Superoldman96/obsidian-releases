@@ -35021,6 +35021,13 @@
     "repo": "dogukansahil/Borrax-HTML"
   },
   {
+    "id": "ai-cloze-review",
+    "name": "AI Cloze Review",
+    "author": "liufree",
+    "description": "AI-powered cloze deletion review - generate fill-in-the-blank content and review interactively. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "liufree/ai-cloze-review"
+  },
+  {
     "id": "popup-dictionary",
     "name": "Popup Dictionary",
     "author": "Nikitas Tsiris",
@@ -35173,6 +35180,13 @@
     "author": "Callum Macdonald",
     "description": "Adds review scheduling for TaskNotes tasks via a configurable review interval. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "chmac/tasknotes-review-intervals"
+  },
+  {
+    "id": "cards-for-links",
+    "name": "Cards4Links",
+    "author": "Matthew",
+    "description": "Paste URLs to generate beautiful card-styled links - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mats324/cards4links"
   },
   {
     "id": "docli-connect",
@@ -35726,13 +35740,6 @@
     "author": "MrDanRave",
     "description": "Semantic auto-linking: underlines text that matches a note title and offers one-click wiki-link insertion. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mrdanrave/auto-linker"
-  },
-  {
-    "id": "md-razor",
-    "name": "MDRazor",
-    "author": "Sofqi",
-    "description": "Enhanced markdown editing: hide formatting markers, list enhancement with soft-break, dir focus. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dyse-sofqi/MDRazor"
   },
   {
     "id": "notebookpoint",
@@ -37478,13 +37485,6 @@
     "repo": "sunnyyylin/obsidian-better-figures"
   },
   {
-    "id": "leetlog-bridge",
-    "name": "LeetLog Bridge",
-    "author": "YzYhhhstudy",
-    "description": "Receives events from the LeetLog browser extension and auto-writes LeetCode practice notes (timing, submissions, accepted code) into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "yzyhhhstudy/leetlog"
-  },
-  {
     "id": "mcp-notes-tools",
     "name": "MCP Notes Tools",
     "author": "msnp",
@@ -37525,5 +37525,26 @@
     "author": "Hewnpath",
     "description": "Pivot tables for Bases. Group rows × columns with count, sum, average and more. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cexyz01/obsidian-basecraft"
+  },
+  {
+    "id": "vaultpack",
+    "name": "VaultPack",
+    "author": "Aki",
+    "description": "Export selected notes and Bases views to a self-contained offline website — shareable as a folder, encrypted ZIP, or password-protected web package. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "akisantin/VaultPack"
+  },
+  {
+    "id": "chillight-graph",
+    "name": "Chillight Graph",
+    "author": "Ivan Roliuk",
+    "description": "Transform Obsidian Graph View into an animated themed graph with glowing nodes and garland-style wires. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "irolyuk/chillight-graph"
+  },
+  {
+    "id": "codex-usage",
+    "name": "Codex Usage",
+    "author": "0libots",
+    "description": "Display CodexBar-style AI coding usage data inside Obsidian using managed local helpers. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "0libote/Codex-Usage-for-Obsidian"
   }
 ]
