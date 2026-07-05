@@ -25956,6 +25956,13 @@
     "repo": "evgene-kopylov/fsrs_plugin"
   },
   {
+    "id": "myworld-task-manager",
+    "name": "MyWorld Task Manager",
+    "author": "kjh-portfolio",
+    "description": "Integrated task and project management for MyWorld workspace. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kjh-portfolio/202604-obsidian-task-manager"
+  },
+  {
     "id": "audio-sidebar",
     "name": "Audio Sidebar",
     "author": "pjeurien",
@@ -37779,13 +37786,6 @@
     "repo": "tikitock/toastmaster"
   },
   {
-    "id": "daily-five",
-    "name": "Daily Five",
-    "author": "0libots",
-    "description": "A daily five-letter word game with Daily Note results and lifetime stats. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "0libote/daily-five"
-  },
-  {
     "id": "open-reader",
     "name": "Open Reader",
     "author": "lornezhang",
@@ -37805,6 +37805,13 @@
     "author": "Cygnus Yang",
     "description": "A stronger PDF export for rendered Markdown, preserving HTML, SVG, Mermaid, and rich visual content better than Obsidian default export. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cygnusyang/obsidian-enhanced-pdf-export"
+  },
+  {
+    "id": "mergdowntotex",
+    "name": "mergdowntotex",
+    "author": "DJONTSO V. dvrchipro@gmail.com",
+    "description": "Merge & doc. export everything — embeds, Zotero/Pandoc citations, Mermaid, equations, cross-refs — into a unique .tex file. Compile to PDF, DOCX, or InDesign. WASM engine, zero build step. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dvrch/mergdown2tex"
   },
   {
     "id": "extensions-sync-manager",
