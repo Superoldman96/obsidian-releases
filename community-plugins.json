@@ -35759,7 +35759,7 @@
     "id": "md-razor",
     "name": "MDRazor",
     "author": "Sofqi",
-    "description": "Hide formatting markers, list enhancement with soft-break, dir focus, vertical tabs. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Hide formatting markers, list enhancement with soft-break, dir focus, vertical tabs, auto save workspace, auto pic clean. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dyse-sofqi/MDRazor"
   },
   {
@@ -36069,13 +36069,6 @@
     "author": "Murat",
     "description": "Send vault reminders and captured app notices to ntfy with auto scan, editable queues, delayed notifications, repeats, and optional AI webhooks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "arias007/obsidian-ntfy"
-  },
-  {
-    "id": "cancip",
-    "name": "Cancip",
-    "author": "Murat",
-    "description": "Codex-style AI side panel for vault search, memory context, and safe note assistance. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "arias007/cancip"
   },
   {
     "id": "canvas-layer-order",
@@ -37317,6 +37310,13 @@
     "repo": "markcrobbins2112/op-file-tree-alpha-hue"
   },
   {
+    "id": "bases-toolbox",
+    "name": "Bases Toolbox",
+    "author": "Human",
+    "description": "Quality-of-life tools for Bases and properties: find & replace property values across the vault, stop number properties from changing on arrow keys, and a searchable index of every property. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/Bases-Toolbox"
+  },
+  {
     "id": "contact-forge",
     "name": "Contact Forge",
     "author": "@raulanatol",
@@ -37462,13 +37462,6 @@
     "author": "Nabheet Madan",
     "description": "Read your local WhatsApp Desktop message database and mirror chats into your vault as one transcript note per conversation. Read-only, incremental, fully local — no network, no cloud, no API keys. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nabheetcloud/Obsidian-Whatsapp"
-  },
-  {
-    "id": "flux-tts",
-    "name": "Flux TTS",
-    "author": "Saunak Karnati",
-    "description": "Record audio from the ribbon, save it to your vault, and create Groq-powered transcription notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sonickarnati/flux-tts"
   },
   {
     "id": "pinax",
