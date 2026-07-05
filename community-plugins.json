@@ -35903,6 +35903,13 @@
     "repo": "luis85/specorator"
   },
   {
+    "id": "canvas-kit",
+    "name": "Canvas Kit",
+    "author": "yaye.work",
+    "description": "Add marker, highlighter, tape, text tool, quick drag-out card, make new notes or embed straight in the canvas FAST. Interactive table. Your canvas power house with annonations. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yaye-work/canvas-kit"
+  },
+  {
     "id": "neat-file-tree",
     "name": "Neat File Tree",
     "author": "Neil",
@@ -35992,13 +35999,6 @@
     "author": "caesarloo",
     "description": "Expose dataview/Tasks rendering results via REST API and MCP Server. Let AI tools access your vault's rendered content programmatically. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "caesarloo/render-api"
-  },
-  {
-    "id": "vault-spotlight",
-    "name": "Vault Spotlight",
-    "author": "saiken",
-    "description": "Spotlight-style vault launcher with fuzzy search, recent files, and property filters. Pro unlocks ripgrep search, starred pins, canvas/PDF, batch open, and custom commands. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "israerusan/obsidian-vault-spotlight"
   },
   {
     "id": "invoice-forge",
@@ -36433,6 +36433,13 @@
     "author": "Ivan Heitmann",
     "description": "A structured YAML editor. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "idheitmann/obsidian-yaml-editor"
+  },
+  {
+    "id": "teaser-card",
+    "name": "Teaser Card",
+    "author": "britz",
+    "description": "Render an image-filled, clickable teaser card (background image, centred title + text, portrait tile, gradient overlay, hover-lift) from a fenced `teaser` code block. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "britz/obsidian-teaser-card"
   },
   {
     "id": "pin-board",
@@ -37308,13 +37315,6 @@
     "author": "markcrobbins",
     "description": "Colors file explorer items according to their first alphabetical character using custom data attributes and muted resting color states. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "markcrobbins2112/op-file-tree-alpha-hue"
-  },
-  {
-    "id": "bases-toolbox",
-    "name": "Bases Toolbox",
-    "author": "Human",
-    "description": "Quality-of-life tools for Bases and properties: find & replace property values across the vault, stop number properties from changing on arrow keys, and a searchable index of every property. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "grub-basket/Bases-Toolbox"
   },
   {
     "id": "contact-forge",
