@@ -26390,6 +26390,13 @@
     "repo": "nellowtcs/Obsidian-IroView"
   },
   {
+    "id": "rpg-dice-roller",
+    "name": "RPG Dice Roller",
+    "author": "Miłosz Kucharski",
+    "description": "Build RPG dice roll commands with d20 syntax for Discord and Roll20. Create formulas visually with advantage/disadvantage support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "butterski/obsidian-rpg-dice-roller"
+  },
+  {
     "id": "daily-nav",
     "name": "Daily Nav",
     "author": "kuboon",
@@ -35007,6 +35014,13 @@
     "repo": "soakaye/obsidian-marimo-bridge"
   },
   {
+    "id": "folderandgraphs-plus",
+    "name": "Folder and Graphs Plus",
+    "author": "pilafdob",
+    "description": "Colours Folder2Graph folder nodes with matching native Graph View group colours. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pilafdob/folderandgraphs-plus"
+  },
+  {
     "id": "agentage-memory",
     "name": "Agentage Sync",
     "author": "Agentage",
@@ -36139,6 +36153,13 @@
     "author": "shimengjie",
     "description": "Right-click selected text in the editor to apply color, font size, or bold from a configurable palette. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "callmekeyboardman/text-brush"
+  },
+  {
+    "id": "bases-power-pack",
+    "name": "Bases Power Pack",
+    "author": "saiken",
+    "description": "Advanced database views and automation for Obsidian Bases: kanban, calendar, Gantt, roll-ups, formulas, and saved filters. Free lite tier plus license-gated premium features. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/bases-power-pack"
   },
   {
     "id": "tascal",
@@ -37478,6 +37499,13 @@
     "repo": "sphragis-oss/pinax"
   },
   {
+    "id": "secure-git-sync",
+    "name": "Secure Git Sync",
+    "author": "",
+    "description": "Password-confirmed Git sync with optional encrypted remote note snapshots. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vinci0007/obsidian-EncryptSecure-GitSync"
+  },
+  {
     "id": "html-tables",
     "name": "HTML Tables",
     "author": "SunnyYYLin",
@@ -37625,11 +37653,25 @@
     "repo": "ragnavig/propsync"
   },
   {
+    "id": "hybrid-git-sync",
+    "name": "Hybrid Git Sync",
+    "author": "walkskyer",
+    "description": "Cross-platform Git sync plugin. Desktop uses native git, mobile uses GitHub/GitLab API. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wk-obsidian/HybridGitSync"
+  },
+  {
     "id": "kg-forge",
     "name": "Knowledge Forge",
     "author": "Jimmi (Jimmycarroll2021)",
     "description": "Build a typed knowledge graph from your vault with triples, provenance, GraphRAG prompts, and competency questions. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jimmycarroll2021/obsidian-kg-forge"
+  },
+  {
+    "id": "loft",
+    "name": "Loft",
+    "author": "san",
+    "description": "Upload images to Google Drive and replace local embeds with links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "opellen/Loft"
   },
   {
     "id": "gmail-mailbox",
@@ -37651,5 +37693,19 @@
     "author": "swift",
     "description": "用手机扫码拍照，经 LLM 视觉模型把书本/公式/表格内容转成 Markdown，直接写入当前笔记光标处或另存为新笔记。 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "bwtymdb/scan2md"
+  },
+  {
+    "id": "echowiki",
+    "name": "EchoWiki",
+    "author": "mohammadmaso",
+    "description": "Compile raw notes and voice transcripts into a structured, interlinked wiki using a local LLM agent. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mohammadmaso/echowiki"
+  },
+  {
+    "id": "floating-text-overlay",
+    "name": "Floating Text Overlay",
+    "author": "Qiu Yi Liao",
+    "description": "Movable, resizable floating Markdown labels that link to note text and scroll with the document. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "liaoqiuyi681-blip/floating-text-overlay"
   }
 ]
