@@ -35770,13 +35770,6 @@
     "repo": "mrdanrave/auto-linker"
   },
   {
-    "id": "md-razor",
-    "name": "MDRazor",
-    "author": "Sofqi",
-    "description": "Hide formatting markers, list enhancement with soft-break, dir focus, vertical tabs, auto save workspace, auto pic clean. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dyse-sofqi/MDRazor"
-  },
-  {
     "id": "notebookpoint",
     "name": "NotebookPoint",
     "author": "monoi",
@@ -36377,6 +36370,13 @@
     "author": "zoupuyo",
     "description": "Browse Daily Notes in week and month calendars with rich Markdown previews in each day cell. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zoupuyo-obsidian/obsidian-daily-preview-calendar"
+  },
+  {
+    "id": "ratel-vault",
+    "name": "Ratel",
+    "author": "golddream-y",
+    "description": "Chat with your vault. Ask questions with cited answers, and auto-research across notes to write summaries. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "golddream-y/obsidian-ratel"
   },
   {
     "id": "readlog",
@@ -37408,6 +37408,13 @@
     "repo": "jamescliffordspratt/obsidian-habits"
   },
   {
+    "id": "inkedmark",
+    "name": "InkedMark",
+    "author": "Liqpil",
+    "description": "Handwrite inside your markdown notes with pressure-aware ink, a searchable text layer, inline sketches, and Apple Pencil support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pcrausaz/obsidian-inkedmark"
+  },
+  {
     "id": "task-deck",
     "name": "Task Deck",
     "author": "Ismail Ivanov",
@@ -37667,6 +37674,13 @@
     "repo": "wk-obsidian/HybridGitSync"
   },
   {
+    "id": "eve-apple-tree",
+    "name": "Eve Apple Tree Thinking System",
+    "author": "Evelyn Chan",
+    "description": "Grow your notes into a living 3D tree of light - a thinking tool, not a filing cabinet. Each folder becomes a tree; notes are leaves placed by field and time; links are the rhizome; flowers are ah-ha moments; apples are outputs. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "brandthebrand/eve-apple-tree"
+  },
+  {
     "id": "kg-forge",
     "name": "Knowledge Forge",
     "author": "Jimmi (Jimmycarroll2021)",
@@ -37698,7 +37712,7 @@
     "id": "sektor-tasks",
     "name": "Sector Tasks",
     "author": "Tom Leonhardt",
-    "description": "A task board that reads and writes a single Tasks-plugin-format Markdown file, grouped by configurable tags. Designed for Carl Pullein's Time Sector System, usable with any tag scheme. Creating and editing tasks uses the Tasks plugin's own input modal (required). - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A dashboard for handling tasks in an intuitive, time-based fashion, grouped by configurable tags. Requires Obsidian's Task plugin and single-file storage. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "leotomhal/sector-tasks-obsidian"
   },
   {
@@ -37751,6 +37765,13 @@
     "repo": "anupchavan/adaptive-practice"
   },
   {
+    "id": "hledger-dashboard",
+    "name": "hledger Dashboard",
+    "author": "Omar Mekky",
+    "description": "Full financial dashboard for hledger journals - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cousine/hledger-dashboard"
+  },
+  {
     "id": "yaml-databases",
     "name": "YAML Databases",
     "author": "ondreu",
@@ -37763,5 +37784,19 @@
     "author": "Labtopia",
     "description": "Configurable duration and dismiss controls for toast notifications, so they don't disappear before you finish reading them. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tikitock/toastmaster"
+  },
+  {
+    "id": "daily-five",
+    "name": "Daily Five",
+    "author": "0libots",
+    "description": "A daily five-letter word game with Daily Note results and lifetime stats. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "0libote/daily-five"
+  },
+  {
+    "id": "open-reader",
+    "name": "Open Reader",
+    "author": "lornezhang",
+    "description": "Obsidian local TTS plugin for reading selected text and Markdown notes aloud with an offline text-to-speech CLI. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lornezhang66/open-reader"
   }
 ]
