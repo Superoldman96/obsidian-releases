@@ -23684,7 +23684,7 @@
     "id": "gemini-helper",
     "name": "Gemini Helper",
     "author": "takeshy",
-    "description": "AI chat, workflow automation, and semantic search powered by Google Gemini. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "AI chat, workflow automation, semantic search (RAG), LLM Wiki (OKF), and dashboards with reading memos powered by Google Gemini. Works on both desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "takeshy/obsidian-gemini-helper"
   },
   {
@@ -37436,13 +37436,6 @@
     "repo": "nabheetcloud/Obsidian-Outlook-Mail-Chats-Calendar-Plugin"
   },
   {
-    "id": "mdfriday-sync",
-    "name": "MDFriday Sync",
-    "author": "mdfriday",
-    "description": "Sync your Obsidian vault across devices using CouchDB — with end-to-end encryption, selective sync, and live sync. Desktop & Mobile. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mdfriday/obsidian-sync"
-  },
-  {
     "id": "query-control",
     "name": "Query Control",
     "author": "yuanzhixiang",
@@ -37593,7 +37586,7 @@
     "id": "consensus-research",
     "name": "Parallax",
     "author": "maxonamission",
-    "description": "Where research thinking takes shape: explore a problem before searching, weigh graded evidence from OpenAlex & Semantic Scholar, challenge your framing, track your beliefs, and keep a deterministic methodological account. Free by default; bring any LLM or none. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Where research thinking takes shape: explore a problem before searching, weigh evidence from OpenAlex & Semantic Scholar, challenge your framing, track your beliefs, and keep a methodological account. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maxonamission/obsidian-parallax"
   },
   {
