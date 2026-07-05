@@ -26019,6 +26019,13 @@
     "repo": "daniel-fiuk/simple-map"
   },
   {
+    "id": "git-file-sync",
+    "name": "Git File Sync",
+    "author": "firstsun-dev",
+    "description": "Selectively sync individual notes with GitLab or GitHub. Push, pull, diff, and resolve conflicts — file by file, on mobile and desktop. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "firstsun-dev/git-files-sync"
+  },
+  {
     "id": "cooklang-codeblock",
     "name": "Cooklang Codeblock",
     "author": "Raunaq Gupta",
@@ -28383,6 +28390,13 @@
     "author": "isragdd",
     "description": "Create isolated, highly customizable and interactive progress bars. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "isragdd12/simple-progressbar"
+  },
+  {
+    "id": "web-novel-assistant",
+    "name": "WebNovel Assistant",
+    "author": "HatanoChihiro",
+    "description": "A comprehensive Obsidian plugin for web novel writers. Track word counts, goals, and focus time. Manage foreshadowing, timelines, and timed tasks. Includes a bilingual UI and OBS overlay. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hatanochihiro/obsidian-webnovel-assistant"
   },
   {
     "id": "ghost-publish",
@@ -31512,6 +31526,13 @@
     "author": "Adam Tweedie",
     "description": "Display a progress bar for your checklist (todo) items. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "profesr-chaos/obsidian-checklist-progress-bar"
+  },
+  {
+    "id": "stacktube",
+    "name": "StackTube",
+    "author": "unstackd",
+    "description": "Sync your StackTube YouTube knowledge notes into your vault. Pulls AI-structured notes for monitored YouTube channels via the StackTube API. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bije0327/obsidian-stacktube"
   },
   {
     "id": "web-view",
@@ -34986,13 +35007,6 @@
     "repo": "soakaye/obsidian-marimo-bridge"
   },
   {
-    "id": "folderandgraphs-plus",
-    "name": "Folder and Graphs Plus",
-    "author": "pilafdob",
-    "description": "Colours Folder2Graph folder nodes with matching native Graph View group colours. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "pilafdob/folderandgraphs-plus"
-  },
-  {
     "id": "agentage-memory",
     "name": "Agentage Sync",
     "author": "Agentage",
@@ -37016,6 +37030,13 @@
     "repo": "abcamus/cloudweave"
   },
   {
+    "id": "isbn-bulk-import-bookshelf-builder",
+    "name": "ISBN Bulk Import Bookshelf Builder",
+    "author": "flex-moto",
+    "description": "Manage your bookshelf from ISBN. Fetches book metadata from NDL, Google Books, and Open Library, then creates and organizes book notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "flex-moto/easy-obookshelf"
+  },
+  {
     "id": "ztsd-vault-backup",
     "name": "Ztsd Vault Backup",
     "author": "aplikofi",
@@ -37548,6 +37569,13 @@
     "repo": "irolyuk/chillight-graph"
   },
   {
+    "id": "nicons",
+    "name": "Nicons",
+    "author": "pilafdob",
+    "description": "Customize File and Folder icons with bundled Phosphor icon assets. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pilafdob/Nicons"
+  },
+  {
     "id": "codex-usage",
     "name": "Codex Usage",
     "author": "0libots",
@@ -37609,5 +37637,12 @@
     "author": "Ragna",
     "description": "Propsync is an Obsidian plugin that syncs standard properties across notes by group. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ragnavig/propsync"
+  },
+  {
+    "id": "kg-forge",
+    "name": "Knowledge Forge",
+    "author": "Jimmi (Jimmycarroll2021)",
+    "description": "Build a typed knowledge graph from your vault with triples, provenance, GraphRAG prompts, and competency questions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jimmycarroll2021/obsidian-kg-forge"
   }
 ]
