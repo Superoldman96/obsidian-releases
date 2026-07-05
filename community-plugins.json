@@ -37408,13 +37408,6 @@
     "repo": "jamescliffordspratt/obsidian-habits"
   },
   {
-    "id": "inkedmark",
-    "name": "InkedMark",
-    "author": "Liqpil",
-    "description": "Handwrite inside your markdown notes with pressure-aware ink, a searchable text layer, inline sketches, and Apple Pencil support. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "pcrausaz/obsidian-inkedmark"
-  },
-  {
     "id": "task-deck",
     "name": "Task Deck",
     "author": "Ismail Ivanov",
@@ -37618,6 +37611,13 @@
     "repo": "maxonamission/obsidian-parallax"
   },
   {
+    "id": "flowkit-health-dashboard",
+    "name": "FlowKit Health Dashboard",
+    "author": "saiken",
+    "description": "Scores every installed plugin on quality, maintenance, performance, popularity, and compatibility. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/flowkit-health-dashboard"
+  },
+  {
     "id": "cfr-find",
     "name": "CFR Find",
     "author": "cferrugem",
@@ -37653,6 +37653,13 @@
     "repo": "ragnavig/propsync"
   },
   {
+    "id": "extended-properties",
+    "name": "Extended Properties",
+    "author": "electroluminescent",
+    "description": "A configurable sidebar for note properties: arrangeable sections, rich value types, dice rolling, per-type layouts, and toggleable feature modules such as a D&D 5e character sheet. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "electroluminescent/obsidian-extended-properties"
+  },
+  {
     "id": "hybrid-git-sync",
     "name": "Hybrid Git Sync",
     "author": "walkskyer",
@@ -37667,11 +37674,32 @@
     "repo": "jimmycarroll2021/obsidian-kg-forge"
   },
   {
+    "id": "focus-first",
+    "name": "Focus First",
+    "author": "Christian Luger",
+    "description": "Prioritize your tasks with the Eisenhower matrix. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "christian-luger-at/obsidian-focus-first"
+  },
+  {
     "id": "loft",
     "name": "Loft",
     "author": "san",
     "description": "Upload images to Google Drive and replace local embeds with links. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "opellen/Loft"
+  },
+  {
+    "id": "metadata-visuals",
+    "name": "Metadata Visuals",
+    "author": "Anthony Fitzpatrick",
+    "description": "A metadata-driven visual engine for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "anthonyfitzpatrick/obsidian-metadata-visuals"
+  },
+  {
+    "id": "sektor-tasks",
+    "name": "Sector Tasks",
+    "author": "Tom Leonhardt",
+    "description": "A task board that reads and writes a single Tasks-plugin-format Markdown file, grouped by configurable tags. Designed for Carl Pullein's Time Sector System, usable with any tag scheme. Creating and editing tasks uses the Tasks plugin's own input modal (required). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "leotomhal/sector-tasks-obsidian"
   },
   {
     "id": "gmail-mailbox",
@@ -37702,10 +37730,38 @@
     "repo": "mohammadmaso/echowiki"
   },
   {
+    "id": "sidecard",
+    "name": "SideCard",
+    "author": "shuuul",
+    "description": "A sidebar card library for cross-referencing Markdown notes, PDFs, and images. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shuuul/obsidian-sidecard"
+  },
+  {
     "id": "floating-text-overlay",
     "name": "Floating Text Overlay",
     "author": "Qiu Yi Liao",
     "description": "Movable, resizable floating Markdown labels that link to note text and scroll with the document. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "liaoqiuyi681-blip/floating-text-overlay"
+  },
+  {
+    "id": "adaptive-practice",
+    "name": "Adaptive Practice",
+    "author": "Anup Chavan",
+    "description": "Generate adaptive practice questions from your notes and PDFs using your own AI provider. Spaced repetition scheduling, difficulty that adapts to your answers, and blind answer verification. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "anupchavan/adaptive-practice"
+  },
+  {
+    "id": "yaml-databases",
+    "name": "YAML Databases",
+    "author": "ondreu",
+    "description": "YAML Databases turns YAML files into interactive Obsidian databases—edit as spreadsheet/form/raw, with sub-tables, find/replace, linting, and exports (CSV/XLSX/YAML/HTML). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ondreu/YAML-Databases"
+  },
+  {
+    "id": "toastmaster",
+    "name": "Toastmaster",
+    "author": "Labtopia",
+    "description": "Configurable duration and dismiss controls for toast notifications, so they don't disappear before you finish reading them. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tikitock/toastmaster"
   }
 ]
