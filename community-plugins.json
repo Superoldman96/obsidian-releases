@@ -25956,13 +25956,6 @@
     "repo": "evgene-kopylov/fsrs_plugin"
   },
   {
-    "id": "myworld-task-manager",
-    "name": "MyWorld Task Manager",
-    "author": "kjh-portfolio",
-    "description": "Integrated task and project management for MyWorld workspace. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kjh-portfolio/202604-obsidian-task-manager"
-  },
-  {
     "id": "audio-sidebar",
     "name": "Audio Sidebar",
     "author": "pjeurien",
@@ -34440,13 +34433,6 @@
     "repo": "tyronewj/Plugin-Share-Linker"
   },
   {
-    "id": "agentic-chat",
-    "name": "Agentic Chat",
-    "author": "tardigrde",
-    "description": "Privacy-first agentic AI chat in the sidebar. The agent reads, searches, and edits your vault through visible tool calls, routed to zero-data-retention providers by default, or runs fully local with Ollama. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tardigrde/obsidian-agentic-chat"
-  },
-  {
     "id": "wechat-obsync",
     "name": "WeChat Obsync",
     "author": "Obsync",
@@ -36396,7 +36382,7 @@
     "id": "hearth",
     "name": "Hearth",
     "author": "ondreu",
-    "description": "A beautiful, customizable home screen — search, dashboard, and launcher in one. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A beautiful, customizable home screen — search, dashboard, and launcher in one, with many card options and embeds. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ondreu/Hearth"
   },
   {
@@ -36571,7 +36557,7 @@
     "id": "best-downloader",
     "name": "Best Downloader",
     "author": "trikorka",
-    "description": "Download videos and audio in various formats directly to your vault using yt-dlp. [EN/RU] - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Download videos and audio in various formats directly to your vault using yt-dlp. Windows only - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "trikorka/BestDownloader"
   },
   {
@@ -37805,6 +37791,13 @@
     "author": "lornezhang",
     "description": "Obsidian local TTS plugin for reading selected text and Markdown notes aloud with an offline text-to-speech CLI. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lornezhang66/open-reader"
+  },
+  {
+    "id": "eisenhower-bases-view",
+    "name": "Eisenhower Matrix for Bases",
+    "author": "Takahiro.N",
+    "description": "Display notes from a Base as an Eisenhower matrix and drag cards to update their properties. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nakaba-lab/eisenhower-bases-view"
   },
   {
     "id": "enhanced-pdf-export",
