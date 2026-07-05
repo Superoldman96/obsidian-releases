@@ -19848,7 +19848,7 @@
     "id": "colorful-folders",
     "name": "Colorful Folders",
     "author": "rohitnahar-offical",
-    "description": "Automatically adds premium preset colors to all folders and subfolders. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Automatically adds color-code folders, tags, and your Graph View with premium palettes, and auto-assign smart icons to visualize your structures instantly - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "rohitnahar-offical/colorful-folders-obsidian"
   },
   {
@@ -23770,6 +23770,13 @@
     "author": "reallygood83",
     "description": "Upload local files to Google Drive and embed them directly in your notes. Supports audio, video, PDF, and images with intuitive size options. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "reallygood83/obsidian-embedder"
+  },
+  {
+    "id": "squire",
+    "name": "Squire",
+    "author": "choonkending",
+    "description": "Your faithful note-taking companion. Squire automates index numbering and surfaces related notes so you can stay in your flow state. No manual calculation, no hunting for connections. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "choonkending/obsidian-squire"
   },
   {
     "id": "regex-replace",
@@ -35353,7 +35360,7 @@
     "id": "lemma-flashcards",
     "name": "Lemma",
     "author": "Sabin Pokharel",
-    "description": "Flashcard plugin powered by the FSRS spaced repetition algorithm. Supports basic and cloze cards, custom study sessions, review statistics, and optional CouchDB sync. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "An Obsidian plugin for creating and reviewing flashcards powered by the FSRS spaced repetition algorithm. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sapienskid/Lemma"
   },
   {
@@ -35899,7 +35906,7 @@
     "id": "canvas-kit",
     "name": "Canvas Kit",
     "author": "yaye.work",
-    "description": "Add marker, highlighter, tape, text tool, quick drag-out card, make new notes or embed straight in the canvas FAST. Interactive table. Your canvas power house with annonations. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A complete re-vamp of the obsidian's canvas experience. Great for canvas-first, non-linear notetaking workflow. Draw, quickly add new or existing notes, drag to make sections, interactive tables+more - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yaye-work/canvas-kit"
   },
   {
@@ -35992,6 +35999,13 @@
     "author": "caesarloo",
     "description": "Expose dataview/Tasks rendering results via REST API and MCP Server. Let AI tools access your vault's rendered content programmatically. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "caesarloo/render-api"
+  },
+  {
+    "id": "vault-spotlight",
+    "name": "Vault Spotlight",
+    "author": "saiken",
+    "description": "Spotlight-style vault launcher with fuzzy search, recent files, and property filters. Pro unlocks ripgrep search, starred pins, canvas/PDF, batch open, and custom commands. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/obsidian-vault-spotlight"
   },
   {
     "id": "invoice-forge",
@@ -37464,13 +37478,6 @@
     "repo": "sphragis-oss/pinax"
   },
   {
-    "id": "secure-git-sync",
-    "name": "Secure Git Sync",
-    "author": "",
-    "description": "Password-confirmed Git sync with optional encrypted remote note snapshots. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "vinci0007/obsidian-EncryptSecure-GitSync"
-  },
-  {
     "id": "html-tables",
     "name": "HTML Tables",
     "author": "SunnyYYLin",
@@ -37623,5 +37630,26 @@
     "author": "Jimmi (Jimmycarroll2021)",
     "description": "Build a typed knowledge graph from your vault with triples, provenance, GraphRAG prompts, and competency questions. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jimmycarroll2021/obsidian-kg-forge"
+  },
+  {
+    "id": "gmail-mailbox",
+    "name": "Gmail Mailbox",
+    "author": "Nabheet Madan",
+    "description": "Sync Gmail into your vault as one note per email plus a per-label thread index. Incremental history sync, PKCE auth, configurable labels, and a Google Calendar upcoming-meetings sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nabheetcloud/obsidian-gmail"
+  },
+  {
+    "id": "russian-rhymes",
+    "name": "Russian Rhymes",
+    "author": "mrrepac",
+    "description": "Offline Russian rhyming dictionary: rhymes, stress marks and synonyms for the selected word. Press Ctrl+C twice to look up a word. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mrrepac/russian-rhymes"
+  },
+  {
+    "id": "scan-to-markdown",
+    "name": "Scan to Markdown",
+    "author": "swift",
+    "description": "用手机扫码拍照，经 LLM 视觉模型把书本/公式/表格内容转成 Markdown，直接写入当前笔记光标处或另存为新笔记。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bwtymdb/scan2md"
   }
 ]

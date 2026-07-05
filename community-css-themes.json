@@ -4250,5 +4250,12 @@
     "repo": "xevrion/obsidian-termina",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Terminal Workbench",
+    "author": "Real-Fruit-Snacks",
+    "repo": "real-fruit-snacks/terminal-workbench",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
