@@ -4238,6 +4238,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Cordyceps",
+    "author": "Francesco Palermi",
+    "repo": "frank-pw/cordyceps",
+    "screenshot": "preview.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "termina",
     "author": "Yash Bavadiya",
     "repo": "xevrion/obsidian-termina",
