@@ -37583,6 +37583,13 @@
     "repo": "estrenuo/vault-companion-for-claude"
   },
   {
+    "id": "timelinex",
+    "name": "TimeLineX",
+    "author": "Siavash Ameli",
+    "description": "Organize and visualize notes chronologically across multiple overlaid timelines, with Gregorian, Persian (Solar Hijri), and Islamic (Hijri) calendar support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "siavashameli/TimelineX"
+  },
+  {
     "id": "consensus-research",
     "name": "Parallax",
     "author": "maxonamission",
@@ -37602,5 +37609,26 @@
     "author": "Avni Bilgin",
     "description": "Aufgaben- und Projektsystem im Todoist-Stil – eine Markdown-Notiz pro Aufgabe, ganz ohne externe Abhängigkeiten. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "avnibilgin/BeautyTasks"
+  },
+  {
+    "id": "bamboo-walking",
+    "name": "Bamboo Walking",
+    "author": "羽鳞君",
+    "description": "个人写作专栏 · 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生 | Personal writing column reader - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-bamboo-walking"
+  },
+  {
+    "id": "promptbox",
+    "name": "Promptbox",
+    "author": "istefox",
+    "description": "Local-first library of AI prompts with categorization, search, and quick reuse. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "istefox/promptbox"
+  },
+  {
+    "id": "propsync",
+    "name": "Propsync",
+    "author": "Ragna",
+    "description": "Propsync is an Obsidian plugin that syncs standard properties across notes by group. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ragnavig/propsync"
   }
 ]
