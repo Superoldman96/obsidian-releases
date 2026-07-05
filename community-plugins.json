@@ -19845,6 +19845,13 @@
     "repo": "felixleopold/obsidian-code-suite"
   },
   {
+    "id": "colorful-folders",
+    "name": "Colorful Folders",
+    "author": "rohitnahar-offical",
+    "description": "Automatically adds premium preset colors to all folders and subfolders. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rohitnahar-offical/colorful-folders-obsidian"
+  },
+  {
     "id": "obvec-sync",
     "name": "AI Search for Your Second Brain",
     "author": "snoopyrain",
@@ -26012,13 +26019,6 @@
     "repo": "daniel-fiuk/simple-map"
   },
   {
-    "id": "git-file-sync",
-    "name": "Git File Sync",
-    "author": "firstsun-dev",
-    "description": "Selectively sync individual notes with GitLab or GitHub. Push, pull, diff, and resolve conflicts — file by file, on mobile and desktop. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "firstsun-dev/git-files-sync"
-  },
-  {
     "id": "cooklang-codeblock",
     "name": "Cooklang Codeblock",
     "author": "Raunaq Gupta",
@@ -28383,13 +28383,6 @@
     "author": "isragdd",
     "description": "Create isolated, highly customizable and interactive progress bars. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "isragdd12/simple-progressbar"
-  },
-  {
-    "id": "web-novel-assistant",
-    "name": "WebNovel Assistant",
-    "author": "HatanoChihiro",
-    "description": "A comprehensive Obsidian plugin for web novel writers. Track word counts, goals, and focus time. Manage foreshadowing, timelines, and timed tasks. Includes a bilingual UI and OBS overlay. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "hatanochihiro/obsidian-webnovel-assistant"
   },
   {
     "id": "ghost-publish",
