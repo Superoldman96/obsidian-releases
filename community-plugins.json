@@ -26705,6 +26705,13 @@
     "repo": "totocaster/vault-tasks-obsidian"
   },
   {
+    "id": "lexvoice",
+    "name": "LexVoice",
+    "author": "Lynnx",
+    "description": "后台录音、实时转写、AI 结构化纪要与知识沉淀 | Background recording, segmented or streaming transcription, and AI-organized Markdown notes for meetings, interviews, monologues, and learning material. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lynn-x/LexVoice"
+  },
+  {
     "id": "zulu-agent",
     "name": "Zulu Agent",
     "author": "foundlegacy",
@@ -36032,7 +36039,7 @@
     "id": "thirdbrain",
     "name": "ThirdBrain",
     "author": "ImCuriosity",
-    "description": "\"Turn your scattered thoughts into a self-purifying knowledge graph.\" ThirdBrain extracts verifiable propositions, links them with typed edges, and auto-resolves contradictions - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "\"Turn your scattered thoughts into a self-purifying knowledge graph.\" ThirdBrain extracts verifiable propositions, links them with typed edges, and auto-resolves contradictions - English/한국어 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "imcuriosity/third-brain-release"
   },
   {
@@ -36552,13 +36559,6 @@
     "author": "Arseniy Seroka",
     "description": "View your Google Maps Timeline location history on an interactive map — visits, routes and exact GPS tracks, with day and date-range pickers. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jagajaga/obsidian-maps-timeline"
-  },
-  {
-    "id": "better-tables",
-    "name": "Better Tables",
-    "author": "yaye.work",
-    "description": "If you are frustrated with making tables in your notes, install this. Summon the interactive table via the ```Table``` block. Just drag to resize and reorder, hover to insert, click to edit. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "yaye-work/obsidian-better-tables"
   },
   {
     "id": "best-downloader",
@@ -37793,13 +37793,6 @@
     "repo": "lornezhang66/open-reader"
   },
   {
-    "id": "eisenhower-bases-view",
-    "name": "Eisenhower Matrix for Bases",
-    "author": "Takahiro.N",
-    "description": "Display notes from a Base as an Eisenhower matrix and drag cards to update their properties. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "nakaba-lab/eisenhower-bases-view"
-  },
-  {
     "id": "zoom-transcript-to-md",
     "name": "Meeting Transcript Converter",
     "author": "Ivan Batura",
@@ -37847,5 +37840,26 @@
     "author": "pjeby",
     "description": "Automatically reload in-development plugins when their files are changed - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "pjeby/hot-reload"
+  },
+  {
+    "id": "logseq-formater",
+    "name": "Logseq Formater",
+    "author": "fengshuzi",
+    "description": "Automatically converts Logseq syntax to Markdown when opening MD files, based on provided Python script rules. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fengshuzi/logseq-formater"
+  },
+  {
+    "id": "svg-suite",
+    "name": "SVG Suite",
+    "author": "Xabi",
+    "description": "View and edit SVG files with pan and zoom, a live source editor with syntax highlighting, PNG export, background presets, and hover controls for SVGs embedded in notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ezxabi/svg-suite"
+  },
+  {
+    "id": "ddl-radar",
+    "name": "DDL Radar",
+    "author": "YzYhhhstudy",
+    "description": "CS conference deadline countdowns inside your vault: sidebar panel, in-note deadline boards, frontmatter-linked countdown banners and status-bar badge. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yzyhhhstudy/paper-deadlines"
   }
 ]
