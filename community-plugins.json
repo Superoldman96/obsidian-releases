@@ -18473,6 +18473,13 @@
     "repo": "tuguberk/thought-agent-obsidian"
   },
   {
+    "id": "canvas-loom",
+    "name": "Canvas Loom",
+    "author": "woxin667",
+    "description": "Add functionality to the Canvas for merging, splitting, copying content, and adding markers. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "woxin667/Canvas-Loom"
+  },
+  {
     "id": "sqlite-explorer",
     "name": "SQLite Explorer",
     "author": "qf3l3k",
@@ -28882,13 +28889,6 @@
     "repo": "icarian-systems/feynman-research-agent"
   },
   {
-    "id": "forge",
-    "name": "Forge",
-    "author": "Joshua Walls",
-    "description": "Define the structure your vault should have, then let Forge enforce it. Lint for drift, normalize metadata, and apply auditable bulk changes with confidence. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "joshua-walls/forge"
-  },
-  {
     "id": "writing-annotations",
     "name": "Writing Annotations",
     "author": "hornat",
@@ -34573,6 +34573,13 @@
     "repo": "c-miles/orrery"
   },
   {
+    "id": "writing-menu",
+    "name": "Writing Menu",
+    "author": "zpzp13",
+    "description": "A writing environment customization plugin with typography controls, focus mode, smart quotes, text substitution, typewriter scroll, word counter, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zpzp13/obsidian-writing-menu"
+  },
+  {
     "id": "pinball-db",
     "name": "Pinball DB",
     "author": "tgrosinger",
@@ -37653,13 +37660,6 @@
     "repo": "p0shkar/LibreTranslate-for-Obsidian"
   },
   {
-    "id": "bamboo-walking",
-    "name": "Bamboo Walking",
-    "author": "羽鳞君",
-    "description": "个人写作专栏 · 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生 | Personal writing column reader - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-bamboo-walking"
-  },
-  {
     "id": "promptbox",
     "name": "Promptbox",
     "author": "istefox",
@@ -37966,5 +37966,12 @@
     "author": "Russ",
     "description": "Make slide decks as single-file HTML presentations: PPTX-like editing with drag-to-reorder, inline text with a format toolbar, image paste/drag/resize, and a built-in player with fullscreen and PDF export. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "russquan/slidedope"
+  },
+  {
+    "id": "copy-file-to-clipboard",
+    "name": "Copy File to Clipboard",
+    "author": "Xabi",
+    "description": "Right-click any file in the file explorer to copy it to the clipboard. Configurable: text files as text or raw file, images as PNG or raw file. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ezxabi/copy-file-to-clipboard"
   }
 ]
