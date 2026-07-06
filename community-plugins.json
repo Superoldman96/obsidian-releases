@@ -8421,13 +8421,6 @@
     "repo": "peerdraft/obsidian-plugin"
   },
   {
-    "id": "gamified-pkm",
-    "name": "Gamificate your PKM",
-    "author": "saertna",
-    "description": "Enhance your Personal Knowledge Management with gamification elements. Boost motivation and achieve growth as you engage with your PKM.",
-    "repo": "saertna/obsidian-gamified-pkm"
-  },
-  {
     "id": "coder",
     "name": "Transcode",
     "author": "rudimuc",
@@ -18480,13 +18473,6 @@
     "repo": "tuguberk/thought-agent-obsidian"
   },
   {
-    "id": "canvas-loom",
-    "name": "Canvas Loom",
-    "author": "woxin667",
-    "description": "Add functionality to the Canvas for merging, splitting, copying content, and adding markers. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "woxin667/Canvas-Loom"
-  },
-  {
     "id": "sqlite-explorer",
     "name": "SQLite Explorer",
     "author": "qf3l3k",
@@ -19061,13 +19047,6 @@
     "repo": "fengshuzi/daily-habit"
   },
   {
-    "id": "tick-track",
-    "name": "Tick Track",
-    "author": "fengshuzi",
-    "description": "Track time spent on tasks with automatic duration calculation - toggle task status to start/stop tracking. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "fengshuzi/tick-track"
-  },
-  {
     "id": "vault-pulse",
     "name": "Vault Pulse",
     "author": "stefmf",
@@ -19101,13 +19080,6 @@
     "author": "a27856704",
     "description": "Real-time team collaboration with plugin sync and AI assistance. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "a27856704/obsidian-team-plugin"
-  },
-  {
-    "id": "applenotes-sync",
-    "name": "AppleNotes Sync",
-    "author": "fengshuzi",
-    "description": "Sync notes from the macOS Notes app to your local Vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "fengshuzi/applenotes-sync"
   },
   {
     "id": "coin-memo",
@@ -30394,6 +30366,13 @@
     "repo": "mderman/context_nine_obsidian_plugin"
   },
   {
+    "id": "keyword-notes-editor",
+    "name": "Keyword Notes Editor",
+    "author": "fengshuzi",
+    "description": "View and edit notes grouped by keyword tags, similar to Logseq tag view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fengshuzi/keyword-notes-editor"
+  },
+  {
     "id": "kilocode",
     "name": "KiloCode",
     "author": "Henry Lan",
@@ -32858,13 +32837,6 @@
     "repo": "vectorize-io/hindsight-obsidian"
   },
   {
-    "id": "tandem-comments",
-    "name": "Tandem Comments",
-    "author": "Leon Pawelzik",
-    "description": "Google Docs-style comments for Markdown notes. Quote-anchored threads in a fenced block at the end of the file, so your prose stays untouched and AI assistants can read and write them too. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "leonpawelzik/obsidian-tandem-comments"
-  },
-  {
     "id": "list-fold",
     "name": "List Fold",
     "author": "Amin Ica",
@@ -33761,6 +33733,13 @@
     "repo": "tenor-john/obsidian-scholarium"
   },
   {
+    "id": "mv-obcc",
+    "name": "mv-SenceAI",
+    "author": "MV",
+    "description": "AI assistant for Obsidian with inline completion, selection prompts, Claude Code and Codex bridge, MCP tools, and editable diffs. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aitingtingya/mv-obcc"
+  },
+  {
     "id": "art-de-one",
     "name": "ART de ONE",
     "author": "ART de ONE",
@@ -34445,6 +34424,13 @@
     "author": "Sean local",
     "description": "Share selected plugins from the current vault to another Obsidian vault by creating symbolic links. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tyronewj/Plugin-Share-Linker"
+  },
+  {
+    "id": "agentic-chat",
+    "name": "Agentic Chat",
+    "author": "tardigrde",
+    "description": "Privacy-first agentic AI chat in the sidebar. The agent reads, searches, and edits your vault through visible tool calls, routed to zero-data-retention providers by default, or runs fully local with Ollama. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tardigrde/obsidian-agentic-chat"
   },
   {
     "id": "wechat-obsync",
@@ -35845,6 +35831,13 @@
     "author": "Real-Fruit-Snacks",
     "description": "Bookmark manager with four switchable layouts. Each bookmark is a Markdown file with YAML frontmatter — no proprietary database, no lock-in. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "real-fruit-snacks/Cove"
+  },
+  {
+    "id": "vault-viewer",
+    "name": "Vault Viewer",
+    "author": "zhouzeqiang",
+    "description": "Browse all file types, filter/sort, and preview Office documents in Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhouzeqiang/obsidian-vault-viewer"
   },
   {
     "id": "ai-rewrite",
@@ -37709,6 +37702,13 @@
     "repo": "leotomhal/sector-tasks-obsidian"
   },
   {
+    "id": "move-done-down",
+    "name": "Move Done Down",
+    "author": "Mihanentalpo@yandex.ru",
+    "description": "Move completed top-level Markdown task blocks down before the completed-task tail. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mihanentalpo/obsidian-move-done-down"
+  },
+  {
     "id": "gmail-mailbox",
     "name": "Gmail Mailbox",
     "author": "Nabheet Madan",
@@ -37861,5 +37861,19 @@
     "author": "YzYhhhstudy",
     "description": "CS conference deadline countdowns inside your vault: sidebar panel, in-note deadline boards, frontmatter-linked countdown banners and status-bar badge. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yzyhhhstudy/paper-deadlines"
+  },
+  {
+    "id": "obsync-webdav-gpg",
+    "name": "WebDAV GPG Sync",
+    "author": "obsync",
+    "description": "Encrypt vault data with GPG and sync/restore to/from WebDAV. Encrypts both file content and filenames. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "normanify/obsync_webdav_gpg"
+  },
+  {
+    "id": "auto-ledger",
+    "name": "Auto Ledger",
+    "author": "BetaGifted",
+    "description": "Summarize local Markdown transaction logs into an offline finance dashboard. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "s945134636-spec/auto-ledger"
   }
 ]
