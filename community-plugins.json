@@ -38001,5 +38001,19 @@
     "author": "sxjeel",
     "description": "Automatically prevents 'File name cannot contain...' errors by safely sanitizing illegal characters in wikilinks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sajee05/obsidian-ValidTitle"
+  },
+  {
+    "id": "immich-journal",
+    "name": "Immich Journal",
+    "author": "fcandi",
+    "description": "Insert photos from Immich into daily note's, resized, captioned, and linked back to Immich. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fcandi/obsidian-immich-journal"
+  },
+  {
+    "id": "sync-deck",
+    "name": "Sync Deck",
+    "author": "Ismail Ivanov",
+    "description": "Realtime vault sync and live team presence across your devices. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ismailivanov/sync-deck"
   }
 ]
