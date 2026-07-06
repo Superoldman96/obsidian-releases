@@ -30569,6 +30569,13 @@
     "repo": "qianwei4712/obsidian-word-reader"
   },
   {
+    "id": "pandocit",
+    "name": "PandoCit",
+    "author": "l'Atelier",
+    "description": "Citations Pandoc, bibliothèque Zotero (API), lecteurs PDF/EPUB et annotations dans Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "atelier-recherche/pandocit"
+  },
+  {
     "id": "youtube-search",
     "name": "YouTube Search",
     "author": "plasch",
@@ -36064,6 +36071,13 @@
     "repo": "arias007/obsidian-ntfy"
   },
   {
+    "id": "cancip",
+    "name": "Cancip",
+    "author": "Murat",
+    "description": "Codex-style AI side panel for vault search, memory context, and safe note assistance. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arias007/cancip"
+  },
+  {
     "id": "canvas-layer-order",
     "name": "Canvas Layer Order",
     "author": "fengzhe",
@@ -37826,5 +37840,12 @@
     "author": "PostPollux",
     "description": "Supercharges html5 video player controls for local videos – horizontal scrubbing, vertical volume adjustment, configurable double tap, long press for fast forward and more! Note: Won't effect embeded players like e.g.the Youtube player. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "postpollux/obsidian-video-controls-enhancer"
+  },
+  {
+    "id": "hot-reload",
+    "name": "Hot Reload",
+    "author": "pjeby",
+    "description": "Automatically reload in-development plugins when their files are changed - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pjeby/hot-reload"
   }
 ]

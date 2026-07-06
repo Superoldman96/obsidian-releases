@@ -3923,6 +3923,13 @@
     "modes": ["dark"]
   },
   {
+    "name": "Scanline",
+    "author": "Bartosz V. Bentkowski",
+    "repo": "vforge/obsidian-scanline",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Coding Agent",
     "author": "Brightwav3",
     "repo": "brightwav3/Coding-Agent-Theme",
