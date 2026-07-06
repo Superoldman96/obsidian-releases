@@ -37667,13 +37667,6 @@
     "repo": "p0shkar/LibreTranslate-for-Obsidian"
   },
   {
-    "id": "bamboo-walking",
-    "name": "Bamboo Walking",
-    "author": "羽鳞君",
-    "description": "个人写作专栏 · 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生 | Personal writing column reader - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-bamboo-walking"
-  },
-  {
     "id": "promptbox",
     "name": "Promptbox",
     "author": "istefox",
@@ -37728,6 +37721,13 @@
     "author": "san",
     "description": "Upload images to Google Drive and replace local embeds with links. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "opellen/Loft"
+  },
+  {
+    "id": "ask-any-ai",
+    "name": "Ask Any AI",
+    "author": "Ivan Batura",
+    "description": "Use Copilot, Claude, Gemini, or a local CLI tool to generate AI results directly inside the current note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ibatura/obsidian-ask-any-ai"
   },
   {
     "id": "metadata-visuals",
@@ -38015,5 +38015,19 @@
     "author": "Ismail Ivanov",
     "description": "Realtime vault sync and live team presence across your devices. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ismailivanov/sync-deck"
+  },
+  {
+    "id": "proxmox-vm-list",
+    "name": "Proxmox VM List",
+    "author": "Pawel Salkiewicz",
+    "description": "Fetches virtual machines and containers from a Proxmox VE host/cluster and writes them into a Markdown table in the vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "psalkiewicz/obsidian-proxmox-vm-list"
+  },
+  {
+    "id": "files-progress",
+    "name": "Files Progress",
+    "author": "Walter",
+    "description": "Tiny progress bars in the file explorer showing how full each note is, relative to a target character count. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sonna-io/obsidian-files-progress"
   }
 ]
