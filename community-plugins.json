@@ -25447,7 +25447,7 @@
   {
     "id": "raindrop-io",
     "name": "Raindrop.io",
-    "author": "Lukas dotWee",
+    "author": "Lukas Wolfsteiner",
     "description": "Browse Raindrop.io links with note-aware search filters. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dotwee/obsidian-raindropio-plugin"
   },
@@ -25520,6 +25520,13 @@
     "author": "allexcd",
     "description": "Read-only, exclusion-based local bridge for using vault notes through MCP clients. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "allexcd/obsidian-mcp"
+  },
+  {
+    "id": "meeting-scribe-ai",
+    "name": "Meeting Scribe AI",
+    "author": "chinoryunqin",
+    "description": "Record audio, transcribe with Doubao Speech, polish the transcript, and generate meeting minutes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chinoryunqin/ObMeeting"
   },
   {
     "id": "image-hoist",
@@ -27088,6 +27095,13 @@
     "author": "Shota Shirai",
     "description": "Notion-style review comments stored as CriticMarkup. AI-friendly format for LLM-assisted editing. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "shotashirai1719/obsidian-review-comments"
+  },
+  {
+    "id": "lumen-ai-assistant",
+    "name": "Lumen",
+    "author": "chinoryunqin",
+    "description": "为 Obsidian 笔记点亮 AI 之光。支持 Claude、GPT、MiniMax、Kimi，提供总结、翻译、深度剖析、提取待办、续写、润色等快捷操作，并可直接将结果写回笔记。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chinoryunqin/lumen-ai-assistant"
   },
   {
     "id": "mermaid-maker",
@@ -28924,13 +28938,6 @@
     "repo": "goryugocast/atomic-insights"
   },
   {
-    "id": "excavelo",
-    "name": "ExcaVelo",
-    "author": "bibleCode21",
-    "description": "Transform raw memos into structured notes (meeting minutes, 1:1s, daily) using Claude. Works with Claude Code subscription or Anthropic API key. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "biblecode21/excavelo"
-  },
-  {
     "id": "formula-forge",
     "name": "Formula Forge",
     "author": "unxok",
@@ -30714,13 +30721,6 @@
     "author": "Alvaro Mateo",
     "description": "Monitors folders for files added and runs custom actions based on user rules. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "alvaromateo/folderer"
-  },
-  {
-    "id": "omd-to-typst",
-    "name": "Omd2Typst",
-    "author": "A.W. Alberts",
-    "description": "Export your notes to professional looking PDFs via Typst. Auto-adding a cover page, revision page, TOC and optional figure list. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tisgoud/Obsidian-Omd2Typst"
   },
   {
     "id": "private-quartz-publish",
@@ -33306,6 +33306,13 @@
     "repo": "kwhittle/obsidian-github-tools"
   },
   {
+    "id": "lumina",
+    "name": "Lumina",
+    "author": "Lumina",
+    "description": "Language-Agnostic RAG & MCP Agent powered by Multilingual Embeddings for local AI semantic search. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lumina-apps/obsidian-lumina"
+  },
+  {
     "id": "image-peek",
     "name": "Image Peek",
     "author": "groundfic",
@@ -33572,13 +33579,6 @@
     "repo": "yaye-work/obsidian-draw-a-mermaid"
   },
   {
-    "id": "arxiv-daily",
-    "name": "arXiv Daily",
-    "author": "Da-Chuan Tian",
-    "description": "Daily arXiv tracker that filters and summarizes papers via LLM into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tdccccc/arxiv-daily"
-  },
-  {
     "id": "pageden-sync",
     "name": "Pageden Sync",
     "author": "Chris Ian Fiel",
@@ -33808,13 +33808,6 @@
     "author": "Ahmed",
     "description": "All-in-one productivity suite: Formatting Palette, AI Smart Templates, Image Control, Fullscreen Note, Premium File Tree, Quick Access Bar, and Folder Focus Mode. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ahmdmusa/obsidian-toolkit"
-  },
-  {
-    "id": "galaxy-view",
-    "name": "Galaxy View",
-    "author": "Rick",
-    "description": "Cinematic 3D graph view of your vault — fly through your notes like NASA Eyes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "longwind1984/galaxy-view"
   },
   {
     "id": "cryptopad",
@@ -36806,13 +36799,6 @@
     "repo": "riccardosilvestri/obsidian-spartito"
   },
   {
-    "id": "chew-it",
-    "name": "Chew It",
-    "author": "Jakob He",
-    "description": "Analyze the current note with an LLM in the sidebar — outline, key-concept explanations, and a distilled summary. Works with Claude (Anthropic) and any OpenAI-compatible API. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "leweii/chew-it"
-  },
-  {
     "id": "safi-site-audit",
     "name": "Safi Site Audit",
     "author": "Abdulkader Safi",
@@ -37177,6 +37163,13 @@
     "repo": "ondreu/mass-editor"
   },
   {
+    "id": "bonds",
+    "name": "Bonds",
+    "author": "Zak",
+    "description": "Links as first-class notes. Bonds between atoms carry their own content, rendered on both ends. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zakiruz/synapse"
+  },
+  {
     "id": "latex-callouts",
     "name": "Latex Styled Callouts",
     "author": "Bailey Moir",
@@ -37338,13 +37331,6 @@
     "repo": "markcrobbins2112/op-file-tree-alpha-hue"
   },
   {
-    "id": "bases-toolbox",
-    "name": "Bases Toolbox",
-    "author": "Grub Basket / OurBrain",
-    "description": "Quality-of-life tools for Bases and properties: find & replace property values across the vault, stop number properties from changing on arrow keys, and a searchable index of every property. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "grub-basket/Bases-Toolbox"
-  },
-  {
     "id": "contact-forge",
     "name": "Contact Forge",
     "author": "@raulanatol",
@@ -37385,6 +37371,13 @@
     "author": "Pie Of Mind",
     "description": "Manage tasks from Markdown files across multiple boards. Switch task files instantly and view them as a board, list, calendar, or dashboard, with checkboxes written straight back to the file. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "pieofmind/pie-task-plugin-obsidian"
+  },
+  {
+    "id": "advanced-bases",
+    "name": "Advanced Bases",
+    "author": "Brightwav3",
+    "description": "Notion-style views for Obsidian Bases — Cards Compact, Feed, and Timeline. A lighter build with only the core views. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "brightwav3/advanced-bases"
   },
   {
     "id": "docket",
@@ -37450,6 +37443,13 @@
     "repo": "nabheetcloud/Obsidian-Outlook-Mail-Chats-Calendar-Plugin"
   },
   {
+    "id": "mdfriday-sync",
+    "name": "MDFriday Sync",
+    "author": "mdfriday",
+    "description": "Sync your Obsidian vault across devices using CouchDB — with end-to-end encryption, selective sync, and live sync. Desktop & Mobile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mdfriday/obsidian-sync"
+  },
+  {
     "id": "query-control",
     "name": "Query Control",
     "author": "yuanzhixiang",
@@ -37476,6 +37476,13 @@
     "author": "Nabheet Madan",
     "description": "Read your local WhatsApp Desktop message database and mirror chats into your vault as one transcript note per conversation. Read-only, incremental, fully local — no network, no cloud, no API keys. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nabheetcloud/Obsidian-Whatsapp"
+  },
+  {
+    "id": "flux-tts",
+    "name": "Flux TTS",
+    "author": "Saunak Karnati",
+    "description": "Record audio from the ribbon, save it to your vault, and create Groq-powered transcription notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sonickarnati/flux-tts"
   },
   {
     "id": "pinax",
@@ -37672,6 +37679,13 @@
     "author": "Evelyn Chan",
     "description": "Grow your notes into a living 3D tree of light - a thinking tool, not a filing cabinet. Each folder becomes a tree; notes are leaves placed by field and time; links are the rhizome; flowers are ah-ha moments; apples are outputs. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "brandthebrand/eve-apple-tree"
+  },
+  {
+    "id": "flowtaker-inbox",
+    "name": "Flowtaker Inbox",
+    "author": "reit5667",
+    "description": "Save Telegram messages directly to your Obsidian vault inbox. No server required. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "reit5667/obsidian-flowtaker-inbox"
   },
   {
     "id": "kg-forge",
@@ -37903,5 +37917,26 @@
     "author": "Cong-xu",
     "description": "A lightweight project-management board with Linear-style columns, cards, tags, drag-and-drop, and local board files. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cong-xu/flowboard-pm"
+  },
+  {
+    "id": "key-sequence",
+    "name": "Key Sequence",
+    "author": "wantchane",
+    "description": "Assign multi-key sequences to any command. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wantchane/key-sequence-obsidian"
+  },
+  {
+    "id": "speakout",
+    "name": "Speak Out",
+    "author": "Landy",
+    "description": "Adds reading-view text-to-speech controls for content tagged in Markdown source. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "landyking/speak-out-plugin-for-obsidian"
+  },
+  {
+    "id": "markitdown-flow",
+    "name": "MarkItDown Flow",
+    "author": "greatgc-flow",
+    "description": "Instantly convert PDFs, Office documents, images, and audio into beautifully structured Markdown.   Powered by Microsoft MarkItDown with smart AI fallback phases for flawless formatting. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "greatgc-flow/MarkItDown-Flow"
   }
 ]
