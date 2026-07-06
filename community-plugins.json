@@ -19047,6 +19047,13 @@
     "repo": "fengshuzi/daily-habit"
   },
   {
+    "id": "tick-track",
+    "name": "Tick Track",
+    "author": "fengshuzi",
+    "description": "Track time spent on tasks with automatic duration calculation - toggle task status to start/stop tracking. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fengshuzi/tick-track"
+  },
+  {
     "id": "vault-pulse",
     "name": "Vault Pulse",
     "author": "stefmf",
@@ -19080,6 +19087,13 @@
     "author": "a27856704",
     "description": "Real-time team collaboration with plugin sync and AI assistance. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "a27856704/obsidian-team-plugin"
+  },
+  {
+    "id": "applenotes-sync",
+    "name": "AppleNotes Sync",
+    "author": "fengshuzi",
+    "description": "Sync notes from the macOS Notes app to your local Vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fengshuzi/applenotes-sync"
   },
   {
     "id": "coin-memo",
@@ -19248,6 +19262,13 @@
     "author": "bahfahh",
     "description": "Turn notes into gamified Quest Maps, visual Memory Maps (Canvas), and flashcard Review Decks powered by AI Skills. Supports Claude Code, Gemini CLI, and Cursor. Features FSRS spaced repetition, active recall, memory retention, and AI hints. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "bahfahh/engram-quest"
+  },
+  {
+    "id": "llm-translate",
+    "name": "LLM Translate",
+    "author": "chenhuajinchj",
+    "description": "Translate selected text or full notes using DeepSeek, OpenAI, Gemini, and other OpenAI-compatible LLM providers. Preserves YAML frontmatter and supports streaming with cancellation. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chenhuajinchj/obsidian-llm-translate"
   },
   {
     "id": "snippets-catcher",
@@ -28854,13 +28875,6 @@
     "repo": "joshua-walls/forge"
   },
   {
-    "id": "secret-placeholders",
-    "name": "Secret Placeholders",
-    "author": "Liam",
-    "description": "Embed password-manager secrets in notes as placeholders so the .md never contains the actual credential. Supports OpenBao/Vault, 1Password Connect, and Bitwarden/Vaultwarden. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "lai2301/obsidian-secret-placeholders"
-  },
-  {
     "id": "writing-annotations",
     "name": "Writing Annotations",
     "author": "hornat",
@@ -32837,6 +32851,13 @@
     "repo": "vectorize-io/hindsight-obsidian"
   },
   {
+    "id": "tandem-comments",
+    "name": "Tandem Comments",
+    "author": "Leon Pawelzik",
+    "description": "Google Docs-style comments for Markdown notes. Quote-anchored threads in a fenced block at the end of the file, so your prose stays untouched and AI assistants can read and write them too. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "leonpawelzik/obsidian-tandem-comments"
+  },
+  {
     "id": "list-fold",
     "name": "List Fold",
     "author": "Amin Ica",
@@ -33283,13 +33304,6 @@
     "author": "Kyle Whittle",
     "description": "Monitor a GitHub repo — staleness alerts, PR dashboard, and activity notifications. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kwhittle/obsidian-github-tools"
-  },
-  {
-    "id": "lumina",
-    "name": "Lumina",
-    "author": "Lumina",
-    "description": "Language-Agnostic RAG & MCP Agent powered by Multilingual Embeddings for local AI semantic search. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "lumina-apps/obsidian-lumina"
   },
   {
     "id": "image-peek",
@@ -37373,13 +37387,6 @@
     "repo": "pieofmind/pie-task-plugin-obsidian"
   },
   {
-    "id": "advanced-bases",
-    "name": "Advanced Bases",
-    "author": "Brightwav3",
-    "description": "Notion-style views for Obsidian Bases — Cards Compact, Feed, and Timeline. A lighter build with only the core views. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "brightwav3/advanced-bases"
-  },
-  {
     "id": "docket",
     "name": "Docket",
     "author": "myeongsoyi",
@@ -37793,6 +37800,13 @@
     "repo": "lornezhang66/open-reader"
   },
   {
+    "id": "eisenhower-bases-view",
+    "name": "Eisenhower Matrix for Bases",
+    "author": "Takahiro.N",
+    "description": "Display notes from a Base as an Eisenhower matrix and drag cards to update their properties. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nakaba-lab/eisenhower-bases-view"
+  },
+  {
     "id": "zoom-transcript-to-md",
     "name": "Meeting Transcript Converter",
     "author": "Ivan Batura",
@@ -37826,6 +37840,13 @@
     "author": "volcanicMole",
     "description": "Feed it a list of names, by Markov Magic it works out their secrets, then generates ever-changing fresh names, ready to use whenever, however (legally please). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kennyrn/nameForge"
+  },
+  {
+    "id": "eink-cursor",
+    "name": "Eink Cursor",
+    "author": "l'Atelier",
+    "description": "Static cursor for e-ink displays. No settings, no animations. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "atelier-recherche/einkcursor"
   },
   {
     "id": "video-controls-enhancer",
@@ -37863,17 +37884,24 @@
     "repo": "yzyhhhstudy/paper-deadlines"
   },
   {
-    "id": "obsync-webdav-gpg",
-    "name": "WebDAV GPG Sync",
-    "author": "obsync",
-    "description": "Encrypt vault data with GPG and sync/restore to/from WebDAV. Encrypts both file content and filenames. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "normanify/obsync_webdav_gpg"
-  },
-  {
     "id": "auto-ledger",
     "name": "Auto Ledger",
     "author": "BetaGifted",
     "description": "Summarize local Markdown transaction logs into an offline finance dashboard. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "s945134636-spec/auto-ledger"
+  },
+  {
+    "id": "property-icons",
+    "name": "Property Icons",
+    "author": "runnerback",
+    "description": "Show badge icons before file names in the explorer based on note property (frontmatter) rules. Configure multiple rule groups with AND/OR conditions, each mapped to a built-in brand icon or your own uploaded image. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "runnerback/property-icons"
+  },
+  {
+    "id": "flowboard-pm",
+    "name": "FlowBoard PM",
+    "author": "Cong-xu",
+    "description": "A lightweight project-management board with Linear-style columns, cards, tags, drag-and-drop, and local board files. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cong-xu/flowboard-pm"
   }
 ]
