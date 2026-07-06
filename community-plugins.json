@@ -19266,9 +19266,9 @@
   {
     "id": "llm-translate",
     "name": "LLM Translate",
-    "author": "chenhuajinchj",
+    "author": "陈与小金",
     "description": "Translate selected text or full notes using DeepSeek, OpenAI, Gemini, and other OpenAI-compatible LLM providers. Preserves YAML frontmatter and supports streaming with cancellation. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "chenhuajinchj/obsidian-llm-translate"
+    "repo": "chenyuxiaojin/obsidian-llm-translate"
   },
   {
     "id": "snippets-catcher",
@@ -20963,13 +20963,6 @@
     "author": "enhen3",
     "description": "Plan tasks, complete Review loops, and preview weekly, monthly, and AI profile insights from daily notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "enhen3/Tidelog"
-  },
-  {
-    "id": "on-demand-plugins",
-    "name": "On-Demand",
-    "author": "22-2",
-    "description": "Lazy load plugins by caching their commands. Plugins are enabled on-demand when you trigger their commands (or open specific views), keeping startup fast. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "22-2/obsidian-on-demand-plugins"
   },
   {
     "id": "callout-control-panel",
@@ -35525,13 +35518,6 @@
     "repo": "exa-labs/obsidian-exa-search"
   },
   {
-    "id": "vector-ink",
-    "name": "VectorInk",
-    "author": "Theodor Kaiser",
-    "description": "Create handwritten notes as vector graphics. Each stroke is saved as a Bézier curve, with customizable background and pen colors for infinite scalability. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tmk314/VectorInk"
-  },
-  {
     "id": "mi-agrupacion-plus",
     "name": "Mi Agrupacion Plus",
     "author": "Jesús García",
@@ -36559,6 +36545,13 @@
     "author": "Arseniy Seroka",
     "description": "View your Google Maps Timeline location history on an interactive map — visits, routes and exact GPS tracks, with day and date-range pickers. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jagajaga/obsidian-maps-timeline"
+  },
+  {
+    "id": "better-tables",
+    "name": "Better Tables",
+    "author": "yaye.work",
+    "description": "If you are frustrated with making tables in your notes, install this. Summon the interactive table via the ```Table``` block. Just drag to resize and reorder, hover to insert, click to edit. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yaye-work/obsidian-better-tables"
   },
   {
     "id": "best-downloader",
@@ -37604,13 +37597,6 @@
     "repo": "siavashameli/TimelineX"
   },
   {
-    "id": "consensus-research",
-    "name": "Parallax",
-    "author": "maxonamission",
-    "description": "Where research thinking takes shape: explore a problem before searching, weigh evidence from OpenAlex & Semantic Scholar, challenge your framing, track your beliefs, and keep a methodological account. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "maxonamission/obsidian-parallax"
-  },
-  {
     "id": "flowkit-health-dashboard",
     "name": "FlowKit Health Dashboard",
     "author": "saiken",
@@ -37938,5 +37924,12 @@
     "author": "greatgc-flow",
     "description": "Instantly convert PDFs, Office documents, images, and audio into beautifully structured Markdown.   Powered by Microsoft MarkItDown with smart AI fallback phases for flawless formatting. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "greatgc-flow/MarkItDown-Flow"
+  },
+  {
+    "id": "s-calc",
+    "name": "S-Calc",
+    "author": "Abdulkader Safi",
+    "description": "A live calculator code block: write expressions and see each line's result, with units, currencies, percentages, and dates. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "abdulkader-safi/obsidian-s_calc-plugins"
   }
 ]
