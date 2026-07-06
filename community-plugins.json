@@ -17138,7 +17138,7 @@
   {
     "id": "xiangqi",
     "name": "Chinese Chess",
-    "author": "west-shell",
+    "author": "weshell",
     "description": "Chinese chess variation tree.",
     "repo": "west-shell/obsidian-xiangqi"
   },
@@ -20963,6 +20963,13 @@
     "author": "enhen3",
     "description": "Plan tasks, complete Review loops, and preview weekly, monthly, and AI profile insights from daily notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "enhen3/Tidelog"
+  },
+  {
+    "id": "on-demand-plugins",
+    "name": "On-Demand",
+    "author": "22-2",
+    "description": "Lazy load plugins by caching their commands. Plugins are enabled on-demand when you trigger their commands (or open specific views), keeping startup fast. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "22-2/obsidian-on-demand-plugins"
   },
   {
     "id": "callout-control-panel",
@@ -31229,7 +31236,7 @@
   {
     "id": "chess-tree",
     "name": "Chess Tree",
-    "author": "west-shell",
+    "author": "weshell",
     "description": "Chess variation tree. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "west-shell/obsidian-chess-tree"
   },
@@ -35763,6 +35770,13 @@
     "repo": "sshah7433/obsidian-jira-tiles"
   },
   {
+    "id": "smart-related-notes",
+    "name": "Smart Related Notes",
+    "author": "Saiki77",
+    "description": "Surface notes most semantically similar to the one you're reading in a left-sidebar panel, powered by a small multilingual embedding model that runs entirely on your machine. Private and offline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "saiki77/smart-related-notes"
+  },
+  {
     "id": "aliyun-drive-sync",
     "name": "Aliyun Drive Sync",
     "author": "Wjiajie",
@@ -37324,6 +37338,13 @@
     "repo": "markcrobbins2112/op-file-tree-alpha-hue"
   },
   {
+    "id": "bases-toolbox",
+    "name": "Bases Toolbox",
+    "author": "Grub Basket / OurBrain",
+    "description": "Quality-of-life tools for Bases and properties: find & replace property values across the vault, stop number properties from changing on arrow keys, and a searchable index of every property. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/Bases-Toolbox"
+  },
+  {
     "id": "contact-forge",
     "name": "Contact Forge",
     "author": "@raulanatol",
@@ -37597,6 +37618,13 @@
     "repo": "siavashameli/TimelineX"
   },
   {
+    "id": "consensus-research",
+    "name": "Parallax",
+    "author": "maxonamission",
+    "description": "Where research thinking takes shape: explore a problem before searching, weigh evidence from OpenAlex & Semantic Scholar, challenge your framing, track your beliefs, and keep a methodological account. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "maxonamission/obsidian-parallax"
+  },
+  {
     "id": "flowkit-health-dashboard",
     "name": "FlowKit Health Dashboard",
     "author": "saiken",
@@ -37651,13 +37679,6 @@
     "author": "electroluminescent",
     "description": "A configurable sidebar for note properties: arrangeable sections, rich value types, dice rolling, per-type layouts, and toggleable feature modules such as a D&D 5e character sheet. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "electroluminescent/obsidian-extended-properties"
-  },
-  {
-    "id": "hybrid-git-sync",
-    "name": "Hybrid Git Sync",
-    "author": "walkskyer",
-    "description": "Cross-platform Git sync plugin. Desktop uses native git, mobile uses GitHub/GitLab API. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "wk-obsidian/HybridGitSync"
   },
   {
     "id": "eve-apple-tree",
@@ -37931,5 +37952,19 @@
     "author": "Abdulkader Safi",
     "description": "A live calculator code block: write expressions and see each line's result, with units, currencies, percentages, and dates. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "abdulkader-safi/obsidian-s_calc-plugins"
+  },
+  {
+    "id": "calibre-bridge",
+    "name": "Calibre Bridge",
+    "author": "p24l",
+    "description": "Import books from a Calibre (Content Server) as Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "p24l/calibre-bridge"
+  },
+  {
+    "id": "slidedope",
+    "name": "SlideDope",
+    "author": "Russ",
+    "description": "Make slide decks as single-file HTML presentations: PPTX-like editing with drag-to-reorder, inline text with a format toolbar, image paste/drag/resize, and a built-in player with fullscreen and PDF export. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "russquan/slidedope"
   }
 ]
