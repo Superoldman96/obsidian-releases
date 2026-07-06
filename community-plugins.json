@@ -24626,6 +24626,13 @@
     "repo": "hyungyunlim/obsidian-naver-blog-importer"
   },
   {
+    "id": "semantic-vault-mcp",
+    "name": "Semantic Notes Vault MCP",
+    "author": "Aaron Bockelie",
+    "description": "Give Claude Desktop and other AI assistants semantic access to your notes through a built-in Model Context Protocol (MCP) server. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aaronsb/obsidian-mcp-plugin"
+  },
+  {
     "id": "co-intelligence",
     "name": "Co-Intelligence AI",
     "author": "epistemic-technology",
@@ -30562,13 +30569,6 @@
     "repo": "qianwei4712/obsidian-word-reader"
   },
   {
-    "id": "pandocit",
-    "name": "PandoCit",
-    "author": "l'Atelier",
-    "description": "Citations Pandoc, bibliothèque Zotero (API), lecteurs PDF/EPUB et annotations dans Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "atelier-recherche/pandocit"
-  },
-  {
     "id": "youtube-search",
     "name": "YouTube Search",
     "author": "plasch",
@@ -33747,13 +33747,6 @@
     "repo": "tenor-john/obsidian-scholarium"
   },
   {
-    "id": "mv-obcc",
-    "name": "mv-SenceAI",
-    "author": "MV",
-    "description": "AI assistant for Obsidian with inline completion, selection prompts, Claude Code and Codex bridge, MCP tools, and editable diffs. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "aitingtingya/mv-obcc"
-  },
-  {
     "id": "art-de-one",
     "name": "ART de ONE",
     "author": "ART de ONE",
@@ -34625,7 +34618,7 @@
     "id": "lifequest",
     "name": "LifeQuest",
     "author": "Snifer",
-    "description": "Gamify your daily life inside Obsidian — quests, XP, levels, streaks, and a personal dashboard. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Life RPG Gamify your daily life inside Obsidian — quests, XP, levels, streaks, and a personal dashboard. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "snifer/LifeQuest"
   },
   {
@@ -34683,13 +34676,6 @@
     "author": "Vitaly Andrianov",
     "description": "Claude Code IDE for your knowledge base: a real code editor with syntax highlighting, Prettier formatting, diagnostics, diffs, code review, and inline git  blame, MCP tools for an AI agent - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "vitaly-andr/obsidian-code-workbench"
-  },
-  {
-    "id": "checksorted",
-    "name": "CheckSorted",
-    "author": "Javad Esmaeelpour",
-    "description": "Keep checkbox lists tidy: move completed items into a separate section, autocomplete tasks, and delete them in one click. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "esmaeelpour/obsidian-checksorted"
   },
   {
     "id": "read-along",
@@ -37394,13 +37380,6 @@
     "repo": "myeongsoyi/obsidian-docket"
   },
   {
-    "id": "habits",
-    "name": "Habits",
-    "author": "jamescliffordspratt",
-    "description": "Habit tracker with streaks, charts, and statistics. Log daily habits from a carousel dashboard or sidebar panel, pause habits without losing streaks, and export printable PDF reports. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jamescliffordspratt/obsidian-habits"
-  },
-  {
     "id": "inkedmark",
     "name": "InkedMark",
     "author": "Liqpil",
@@ -37786,6 +37765,13 @@
     "repo": "tikitock/toastmaster"
   },
   {
+    "id": "daily-five",
+    "name": "Daily Five",
+    "author": "0libots",
+    "description": "A daily five-letter word game with Daily Note results and lifetime stats. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "0libote/daily-five"
+  },
+  {
     "id": "open-reader",
     "name": "Open Reader",
     "author": "lornezhang",
@@ -37798,6 +37784,13 @@
     "author": "Takahiro.N",
     "description": "Display notes from a Base as an Eisenhower matrix and drag cards to update their properties. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nakaba-lab/eisenhower-bases-view"
+  },
+  {
+    "id": "zoom-transcript-to-md",
+    "name": "Meeting Transcript Converter",
+    "author": "Ivan Batura",
+    "description": "Convert .txt or .vtt meeting transcript files into cleaned .md notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ibatura/obsidian-meeting-transcript-converter"
   },
   {
     "id": "enhanced-pdf-export",
@@ -37826,5 +37819,12 @@
     "author": "volcanicMole",
     "description": "Feed it a list of names, by Markov Magic it works out their secrets, then generates ever-changing fresh names, ready to use whenever, however (legally please). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kennyrn/nameForge"
+  },
+  {
+    "id": "video-controls-enhancer",
+    "name": "VideoControlsEnhancer",
+    "author": "PostPollux",
+    "description": "Supercharges html5 video player controls for local videos – horizontal scrubbing, vertical volume adjustment, configurable double tap, long press for fast forward and more! Note: Won't effect embeded players like e.g.the Youtube player. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "postpollux/obsidian-video-controls-enhancer"
   }
 ]
