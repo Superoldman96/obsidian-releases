@@ -20958,6 +20958,13 @@
     "repo": "22-2/obsidian-on-demand-plugins"
   },
   {
+    "id": "callout-control-panel",
+    "name": "Callout Control Panel",
+    "author": "jv209",
+    "description": "Insert, detect, and manage custom callout types with a unified modal and full icon support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jv209/callout-control-panel"
+  },
+  {
     "id": "hiker-scrolls",
     "name": "HikerScrolls",
     "author": "rickliang-jy",
@@ -28437,7 +28444,7 @@
     "id": "operon",
     "name": "Operon",
     "author": "Hasan Yılmaz",
-    "description": "Task and project management system that unifies inline tasks and file-based tasks in the same workflows with filters, Calendar planning, Kanban boards, recurrence, pinned tasks, and time tracking. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Task and project management system that unifies inline tasks and file-based tasks in the same workflows with Tables, Filters, Calendar planning, Kanban boards, pinned tasks, and time tracking. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hasanyilmaz/operon"
   },
   {
@@ -38246,5 +38253,12 @@
     "author": "Zach Norgaard",
     "description": "D&D session toolkit: create typed campaign notes (NPCs, sessions, adventure logs, locations, PCs) with wikilink cross-references, roll on dice tables, and generate tables and session recaps with AI. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "znorgaard/azer"
+  },
+  {
+    "id": "zim-reader",
+    "name": "ZIM Reader",
+    "author": "mrrepac",
+    "description": "Read offline ZIM archives (Kiwix, Wikipedia) inside Obsidian: search by title and read articles with working links and images, straight from a local .zim file. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mrrepac/obsidian-zim-reader"
   }
 ]
