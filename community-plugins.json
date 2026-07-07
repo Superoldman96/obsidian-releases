@@ -2408,6 +2408,13 @@
     "repo": "manic/obsidian-wrap-with-shortcuts"
   },
   {
+    "id": "obsidian-import-json",
+    "name": "JSON-CSV Importer",
+    "author": "farling42",
+    "description": "Import a JSON file containing an array of data, creating notes from a Handlebars template file.",
+    "repo": "farling42/obsidian-import-json"
+  },
+  {
     "id": "obsidian-timestamper",
     "name": "TimeStamper",
     "author": "gru80",
@@ -23751,13 +23758,6 @@
     "repo": "reallygood83/obsidian-embedder"
   },
   {
-    "id": "squire",
-    "name": "Squire",
-    "author": "choonkending",
-    "description": "Your faithful note-taking companion. Squire automates index numbering and surfaces related notes so you can stay in your flow state. No manual calculation, no hunting for connections. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "choonkending/obsidian-squire"
-  },
-  {
     "id": "regex-replace",
     "name": "Regex Replace",
     "author": "bongho",
@@ -24323,13 +24323,6 @@
     "author": "whiskeyjack96",
     "description": "Enables an AI Agent (Lode) that uses Agent Client Protocol (ACP), to communicate directly with your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "whiskeyjack96/obsidian-acp"
-  },
-  {
-    "id": "furigana-generator",
-    "name": "Furigana Generator",
-    "author": "atacansuder",
-    "description": "Automatically generates furigana for Japanese characters. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "atacansuder/obsidian-furigana-generator"
   },
   {
     "id": "manuscriptum",
@@ -30569,13 +30562,6 @@
     "repo": "qianwei4712/obsidian-word-reader"
   },
   {
-    "id": "pandocit",
-    "name": "PandoCit",
-    "author": "l'Atelier",
-    "description": "Citations Pandoc, bibliothèque Zotero (API), lecteurs PDF/EPUB et annotations dans Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "atelier-recherche/pandocit"
-  },
-  {
     "id": "youtube-search",
     "name": "YouTube Search",
     "author": "plasch",
@@ -30714,6 +30700,13 @@
     "author": "Alvaro Mateo",
     "description": "Monitors folders for files added and runs custom actions based on user rules. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "alvaromateo/folderer"
+  },
+  {
+    "id": "omd-to-typst",
+    "name": "Omd2Typst",
+    "author": "A.W. Alberts",
+    "description": "Export your notes to professional looking PDFs via Typst. Auto-adding a cover page, revision page, TOC and optional figure list. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tisgoud/Obsidian-Omd2Typst"
   },
   {
     "id": "private-quartz-publish",
@@ -31645,13 +31638,6 @@
     "author": "Noe AV",
     "description": "Assign gradient colors to folders and files in the file explorer. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "noe-av/folder-color"
-  },
-  {
-    "id": "onedrive-sync",
-    "name": "OneDrive Sync",
-    "author": "Jeff Steinbok",
-    "description": "Sync your Obsidian vault with OneDrive Personal/Consumer - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jeffsteinbok/obsidian-onedrive"
   },
   {
     "id": "codeblock-crbasic",
@@ -38225,5 +38211,19 @@
     "author": "kebl3541",
     "description": "Import PDFs into your vault and save text selections as highlight notes with deep links that reopen the PDF at the highlighted passage. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kebl3541/Obsidian-PDF-Highlight-Notes"
+  },
+  {
+    "id": "svg-editor",
+    "name": "SVG Editor",
+    "author": "Gal Katzhendler",
+    "description": "Edit inline SVG code blocks visually — draw lines, circles, rectangles and freehand scribbles — or switch to code mode to edit the SVG source directly. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "galkatzh/obs-svg"
+  },
+  {
+    "id": "code-snippet-manager",
+    "name": "code-snippet-manager",
+    "author": "jingmengzhiyue",
+    "description": "Collect, organize, format, search, and explain code snippets in Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jingmengzhiyue/obsidian-code-snippet-manager"
   }
 ]
