@@ -1820,25 +1820,11 @@
     "repo": "egradman/scales-chords"
   },
   {
-    "id": "obsidian-card-view-mode",
-    "name": "Card View Mode",
-    "author": "yo-goto",
-    "description": "Enable to view your notes as cards.",
-    "repo": "yo-goto/obsidian-card-view-mode"
-  },
-  {
     "id": "workspaces-plus",
     "name": "Workspaces Plus",
     "author": "jsmorabito",
     "description": "Quickly switch and manage workspaces.",
     "repo": "jsmorabito/obsidian-workspaces-plus"
-  },
-  {
-    "id": "copy-note",
-    "name": "Enhance Copy Note",
-    "author": "kzhovn",
-    "description": "Add commands to copy active note and copy folders.",
-    "repo": "kzhovn/copy-command-obsidian"
   },
   {
     "id": "customizable-menu",
@@ -21777,13 +21763,6 @@
     "repo": "xsixteen/obsidian-daily-heatmap"
   },
   {
-    "id": "jotbird",
-    "name": "JotBird",
-    "author": "jotbirdhq",
-    "description": "Publish notes as shareable web pages with one click. No account required. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jotbirdhq/obsidian-jotbird"
-  },
-  {
     "id": "shamsi-date-converter",
     "name": "Shamsi Date Converter",
     "author": "milad-s5",
@@ -21971,6 +21950,13 @@
     "author": "landn.thrn",
     "description": "Automatic graph creation & maintenance through real-time updating. Additionally includes quick access folder hubs. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "landnthrn/Obsidian-GraphForge"
+  },
+  {
+    "id": "obisidian-dataloom",
+    "name": "DataLoom",
+    "author": "Aykut Kardas",
+    "description": "Weave together data from diverse sources into different views. Inspired by Excel Spreadsheets and Notion.so. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aykutkardas/obsidian-dataloom"
   },
   {
     "id": "stock-blocks",
@@ -26444,6 +26430,13 @@
     "author": "William Guy",
     "description": "A native study system for your Obsidian vault. LearnKit turns notes into durable knowledge with flashcards, spaced repetition, tests, and more. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ctrlaltwill/learnkit"
+  },
+  {
+    "id": "horme",
+    "name": "Horme",
+    "author": "ducktapekiller",
+    "description": "AI-powered assistant with chat, right-click actions, vault-wide RAG, and an extensible skill system. Supports Ollama, Claude, Gemini, OpenAI, Groq, OpenRouter, and LM Studio. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ducktapekiller/horme"
   },
   {
     "id": "github-wiki-sync",
@@ -36694,13 +36687,6 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
-    "id": "pivi",
-    "name": "Pivi",
-    "author": "shuuul",
-    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "shuuul/obsidian-pivi"
-  },
-  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -37985,7 +37971,7 @@
     "id": "property-icons",
     "name": "Property Icons",
     "author": "runnerback",
-    "description": "Show badge icons before file names in the explorer based on note property (frontmatter) rules. Configure multiple rule groups with AND/OR conditions, each mapped to a built-in brand icon or your own uploaded image. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Show badge icons before file names in the explorer based on note property (frontmatter) rules. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "runnerback/property-icons"
   },
   {
@@ -37994,13 +37980,6 @@
     "author": "Cong-xu",
     "description": "A lightweight project-management board with Linear-style columns, cards, tags, drag-and-drop, and local board files. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cong-xu/flowboard-pm"
-  },
-  {
-    "id": "key-sequence",
-    "name": "Key Sequence",
-    "author": "wantchane",
-    "description": "Assign multi-key sequences to any command. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "wantchane/key-sequence-obsidian"
   },
   {
     "id": "speakout",
@@ -38022,6 +38001,13 @@
     "author": "Abdulkader Safi",
     "description": "A live calculator code block: write expressions and see each line's result, with units, currencies, percentages, and dates. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "abdulkader-safi/obsidian-s_calc-plugins"
+  },
+  {
+    "id": "auto-beautiful-mermaid",
+    "name": "Auto Beautiful Mermaid",
+    "author": "rxdxxxx",
+    "description": "Smart-routes Mermaid diagrams: beautiful-mermaid for its 6 supported types, Obsidian's built-in engine for everything else. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rxdxxxx/obsidian-auto-beautiful-mermaid"
   },
   {
     "id": "calibre-bridge",
@@ -38150,6 +38136,13 @@
     "repo": "eventidemiles/eventide-quill"
   },
   {
+    "id": "drum-notation",
+    "name": "Drum Notation",
+    "author": "Viktor Kamolov",
+    "description": "Render drum kit notation as SVG staff notation with playback controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vkamolov/obsidian-drum-notation"
+  },
+  {
     "id": "unhidden",
     "name": "Unhidden",
     "author": "notenerd",
@@ -38169,5 +38162,33 @@
     "author": "Serena",
     "description": "Shortens the backlink the Tasks plugin displays under each task to just the note basename, instead of the full path, heading, and .md extension. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "vishae/tasks-backlink-shortener"
+  },
+  {
+    "id": "bookmark-list-generator",
+    "name": "Bookmark List File Generator",
+    "author": "newcodejin",
+    "description": "Generate a markdown file from Obsidian bookmarks automatically - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "newcodejin/obsidian-bookmark-list-generator"
+  },
+  {
+    "id": "expansive-local-graph",
+    "name": "Expansive Local Graph",
+    "author": "Kolpa4",
+    "description": "Experimental patch for per-node local graph depth. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kolpa4/Expansive-local-graph"
+  },
+  {
+    "id": "reallygood-research",
+    "name": "ReallyGood Research",
+    "author": "reallygood83",
+    "description": "Run NotebookLM/Tavily-style deep research and publish Markdown plus HTML into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "reallygood83/reallygood-research"
+  },
+  {
+    "id": "footnote-inline-editor",
+    "name": "Footnote Inline Editor",
+    "author": "kebl3541",
+    "description": "Insert footnotes and edit their text in a popup, without scrolling to the bottom of the note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kebl3541/Obsidian-Footnotes-Plugin"
   }
 ]
