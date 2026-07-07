@@ -18473,13 +18473,6 @@
     "repo": "tuguberk/thought-agent-obsidian"
   },
   {
-    "id": "canvas-loom",
-    "name": "Canvas Loom",
-    "author": "woxin667",
-    "description": "Add functionality to the Canvas for merging, splitting, copying content, and adding markers. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "woxin667/Canvas-Loom"
-  },
-  {
     "id": "sqlite-explorer",
     "name": "SQLite Explorer",
     "author": "qf3l3k",
@@ -20384,13 +20377,6 @@
     "repo": "koshlensky/asciidoc-live"
   },
   {
-    "id": "minimalism-ui",
-    "name": "Minimalism UI",
-    "author": "lucas",
-    "description": "Transform UI into a Typora-like style, with the left side fixing the note status information and the right side focusing on the content of the note. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tcyeee/obsidian-minimalism-ui"
-  },
-  {
     "id": "memo-timeline-feed",
     "name": "Memo Timeline Feed",
     "author": "lbb2446",
@@ -21978,13 +21964,6 @@
     "author": "landn.thrn",
     "description": "Automatic graph creation & maintenance through real-time updating. Additionally includes quick access folder hubs. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "landnthrn/Obsidian-GraphForge"
-  },
-  {
-    "id": "obisidian-dataloom",
-    "name": "DataLoom",
-    "author": "Aykut Kardas",
-    "description": "Weave together data from diverse sources into different views. Inspired by Excel Spreadsheets and Notion.so. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "aykutkardas/obsidian-dataloom"
   },
   {
     "id": "stock-blocks",
@@ -33609,7 +33588,7 @@
   {
     "id": "stashpad",
     "name": "Stashpad",
-    "author": "Grub Basket / OurBrain",
+    "author": "Grub Basket",
     "description": "A chat-style, nested-notes workspace: rapid capture, outliner navigation, fast search, tasks, and per-folder templates, with one-click Open Knowledge Format (OKF) export for LLMs and agents. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "grub-basket/SP"
   },
@@ -34064,7 +34043,7 @@
   {
     "id": "slide-and-reveal",
     "name": "Slide and Reveal",
-    "author": "Grub Basket / OurBrain",
+    "author": "Grub Basket",
     "description": "Scroll-to-reveal flashcard study for diagrams/images. Right-click any folder to open it as a Slide & Reveal view: drop covers over each label, then scroll in place to uncover them one pair at a time. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "grub-basket/SnR"
   },
@@ -36792,6 +36771,13 @@
     "repo": "sparky-code/para-tree"
   },
   {
+    "id": "pomodoro-calendar",
+    "name": "Pomodoro Calendar",
+    "author": "ALLONE5",
+    "description": "A Pomodoro timer plugin with animated rainbow progress bar and CalDAV calendar integration - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "allone5/Pomodoro-calendar"
+  },
+  {
     "id": "github-publish",
     "name": "GitHub Publish",
     "author": "Olivier Rouiller",
@@ -36825,6 +36811,13 @@
     "author": "Riccardo Silvestri",
     "description": "Write and render music notation on a grand staff (treble and bass). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "riccardosilvestri/obsidian-spartito"
+  },
+  {
+    "id": "chew-it",
+    "name": "Chew It",
+    "author": "Jakob He",
+    "description": "Analyze the current note with an LLM in the sidebar — outline, key-concept explanations, and a distilled summary. Works with Claude (Anthropic) and any OpenAI-compatible API. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "leweii/chew-it"
   },
   {
     "id": "safi-site-audit",
@@ -36874,6 +36867,13 @@
     "author": "ove",
     "description": "3D STEP file previewer — powered by OpenCascade WASM + Three.js. Rotate, zoom, and inspect CAD models directly in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dfceo/obsidian-stp-viewer"
+  },
+  {
+    "id": "stashpad-classic",
+    "name": "Stashpad Classic",
+    "author": "Grub Basket",
+    "description": "A chat-style, nested-notes workspace: rapid capture, outliner navigation, fast search, tasks, and per-folder templates, with options to export notes instead of using the System Explorer. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/SP-Classic"
   },
   {
     "id": "cm-code-editor",
@@ -37354,7 +37354,7 @@
   {
     "id": "bases-toolbox",
     "name": "Bases Toolbox",
-    "author": "Grub Basket / OurBrain",
+    "author": "Grub Basket",
     "description": "Quality-of-life tools for Bases and properties: find & replace property values across the vault, stop number properties from changing on arrow keys, and a searchable index of every property. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "grub-basket/Bases-Toolbox"
   },
@@ -37940,6 +37940,13 @@
     "repo": "yzyhhhstudy/paper-deadlines"
   },
   {
+    "id": "vault-crews",
+    "name": "Vault Crews",
+    "author": "Johannes Kaindl",
+    "description": "Run autonomous local LLM agent teams (crews) on your vault via LM Studio - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "johannes-kaindl/vault-crews"
+  },
+  {
     "id": "latex-assistant",
     "name": "LaTeX Assistant",
     "author": "",
@@ -38045,6 +38052,13 @@
     "repo": "ismailivanov/sync-deck"
   },
   {
+    "id": "jw-congregation-program",
+    "name": "JW Kongressprogramm",
+    "author": "Lukas Schütter",
+    "description": "Importiert JW-Kongressprogramme (.jwpub / RTF-ZIP) und erstellt strukturierte Notizen im Vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "realsteeldeal/obsidian-jw-congregation"
+  },
+  {
     "id": "proxmox-vm-list",
     "name": "Proxmox VM List",
     "author": "Pawel Salkiewicz",
@@ -38064,6 +38078,13 @@
     "author": "Johan Mensah",
     "description": "A micro-journal over one vault folder: a feed of posts, threaded replies, and AI reflections. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "johanmensah/obsidian-ripple"
+  },
+  {
+    "id": "local-html-browser",
+    "name": "Local HTML Browser",
+    "author": "sumbass",
+    "description": "Run local file:// HTML apps with full browser behavior — SPAs, hash routes, and live page tabs. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pranavlikesgingerale/obsidian-browser-plugin"
   },
   {
     "id": "status-words",
@@ -38092,5 +38113,33 @@
     "author": "Jaan Altosaar",
     "description": "Turn a week of edits across all your notes into one LLM-ready review; like \"track changes\" for your whole vault, ready to paste into Claude or ChatGPT. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jaanaltosaar/obsidian-microlite"
+  },
+  {
+    "id": "starter-packs",
+    "name": "Starter Packs",
+    "author": "Grub Basket",
+    "description": "Create and share curated lists of community plugins. Share a pack as a link or code; recipients preview the pack and install everything in a couple of clicks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/starter-packs"
+  },
+  {
+    "id": "eventide-quill",
+    "name": "Eventide Quill",
+    "author": "EventideMiles",
+    "description": "A feedback-first, novelist-focused writing assistant. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "eventidemiles/eventide-quill"
+  },
+  {
+    "id": "unhidden",
+    "name": "Unhidden",
+    "author": "notenerd",
+    "description": "Reveal hidden dot-folders (like .claude or .github) in the file explorer, search, and Bases, with live updates, file-type filters, and exclusions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "notenerdofficial/unhidden"
+  },
+  {
+    "id": "journal-mode",
+    "name": "Journal Mode",
+    "author": "Call me KT",
+    "description": "Style your notes with animations, colors, and washi-tape like dividers for expressive digital journaling. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ktgoldwolf/journal-mode"
   }
 ]
