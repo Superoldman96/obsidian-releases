@@ -28889,6 +28889,13 @@
     "repo": "joshua-walls/forge"
   },
   {
+    "id": "secret-placeholders",
+    "name": "Secret Placeholders",
+    "author": "Liam",
+    "description": "Embed password-manager secrets in notes as placeholders so the .md never contains the actual credential. Supports OpenBao/Vault, 1Password Connect, and Bitwarden/Vaultwarden. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lai2301/obsidian-secret-placeholders"
+  },
+  {
     "id": "writing-annotations",
     "name": "Writing Annotations",
     "author": "hornat",
@@ -37688,6 +37695,13 @@
     "repo": "electroluminescent/obsidian-extended-properties"
   },
   {
+    "id": "hybrid-git-sync",
+    "name": "Hybrid Git Sync",
+    "author": "walkskyer",
+    "description": "Cross-platform Git sync plugin. Desktop uses native git, mobile uses GitHub/GitLab API. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wk-obsidian/HybridGitSync"
+  },
+  {
     "id": "eve-apple-tree",
     "name": "Eve Apple Tree Thinking System",
     "author": "Evelyn Chan",
@@ -37926,6 +37940,13 @@
     "repo": "yzyhhhstudy/paper-deadlines"
   },
   {
+    "id": "latex-assistant",
+    "name": "LaTeX Assistant",
+    "author": "",
+    "description": "VSCode+LaTeX Workshop-like editing experience: snippets, auto-completion, smart newlines, bracket pairing, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "erimanga/Latex-assistant"
+  },
+  {
     "id": "auto-ledger",
     "name": "Auto Ledger",
     "author": "BetaGifted",
@@ -38043,5 +38064,19 @@
     "author": "Johan Mensah",
     "description": "A micro-journal over one vault folder: a feed of posts, threaded replies, and AI reflections. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "johanmensah/obsidian-ripple"
+  },
+  {
+    "id": "status-words",
+    "name": "StatusWords",
+    "author": "zimabx",
+    "description": "Customizable word and character statistics in the Obsidian status bar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zimabx/status-words"
+  },
+  {
+    "id": "opencode-wsl",
+    "name": "OpenCode WSL",
+    "author": "emmet24",
+    "description": "Embed OpenCode TUI in the Obsidian sidebar via a lightweight WebSocket bridge to WSL. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "emmet24/obsidian-opencode-wsl"
   }
 ]
