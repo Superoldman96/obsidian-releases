@@ -15960,13 +15960,6 @@
     "repo": "64mm4-kn1f3/regex-line-filter"
   },
   {
-    "id": "openaugi",
-    "name": "OpenAugi",
-    "author": "bitsofchris",
-    "description": "Parse your voice notes into atomic notes, tasks, and summaries. OpenAugi is the voice to self-organizing second brain. While taking a voice note say 'auggie' to help the agent. Augmented Intelligence is AI for thinkers.",
-    "repo": "bitsofchris/openaugi-obsidian-plugin"
-  },
-  {
     "id": "virtual-footer",
     "name": "Virtual Content",
     "author": "signynt",
@@ -21763,6 +21756,13 @@
     "repo": "xsixteen/obsidian-daily-heatmap"
   },
   {
+    "id": "jotbird",
+    "name": "JotBird",
+    "author": "jotbirdhq",
+    "description": "Publish notes as shareable web pages with one click. No account required. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jotbirdhq/obsidian-jotbird"
+  },
+  {
     "id": "shamsi-date-converter",
     "name": "Shamsi Date Converter",
     "author": "milad-s5",
@@ -21927,7 +21927,7 @@
     "id": "fakelink",
     "name": "fakelink",
     "author": "godfatherlg",
-    "description": "Automatically creates virtual links for text that match the titles or headers of other notes in your vault. Create a glossary-like functionality, can transform them to real links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Automatically creates virtual links for text that match the titles or headers of other notes in your vault. Create a glossary-like functionality, based on virtual linker - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "godfatherlg/fakelink"
   },
   {
@@ -26395,13 +26395,6 @@
     "author": "Axelle Abbadie",
     "description": "Pseudonymize and correct interactional transcripts (Jefferson, ICOR, SRT, CHAT/CHA). Designed for qualitative researchers in linguistics and conversation analysis. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "core-hn/pseudobsidian-ization"
-  },
-  {
-    "id": "codex-panel",
-    "name": "Codex Panel",
-    "author": "murashit",
-    "description": "Codex in your sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "murashit/codex-panel"
   },
   {
     "id": "spotify-sorter",
@@ -32473,13 +32466,6 @@
     "repo": "flowing-abyss/obsidian-hybrid-search-plugin"
   },
   {
-    "id": "grimoire",
-    "name": "Grimoire",
-    "author": "Michael Makarov",
-    "description": "Run Claude Code, Codex, Grok, AntiGravity, Gemini CLI, and OpenCode as local AI agents in your vault, with chat, inline editing, and tools. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sandsaber/Grimoire"
-  },
-  {
     "id": "headings-indicator",
     "name": "Headings Indicator",
     "author": "willwang",
@@ -33206,13 +33192,6 @@
     "author": "Johan Denoyer",
     "description": "Automatically generate 2-5 relevant tags for your notes using ChatGPT or Claude AI. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jdenoy/obsidian-smart-tagger"
-  },
-  {
-    "id": "hanmark",
-    "name": "HanMark",
-    "author": "Achmage",
-    "description": "Import HWP, HWPX, PDF, DOCX and XLSX files into your notes as Markdown, and convert notes back to HWP, DOCX and HTML through templates. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "laguna821/hanmark"
   },
   {
     "id": "pokemon-pet",
@@ -36687,6 +36666,13 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
+    "id": "pivi",
+    "name": "Pivi",
+    "author": "shuuul",
+    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shuuul/obsidian-pivi"
+  },
+  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -37632,13 +37618,6 @@
     "repo": "estrenuo/vault-companion-for-claude"
   },
   {
-    "id": "timelinex",
-    "name": "TimeLineX",
-    "author": "Siavash Ameli",
-    "description": "Organize and visualize notes chronologically across multiple overlaid timelines, with Gregorian, Persian (Solar Hijri), and Islamic (Hijri) calendar support. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "siavashameli/TimelineX"
-  },
-  {
     "id": "consensus-research",
     "name": "Parallax",
     "author": "maxonamission",
@@ -38048,7 +38027,7 @@
     "id": "immich-journal",
     "name": "Immich Journal",
     "author": "fcandi",
-    "description": "Insert photos from Immich into daily note's, resized, captioned, and linked back to Immich. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Insert photos taken on a daily note's date from a self-hosted Immich server, resized, captioned, and linked back to Immich. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fcandi/obsidian-immich-journal"
   },
   {
@@ -38190,5 +38169,12 @@
     "author": "kebl3541",
     "description": "Insert footnotes and edit their text in a popup, without scrolling to the bottom of the note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kebl3541/Obsidian-Footnotes-Plugin"
+  },
+  {
+    "id": "self-hosted-vault-sync",
+    "name": "Self-Hosted Vault Sync",
+    "author": "Valentin Britvich",
+    "description": "Fast, reliable vault sync via a self-hosted server - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "peoneer/self-hosted-vault-sync"
   }
 ]
