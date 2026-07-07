@@ -4285,5 +4285,12 @@
     "repo": "cmdurham/wake_up_samurai",
     "screenshot": "wake-up-samurai.png",
     "modes": ["dark"]
+  },
+  {
+    "name": "Lectern",
+    "author": "Papaya",
+    "repo": "papaya2k/obsidian-lectern-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
