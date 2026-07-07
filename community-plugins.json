@@ -35294,13 +35294,6 @@
     "repo": "linkongren/obsidian-bible-study"
   },
   {
-    "id": "pdf-scholia-scribe",
-    "name": "PDF Scholia Scribe",
-    "author": "michellegdyason",
-    "description": "Citation-focused PDF annotation and note-linking for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "michellegdyason/pdf-scholia-scribe"
-  },
-  {
     "id": "watch-later-synthesizer",
     "name": "Watch Later Synthesizer",
     "author": "ibrh96-prog",
@@ -38029,5 +38022,12 @@
     "author": "Walter",
     "description": "Tiny progress bars in the file explorer showing how full each note is, relative to a target character count. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sonna-io/obsidian-files-progress"
+  },
+  {
+    "id": "ripple",
+    "name": "Ripple",
+    "author": "Johan Mensah",
+    "description": "A micro-journal over one vault folder: a feed of posts, threaded replies, and AI reflections. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "johanmensah/obsidian-ripple"
   }
 ]

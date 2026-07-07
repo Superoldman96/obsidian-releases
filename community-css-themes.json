@@ -3972,6 +3972,13 @@
     "modes": ["light"]
   },
   {
+    "name": "Claude Code Orange",
+    "author": "kleokl7",
+    "repo": "kleokl7/Claude-Code-Obsidian-Theme",
+    "screenshot": "theme-preview.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Gothic",
     "author": "Highway-wu",
     "repo": "highway-wu/obsidian-gothic",
@@ -4264,5 +4271,12 @@
     "repo": "real-fruit-snacks/terminal-workbench",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Wake Up Samurai",
+    "author": "Chris Durham",
+    "repo": "cmdurham/wake_up_samurai",
+    "screenshot": "wake-up-samurai.png",
+    "modes": ["dark"]
   }
 ]
