@@ -33586,6 +33586,13 @@
     "repo": "yaye-work/obsidian-draw-a-mermaid"
   },
   {
+    "id": "arxiv-daily",
+    "name": "arXiv Daily",
+    "author": "Da-Chuan Tian",
+    "description": "Daily arXiv tracker that filters and summarizes papers via LLM into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tdccccc/arxiv-daily"
+  },
+  {
     "id": "pageden-sync",
     "name": "Pageden Sync",
     "author": "Chris Ian Fiel",
@@ -35238,13 +35245,6 @@
     "repo": "rapphcd/daily-tracker"
   },
   {
-    "id": "epub-reader-highlighter",
-    "name": "EPUB Reader and Highlighter",
-    "author": "Aria",
-    "description": "Read EPUB files inside Obsidian with persistent, color-coded highlights, notes, and Markdown export. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "okkio-31mon/epub-reader-highlighter"
-  },
-  {
     "id": "outline-level-fold",
     "name": "Outline Level Fold",
     "author": "Josip Markus",
@@ -36652,13 +36652,6 @@
     "repo": "viy1204/smart-red-public"
   },
   {
-    "id": "momentum-life",
-    "name": "Momentum Life",
-    "author": "Jaime Nagase",
-    "description": "All-in-one life dashboard for habits, tasks, fitness, nutrition and studies, stored as plain Markdown notes in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jnagase/obsidian-momentum"
-  },
-  {
     "id": "film-artist-search",
     "name": "Film Artist Search",
     "author": "Hamza Moiyadi",
@@ -37422,6 +37415,13 @@
     "repo": "myeongsoyi/obsidian-docket"
   },
   {
+    "id": "habits",
+    "name": "Habits",
+    "author": "jamescliffordspratt",
+    "description": "Habit tracker with streaks, charts, and statistics. Log daily habits from a carousel dashboard or sidebar panel, pause habits without losing streaks, and export printable PDF reports. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jamescliffordspratt/obsidian-habits"
+  },
+  {
     "id": "inkedmark",
     "name": "InkedMark",
     "author": "Liqpil",
@@ -38078,5 +38078,19 @@
     "author": "emmet24",
     "description": "Embed OpenCode TUI in the Obsidian sidebar via a lightweight WebSocket bridge to WSL. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "emmet24/obsidian-opencode-wsl"
+  },
+  {
+    "id": "character-companion",
+    "name": "Character Companion",
+    "author": "DevilSurvivor2",
+    "description": "Shows animated character sprites living in the side panel and walking along the bottom edge, with click animations, speech bubbles, and an optional reactive comment feed. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "devilsurvivor2/character-companion"
+  },
+  {
+    "id": "microlite",
+    "name": "Microlite",
+    "author": "Jaan Altosaar",
+    "description": "Turn a week of edits across all your notes into one LLM-ready review; like \"track changes\" for your whole vault, ready to paste into Claude or ChatGPT. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jaanaltosaar/obsidian-microlite"
   }
 ]
