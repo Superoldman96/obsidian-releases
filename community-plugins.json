@@ -20958,13 +20958,6 @@
     "repo": "22-2/obsidian-on-demand-plugins"
   },
   {
-    "id": "callout-control-panel",
-    "name": "Callout Control Panel",
-    "author": "jv209",
-    "description": "Insert, detect, and manage custom callout types with a unified modal and full icon support. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jv209/callout-control-panel"
-  },
-  {
     "id": "hiker-scrolls",
     "name": "HikerScrolls",
     "author": "rickliang-jy",
@@ -31474,9 +31467,9 @@
   {
     "id": "auto-move-on-property",
     "name": "Auto Move On Property",
-    "author": "Soul",
+    "author": "soulbits-vibe2",
     "description": "Automatically moves notes from root to folders based on a YAML property. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "destiny911/Obsidian-Auto-Move-On-Property"
+    "repo": "SoulBits-Vibe/Obsidian-Auto-Move-On-Property"
   },
   {
     "id": "douyin-capture",
@@ -36386,6 +36379,13 @@
     "repo": "nicklennonliu/obsidian-codex-session-archive"
   },
   {
+    "id": "hearth",
+    "name": "Hearth",
+    "author": "ondreu",
+    "description": "A beautiful, customizable home screen — search, dashboard, and launcher in one, with many card options and embeds. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ondreu/Hearth"
+  },
+  {
     "id": "vault-not-a-typo",
     "name": "Vault - Not A Typo",
     "author": "Remi HOEPPE",
@@ -37504,6 +37504,13 @@
     "author": "Saunak Karnati",
     "description": "Record audio from the ribbon, save it to your vault, and create Groq-powered transcription notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sonickarnati/flux-tts"
+  },
+  {
+    "id": "smarttask",
+    "name": "SmartTask",
+    "author": "SmartTask Team",
+    "description": "高性能、易操作的智能任务管理插件。支持多视图、快速创建、智能查询。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fat-pumpkin/SmarTask"
   },
   {
     "id": "pinax",
