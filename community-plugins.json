@@ -22946,6 +22946,13 @@
     "repo": "selfish/obsidian-task-planner"
   },
   {
+    "id": "lighthouse",
+    "name": "Lighthouse",
+    "author": "benjamincassidy",
+    "description": "Project-based writing. Manage multiple writing projects with word counts, filtered views, and distraction-free writing. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "benjamincassidy/lighthouse"
+  },
+  {
     "id": "full-calendar-remastered",
     "name": "Full Calendar Remastered",
     "author": "obsidian-full-calendar-remastered",
@@ -26395,6 +26402,13 @@
     "author": "Axelle Abbadie",
     "description": "Pseudonymize and correct interactional transcripts (Jefferson, ICOR, SRT, CHAT/CHA). Designed for qualitative researchers in linguistics and conversation analysis. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "core-hn/pseudobsidian-ization"
+  },
+  {
+    "id": "codex-panel",
+    "name": "Codex Panel",
+    "author": "murashit",
+    "description": "Codex in your sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "murashit/codex-panel"
   },
   {
     "id": "spotify-sorter",
@@ -32466,6 +32480,13 @@
     "repo": "flowing-abyss/obsidian-hybrid-search-plugin"
   },
   {
+    "id": "grimoire",
+    "name": "Grimoire",
+    "author": "Michael Makarov",
+    "description": "Run Claude Code, Codex, Grok, AntiGravity, Gemini CLI, and OpenCode as local AI agents in your vault, with chat, inline editing, and tools. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sandsaber/Grimoire"
+  },
+  {
     "id": "headings-indicator",
     "name": "Headings Indicator",
     "author": "willwang",
@@ -33194,6 +33215,13 @@
     "repo": "jdenoy/obsidian-smart-tagger"
   },
   {
+    "id": "hanmark",
+    "name": "HanMark",
+    "author": "Achmage",
+    "description": "Import HWP, HWPX, PDF, DOCX and XLSX files into your notes as Markdown, and convert notes back to HWP, DOCX and HTML through templates. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "laguna821/hanmark"
+  },
+  {
     "id": "pokemon-pet",
     "name": "Pokemon Pet",
     "author": "aisatsanz",
@@ -33780,6 +33808,13 @@
     "author": "Ahmed",
     "description": "All-in-one productivity suite: Formatting Palette, AI Smart Templates, Image Control, Fullscreen Note, Premium File Tree, Quick Access Bar, and Folder Focus Mode. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ahmdmusa/obsidian-toolkit"
+  },
+  {
+    "id": "galaxy-view",
+    "name": "Galaxy View",
+    "author": "Rick",
+    "description": "Cinematic 3D graph view of your vault — fly through your notes like NASA Eyes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "longwind1984/galaxy-view"
   },
   {
     "id": "cryptopad",
@@ -36057,13 +36092,6 @@
     "repo": "arias007/obsidian-ntfy"
   },
   {
-    "id": "cancip",
-    "name": "Cancip",
-    "author": "Murat",
-    "description": "AI side panel for vault search, memory context, and safe note assistance. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "arias007/cancip"
-  },
-  {
     "id": "canvas-layer-order",
     "name": "Canvas Layer Order",
     "author": "fengzhe",
@@ -37618,6 +37646,13 @@
     "repo": "estrenuo/vault-companion-for-claude"
   },
   {
+    "id": "timelinex",
+    "name": "TimeLineX",
+    "author": "Siavash Ameli",
+    "description": "Add Timeline View to Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "siavashameli/TimelineX"
+  },
+  {
     "id": "consensus-research",
     "name": "Parallax",
     "author": "maxonamission",
@@ -38176,5 +38211,19 @@
     "author": "Valentin Britvich",
     "description": "Fast, reliable vault sync via a self-hosted server - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "peoneer/self-hosted-vault-sync"
+  },
+  {
+    "id": "hans-kanban",
+    "name": "Hans Kanban",
+    "author": "Hans Lin 林思翰",
+    "description": "Kanban and masonry card views for Bases: whole-card coloring by property, on-card status switching, adjustable column widths, swimlanes, and a minimal mode. UI in English and Traditional Chinese. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hansai-art/obsidian-hans-kanban"
+  },
+  {
+    "id": "pdf-highlight-notes",
+    "name": "PDF Highlight Notes",
+    "author": "kebl3541",
+    "description": "Import PDFs into your vault and save text selections as highlight notes with deep links that reopen the PDF at the highlighted passage. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kebl3541/Obsidian-PDF-Highlight-Notes"
   }
 ]
