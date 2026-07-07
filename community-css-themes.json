@@ -4273,6 +4273,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Apple Notes",
+    "author": "Alex Simion",
+    "repo": "alexxozo/apple-notes-obsidian",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Wake Up Samurai",
     "author": "Chris Durham",
     "repo": "cmdurham/wake_up_samurai",
