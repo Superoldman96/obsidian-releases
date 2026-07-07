@@ -20377,6 +20377,13 @@
     "repo": "koshlensky/asciidoc-live"
   },
   {
+    "id": "minimalism-ui",
+    "name": "Minimalism UI",
+    "author": "lucas",
+    "description": "Transform UI into a Typora-like style, with the left side fixing the note status information and the right side focusing on the content of the note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tcyeee/obsidian-minimalism-ui"
+  },
+  {
     "id": "memo-timeline-feed",
     "name": "Memo Timeline Feed",
     "author": "lbb2446",
@@ -37184,6 +37191,13 @@
     "repo": "ondreu/mass-editor"
   },
   {
+    "id": "simple-sync-notes",
+    "name": "Simple Sync Notes",
+    "author": "devkirkir",
+    "description": "Syncs notes between your vault and a CouchDB. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "devkirkir/obsidian-simple-sync-plugin"
+  },
+  {
     "id": "bonds",
     "name": "Bonds",
     "author": "Zak",
@@ -37674,6 +37688,13 @@
     "repo": "p0shkar/LibreTranslate-for-Obsidian"
   },
   {
+    "id": "bamboo-walking",
+    "name": "Bamboo Walking",
+    "author": "羽鳞君",
+    "description": "个人写作专栏 · 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生 | Personal writing column reader - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-bamboo-walking"
+  },
+  {
     "id": "promptbox",
     "name": "Promptbox",
     "author": "istefox",
@@ -38141,5 +38162,12 @@
     "author": "Call me KT",
     "description": "Style your notes with animations, colors, and washi-tape like dividers for expressive digital journaling. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ktgoldwolf/journal-mode"
+  },
+  {
+    "id": "tasks-backlink-shortener",
+    "name": "Tasks Backlink Shortener",
+    "author": "Serena",
+    "description": "Shortens the backlink the Tasks plugin displays under each task to just the note basename, instead of the full path, heading, and .md extension. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vishae/tasks-backlink-shortener"
   }
 ]
