@@ -19229,6 +19229,13 @@
     "repo": "jabaho9523/obsidian-paste-plus"
   },
   {
+    "id": "epochgram",
+    "name": "Epochgram",
+    "author": "Andriy Babets",
+    "description": "A timemap of your mind - turn your notes into an AI-powered interactive timeline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "2brn/epochgram"
+  },
+  {
     "id": "focus-mode-banner",
     "name": "Focus Mode Banner",
     "author": "adrianofontanari",
@@ -26507,6 +26514,13 @@
     "author": "o1xhack",
     "description": "Sync your Trakt.tv watchlist, watch history, favorites, and ratings into Markdown notes — with metadata localization and detailed per-episode watch timestamps. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "o1xhack/obsidian-sync-trakt"
+  },
+  {
+    "id": "realclaudian",
+    "name": "Claudian",
+    "author": "Yishen Tu",
+    "description": "Embeds Claude Code/Codex as an AI collaborator in your vault. Your vault becomes agent's working directory, giving it full agentic capabilities: file read/write, search, bash commands, and multi-step workflows. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yishentu/claudian"
   },
   {
     "id": "ima-copilot-sync",
@@ -34734,6 +34748,13 @@
     "repo": "beaurancourt/obsidian-in-file-nav-history"
   },
   {
+    "id": "jamie-sync",
+    "name": "Jamie Sync",
+    "author": "Jamie",
+    "description": "Sync your Jamie meeting notes and transcripts into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "meetjamie/obsidian-sync"
+  },
+  {
     "id": "simple-git",
     "name": "Simple Git",
     "author": "Mikhail Soldatkin",
@@ -37184,6 +37205,13 @@
     "repo": "arumata/obsidian-ai-commit"
   },
   {
+    "id": "mass-editor",
+    "name": "Mass Editor",
+    "author": "ondreu",
+    "description": "Powerful mass search and edit across your vault: nested AND/OR query builder, safe bulk frontmatter/tag/body operations, backups and undo. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ondreu/mass-editor"
+  },
+  {
     "id": "simple-sync-notes",
     "name": "Simple Sync Notes",
     "author": "devkirkir",
@@ -37656,7 +37684,7 @@
     "id": "consensus-research",
     "name": "Parallax",
     "author": "maxonamission",
-    "description": "Where research thinking takes shape: explore a problem before searching, weigh evidence from OpenAlex & Semantic Scholar, challenge your framing, track your beliefs, and keep a methodological account. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Where research thinking takes shape: explore before you search, develop a question through multiple theoretical lenses, weigh OpenAlex & Semantic Scholar evidence, and keep a methodological account. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maxonamission/obsidian-parallax"
   },
   {
@@ -37854,13 +37882,6 @@
     "author": "Labtopia",
     "description": "Configurable duration and dismiss controls for toast notifications, so they don't disappear before you finish reading them. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tikitock/toastmaster"
-  },
-  {
-    "id": "daily-five",
-    "name": "Daily Five",
-    "author": "0libots",
-    "description": "A daily five-letter word game with Daily Note results and lifetime stats. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "0libote/daily-five"
   },
   {
     "id": "open-reader",
@@ -38199,6 +38220,13 @@
     "repo": "vishae/tasks-backlink-shortener"
   },
   {
+    "id": "taskslite",
+    "name": "TaskLite",
+    "author": "SunnyYYLin",
+    "description": "A lightweight tree-aware task manager with Tasks-compatible emoji metadata. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sunnyyylin/obsidian-tasklite"
+  },
+  {
     "id": "bookmark-list-generator",
     "name": "Bookmark List File Generator",
     "author": "newcodejin",
@@ -38388,6 +38416,13 @@
     "repo": "milin-jad/Obsidian_Personal_funds"
   },
   {
+    "id": "empty-trash",
+    "name": "Empty Trash",
+    "author": "pandaAIGC",
+    "description": "Empty Obsidian's local .trash folder in one click, without deleting items one by one. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pandaaigc/obsidian-empty-trash"
+  },
+  {
     "id": "hover-highlight",
     "name": "Hover Highlight",
     "author": "raito1chi",
@@ -38400,5 +38435,12 @@
     "author": "zspatter",
     "description": "Preview links on hover in a floating window: live page, reader view, or metadata card, with embedded media players. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zspatter/obsidian-hoverlay"
+  },
+  {
+    "id": "calendar-heatmap-tracker",
+    "name": "Calendar Heatmap Tracker",
+    "author": "Claude Code",
+    "description": "Inline GitHub-style calendar heatmap trackers rendered directly in your notes, with a quick input field to log today's value. Data is stored in a local JSON file. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mxncrou/Calendar-heatmap-simple"
   }
 ]
