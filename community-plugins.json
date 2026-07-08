@@ -35819,6 +35819,13 @@
     "repo": "leethobbit/obsidian-inkswell-plugin"
   },
   {
+    "id": "cove",
+    "name": "Cove",
+    "author": "Real-Fruit-Snacks",
+    "description": "Bookmark manager with four switchable layouts. Each bookmark is a Markdown file with YAML frontmatter — no proprietary database, no lock-in. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "real-fruit-snacks/Cove"
+  },
+  {
     "id": "vault-viewer",
     "name": "Vault Viewer",
     "author": "zhouzeqiang",
@@ -37359,6 +37366,13 @@
     "repo": "waldemar-one/obsidian-empty-tab"
   },
   {
+    "id": "bamboo-immortals",
+    "name": "Bamboo Immortals",
+    "author": "羽鳞君",
+    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-bamboo-immortals"
+  },
+  {
     "id": "pie-tasks",
     "name": "Pie Tasks",
     "author": "Pie Of Mind",
@@ -38260,5 +38274,12 @@
     "author": "Jeff",
     "description": "Jump from daily notes to Google Photos or Immich searches for that date. Supports linked/backlinked daily notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "appendjeff/photo-search-obsidian-plugin"
+  },
+  {
+    "id": "vault-triage",
+    "name": "Vault Triage",
+    "author": "saiken",
+    "description": "Find stale, orphaned, unfinished, and metadata-broken notes, then work through them with a focused review flow. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/vault-triage"
   }
 ]
