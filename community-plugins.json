@@ -22526,6 +22526,13 @@
     "repo": "unbrokenhunter/obsidian-text-hider-plugin"
   },
   {
+    "id": "mini-notes",
+    "name": "Mini Notes",
+    "author": "Bana",
+    "description": "Your quick thoughts, beautifully displayed, with a Google Keep-style colorful card-based view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rknastenka/obsidian-mini-notes"
+  },
+  {
     "id": "spellfix",
     "name": "SpellFix",
     "author": "yoav6",
@@ -35756,13 +35763,6 @@
     "repo": "mrdanrave/auto-linker"
   },
   {
-    "id": "md-razor",
-    "name": "MDRazor",
-    "author": "Sofqi",
-    "description": "Hide formatting markers, list enhancement with soft-break, dir focus, vertical tabs, auto save workspace, auto pic clean. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dyse-sofqi/MDRazor"
-  },
-  {
     "id": "notebookpoint",
     "name": "NotebookPoint",
     "author": "monoi",
@@ -36694,6 +36694,13 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
+    "id": "pivi",
+    "name": "Pivi",
+    "author": "shuuul",
+    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shuuul/obsidian-pivi"
+  },
+  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -36776,6 +36783,13 @@
     "author": "ALLONE5",
     "description": "A Pomodoro timer plugin with animated rainbow progress bar and CalDAV calendar integration - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "allone5/Pomodoro-calendar"
+  },
+  {
+    "id": "github-publish",
+    "name": "GitHub Publish",
+    "author": "Olivier Rouiller",
+    "description": "Publish your vault notes for free in a few clicks - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "oilandrust/obsidian-github-publish"
   },
   {
     "id": "slide-deck",
@@ -37122,7 +37136,7 @@
   },
   {
     "id": "image-auto-rename",
-    "name": "Image Auto Rename",
+    "name": "Rename Img",
     "author": "Contributors",
     "description": "Automatically rename pasted images, clean image file lists, style Bases rows, and install the Baseline theme. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "milin-jad/Obsidian_plugins"
@@ -37212,13 +37226,6 @@
     "repo": "zqdejob/obsidian-plugin-helper"
   },
   {
-    "id": "trellis",
-    "name": "Trellis",
-    "author": "CocaPls",
-    "description": "Sync a hierarchical location tag (source of truth) into the filename prefix (tagkey). Cascade rename, sidebar tree view, vault bootstrap, and separator batch-change — all link-safe. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "cocapls/obsidian-trellis"
-  },
-  {
     "id": "excalidraw-stylus-menu",
     "name": "Excalidraw Stylus Menu",
     "author": "avtarasov210",
@@ -37231,6 +37238,13 @@
     "author": "Anton",
     "description": "Render gene-code lollipop and pedigree diagrams in Obsidian notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "neznayer/obsidian-gene-code"
+  },
+  {
+    "id": "canvas-task-cards",
+    "name": "Canvas Task Cards",
+    "author": "raito1chi",
+    "description": "Add task cards with completion states to Obsidian Canvas - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "raito1chi/canvas-task-cards"
   },
   {
     "id": "scalosaurus",
@@ -37674,6 +37688,13 @@
     "repo": "cferrugem/obsidian-cfr-find"
   },
   {
+    "id": "beautytasks",
+    "name": "BeautyTasks",
+    "author": "Avni Bilgin",
+    "description": "Aufgaben- und Projektsystem im Todoist-Stil – eine Markdown-Notiz pro Aufgabe, ganz ohne externe Abhängigkeiten. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "avnibilgin/BeautyTasks"
+  },
+  {
     "id": "libretranslate",
     "name": "LibreTranslate",
     "author": "p0shkar",
@@ -37959,6 +37980,13 @@
     "author": "Johannes Kaindl",
     "description": "Run autonomous local LLM agent teams (crews) on your vault via LM Studio - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "johannes-kaindl/vault-crews"
+  },
+  {
+    "id": "obsync-webdav-gpg",
+    "name": "WebDAV GPG Sync",
+    "author": "obsync",
+    "description": "Encrypt vault data with GPG and sync/restore to/from WebDAV. Encrypts both file content and filenames. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "normanify/obsync_webdav_gpg"
   },
   {
     "id": "latex-assistant",
@@ -38365,5 +38393,12 @@
     "author": "zeniadev",
     "description": "Pulls finished notes from your Moltn install into this vault, and (optionally) shares chosen notes back as context. Your files stay yours. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "affluency-dev/obsidian-moltn-sync"
+  },
+  {
+    "id": "personal-funds",
+    "name": "Personal Funds",
+    "author": "Contributors",
+    "description": "A local-first personal funds tracker for income, expenses, credit card payments, lending, dashboard notes, and Canvas summaries. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "milin-jad/Obsidian_Personal_funds"
   }
 ]
