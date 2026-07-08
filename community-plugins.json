@@ -15995,6 +15995,13 @@
     "repo": "64mm4-kn1f3/regex-line-filter"
   },
   {
+    "id": "openaugi",
+    "name": "OpenAugi",
+    "author": "bitsofchris",
+    "description": "Parse your voice notes into atomic notes, tasks, and summaries. OpenAugi is the voice to self-organizing second brain. While taking a voice note say 'auggie' to help the agent. Augmented Intelligence is AI for thinkers.",
+    "repo": "bitsofchris/openaugi-obsidian-plugin"
+  },
+  {
     "id": "virtual-footer",
     "name": "Virtual Content",
     "author": "signynt",
@@ -33397,6 +33404,13 @@
     "repo": "emberleif/Chronoboard"
   },
   {
+    "id": "vim-motions",
+    "name": "Vim Motions",
+    "author": "Emile Bangma",
+    "description": "Enhances Obsidian's Vim mode with Markdown-aware text objects, structural navigation, workspace keyboard control, and a polished Neovim-native experience. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "saberzero1/motions"
+  },
+  {
     "id": "lindar",
     "name": "Lindar",
     "author": "punkyard",
@@ -34361,6 +34375,13 @@
     "author": "Wilmar Rojas Avendaño",
     "description": "Render dbml code blocks as interactive entity-relationship diagrams with dbdiagram.io-style orthogonal routing. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wrojasa/obsidian-dbml-erd"
+  },
+  {
+    "id": "tasks-timeline",
+    "name": "Tasks Timeline",
+    "author": "leonezz",
+    "description": "View and manage vault tasks on a timeline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "leonezz/tasks-timeline-obsidian"
   },
   {
     "id": "conote-git",
@@ -38283,6 +38304,13 @@
     "repo": "rahuletto/supersync"
   },
   {
+    "id": "confluence-page-publisher",
+    "name": "Confluence Page Publisher",
+    "author": "gibranbadrul",
+    "description": "Publish notes to Confluence pages using frontmatter bindings and custom Markdown conversion. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gibranbadrul/obsidian-confluence-page"
+  },
+  {
     "id": "hans-kanban",
     "name": "Hans Kanban",
     "author": "Hans Lin 林思翰",
@@ -38344,6 +38372,20 @@
     "author": "mrrepac",
     "description": "Read offline ZIM archives (Kiwix, Wikipedia) inside Obsidian: search by title and read articles with working links and images, straight from a local .zim file. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mrrepac/obsidian-zim-reader"
+  },
+  {
+    "id": "live-coedit",
+    "name": "AI Co-Editor",
+    "author": "kebl3541",
+    "description": "Co-edit notes live with an AI collaborator: it proposes edits, you review them as track changes and approve, reject, or pick per change. Includes chat, comments, per-word attribution, and snapshots. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kebl3541/Obsidian-AI-Co-Editor"
+  },
+  {
+    "id": "just-another-hotkey-addon",
+    "name": "Just Another Hotkey Addon",
+    "author": "chern-kp",
+    "description": "New useful hotkeys for text editing and several additional features - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chern-kp/JustAnotherHotkeyAddon"
   },
   {
     "id": "wikipedia-importer",
@@ -38491,5 +38533,33 @@
     "author": "JunweiHu0",
     "description": "Select text in any note and instantly see its Google translation in a side panel. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "junweihu0/obsidian-google-translate"
+  },
+  {
+    "id": "rsvp-reader",
+    "name": "RSVP Reader",
+    "author": "Kevin Lin",
+    "description": "Read notes fast with RSVP: words flash one at a time at a fixed point, with an optional voice narrator synced to the words. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kevinsslin/obsidian-rsvp-reader"
+  },
+  {
+    "id": "property-values-browser",
+    "name": "Property Values Browser",
+    "author": "Soul",
+    "description": "Browse frontmatter properties and values with counts, search shortcuts, and delete actions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "soulbits-vibe/property-values-browser"
+  },
+  {
+    "id": "pandoc-export-buttons",
+    "name": "Pandoc Export Buttons",
+    "author": "kebl3541",
+    "description": "One-click buttons that export the current note to Word, PDF, HTML, EPUB, LaTeX, and any other format Pandoc supports. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kebl3541/Obsidian-Pandoc-Export-Buttons"
+  },
+  {
+    "id": "google-drive-merge-sync",
+    "name": "Google Drive Merge Sync",
+    "author": "kebl3541",
+    "description": "Sync your vault with Google Drive using your own credentials. Text conflicts resolve by word level three way merge instead of conflicted copies, and deletes go to trash, never into the void. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kebl3541/Obsidian-Google-Drive-Merge-Sync"
   }
 ]
