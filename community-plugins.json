@@ -1820,11 +1820,25 @@
     "repo": "egradman/scales-chords"
   },
   {
+    "id": "obsidian-card-view-mode",
+    "name": "Card View Mode",
+    "author": "yo-goto",
+    "description": "Enable to view your notes as cards.",
+    "repo": "yo-goto/obsidian-card-view-mode"
+  },
+  {
     "id": "workspaces-plus",
     "name": "Workspaces Plus",
     "author": "jsmorabito",
     "description": "Quickly switch and manage workspaces.",
     "repo": "jsmorabito/obsidian-workspaces-plus"
+  },
+  {
+    "id": "copy-note",
+    "name": "Enhance Copy Note",
+    "author": "kzhovn",
+    "description": "Add commands to copy active note and copy folders.",
+    "repo": "kzhovn/copy-command-obsidian"
   },
   {
     "id": "customizable-menu",
@@ -8888,6 +8902,13 @@
     "author": "pranavmangal",
     "description": "Create and manage daily notes in a single file.",
     "repo": "pranavmangal/obsidian-single-file-daily-notes"
+  },
+  {
+    "id": "semalogic",
+    "name": "UseSemaLogic",
+    "author": "mm-go",
+    "description": "Real-time use of the SemaLogic formal language",
+    "repo": "mm-go/UseSemaLogic"
   },
   {
     "id": "vk-group-notifier",
@@ -28161,13 +28182,6 @@
     "repo": "saiki77/Easy-Git"
   },
   {
-    "id": "smart-tabs",
-    "name": "Smart Tabs",
-    "author": "ksawl",
-    "description": "Open files in new tabs by default, with smart tab deduplication. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ksawl/obsidian-smart-tabs"
-  },
-  {
     "id": "search-movies-tv-tmdb",
     "name": "Search Movies and TV Shows TMDB",
     "author": "Bernardo Nogueira",
@@ -37884,6 +37898,13 @@
     "repo": "tikitock/toastmaster"
   },
   {
+    "id": "daily-five",
+    "name": "Daily Five",
+    "author": "0libots",
+    "description": "A daily five-letter word game with Daily Note results and lifetime stats. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "0libote/daily-five"
+  },
+  {
     "id": "open-reader",
     "name": "Open Reader",
     "author": "lornezhang",
@@ -38451,10 +38472,24 @@
     "repo": "mxncrou/Calendar-heatmap-simple"
   },
   {
+    "id": "vault-telegram-bridge",
+    "name": "Vault Telegram Bridge",
+    "author": "N23eos",
+    "description": "Capture messages from a Telegram bot in your vault. No server required. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "n23eos/vault_telegram_bridge"
+  },
+  {
     "id": "explorer-sort",
     "name": "Explorer Sort",
     "author": "Vlad",
     "description": "Manually arrange files and folders in the file explorer with a custom order per folder. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "vladb-evs/obsidian-explorer-sort"
+  },
+  {
+    "id": "google-selection-translate",
+    "name": "Google Selection Translate",
+    "author": "JunweiHu0",
+    "description": "Select text in any note and instantly see its Google translation in a side panel. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "junweihu0/obsidian-google-translate"
   }
 ]
