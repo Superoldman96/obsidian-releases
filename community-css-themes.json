@@ -4287,6 +4287,13 @@
     "modes": ["dark"]
   },
   {
+    "name": "Football Notes",
+    "author": "Rosetta Zidian Guo",
+    "repo": "fyaic/Football-Obsidian-Theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Lectern",
     "author": "Papaya",
     "repo": "papaya2k/obsidian-lectern-theme",

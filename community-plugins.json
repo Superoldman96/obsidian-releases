@@ -37110,7 +37110,7 @@
     "id": "image-auto-rename",
     "name": "Image Auto Rename",
     "author": "Contributors",
-    "description": "Automatically rename newly created, pasted, or current-file images with the file name and a per-file sequence. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Automatically rename pasted images, clean image file lists, style Bases rows, and install the Baseline theme. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "milin-jad/Obsidian_plugins"
   },
   {
@@ -38281,5 +38281,12 @@
     "author": "saiken",
     "description": "Find stale, orphaned, unfinished, and metadata-broken notes, then work through them with a focused review flow. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "israerusan/vault-triage"
+  },
+  {
+    "id": "attachment-audit",
+    "name": "Attachment Audit",
+    "author": "saiken",
+    "description": "Audit attachments for true orphans, duplicates, oversized files, bad names, and misplaced files, then clean them up safely. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/attachment-audit"
   }
 ]
