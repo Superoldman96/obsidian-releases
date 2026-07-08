@@ -4299,5 +4299,12 @@
     "repo": "papaya2k/obsidian-lectern-theme",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Programming Mono",
+    "author": "SATOSprod",
+    "repo": "satosprod/programming-mono",
+    "screenshot": "cover.png",
+    "modes": ["dark", "light"]
   }
 ]

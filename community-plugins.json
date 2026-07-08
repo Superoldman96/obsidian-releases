@@ -20958,6 +20958,13 @@
     "repo": "22-2/obsidian-on-demand-plugins"
   },
   {
+    "id": "callout-control-panel",
+    "name": "Callout Control Panel",
+    "author": "jv209",
+    "description": "Insert, detect, and manage custom callout types with a unified modal and full icon support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jv209/callout-control-panel"
+  },
+  {
     "id": "hiker-scrolls",
     "name": "HikerScrolls",
     "author": "rickliang-jy",
@@ -29582,6 +29589,13 @@
     "repo": "younginshin115/korean-movie-search"
   },
   {
+    "id": "okb",
+    "name": "Vault Knowledge Base",
+    "author": "dgalichet",
+    "description": "Local semantic search, related notes, and MCP access for AI agents, private to your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dgalichet/obsidian-kb-plugin"
+  },
+  {
     "id": "quadtasks",
     "name": "QuadTasks",
     "author": "Parth",
@@ -35687,7 +35701,7 @@
   },
   {
     "id": "folder-routines",
-    "name": "Folder Routines",
+    "name": "Habit Checklist",
     "author": "shabbirpatheria",
     "description": "Render a checklist in your daily note from a folder structure. Checking an item logs the daily note's date into that note's 'entries' property. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "shabbirpatheria/folder-routines"
@@ -38337,5 +38351,12 @@
     "author": "Joshua Williams",
     "description": "Visualize how your code files connect — imports, calls, inheritance, implements, comment-links, ADRs, and tests — as an interactive graph alongside your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mrjw717/obsidian-code-graph"
+  },
+  {
+    "id": "random-writing-prompt",
+    "name": "Random Writing Prompt",
+    "author": "tallvincent",
+    "description": "Open random writing prompts to spark some creativity - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tallvincent/obsidian-random-writing-prompt"
   }
 ]
