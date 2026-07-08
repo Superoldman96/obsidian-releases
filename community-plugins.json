@@ -20958,13 +20958,6 @@
     "repo": "22-2/obsidian-on-demand-plugins"
   },
   {
-    "id": "callout-control-panel",
-    "name": "Callout Control Panel",
-    "author": "jv209",
-    "description": "Insert, detect, and manage custom callout types with a unified modal and full icon support. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jv209/callout-control-panel"
-  },
-  {
     "id": "hiker-scrolls",
     "name": "HikerScrolls",
     "author": "rickliang-jy",
@@ -21215,6 +21208,13 @@
     "author": "zhuzhige123",
     "description": "Enhance knowledge learning and memory consolidation with incremental reading, memory decks, and practice quiz decks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zhuzhige123/obsidian---Weave"
+  },
+  {
+    "id": "ai-link-summarizer",
+    "name": "AI Link Summarizer",
+    "author": "laroy-sh",
+    "description": "Right-click links in the editor and summarize them with Gemini, OpenAI, or Claude. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "laroy-sh/obsidian-ai-link-summarizer"
   },
   {
     "id": "tab-duplicate",
@@ -29582,13 +29582,6 @@
     "repo": "younginshin115/korean-movie-search"
   },
   {
-    "id": "okb",
-    "name": "Vault Knowledge Base",
-    "author": "dgalichet",
-    "description": "Local semantic search, related notes, and MCP access for AI agents, private to your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dgalichet/obsidian-kb-plugin"
-  },
-  {
     "id": "quadtasks",
     "name": "QuadTasks",
     "author": "Parth",
@@ -32438,6 +32431,13 @@
     "repo": "viggomeesters/obsidian-sql-viewer"
   },
   {
+    "id": "nextcloud-sync",
+    "name": "Nextcloud Sync",
+    "author": "Daisuke ITO",
+    "description": "Bidirectional sync between Obsidian and Nextcloud using hash-based change detection. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "siosig/obsidian-nextcloudsync"
+  },
+  {
     "id": "minimal-hidden-files",
     "name": "Minimal Hidden Files",
     "author": "Viggo Meesters",
@@ -33992,13 +33992,6 @@
     "repo": "watsonlu/obsidian-showdown-viewer"
   },
   {
-    "id": "chat-bubble-renderer",
-    "name": "Chat Bubble Renderer",
-    "author": "bruce2431",
-    "description": "Render Markdown chat logs as WeChat-style bubble dialogs. 将聊天记录渲染为微信风格气泡对话框。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "bruce2431/obsidian-chat-bubble-renderer"
-  },
-  {
     "id": "pagemode",
     "name": "PageMode",
     "author": "Hyunyoung Park",
@@ -35208,6 +35201,13 @@
     "author": "rapphcd",
     "description": "Habit tracking and daily statistics directly in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "rapphcd/daily-tracker"
+  },
+  {
+    "id": "epub-reader-highlighter",
+    "name": "EPUB Reader and Highlighter",
+    "author": "Aria",
+    "description": "Read EPUB files inside Obsidian with persistent, color-coded highlights, notes, and Markdown export. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "okkio-31mon/epub-reader-highlighter"
   },
   {
     "id": "outline-level-fold",
@@ -36610,6 +36610,13 @@
     "repo": "viy1204/smart-red-public"
   },
   {
+    "id": "momentum-life",
+    "name": "Momentum Life",
+    "author": "Jaime Nagase",
+    "description": "All-in-one life dashboard for habits, tasks, fitness, nutrition and studies, stored as plain Markdown notes in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jnagase/obsidian-momentum"
+  },
+  {
     "id": "film-artist-search",
     "name": "Film Artist Search",
     "author": "Hamza Moiyadi",
@@ -37198,6 +37205,13 @@
     "repo": "zqdejob/obsidian-plugin-helper"
   },
   {
+    "id": "trellis",
+    "name": "Trellis",
+    "author": "CocaPls",
+    "description": "Sync a hierarchical location tag (source of truth) into the filename prefix (tagkey). Cascade rename, sidebar tree view, vault bootstrap, and separator batch-change — all link-safe. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cocapls/obsidian-trellis"
+  },
+  {
     "id": "excalidraw-stylus-menu",
     "name": "Excalidraw Stylus Menu",
     "author": "avtarasov210",
@@ -37392,6 +37406,13 @@
     "author": "myeongsoyi",
     "description": "Project management: projects, tasks & subtasks with status, deadlines, and Gantt/WBS/board views. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "myeongsoyi/obsidian-docket"
+  },
+  {
+    "id": "html-page-preview",
+    "name": "HTML Page Preview",
+    "author": "SATOSprod",
+    "description": "Inline preview for embedded HTML files in Obsidian. Expand HTML files directly inside notes with fixed 16:9 or infinite-height rendering. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "satosprod/html-page-preview"
   },
   {
     "id": "habits",
@@ -37644,13 +37665,6 @@
     "author": "cferrugem",
     "description": "Search your vault with a fast, worker-powered index. Typo-tolerant fuzzy matching, in-file search, and optional PDF, image, and Office document indexing. Inspired by Omnisearch. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cferrugem/obsidian-cfr-find"
-  },
-  {
-    "id": "beautytasks",
-    "name": "BeautyTasks",
-    "author": "Avni Bilgin",
-    "description": "Aufgaben- und Projektsystem im Todoist-Stil – eine Markdown-Notiz pro Aufgabe, ganz ohne externe Abhängigkeiten. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "avnibilgin/BeautyTasks"
   },
   {
     "id": "libretranslate",
@@ -37968,6 +37982,13 @@
     "repo": "cong-xu/flowboard-pm"
   },
   {
+    "id": "key-sequence",
+    "name": "Key Sequence",
+    "author": "wantchane",
+    "description": "Assign multi-key sequences to any command. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wantchane/key-sequence-obsidian"
+  },
+  {
     "id": "speakout",
     "name": "Speak Out",
     "author": "Landy",
@@ -38045,6 +38066,13 @@
     "repo": "ismailivanov/sync-deck"
   },
   {
+    "id": "thunderegg",
+    "name": "Thunderegg",
+    "author": "Thunderegg",
+    "description": "Convert any attachment to Markdown on-device, plus the Refinery — track note maturity (Grades), wikilink connections (Bonds), and hub notes (Condensers). Powered by the Thunderegg engine. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "5tukgpt/thunderegg"
+  },
+  {
     "id": "jw-congregation-program",
     "name": "JW Kongressprogramm",
     "author": "Lukas Schütter",
@@ -38085,6 +38113,13 @@
     "author": "emmet24",
     "description": "Embed OpenCode TUI in the Obsidian sidebar via a lightweight WebSocket bridge to WSL. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "emmet24/obsidian-opencode-wsl"
+  },
+  {
+    "id": "vault-router",
+    "name": "Vault Router",
+    "author": "saiken",
+    "description": "Move new notes out of Inbox with fast local routing rules. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/vault-router"
   },
   {
     "id": "character-companion",
@@ -38288,5 +38323,19 @@
     "author": "saiken",
     "description": "Audit attachments for true orphans, duplicates, oversized files, bad names, and misplaced files, then clean them up safely. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "israerusan/attachment-audit"
+  },
+  {
+    "id": "pins-save",
+    "name": "Pins Save",
+    "author": "SATOSprod",
+    "description": "Remembers which Markdown notes you pinned and re-opens them as pinned tabs the next time Obsidian starts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "satosprod/pins-save"
+  },
+  {
+    "id": "code-graph",
+    "name": "Code Graph",
+    "author": "Joshua Williams",
+    "description": "Visualize how your code files connect — imports, calls, inheritance, implements, comment-links, ADRs, and tests — as an interactive graph alongside your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mrjw717/obsidian-code-graph"
   }
 ]
