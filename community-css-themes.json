@@ -4306,5 +4306,12 @@
     "repo": "satosprod/programming-mono",
     "screenshot": "cover.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Docgen",
+    "author": "Maxim Stepanov",
+    "repo": "iammaxim/obsidian-docgen-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
