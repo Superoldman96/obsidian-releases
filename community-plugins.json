@@ -37149,6 +37149,13 @@
     "repo": "floydv149/JW-Relink"
   },
   {
+    "id": "recipe-box",
+    "name": "Recipe Box",
+    "author": "Adam Tommasi",
+    "description": "Turn Markdown recipe notes into an interactive cookbook with meal planning, grocery lists, timers, cook history, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "adamarcane/obsidian-recipebox"
+  },
+  {
     "id": "coderecall",
     "name": "CodeRecall",
     "author": "rixct",
@@ -38528,6 +38535,13 @@
     "repo": "vladb-evs/obsidian-explorer-sort"
   },
   {
+    "id": "pm-compass",
+    "name": "PM Compass",
+    "author": "Laurent Ferier",
+    "description": "Adds a task dashboard, inbox, weekly review, and dependency graph on top of obsidian-pm project notes and Daily Notes checklists. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "laurent-ferier/pm-compass"
+  },
+  {
     "id": "google-selection-translate",
     "name": "Google Selection Translate",
     "author": "JunweiHu0",
@@ -38561,5 +38575,33 @@
     "author": "kebl3541",
     "description": "Sync your vault with Google Drive using your own credentials. Text conflicts resolve by word level three way merge instead of conflicted copies, and deletes go to trash, never into the void. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kebl3541/Obsidian-Google-Drive-Merge-Sync"
+  },
+  {
+    "id": "madr",
+    "name": "MADR Author",
+    "author": "Tijs van Erp",
+    "description": "Author Markdown Architectural Decision Records directly in your vault - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vanerp/obsidian-madr"
+  },
+  {
+    "id": "bookorbit-sync",
+    "name": "BookOrbit Sync",
+    "author": "Sam Ashley",
+    "description": "Sync reading highlights from BookOrbit to Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ble4k/obsidian-bookorbit-sync"
+  },
+  {
+    "id": "cisco-syntax",
+    "name": "Cisco Syntax",
+    "author": "Blake Bratcher",
+    "description": "Syntax highlighting for Cisco IOS, IOS-XE, IOS-XR and NX-OS configuration in fenced code blocks, in both Reading mode and Live Preview. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "blakebratcher/obsidian-cisco-syntax"
+  },
+  {
+    "id": "drawer-explorer",
+    "name": "Drawer Explorer",
+    "author": "Dylan Zhang",
+    "description": "A pop-up drawer file tree with modal vim-style navigation: hjkl to move, a/r/d file ops, i to filter, Esc back to normal mode. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fjx-dylanz/obsidian-drawer-explorer"
   }
 ]
