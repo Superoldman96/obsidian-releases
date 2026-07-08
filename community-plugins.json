@@ -7245,6 +7245,13 @@
     "repo": "ellpeck/ObsidianJustSharePlease"
   },
   {
+    "id": "typewriter-mode",
+    "name": "Typewriter Mode",
+    "author": "davisriedel",
+    "description": "Typewriter scroll, writing focus, current line highlight, paragraph dimming, and more!",
+    "repo": "davisriedel/obsidian-typewriter-mode"
+  },
+  {
     "id": "js-engine",
     "name": "JS Engine",
     "author": "Moritz Jung",
@@ -19222,13 +19229,6 @@
     "repo": "jabaho9523/obsidian-paste-plus"
   },
   {
-    "id": "epochgram",
-    "name": "Epochgram",
-    "author": "Andriy Babets",
-    "description": "A timemap of your mind - turn your notes into an AI-powered interactive timeline. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "2brn/epochgram"
-  },
-  {
     "id": "focus-mode-banner",
     "name": "Focus Mode Banner",
     "author": "adrianofontanari",
@@ -23765,6 +23765,13 @@
     "repo": "reallygood83/obsidian-embedder"
   },
   {
+    "id": "squire",
+    "name": "Squire",
+    "author": "choonkending",
+    "description": "Your faithful note-taking companion. Squire automates index numbering and surfaces related notes so you can stay in your flow state. No manual calculation, no hunting for connections. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "choonkending/obsidian-squire"
+  },
+  {
     "id": "regex-replace",
     "name": "Regex Replace",
     "author": "bongho",
@@ -26500,13 +26507,6 @@
     "author": "o1xhack",
     "description": "Sync your Trakt.tv watchlist, watch history, favorites, and ratings into Markdown notes — with metadata localization and detailed per-episode watch timestamps. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "o1xhack/obsidian-sync-trakt"
-  },
-  {
-    "id": "realclaudian",
-    "name": "Claudian",
-    "author": "Yishen Tu",
-    "description": "Embeds Claude Code/Codex as an AI collaborator in your vault. Your vault becomes agent's working directory, giving it full agentic capabilities: file read/write, search, bash commands, and multi-step workflows. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "yishentu/claudian"
   },
   {
     "id": "ima-copilot-sync",
@@ -34734,13 +34734,6 @@
     "repo": "beaurancourt/obsidian-in-file-nav-history"
   },
   {
-    "id": "jamie-sync",
-    "name": "Jamie Sync",
-    "author": "Jamie",
-    "description": "Sync your Jamie meeting notes and transcripts into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "meetjamie/obsidian-sync"
-  },
-  {
     "id": "simple-git",
     "name": "Simple Git",
     "author": "Mikhail Soldatkin",
@@ -35761,6 +35754,13 @@
     "author": "MrDanRave",
     "description": "Semantic auto-linking: underlines text that matches a note title and offers one-click wiki-link insertion. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mrdanrave/auto-linker"
+  },
+  {
+    "id": "md-razor",
+    "name": "MDRazor",
+    "author": "Sofqi",
+    "description": "Hide formatting markers, list enhancement with soft-break, dir focus, vertical tabs, auto save workspace, auto pic clean. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dyse-sofqi/MDRazor"
   },
   {
     "id": "notebookpoint",
@@ -37184,13 +37184,6 @@
     "repo": "arumata/obsidian-ai-commit"
   },
   {
-    "id": "mass-editor",
-    "name": "Mass Editor",
-    "author": "ondreu",
-    "description": "Powerful mass search and edit across your vault: nested AND/OR query builder, safe bulk frontmatter/tag/body operations, backups and undo. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ondreu/mass-editor"
-  },
-  {
     "id": "simple-sync-notes",
     "name": "Simple Sync Notes",
     "author": "devkirkir",
@@ -37595,13 +37588,6 @@
     "author": "Aiken Lin",
     "description": "Keep note filenames aligned with the first H1 — automatically and safely. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "aiken884/obsidian-h1aligner"
-  },
-  {
-    "id": "obsyncian",
-    "name": "Syncian",
-    "author": "Almas Abulkhairov",
-    "description": "Sync and back up your vault across devices with end-to-end encryption. Requires an Obsyncian account; free tier available, paid plans add storage and vault limit - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "aabulkhairov/obsyncian"
   },
   {
     "id": "folder-limit",
@@ -38400,5 +38386,19 @@
     "author": "Contributors",
     "description": "A local-first personal funds tracker for income, expenses, credit card payments, lending, dashboard notes, and Canvas summaries. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "milin-jad/Obsidian_Personal_funds"
+  },
+  {
+    "id": "hover-highlight",
+    "name": "Hover Highlight",
+    "author": "raito1chi",
+    "description": "Adds a soft cursor glow effect to Canvas, creating a subtle radial light that follows your mouse. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "raito1chi/hover-highlight"
+  },
+  {
+    "id": "hoverlay",
+    "name": "Hoverlay",
+    "author": "zspatter",
+    "description": "Preview links on hover in a floating window: live page, reader view, or metadata card, with embedded media players. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zspatter/obsidian-hoverlay"
   }
 ]
