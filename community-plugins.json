@@ -28182,6 +28182,13 @@
     "repo": "saiki77/Easy-Git"
   },
   {
+    "id": "smart-tabs",
+    "name": "Smart Tabs",
+    "author": "ksawl",
+    "description": "Open files in new tabs by default, with smart tab deduplication. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ksawl/obsidian-smart-tabs"
+  },
+  {
     "id": "search-movies-tv-tmdb",
     "name": "Search Movies and TV Shows TMDB",
     "author": "Bernardo Nogueira",
@@ -33390,13 +33397,6 @@
     "repo": "emberleif/Chronoboard"
   },
   {
-    "id": "vim-motions",
-    "name": "Vim Motions",
-    "author": "Emile Bangma",
-    "description": "Enhances Obsidian's Vim mode with Markdown-aware text objects, structural navigation, workspace keyboard control, and a polished Neovim-native experience. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "saberzero1/motions"
-  },
-  {
     "id": "lindar",
     "name": "Lindar",
     "author": "punkyard",
@@ -34361,13 +34361,6 @@
     "author": "Wilmar Rojas Avendaño",
     "description": "Render dbml code blocks as interactive entity-relationship diagrams with dbdiagram.io-style orthogonal routing. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wrojasa/obsidian-dbml-erd"
-  },
-  {
-    "id": "tasks-timeline",
-    "name": "Tasks Timeline",
-    "author": "leonezz",
-    "description": "View and manage vault tasks on a timeline. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "leonezz/tasks-timeline-obsidian"
   },
   {
     "id": "conote-git",
@@ -38477,6 +38470,13 @@
     "author": "N23eos",
     "description": "Capture messages from a Telegram bot in your vault. No server required. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "n23eos/vault_telegram_bridge"
+  },
+  {
+    "id": "linked-attachments",
+    "name": "Linked Attachments",
+    "author": "Charles Kelsoe",
+    "description": "Offload large, cold files to your own S3-compatible bucket or a local folder, keeping a resolvable pointer note in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ckelsoe/obsidian-linked-attachments"
   },
   {
     "id": "explorer-sort",
