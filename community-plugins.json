@@ -21217,13 +21217,6 @@
     "repo": "zhuzhige123/obsidian---Weave"
   },
   {
-    "id": "ai-link-summarizer",
-    "name": "AI Link Summarizer",
-    "author": "laroy-sh",
-    "description": "Right-click links in the editor and summarize them with Gemini, OpenAI, or Claude. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "laroy-sh/obsidian-ai-link-summarizer"
-  },
-  {
     "id": "tab-duplicate",
     "name": "Tab Duplicate",
     "author": "antoineart",
@@ -38073,13 +38066,6 @@
     "repo": "psalkiewicz/obsidian-proxmox-vm-list"
   },
   {
-    "id": "files-progress",
-    "name": "Files Progress",
-    "author": "Walter",
-    "description": "Tiny progress bars in the file explorer showing how full each note is, relative to a target character count. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sonna-io/obsidian-files-progress"
-  },
-  {
     "id": "ripple",
     "name": "Ripple",
     "author": "Johan Mensah",
@@ -38260,5 +38246,19 @@
     "author": "mrrepac",
     "description": "Read offline ZIM archives (Kiwix, Wikipedia) inside Obsidian: search by title and read articles with working links and images, straight from a local .zim file. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mrrepac/obsidian-zim-reader"
+  },
+  {
+    "id": "wikipedia-importer",
+    "name": "Wikipedia Importer",
+    "author": "Concomitant",
+    "description": "Wikipedia Importer fetches any Wikipedia article and drops it into a new or existing Note in your Vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aedraaelynn/Wikipedia-Importer"
+  },
+  {
+    "id": "claude-code-sync",
+    "name": "Claude Code Sync",
+    "author": "mattbirchler",
+    "description": "Mirror Claude Code sessions into your vault as Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mattbirchler/claude-code-obsidian"
   }
 ]
