@@ -27146,13 +27146,6 @@
     "repo": "tyzzt/select2obsidian"
   },
   {
-    "id": "wisemindai-sync",
-    "name": "WiseMindAI Sync",
-    "author": "chris",
-    "description": "Bi-directionally import and synchronize notes, documents, and knowledge base content between your local knowledge base and WiseMindAI. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "chris8891/wisemindai-sync"
-  },
-  {
     "id": "nodte-translator",
     "name": "Nodte Translator",
     "author": "Caio Gilbert",
@@ -33999,6 +33992,13 @@
     "repo": "patruusbarba/ObsidianSpoilerPlugin"
   },
   {
+    "id": "plaud-importer",
+    "name": "Plaud Importer",
+    "author": "Charles Kelsoe",
+    "description": "Import meeting summaries, transcripts, and attachments from Plaud.AI into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ckelsoe/obsidian-plaud-importer"
+  },
+  {
     "id": "cite-engine",
     "name": "Cite Engine",
     "author": "Nick",
@@ -38318,6 +38318,13 @@
     "repo": "znorgaard/azer"
   },
   {
+    "id": "typing-interface-hider",
+    "name": "Typing Interface Hider",
+    "author": "Sergey Bychkov",
+    "description": "Hides Obsidian chrome while you type, then optionally restores it after idle delay or mouse movement. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sergeybychkovvvpgroup-beep/typing-interface-hider"
+  },
+  {
     "id": "zim-reader",
     "name": "ZIM Reader",
     "author": "mrrepac",
@@ -38442,5 +38449,12 @@
     "author": "Claude Code",
     "description": "Inline GitHub-style calendar heatmap trackers rendered directly in your notes, with a quick input field to log today's value. Data is stored in a local JSON file. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mxncrou/Calendar-heatmap-simple"
+  },
+  {
+    "id": "explorer-sort",
+    "name": "Explorer Sort",
+    "author": "Vlad",
+    "description": "Manually arrange files and folders in the file explorer with a custom order per folder. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vladb-evs/obsidian-explorer-sort"
   }
 ]
