@@ -30149,13 +30149,6 @@
     "repo": "t0masgutierrez/folder-sort"
   },
   {
-    "id": "gallery-view-dashboard",
-    "name": "Gallery View Dashboard",
-    "author": "Kawê Cezar",
-    "description": "Transforms your vault's directory structures into a streamlined grid of card visuals with fallback banners and interactive metadata. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kawecz/gallery-view"
-  },
-  {
     "id": "vir",
     "name": "Vir",
     "author": "Djordje Marković",
@@ -35826,13 +35819,6 @@
     "repo": "leethobbit/obsidian-inkswell-plugin"
   },
   {
-    "id": "cove",
-    "name": "Cove",
-    "author": "Real-Fruit-Snacks",
-    "description": "Bookmark manager with four switchable layouts. Each bookmark is a Markdown file with YAML frontmatter — no proprietary database, no lock-in. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "real-fruit-snacks/Cove"
-  },
-  {
     "id": "vault-viewer",
     "name": "Vault Viewer",
     "author": "zhouzeqiang",
@@ -37373,13 +37359,6 @@
     "repo": "waldemar-one/obsidian-empty-tab"
   },
   {
-    "id": "bamboo-immortals",
-    "name": "Bamboo Immortals",
-    "author": "羽鳞君",
-    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-bamboo-immortals"
-  },
-  {
     "id": "pie-tasks",
     "name": "Pie Tasks",
     "author": "Pie Of Mind",
@@ -38260,5 +38239,26 @@
     "author": "mattbirchler",
     "description": "Mirror Claude Code sessions into your vault as Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mattbirchler/claude-code-obsidian"
+  },
+  {
+    "id": "terminal-workbench-pet",
+    "name": "Terminal Workbench Pet",
+    "author": "Real-Fruit-Snacks",
+    "description": "A small floating ghost that drifts around your vault, follows your cursor, and recolors when you boop it. Matches the Terminal Workbench theme palette. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "real-fruit-snacks/terminal-workbench-pet"
+  },
+  {
+    "id": "read-in-edge",
+    "name": "Read in Edge",
+    "author": "Ooheroism",
+    "description": "Opens the current active Markdown file using Microsoft Edge browser. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ooheroism/obsidian-open-edge-tts"
+  },
+  {
+    "id": "photo-date-search",
+    "name": "Photo Date Search",
+    "author": "Jeff",
+    "description": "Jump from daily notes to Google Photos or Immich searches for that date. Supports linked/backlinked daily notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "appendjeff/photo-search-obsidian-plugin"
   }
 ]
