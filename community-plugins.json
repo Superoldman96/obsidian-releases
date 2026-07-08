@@ -34006,6 +34006,13 @@
     "repo": "watsonlu/obsidian-showdown-viewer"
   },
   {
+    "id": "chat-bubble-renderer",
+    "name": "Chat Bubble Renderer",
+    "author": "bruce2431",
+    "description": "Render Markdown chat logs as WeChat-style bubble dialogs. 将聊天记录渲染为微信风格气泡对话框。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bruce2431/obsidian-chat-bubble-renderer"
+  },
+  {
     "id": "pagemode",
     "name": "PageMode",
     "author": "Hyunyoung Park",
@@ -36687,13 +36694,6 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
-    "id": "pivi",
-    "name": "Pivi",
-    "author": "shuuul",
-    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "shuuul/obsidian-pivi"
-  },
-  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -36776,13 +36776,6 @@
     "author": "ALLONE5",
     "description": "A Pomodoro timer plugin with animated rainbow progress bar and CalDAV calendar integration - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "allone5/Pomodoro-calendar"
-  },
-  {
-    "id": "github-publish",
-    "name": "GitHub Publish",
-    "author": "Olivier Rouiller",
-    "description": "Publish your vault notes for free in a few clicks - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "oilandrust/obsidian-github-publish"
   },
   {
     "id": "slide-deck",
@@ -38125,7 +38118,7 @@
     "id": "opencode-wsl",
     "name": "OpenCode WSL",
     "author": "emmet24",
-    "description": "Embed OpenCode TUI in the Obsidian sidebar via a lightweight WebSocket bridge to WSL. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Embed OpenCode web UI in the Obsidian sidebar via WSL bridge. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "emmet24/obsidian-opencode-wsl"
   },
   {
@@ -38353,10 +38346,24 @@
     "repo": "mrjw717/obsidian-code-graph"
   },
   {
+    "id": "quick-tray",
+    "name": "Quick Tray",
+    "author": "GOODJINC",
+    "description": "Keep Obsidian running in the Windows tray and provide quick note/search actions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "goodjinc/obsidian-quick-tray"
+  },
+  {
     "id": "random-writing-prompt",
     "name": "Random Writing Prompt",
     "author": "tallvincent",
     "description": "Open random writing prompts to spark some creativity - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tallvincent/obsidian-random-writing-prompt"
+  },
+  {
+    "id": "moltn-sync",
+    "name": "Moltn Sync",
+    "author": "zeniadev",
+    "description": "Pulls finished notes from your Moltn install into this vault, and (optionally) shares chosen notes back as context. Your files stay yours. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "affluency-dev/obsidian-moltn-sync"
   }
 ]
