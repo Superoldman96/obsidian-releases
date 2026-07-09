@@ -25991,13 +25991,6 @@
     "repo": "evgene-kopylov/fsrs_plugin"
   },
   {
-    "id": "myworld-task-manager",
-    "name": "MyWorld Task Manager",
-    "author": "kjh-portfolio",
-    "description": "Integrated task and project management for MyWorld workspace. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kjh-portfolio/202604-obsidian-task-manager"
-  },
-  {
     "id": "audio-sidebar",
     "name": "Audio Sidebar",
     "author": "pjeurien",
@@ -28138,6 +28131,13 @@
     "author": "moszinet",
     "description": "Sync emails sent to your mail2note address into your vault as Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "moszinet/mail2note-obsidian-plugin"
+  },
+  {
+    "id": "gantt-calendar",
+    "name": "Gantt Calendar",
+    "author": "Sugar",
+    "description": "A powerful visual task management plugin. Visualize and manage tasks created by the Tasks plugin, supporting both emoji and Dataview task formats. Support Feishu Task syncing. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sustcsugar/obsidian-gantt-calendar"
   },
   {
     "id": "simple-draw",
@@ -36561,6 +36561,13 @@
     "repo": "mrrepac/obsidian-md-reader"
   },
   {
+    "id": "text-lens",
+    "name": "TextLens",
+    "author": "nexround",
+    "description": "OCR images in the current note using on-device PaddleOCR via ONNX Runtime — no server, no API key. Recognized text is inserted inline below each image. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nexround/obsidian-text-lens"
+  },
+  {
     "id": "file-media-gallery",
     "name": "File Media Gallery",
     "author": "Arseniy Seroka",
@@ -36708,6 +36715,13 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
+    "id": "pivi",
+    "name": "Pivi",
+    "author": "shuuul",
+    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shuuul/obsidian-pivi"
+  },
+  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -36767,7 +36781,7 @@
     "id": "live-pdf-preview",
     "name": "Live PDF Preview",
     "author": "kimsunin",
-    "description": "Zero-latency, real-time A4 PDF preview in the right sidebar with page breaks and layout controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Real-time PDF preview and export plugin for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kimsunin/obsidian-live-pdf-preview"
   },
   {
@@ -38116,7 +38130,7 @@
   },
   {
     "id": "jw-congregation-program",
-    "name": "JW Kongressprogramm",
+    "name": "JW Convention Program",
     "author": "Lukas Schütter",
     "description": "Importiert JW-Kongressprogramme (.jwpub / RTF-ZIP) und erstellt strukturierte Notizen im Vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "realsteeldeal/obsidian-jw-congregation"
@@ -38507,6 +38521,13 @@
     "repo": "vladb-evs/obsidian-explorer-sort"
   },
   {
+    "id": "code-runner",
+    "name": "Code Runner",
+    "author": "chujiu-dev",
+    "description": "Interactively run code blocks in Obsidian with stdin input support. Supports Python, C, C++, Java, Go, JavaScript, TypeScript, Rust, Kotlin and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chujiu-dev/obsidian-code-runner"
+  },
+  {
     "id": "pm-compass",
     "name": "PM Compass",
     "author": "Laurent Ferier",
@@ -38626,10 +38647,10 @@
     "repo": "wanghuan9/obsidian-float-mark"
   },
   {
-    "id": "ical-events-to-tasks",
-    "name": "iCal Importer",
+    "id": "calendar-importer",
+    "name": "Calendar Importer",
     "author": "Efficient X Group",
-    "description": "Import iCal/ICS calendar event feeds into Tasks-plugin compatible tasks. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "efficient-x/iCal-Importer"
+    "description": "Bring external calendar events into your task notes without retyping them. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "efficient-x/Calendar-Importer"
   }
 ]
