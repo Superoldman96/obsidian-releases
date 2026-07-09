@@ -13748,6 +13748,13 @@
     "repo": "soundslikeinfo/obsidian-clipper-catalog"
   },
   {
+    "id": "large-language-models",
+    "name": "Large Language Models",
+    "author": "eharris128",
+    "description": "Enables access to LLMs via remote providers (OpenAI, Claude, Gemini) and local LLMs via GPT4ALL.",
+    "repo": "eharris128/Obsidian-LLM-Plugin"
+  },
+  {
     "id": "flowcharts",
     "name": "Flowcharts",
     "author": "land0r",
@@ -25991,6 +25998,13 @@
     "repo": "evgene-kopylov/fsrs_plugin"
   },
   {
+    "id": "myworld-task-manager",
+    "name": "MyWorld Task Manager",
+    "author": "kjh-portfolio",
+    "description": "Integrated task and project management for MyWorld workspace. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kjh-portfolio/202604-obsidian-task-manager"
+  },
+  {
     "id": "audio-sidebar",
     "name": "Audio Sidebar",
     "author": "pjeurien",
@@ -32697,6 +32711,13 @@
     "repo": "october-learns/obsidian-plug-in-organizer"
   },
   {
+    "id": "visual-explorer",
+    "name": "Visual Explorer",
+    "author": "Sh3llingFord",
+    "description": "Browse and manage notes as cards with image preview and favorites support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sh3llingford/visual-explorer"
+  },
+  {
     "id": "selection-format-toolbar",
     "name": "Selection Format Toolbar",
     "author": "Avinash",
@@ -33799,7 +33820,7 @@
     "id": "feishu-lark-cli-sync",
     "name": "Feishu Lark CLI Sync",
     "author": "wanghuan",
-    "description": "Publish and sync Markdown notes to Feishu/Lark Docs via lark-cli. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "通过 lark-cli 发布 Obsidian 笔记到飞书文档及后续自动同步。Publish Obsidian notes to Feishu documents and subsequent automatic synchronization via lark-cli - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wanghuan9/obsidian-feishu-lark-cli-sync"
   },
   {
@@ -38384,7 +38405,7 @@
     "id": "wikipedia-importer",
     "name": "Wikipedia Importer",
     "author": "Concomitant",
-    "description": "Wikipedia Importer fetches any Wikipedia article and drops it into a new or existing Note in your Vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Fetches any Wikipedia article and drops it into a new or existing Note in your Vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "aedraaelynn/Wikipedia-Importer"
   },
   {
@@ -38591,13 +38612,6 @@
     "repo": "ble4k/obsidian-bookorbit-sync"
   },
   {
-    "id": "cisco-syntax",
-    "name": "Cisco Syntax",
-    "author": "Blake Bratcher",
-    "description": "Syntax highlighting for Cisco IOS, IOS-XE, IOS-XR and NX-OS configuration in fenced code blocks, in both Reading mode and Live Preview. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "blakebratcher/obsidian-cisco-syntax"
-  },
-  {
     "id": "marco-polo",
     "name": "Marco Polo",
     "author": "Steve Crutchfield",
@@ -38643,7 +38657,7 @@
     "id": "float-mark",
     "name": "FloatMark",
     "author": "wanghuan",
-    "description": "飞书式选中浮动快捷操作、正文标注、侧边评论与可选 Lark 同步的 Obsidian 插件。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "飞书式选中浮动快捷操作、正文标注、侧边评论与可选 Lark 同步的 Obsidian 插件。A Flightradar-style plugin for Obsidian that includes floating quick actions, text annotations, side comments, and optional feishu/Lark synchronization. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wanghuan9/obsidian-float-mark"
   },
   {
@@ -38652,5 +38666,33 @@
     "author": "Efficient X Group",
     "description": "Bring external calendar events into your task notes without retyping them. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "efficient-x/Calendar-Importer"
+  },
+  {
+    "id": "nitinvishway-inline-ai",
+    "name": "Inline AI",
+    "author": "nitinvishway",
+    "description": "Type /ai <prompt> in any note, press Enter, and your local Ollama model writes inline. Thus, Inline AI - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nitinvishway/Inline-AI"
+  },
+  {
+    "id": "virtual-autolink",
+    "name": "Virtual Autolink",
+    "author": "imavinash",
+    "description": "Automatically creates virtual links for text within your notes that match the titles or aliases of other notes in your vault. Create a glossary-like functionality, show unlinked mentions and transform them to real links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "avinashkanaujiya/obsidian-autolink"
+  },
+  {
+    "id": "torch-cursor",
+    "name": "Torch Cursor",
+    "author": "acxtrilla",
+    "description": "Darkens the app and lights a warm torch glow around your text cursor. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "0xatrilla/obsidian-torch-cursor"
+  },
+  {
+    "id": "llm-auto-title",
+    "name": "LLM Auto Title",
+    "author": "Darren Zheng",
+    "description": "Generate note titles via a local LLM (LMStudio by default; any OpenAI-compat server). Hotkey to title the current note; batch-rename timestamp notes. UI auto-localizes (English / 中文). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "slow-coding/obsidian-llm-auto-title"
   }
 ]
