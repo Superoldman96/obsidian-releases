@@ -36708,13 +36708,6 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
-    "id": "pivi",
-    "name": "Pivi",
-    "author": "shuuul",
-    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "shuuul/obsidian-pivi"
-  },
-  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -37616,6 +37609,13 @@
     "author": "Aiken Lin",
     "description": "Keep note filenames aligned with the first H1 — automatically and safely. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "aiken884/obsidian-h1aligner"
+  },
+  {
+    "id": "obsyncian",
+    "name": "Syncian",
+    "author": "Almas Abulkhairov",
+    "description": "Sync and back up your vault across devices with end-to-end encryption. Requires an Obsyncian account; free tier available, paid plans add storage and vault limit - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aabulkhairov/obsyncian"
   },
   {
     "id": "folder-limit",
@@ -38605,10 +38605,31 @@
     "repo": "sn1p4am/TokenBar"
   },
   {
+    "id": "kaitox",
+    "name": "Kaitox",
+    "author": "kaitox",
+    "description": "Kaitox companion for Obsidian — part of the Kaitox personal toolkit. Current feature: sync the active note as an X (Twitter) Article draft via the local relay and browser extension. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kuangjiajia/kaitox-obsidian"
+  },
+  {
     "id": "vault-rooms",
     "name": "Vault Rooms",
     "author": "DNDark",
     "description": "Share vault folders with trusted people on your LAN in real time - invite links, per-folder access control, and live sync. No cloud, no separate server required. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dndark12/vault-rooms"
+  },
+  {
+    "id": "float-mark",
+    "name": "FloatMark",
+    "author": "wanghuan",
+    "description": "飞书式选中浮动快捷操作、正文标注、侧边评论与可选 Lark 同步的 Obsidian 插件。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wanghuan9/obsidian-float-mark"
+  },
+  {
+    "id": "ical-events-to-tasks",
+    "name": "iCal Importer",
+    "author": "Efficient X Group",
+    "description": "Import iCal/ICS calendar event feeds into Tasks-plugin compatible tasks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "efficient-x/iCal-Importer"
   }
 ]
