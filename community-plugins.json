@@ -19187,6 +19187,13 @@
     "repo": "martinlegend/neogdsync"
   },
   {
+    "id": "alipan-sync",
+    "name": "Alipan Sync",
+    "author": "nowszhao",
+    "description": "Sync your vault with Alipan (Alibaba Cloud Drive). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nowszhao/obsidian-alipan-sync"
+  },
+  {
     "id": "video-notes",
     "name": "Video Notes",
     "author": "rekby",
@@ -36099,6 +36106,13 @@
     "repo": "arias007/obsidian-ntfy"
   },
   {
+    "id": "cancip",
+    "name": "Cancip",
+    "author": "Murat",
+    "description": "AI side panel for vault search, memory context, and safe note assistance. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arias007/cancip"
+  },
+  {
     "id": "canvas-layer-order",
     "name": "Canvas Layer Order",
     "author": "fengzhe",
@@ -37555,6 +37569,13 @@
     "repo": "sonickarnati/flux-tts"
   },
   {
+    "id": "smarttask",
+    "name": "SmartTask",
+    "author": "SmartTask Team",
+    "description": "高性能、易操作的智能任务管理插件。支持多视图、快速创建、智能查询。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fat-pumpkin/SmarTask"
+  },
+  {
     "id": "pinax",
     "name": "Pinax",
     "author": "Nick Nikolakakis",
@@ -38073,13 +38094,6 @@
     "repo": "ezxabi/copy-file-to-clipboard"
   },
   {
-    "id": "blackboard",
-    "name": "Blackboard",
-    "author": "James Wolensky",
-    "description": "Draw with native stylus and Apple Pencil directly in Canvas nodes and Markdown embeds. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jameswolensky/obsidian-blackboard"
-  },
-  {
     "id": "validtitle",
     "name": "ValidTitle",
     "author": "sxjeel",
@@ -38234,6 +38248,13 @@
     "repo": "kolpa4/Expansive-local-graph"
   },
   {
+    "id": "ai-refiner",
+    "name": "AI Refiner",
+    "author": "Maxim Kravtsov",
+    "description": "Refine selected text with a floating prompt using CLI or API providers. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "surdeddd/ai-refiner"
+  },
+  {
     "id": "reallygood-research",
     "name": "ReallyGood Research",
     "author": "reallygood83",
@@ -38302,6 +38323,13 @@
     "author": "jingmengzhiyue",
     "description": "Collect, organize, format, search, and explain code snippets in Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jingmengzhiyue/obsidian-code-snippet-manager"
+  },
+  {
+    "id": "readingrate",
+    "name": "ReadingRate",
+    "author": "ReadingRate",
+    "description": "Sync your ReadingRate reading data — books, quotes, journal entries, insights, and domain mastery — into your Obsidian vault - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "simonsbookclub/readingrate-obsidian"
   },
   {
     "id": "json-table-viewer",
@@ -38554,5 +38582,12 @@
     "author": "Dylan Zhang",
     "description": "A pop-up drawer file tree with modal vim-style navigation: hjkl to move, a/r/d file ops, i to filter, Esc back to normal mode. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fjx-dylanz/obsidian-drawer-explorer"
+  },
+  {
+    "id": "graphite",
+    "name": "graphite",
+    "author": "Real-Fruit-Snacks",
+    "description": "A minimal Todoist-like task manager using local Markdown files. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "real-fruit-snacks/Graphite"
   }
 ]
