@@ -4320,5 +4320,12 @@
     "repo": "kebl3541/Obsidian-Umbra",
     "screenshot": "screenshot.png",
     "modes": ["dark"]
+  },
+  {
+    "name": "Air",
+    "author": "punkyard",
+    "repo": "punkyard/obsidian-theme-air",
+    "screenshot": "assets/hero.png",
+    "modes": ["dark", "light"]
   }
 ]

@@ -38619,6 +38619,13 @@
     "repo": "ble4k/obsidian-bookorbit-sync"
   },
   {
+    "id": "cisco-syntax",
+    "name": "Cisco Syntax",
+    "author": "Blake Bratcher",
+    "description": "Syntax highlighting for Cisco IOS, IOS-XE, IOS-XR and NX-OS configuration in fenced code blocks, in both Reading mode and Live Preview. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "blakebratcher/obsidian-cisco-syntax"
+  },
+  {
     "id": "marco-polo",
     "name": "Marco Polo",
     "author": "Steve Crutchfield",
@@ -38694,6 +38701,13 @@
     "author": "imavinash",
     "description": "Automatically creates virtual links for text within your notes that match the titles or aliases of other notes in your vault. Create a glossary-like functionality, show unlinked mentions and transform them to real links. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "avinashkanaujiya/obsidian-autolink"
+  },
+  {
+    "id": "twine",
+    "name": "Twine",
+    "author": "twine",
+    "description": "Sync your vault to your own S3-compatible object storage, such as Cloudflare R2 or Backblaze B2, end-to-end encrypted, with no server required. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "engassa/obsidian-twine"
   },
   {
     "id": "torch-cursor",
