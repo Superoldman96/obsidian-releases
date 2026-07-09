@@ -38255,6 +38255,13 @@
     "repo": "vishae/tasks-backlink-shortener"
   },
   {
+    "id": "juanperez-document-export",
+    "name": "Document Export",
+    "author": "Juan Pérez Sierra",
+    "description": "Export your vault to PDF, DOCX, or LaTeX book formats. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "perezsjuan/Obsidian-Document-Export"
+  },
+  {
     "id": "taskslite",
     "name": "TaskLite",
     "author": "SunnyYYLin",
@@ -38675,6 +38682,13 @@
     "repo": "nitinvishway/Inline-AI"
   },
   {
+    "id": "gitee-sync",
+    "name": "Gitee Sync",
+    "author": "eric",
+    "description": "Sync your vault to a Gitee or GitHub repository. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ericquan8/obsidian-gitee-sync"
+  },
+  {
     "id": "virtual-autolink",
     "name": "Virtual Autolink",
     "author": "imavinash",
@@ -38694,5 +38708,40 @@
     "author": "Darren Zheng",
     "description": "Generate note titles via a local LLM (LMStudio by default; any OpenAI-compat server). Hotkey to title the current note; batch-rename timestamp notes. UI auto-localizes (English / 中文). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "slow-coding/obsidian-llm-auto-title"
+  },
+  {
+    "id": "cursor-torch",
+    "name": "Cursor Torch",
+    "author": "astraaaa",
+    "description": "Turns the text cursor into a flickering torch: a warm glow lights the text around the caret while the rest of the note fades into darkness. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "astraaaa02/Obsidian-Torch-Cursor"
+  },
+  {
+    "id": "schematex",
+    "name": "Schematex",
+    "author": "Maarten Peels",
+    "description": "Render Schematex diagrams in your notes with pan, zoom, fullscreen view, and image export. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "maartenpeels/obsidian-schematex"
+  },
+  {
+    "id": "clear-checklist",
+    "name": "Clear Checklist",
+    "author": "Vlad",
+    "description": "Reset recurring checklists with one click. Adds a button below a checklist that unchecks every completed item, so daily lists are fresh again. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vladb-evs/obsidian-clear-checklists"
+  },
+  {
+    "id": "alissa-sync",
+    "name": "Alissa Sync",
+    "author": "rhdzmota",
+    "description": "Mirror your Alissa vault into your notes: projects, tasks, context, deliverables and entities as wikilinked markdown, refreshed with one click. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fahera-mx/obsidian.alissa.app"
+  },
+  {
+    "id": "mirror-archive",
+    "name": "Mirror Archive",
+    "author": "MapleCheng",
+    "description": "Move selected files and folders to a configurable mirror archive root while preserving their original vault path. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "maplecheng/obsidian-mirror-archive"
   }
 ]
