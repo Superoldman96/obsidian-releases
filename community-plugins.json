@@ -33943,6 +33943,13 @@
     "repo": "naipi11/onedrive-bidirectional-sync"
   },
   {
+    "id": "periodic-notes-synthesizer",
+    "name": "Periodic Notes Synthesizer",
+    "author": "ibrh96-prog",
+    "description": "Upper-level synthesis of your accumulated daily and periodic notes: monthly and quarterly rollups, recurring themes, open loops, and what you said versus what you did. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ibrh96-prog/obsidian-periodic-notes-synthesizer"
+  },
+  {
     "id": "flexical",
     "name": "FlexiCal",
     "author": "Kevin Cao",
@@ -37292,7 +37299,7 @@
     "id": "gene-code",
     "name": "Gene Code",
     "author": "Anton",
-    "description": "Render gene-code lollipop and pedigree diagrams in Obsidian notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Render lifescience DNA variants lollipop and pedigree diagrams in Obsidian notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "neznayer/obsidian-gene-code"
   },
   {
@@ -38320,7 +38327,7 @@
   {
     "id": "confluence-page-publisher",
     "name": "Confluence Page Publisher",
-    "author": "gibranbadrul",
+    "author": "Gibran",
     "description": "Publish notes to Confluence pages using frontmatter bindings and custom Markdown conversion. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gibranbadrul/obsidian-confluence-page"
   },
