@@ -28154,13 +28154,6 @@
     "repo": "moszinet/mail2note-obsidian-plugin"
   },
   {
-    "id": "gantt-calendar",
-    "name": "Gantt Calendar",
-    "author": "Sugar",
-    "description": "A powerful visual task management plugin. Visualize and manage tasks created by the Tasks plugin, supporting both emoji and Dataview task formats. Support Feishu Task syncing. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sustcsugar/obsidian-gantt-calendar"
-  },
-  {
     "id": "simple-draw",
     "name": "SimpleDraw",
     "author": "whiteandgrey",
@@ -35861,6 +35854,13 @@
     "repo": "leethobbit/obsidian-inkswell-plugin"
   },
   {
+    "id": "tidemark",
+    "name": "Tidemark",
+    "author": "Real-Fruit-Snacks",
+    "description": "Replace {{variables}} with YAML frontmatter values on demand - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "real-fruit-snacks/Tidemark"
+  },
+  {
     "id": "cove",
     "name": "Cove",
     "author": "Real-Fruit-Snacks",
@@ -38577,6 +38577,13 @@
     "repo": "blakebratcher/obsidian-cisco-syntax"
   },
   {
+    "id": "marco-polo",
+    "name": "Marco Polo",
+    "author": "Steve Crutchfield",
+    "description": "Type a local path inside backticks; Marco Polo validates, autocompletes, and produces a clickable link to open or reveal it in your file manager. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "crufi/obsidian-marco-polo"
+  },
+  {
     "id": "drawer-explorer",
     "name": "Drawer Explorer",
     "author": "Dylan Zhang",
@@ -38587,7 +38594,14 @@
     "id": "graphite",
     "name": "graphite",
     "author": "Real-Fruit-Snacks",
-    "description": "A minimal Todoist-like task manager using local Markdown files. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A calm, Todoist-like task manager for Obsidian — tasks stay as local Markdown files in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "real-fruit-snacks/Graphite"
+  },
+  {
+    "id": "tokenbar",
+    "name": "TokenBar",
+    "author": "sn1p4am",
+    "description": "Shows local token counts for the active note in the status bar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sn1p4am/TokenBar"
   }
 ]
