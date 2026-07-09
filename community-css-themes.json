@@ -4327,5 +4327,12 @@
     "repo": "punkyard/obsidian-theme-air",
     "screenshot": "assets/hero.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "GeoCities 98",
+    "author": "b1rdmania",
+    "repo": "b1rdmania/obsidian-geocities-98",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]

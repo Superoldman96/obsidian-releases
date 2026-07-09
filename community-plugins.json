@@ -34433,6 +34433,13 @@
     "repo": "stefan-imbesi/obsidian-rollover"
   },
   {
+    "id": "hotkeys-cheatsheet",
+    "name": "Hotkeys Cheatsheet",
+    "author": "Pierre Awaragi",
+    "description": "Display a searchable cheatsheet of all your Obsidian hotkeys. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "awaragi/obsidian-hotkeys-cheatsheet"
+  },
+  {
     "id": "meeting-note-importer",
     "name": "Meeting Note Importer",
     "author": "Pierre Awaragi",
