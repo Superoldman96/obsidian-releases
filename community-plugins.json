@@ -19446,13 +19446,6 @@
     "repo": "erayaydn0/obsidian-vault-search"
   },
   {
-    "id": "mermaid-elk-renderer",
-    "name": "Mermaid ELK Renderer",
-    "author": "smolblackhole",
-    "description": "Re-enables the ELK (Eclipse Layout Kernel) renderer for Mermaid diagrams. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "smolblackhole/mermaid-elk-renderer"
-  },
-  {
     "id": "svg-zoom-viewer",
     "name": "SVG Zoom Viewer",
     "author": "enakzzz",
@@ -19516,13 +19509,6 @@
     "repo": "redsheep913/Canvas-Card-Materializer"
   },
   {
-    "id": "llr",
-    "name": "Live Life Recording",
-    "author": "goryugocast",
-    "description": "Record task start and finish times directly in Markdown. LLR (Live Life Recording) adds routine insertion and a lightweight daily summary sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "goryugocast/llr"
-  },
-  {
     "id": "ttrpg-maps",
     "name": "TTRPG Maps",
     "author": "matthttam",
@@ -19535,13 +19521,6 @@
     "author": "Yuto Takagi",
     "description": "Auto-detect online meetings (Zoom, Google Meet, Teams) and prompt to record or create meeting notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yut0takagi/obsidian-meeting-detector"
-  },
-  {
-    "id": "notion-sync",
-    "name": "Notion Sync",
-    "author": "sharkello",
-    "description": "Sync your vault with Notion — preserves folder hierarchy, markdown formatting, internal links, metadata, and attachments. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sharkello/notion-sync"
   },
   {
     "id": "3d-semantic-graph",
@@ -37448,6 +37427,13 @@
     "author": "Waldemar",
     "description": "Adds a command to replace the current tab with an empty page, the same screen shown when opening a new tab. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "waldemar-one/obsidian-empty-tab"
+  },
+  {
+    "id": "bamboo-immortals",
+    "name": "Bamboo Immortals",
+    "author": "羽鳞君",
+    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-bamboo-immortals"
   },
   {
     "id": "pie-tasks",
