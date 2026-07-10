@@ -23142,6 +23142,13 @@
     "repo": "ppeirce/property-annotations"
   },
   {
+    "id": "citation-extended",
+    "name": "Citation Extended",
+    "author": "akhmialeuski",
+    "description": "Extended functionality to automatically search and insert citations from a Zotero library. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "akhmialeuski/obsidian-citation-extended"
+  },
+  {
     "id": "logically",
     "name": "Logically AI Research Assistant",
     "author": "afforai",
@@ -28397,13 +28404,6 @@
     "author": "zhuzhige123",
     "description": "Standalone EPUB reader with bookshelf, deep links, and reading state persistence. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zhuzhige123/obsidian-weave-reader"
-  },
-  {
-    "id": "heic-viewer",
-    "name": "HEIC Viewer",
-    "author": "Kiara Orquera",
-    "description": "Allows viewing of .heic and .heif images in Obsidian by converting them on the fly. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kiaraorq/heic-viewer"
   },
   {
     "id": "minder-nexus",
@@ -36708,13 +36708,6 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
-    "id": "pivi",
-    "name": "Pivi",
-    "author": "shuuul",
-    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "shuuul/obsidian-pivi"
-  },
-  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -36774,7 +36767,7 @@
     "id": "live-pdf-preview",
     "name": "Live PDF Preview",
     "author": "kimsunin",
-    "description": "Real-time PDF preview and export plugin for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Real-time PDF preview and export plugin. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kimsunin/obsidian-live-pdf-preview"
   },
   {
@@ -37420,13 +37413,6 @@
     "author": "Waldemar",
     "description": "Adds a command to replace the current tab with an empty page, the same screen shown when opening a new tab. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "waldemar-one/obsidian-empty-tab"
-  },
-  {
-    "id": "bamboo-immortals",
-    "name": "Bamboo Immortals",
-    "author": "羽鳞君",
-    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-bamboo-immortals"
   },
   {
     "id": "pie-tasks",
@@ -38661,6 +38647,13 @@
     "repo": "nitinvishway/Inline-AI"
   },
   {
+    "id": "vault-activity-heatmap",
+    "name": "Vault Activity Heatmap",
+    "author": "Andrew Rao",
+    "description": "GitHub-style contribution heatmap of your daily note-taking activity, with daily tasks, edit timeline, AI weekly/monthly summaries, and customizable panel themes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "andrewrao114/vault-activity-heatmap"
+  },
+  {
     "id": "gitee-sync",
     "name": "Gitee Sync",
     "author": "eric",
@@ -38815,10 +38808,31 @@
     "repo": "real-fruit-snacks/obsidian-gym-tracker"
   },
   {
+    "id": "contextos",
+    "name": "ContextOS",
+    "author": "stanleychen",
+    "description": "AI-assisted ingest, chat, lint, and git-backed wiki that compounds knowledge from 15+ raw formats — Markdown, PDF, Office docs, images, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tinkerdragon/ContextOS"
+  },
+  {
     "id": "worktree-viewer",
     "name": "Worktree Viewer",
     "author": "Sebastian Winkler",
     "description": "Watch git worktrees live from your vault: agent presence dots, per-worktree diffs and previews, one-click commit and pull request creation. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sjwinkler19/obsidian-worktree-viewer"
+  },
+  {
+    "id": "metadata-links",
+    "name": "Metadata Links",
+    "author": "ansango",
+    "description": "Add metadata blocks - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ansango/obsidian-metadata-links"
+  },
+  {
+    "id": "logbook",
+    "name": "Logbook",
+    "author": "p1tt1",
+    "description": "Track time on tasks with org-mode LOGBOOK-style clock entries, stored as Dataview-queryable inline fields. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "p1tt1/obsidian-logbook"
   }
 ]
