@@ -24479,6 +24479,13 @@
     "repo": "davidvkimball/obsidian-file-name-history"
   },
   {
+    "id": "table-of-contents-generator",
+    "name": "Table of Contents Generator",
+    "author": "m-kk",
+    "description": "Generate a table of contents for your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "m-kk/toc"
+  },
+  {
     "id": "moc-blocks",
     "name": "MOC Blocks",
     "author": "nebulousnessie",
@@ -26507,6 +26514,13 @@
     "author": "neves007",
     "description": "Copy AI-friendly Markdown location indexes as file path plus line number. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "neves007/line-ref-copier"
+  },
+  {
+    "id": "karpathywiki",
+    "name": "Karpathy LLM Wiki",
+    "author": "Greener-Dalii",
+    "description": "Karpathy's LLM Wiki implementation - multi-page knowledge generation with entity/concept pages and conversational query. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "green-dalii/obsidian-llm-wiki"
   },
   {
     "id": "sync-trakt",
@@ -28630,13 +28644,6 @@
     "repo": "rodrigolourencofarinha/obsidian-todoist-bridge"
   },
   {
-    "id": "beancount-finance",
-    "name": "Beancount Ledger",
-    "author": "mkshp-dev",
-    "description": "Comprehensive financial dashboard with Beancount integration. Features unified entry management, live BQL queries, connection validation, auto-starting backend, and streamlined settings. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mkshp-dev/obsidian-finance-plugin"
-  },
-  {
     "id": "butter-editor",
     "name": "Butter Editor",
     "author": "giblicious",
@@ -28789,13 +28796,6 @@
     "author": "Fozi",
     "description": "Copy or move notes, folders, attachments, and reviewed direct note dependencies between local desktop vaults. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fnsign/transvault"
-  },
-  {
-    "id": "encrypted-datasafe-notes",
-    "name": "Encrypted Datasafe Notes",
-    "author": "xauravww",
-    "description": "AES-encrypt markdown notes with lock/unlock vault, auto-lock timer, right-click encrypt/decrypt, corruption recovery, search decrypt, status bar indicator, file explorer decorations, and password change. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "xauravww/obsidian-encrypted-datasafe-notes"
   },
   {
     "id": "token-count",
@@ -29097,13 +29097,6 @@
     "author": "Andrew Rosenquist",
     "description": "Build reusable chains of AI operations on your notes. Process, write, and rewrite Markdown files using a local Ollama model, then save your workflows as presets and run them in one click. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "roseygoblin/busy-goblins"
-  },
-  {
-    "id": "annotation-manager",
-    "name": "Annotation Manager",
-    "author": "Josh",
-    "description": "Annotate text inline with {={id}text=} syntax, view all annotations in a sidebar, and query them via Dataview. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jsglazer/annotation-manager"
   },
   {
     "id": "research-paper",
@@ -35273,6 +35266,13 @@
     "repo": "erykjj/traverture"
   },
   {
+    "id": "bible-study",
+    "name": "Bible Study",
+    "author": "linkongren",
+    "description": "圣经研读助手 — 快速引用经文、圣经阅读面板，支持和合本 (CUV) - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "linkongren/obsidian-bible-study"
+  },
+  {
     "id": "pdf-scholia-scribe",
     "name": "PDF Scholia Scribe",
     "author": "michellegdyason",
@@ -38806,5 +38806,19 @@
     "author": "Real-Fruit-Snacks",
     "description": "Download and install unofficial plugins directly from GitHub. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "real-fruit-snacks/obsidian-github-updater"
+  },
+  {
+    "id": "gym-tracker",
+    "name": "Gym Tracker",
+    "author": "Real-Fruit-Snacks",
+    "description": "Track gym workouts, exercise volume, streaks, and history on mobile and desktop. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "real-fruit-snacks/obsidian-gym-tracker"
+  },
+  {
+    "id": "worktree-viewer",
+    "name": "Worktree Viewer",
+    "author": "Sebastian Winkler",
+    "description": "Watch git worktrees live from your vault: agent presence dots, per-worktree diffs and previews, one-click commit and pull request creation. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sjwinkler19/obsidian-worktree-viewer"
   }
 ]
