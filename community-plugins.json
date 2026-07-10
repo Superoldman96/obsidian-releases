@@ -20384,6 +20384,13 @@
     "repo": "koshlensky/asciidoc-live"
   },
   {
+    "id": "minimalism-ui",
+    "name": "Minimalism UI",
+    "author": "lucas",
+    "description": "Transform UI into a Typora-like style, with the left side fixing the note status information and the right side focusing on the content of the note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tcyeee/obsidian-minimalism-ui"
+  },
+  {
     "id": "memo-timeline-feed",
     "name": "Memo Timeline Feed",
     "author": "lbb2446",
@@ -34377,6 +34384,13 @@
     "repo": "stefan-imbesi/obsidian-rollover"
   },
   {
+    "id": "hotkeys-cheatsheet",
+    "name": "Hotkeys Cheatsheet",
+    "author": "Pierre Awaragi",
+    "description": "Display a searchable cheatsheet of all your Obsidian hotkeys. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "awaragi/obsidian-hotkeys-cheatsheet"
+  },
+  {
     "id": "meeting-note-importer",
     "name": "Meeting Note Importer",
     "author": "Pierre Awaragi",
@@ -38724,6 +38738,13 @@
     "repo": "maplecheng/obsidian-mirror-archive"
   },
   {
+    "id": "jira-sync-dashboard",
+    "name": "Jira Sync Projects Issues Dashboard",
+    "author": "Nabheet Madan",
+    "description": "Sync one or many Jira projects into your vault as notes, and view a local, filterable KPI dashboard (projects, sprints, assignees, statuses). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nabheetcloud/Obsidian-Jira-Sync-Projects-Issues-Dashboard"
+  },
+  {
     "id": "remarkable-bridge",
     "name": "reMarkable Bridge",
     "author": "kebl3541",
@@ -38841,5 +38862,19 @@
     "author": "sharfaroz",
     "description": "Capture a quick journal entry from anywhere, then file it as a dated bullet under a heading in any note (or send it straight to your inbox note). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sharfaroz7/themed-journal-capture"
+  },
+  {
+    "id": "gate-manager",
+    "name": "GATE Manager",
+    "author": "Anand Baghel",
+    "description": "Community-managed installer and updater for GATE Obsidian vaults. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "anandrajbaghel/obsidian-gate-manager"
+  },
+  {
+    "id": "jmdict-popup-dictionary",
+    "name": "JMdict Popup Dictionary (Japanese-English)",
+    "author": "Katsuhiko Hata",
+    "description": "Offline pop-up Japanese-English dictionary powered by JMdict. Select a word to see readings and meanings. Works on desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hata-suriiken/obsidian-popup-dictionary"
   }
 ]
