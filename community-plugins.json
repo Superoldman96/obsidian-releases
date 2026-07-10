@@ -20034,6 +20034,13 @@
     "repo": "fangface-hub/obsidian_plantuml_integrator"
   },
   {
+    "id": "webdav-sync",
+    "name": "WebDAV Sync",
+    "author": "Hēsperus",
+    "description": "General-purpose & bidirectional WebDAV syncing for your vault. Designed for stability and robust file handling without vendor lock-in. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hesprs/obsidian-webdav-sync"
+  },
+  {
     "id": "wol-reference-viewer",
     "name": "WOL Reference Tools",
     "author": "iaremarkus",
@@ -20697,6 +20704,13 @@
     "author": "jinzcdev",
     "description": "Render XMindMark syntax as XMind mind maps in `xmind/xmindmark` code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jinzcdev/obsidian-markxmind"
+  },
+  {
+    "id": "notion-bases",
+    "name": "Notion Bases",
+    "author": "bgarciamoura",
+    "description": "Turn any folder into a database — table, kanban board, gallery, calendar, timeline and list views powered by frontmatter. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bgarciamoura/obsidian-notion-bases-plugin"
   },
   {
     "id": "focus-lens",
@@ -27741,13 +27755,6 @@
     "repo": "clancyj11/simple-flashcards"
   },
   {
-    "id": "maildump",
-    "name": "MailDump",
-    "author": "akudlay-ru",
-    "description": "Export IMAP mail into analysis-ready Markdown digests and optional mail notes with adjacent attachments. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "akudlay-ru/MailDump"
-  },
-  {
     "id": "chinese-novel-assistant",
     "name": "Chinese Novel Assistant",
     "author": "pingo888",
@@ -31423,13 +31430,6 @@
     "repo": "chektek/obsidian-copy-link"
   },
   {
-    "id": "feishu-doc-toolbar",
-    "name": "ZengQiang Enhanced",
-    "author": "lishu",
-    "description": "浮动工具栏、模板库、原生表格配色与多种内嵌实用工具。需同时安装本仓库 companion-plugins 中的 markdown-table-enhancer。增强表格仅在开启实验性 OneNote 高保真粘贴时后台可用。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "lishu2043687491-ux/Obsidian-ZengQiang"
-  },
-  {
     "id": "daily-note-template",
     "name": "Daily Note Template",
     "author": "kdnk",
@@ -34557,13 +34557,6 @@
     "author": "c-miles",
     "description": "Render your vault's link graph as a cinematic, auto-rotating 3D orrery: bloom-lit nodes, a nebula backdrop, and a starfield. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "c-miles/orrery"
-  },
-  {
-    "id": "writing-menu",
-    "name": "Writing Menu",
-    "author": "zpzp13",
-    "description": "A writing environment customization plugin with typography controls, focus mode, smart quotes, text substitution, typewriter scroll, word counter, and more. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zpzp13/obsidian-writing-menu"
   },
   {
     "id": "pinball-db",
