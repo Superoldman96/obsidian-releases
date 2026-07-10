@@ -14483,13 +14483,6 @@
     "repo": "webtechaccess/obsidian-heatmap-calendar"
   },
   {
-    "id": "wewrite",
-    "name": "WeWrite",
-    "author": "learnerchen-forever",
-    "description": "AI assisting writing, Rendering and publishing notes to WeChat MP platform",
-    "repo": "learnerchen-forever/wewrite"
-  },
-  {
     "id": "spaced-repetition-ai",
     "name": "Spaced Repetition AI",
     "author": "ai-learning-tools",
@@ -15293,13 +15286,6 @@
     "author": "zhouhua",
     "description": "Render audio files as waveforms",
     "repo": "zhouhua/obsidian-waveform-player"
-  },
-  {
-    "id": "wheel-tab-switcher",
-    "name": "Wheel Tab Switcher",
-    "author": "22-2",
-    "description": "Switch between Tabs using your mouse wheel when hovering over tab headers",
-    "repo": "22-2/wheel-tab-switcher"
   },
   {
     "id": "pinned-daily-notes",
@@ -26463,7 +26449,7 @@
     "id": "codex-panel",
     "name": "Codex Panel",
     "author": "murashit",
-    "description": "Codex in your sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Codex in your sidebar. ChatGPT Work for your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "murashit/codex-panel"
   },
   {
@@ -37464,13 +37450,6 @@
     "repo": "waldemar-one/obsidian-empty-tab"
   },
   {
-    "id": "bamboo-immortals",
-    "name": "Bamboo Immortals",
-    "author": "羽鳞君",
-    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-bamboo-immortals"
-  },
-  {
     "id": "pie-tasks",
     "name": "Pie Tasks",
     "author": "Pie Of Mind",
@@ -38136,6 +38115,13 @@
     "repo": "ezxabi/copy-file-to-clipboard"
   },
   {
+    "id": "blackboard",
+    "name": "Blackboard",
+    "author": "James Wolensky",
+    "description": "Draw with native stylus and Apple Pencil directly in Canvas nodes and Markdown embeds. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jameswolensky/obsidian-blackboard"
+  },
+  {
     "id": "validtitle",
     "name": "ValidTitle",
     "author": "sxjeel",
@@ -38785,5 +38771,26 @@
     "author": "ansango",
     "description": "Rename files to slug-case (lowercase, no accents, hyphens) and automatically update links using fileManager.renameFile. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ansango/obsidian-slugify"
+  },
+  {
+    "id": "eleven-days",
+    "name": "Eleven Days",
+    "author": "Dyllon Wright",
+    "description": "Today across eleven calendar systems — Gregorian plus ten esoteric calendars, with personal annual holidays and archive-aware daily-note navigation. How to live eleven days in twenty-four hours. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dyllonwright/Eleven-Days"
+  },
+  {
+    "id": "notion-vault-sync",
+    "name": "Notion Vault Sync",
+    "author": "Sharky",
+    "description": "Sync your vault with Notion — preserves folder hierarchy, markdown formatting, internal links, metadata, and attachments. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kaventro/notion-sync"
+  },
+  {
+    "id": "config-sync",
+    "name": "Config Sync",
+    "author": "xooooooooox",
+    "description": "Selective, on-demand distribution of vault configuration (snippets, hotkeys, plugin settings) across devices and vaults. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xooooooooox/obsidian-config-sync"
   }
 ]
