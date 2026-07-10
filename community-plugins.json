@@ -20384,13 +20384,6 @@
     "repo": "koshlensky/asciidoc-live"
   },
   {
-    "id": "minimalism-ui",
-    "name": "Minimalism UI",
-    "author": "lucas",
-    "description": "Transform UI into a Typora-like style, with the left side fixing the note status information and the right side focusing on the content of the note. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tcyeee/obsidian-minimalism-ui"
-  },
-  {
     "id": "memo-timeline-feed",
     "name": "Memo Timeline Feed",
     "author": "lbb2446",
@@ -28637,6 +28630,13 @@
     "repo": "rodrigolourencofarinha/obsidian-todoist-bridge"
   },
   {
+    "id": "beancount-finance",
+    "name": "Beancount Ledger",
+    "author": "mkshp-dev",
+    "description": "Comprehensive financial dashboard with Beancount integration. Features unified entry management, live BQL queries, connection validation, auto-starting backend, and streamlined settings. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mkshp-dev/obsidian-finance-plugin"
+  },
+  {
     "id": "butter-editor",
     "name": "Butter Editor",
     "author": "giblicious",
@@ -34377,13 +34377,6 @@
     "repo": "stefan-imbesi/obsidian-rollover"
   },
   {
-    "id": "hotkeys-cheatsheet",
-    "name": "Hotkeys Cheatsheet",
-    "author": "Pierre Awaragi",
-    "description": "Display a searchable cheatsheet of all your Obsidian hotkeys. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "awaragi/obsidian-hotkeys-cheatsheet"
-  },
-  {
     "id": "meeting-note-importer",
     "name": "Meeting Note Importer",
     "author": "Pierre Awaragi",
@@ -37674,13 +37667,6 @@
     "repo": "siavashameli/TimelineX"
   },
   {
-    "id": "consensus-research",
-    "name": "Parallax",
-    "author": "maxonamission",
-    "description": "Where research thinking takes shape: explore before you search, develop a question through multiple theoretical lenses, weigh OpenAlex & Semantic Scholar evidence, and keep a methodological account. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "maxonamission/obsidian-parallax"
-  },
-  {
     "id": "flowkit-health-dashboard",
     "name": "FlowKit Health Dashboard",
     "author": "saiken",
@@ -38848,5 +38834,12 @@
     "author": "WhileTrueGeek",
     "description": "Add dates when a tracked property changes value. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "whiletruegeek/status-date-tracker"
+  },
+  {
+    "id": "themed-journal-capture",
+    "name": "Themed Journal Capture",
+    "author": "sharfaroz",
+    "description": "Capture a quick journal entry from anywhere, then file it as a dated bullet under a heading in any note (or send it straight to your inbox note). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sharfaroz7/themed-journal-capture"
   }
 ]
