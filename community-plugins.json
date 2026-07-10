@@ -22372,13 +22372,6 @@
     "repo": "josteniok/create-folder-at-note-location"
   },
   {
-    "id": "smartpick",
-    "name": "SmartPick",
-    "author": "bcs",
-    "description": "Smart text selection toolbar with custom commands and AI features. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "bcs1037/SmartPick"
-  },
-  {
     "id": "datestamp",
     "name": "Datestamp",
     "author": "huynhtranhoanglong",
@@ -34048,13 +34041,6 @@
     "repo": "sdkay/obsidian-drawio-view"
   },
   {
-    "id": "slide-and-reveal",
-    "name": "Slide and Reveal",
-    "author": "Grub Basket",
-    "description": "Scroll-to-reveal flashcard study for diagrams/images. Right-click any folder to open it as a Slide & Reveal view: drop covers over each label, then scroll in place to uncover them one pair at a time. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "grub-basket/SnR"
-  },
-  {
     "id": "image-actions",
     "name": "Image Actions",
     "author": "maoxiaoke",
@@ -36708,6 +36694,13 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
+    "id": "pivi",
+    "name": "Pivi",
+    "author": "shuuul",
+    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shuuul/obsidian-pivi"
+  },
+  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -37415,6 +37408,13 @@
     "repo": "waldemar-one/obsidian-empty-tab"
   },
   {
+    "id": "bamboo-immortals",
+    "name": "Bamboo Immortals",
+    "author": "羽鳞君",
+    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-bamboo-immortals"
+  },
+  {
     "id": "pie-tasks",
     "name": "Pie Tasks",
     "author": "Pie Of Mind",
@@ -37814,6 +37814,13 @@
     "repo": "nabheetcloud/obsidian-gmail"
   },
   {
+    "id": "russian-rhymes",
+    "name": "Russian Rhymes",
+    "author": "mrrepac",
+    "description": "Offline Russian rhyming dictionary: rhymes, stress marks and synonyms for the selected word. Press Ctrl+C twice to look up a word. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mrrepac/russian-rhymes"
+  },
+  {
     "id": "scan-to-markdown",
     "name": "Scan to Markdown",
     "author": "swift",
@@ -38129,17 +38136,10 @@
     "repo": "johanmensah/obsidian-ripple"
   },
   {
-    "id": "local-html-browser",
-    "name": "Local HTML Browser",
-    "author": "sumbass",
-    "description": "Run local file:// HTML apps with full browser behavior — SPAs, hash routes, and live page tabs. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "pranavlikesgingerale/obsidian-browser-plugin"
-  },
-  {
     "id": "status-words",
     "name": "StatusWords",
     "author": "zimabx",
-    "description": "Customizable word and character statistics in the Obsidian status bar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Customizable word and character statistics in the status bar. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zimabx/status-words"
   },
   {
@@ -38640,6 +38640,13 @@
     "repo": "efficient-x/Calendar-Importer"
   },
   {
+    "id": "unread-changes",
+    "name": "Unread Changes",
+    "author": "Hayden / Atlas-AI",
+    "description": "Unread-message awareness for human+AI co-edited vaults: unread badges, synced read-state, changelog links, attribution, and diffs. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "anombyte93/obsidian-unread-changes"
+  },
+  {
     "id": "nitinvishway-inline-ai",
     "name": "Inline AI",
     "author": "nitinvishway",
@@ -38834,5 +38841,12 @@
     "author": "p1tt1",
     "description": "Track time on tasks with org-mode LOGBOOK-style clock entries, stored as Dataview-queryable inline fields. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "p1tt1/obsidian-logbook"
+  },
+  {
+    "id": "status-date-tracker",
+    "name": "Status Date Tracker",
+    "author": "WhileTrueGeek",
+    "description": "Add dates when a tracked property changes value. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "whiletruegeek/status-date-tracker"
   }
 ]
