@@ -10157,6 +10157,13 @@
     "repo": "amrojjeh/obsidian-buckwalter"
   },
   {
+    "id": "note-toolbar",
+    "name": "Note Toolbar",
+    "author": "chrisgurney",
+    "description": "Add customizable toolbars to your notes.",
+    "repo": "chrisgurney/obsidian-note-toolbar"
+  },
+  {
     "id": "hemingway-mode",
     "name": "Hemingway Mode",
     "author": "jobedom",
@@ -28413,6 +28420,13 @@
     "repo": "zhuzhige123/obsidian-weave-reader"
   },
   {
+    "id": "heic-viewer",
+    "name": "HEIC Viewer",
+    "author": "Kiara Orquera",
+    "description": "Allows viewing of .heic and .heif images in Obsidian by converting them on the fly. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kiaraorq/heic-viewer"
+  },
+  {
     "id": "minder-nexus",
     "name": "Minder Nexus",
     "author": "ksawl",
@@ -34335,6 +34349,13 @@
     "repo": "wrojasa/obsidian-dbml-erd"
   },
   {
+    "id": "tasks-timeline",
+    "name": "Tasks Timeline",
+    "author": "leonezz",
+    "description": "View and manage vault tasks on a timeline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "leonezz/tasks-timeline-obsidian"
+  },
+  {
     "id": "conote-git",
     "name": "CoNote Git",
     "author": "Maximilian Witte",
@@ -38332,13 +38353,6 @@
     "repo": "usero2/obsidian-plugins-json-table-viewer"
   },
   {
-    "id": "azer",
-    "name": "Azer",
-    "author": "Zach Norgaard",
-    "description": "D&D session toolkit: create typed campaign notes (NPCs, sessions, adventure logs, locations, PCs) with wikilink cross-references, roll on dice tables, and generate tables and session recaps with AI. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "znorgaard/azer"
-  },
-  {
     "id": "typing-interface-hider",
     "name": "Typing Interface Hider",
     "author": "Sergey Bychkov",
@@ -38883,5 +38897,26 @@
     "author": "blackflag0623",
     "description": "Add Markdown comments to selected text in Reading view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "blackflag0623/obsidian-lemon-comments"
+  },
+  {
+    "id": "cursor-smith",
+    "name": "Cursor-Smith",
+    "author": "sadsnake1",
+    "description": "Forge your perfect editing experience with custom cursor styles, including terminal blocks, animated trails, and dynamic torch effects. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sadsnake1/cursor-smith"
+  },
+  {
+    "id": "workspace-plus-group",
+    "name": "WorkSpace Plus Group",
+    "author": "cnwenzhihong",
+    "description": "Quickly switch and manage workspaces - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cnwenzhihong/Obsidian-workspace-plus-group"
+  },
+  {
+    "id": "llm-content-block",
+    "name": "LLM Content Block",
+    "author": "Darren Zheng",
+    "description": "Archive LLM texts as scrollable, format-safe cards. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "slow-coding/obsidian-llm-content-block"
   }
 ]
