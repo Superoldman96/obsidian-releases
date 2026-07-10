@@ -23142,13 +23142,6 @@
     "repo": "ppeirce/property-annotations"
   },
   {
-    "id": "citation-extended",
-    "name": "Citation Extended",
-    "author": "akhmialeuski",
-    "description": "Extended functionality to automatically search and insert citations from a Zotero library. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "akhmialeuski/obsidian-citation-extended"
-  },
-  {
     "id": "logically",
     "name": "Logically AI Research Assistant",
     "author": "afforai",
@@ -23910,6 +23903,13 @@
     "author": "obsidian-helix",
     "description": "Use Helix key bindings when editing. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "obsidian-helix/obsidian-helix"
+  },
+  {
+    "id": "image-cluster",
+    "name": "Image Cluster",
+    "author": "lucas",
+    "description": "Image Cluster helps you easily combine multiple images together in your notes, making your note interface more beautiful and organized. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tcyeee/obsidian-image-cluster"
   },
   {
     "id": "board-view",
