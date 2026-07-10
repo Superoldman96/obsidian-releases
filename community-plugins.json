@@ -27755,6 +27755,13 @@
     "repo": "clancyj11/simple-flashcards"
   },
   {
+    "id": "maildump",
+    "name": "MailDump",
+    "author": "akudlay-ru",
+    "description": "Export IMAP mail into analysis-ready Markdown digests and optional mail notes with adjacent attachments. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "akudlay-ru/MailDump"
+  },
+  {
     "id": "chinese-novel-assistant",
     "name": "Chinese Novel Assistant",
     "author": "pingo888",
@@ -31458,6 +31465,13 @@
     "repo": "notesynchelper/china-speedup"
   },
   {
+    "id": "auto-move-on-property",
+    "name": "Auto Move On Property",
+    "author": "Soul",
+    "description": "Automatically moves notes from root to folders based on a YAML property. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "SoulBits-Vibe/Obsidian-Auto-Move-On-Property"
+  },
+  {
     "id": "douyin-capture",
     "name": "Douyin Capture",
     "author": "lyxdream",
@@ -34321,13 +34335,6 @@
     "repo": "wrojasa/obsidian-dbml-erd"
   },
   {
-    "id": "tasks-timeline",
-    "name": "Tasks Timeline",
-    "author": "leonezz",
-    "description": "View and manage vault tasks on a timeline. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "leonezz/tasks-timeline-obsidian"
-  },
-  {
     "id": "conote-git",
     "name": "CoNote Git",
     "author": "Maximilian Witte",
@@ -34557,6 +34564,13 @@
     "author": "c-miles",
     "description": "Render your vault's link graph as a cinematic, auto-rotating 3D orrery: bloom-lit nodes, a nebula backdrop, and a starfield. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "c-miles/orrery"
+  },
+  {
+    "id": "writing-menu",
+    "name": "Writing Menu",
+    "author": "zpzp13",
+    "description": "A writing environment customization plugin with typography controls, focus mode, smart quotes, text substitution, typewriter scroll, word counter, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zpzp13/obsidian-writing-menu"
   },
   {
     "id": "pinball-db",
@@ -35005,13 +35019,6 @@
     "author": "CosimoScott",
     "description": "Your vault in 3D using Filamental. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "scottnine/obsidian-filamental"
-  },
-  {
-    "id": "masking-as-md",
-    "name": "Masking as MD",
-    "author": "ahseyg",
-    "description": "Open non-markdown files (.py, .html, .txt, .js, .css, etc.) as editable text documents directly in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ahseyg/Masking-as-MD"
   },
   {
     "id": "qreview",
@@ -38869,5 +38876,12 @@
     "author": "Katsuhiko Hata",
     "description": "Offline pop-up Japanese-English dictionary powered by JMdict. Select a word to see readings and meanings. Works on desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hata-suriiken/obsidian-popup-dictionary"
+  },
+  {
+    "id": "lemon-comments",
+    "name": "Lemon Comments",
+    "author": "blackflag0623",
+    "description": "Add Markdown comments to selected text in Reading view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "blackflag0623/obsidian-lemon-comments"
   }
 ]
