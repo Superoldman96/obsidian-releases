@@ -19446,6 +19446,13 @@
     "repo": "erayaydn0/obsidian-vault-search"
   },
   {
+    "id": "mermaid-elk-renderer",
+    "name": "Mermaid ELK Renderer",
+    "author": "smolblackhole",
+    "description": "Re-enables the ELK (Eclipse Layout Kernel) renderer for Mermaid diagrams. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "smolblackhole/mermaid-elk-renderer"
+  },
+  {
     "id": "svg-zoom-viewer",
     "name": "SVG Zoom Viewer",
     "author": "enakzzz",
@@ -19507,6 +19514,13 @@
     "author": "redsheep913",
     "description": "Materialize Canvas cards into organized Markdown files with auto-folder categorization, preserving connections and colors. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "redsheep913/Canvas-Card-Materializer"
+  },
+  {
+    "id": "llr",
+    "name": "Live Life Recording",
+    "author": "goryugocast",
+    "description": "Record task start and finish times directly in Markdown. LLR (Live Life Recording) adds routine insertion and a lightweight daily summary sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "goryugocast/llr"
   },
   {
     "id": "ttrpg-maps",
@@ -20018,13 +20032,6 @@
     "author": "fangface-hub",
     "description": "Render PlantUML code blocks and .puml embeds with dependency-aware cache invalidation. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fangface-hub/obsidian_plantuml_integrator"
-  },
-  {
-    "id": "webdav-sync",
-    "name": "WebDAV Sync",
-    "author": "Hēsperus",
-    "description": "General-purpose & bidirectional WebDAV syncing for your vault. Designed for stability and robust file handling without vendor lock-in. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "hesprs/obsidian-webdav-sync"
   },
   {
     "id": "wol-reference-viewer",
@@ -23905,13 +23912,6 @@
     "repo": "obsidian-helix/obsidian-helix"
   },
   {
-    "id": "image-cluster",
-    "name": "Image Cluster",
-    "author": "lucas",
-    "description": "Image Cluster helps you easily combine multiple images together in your notes, making your note interface more beautiful and organized. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tcyeee/obsidian-image-cluster"
-  },
-  {
     "id": "board-view",
     "name": "Board View",
     "author": "seventhxiv",
@@ -26507,13 +26507,6 @@
     "author": "neves007",
     "description": "Copy AI-friendly Markdown location indexes as file path plus line number. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "neves007/line-ref-copier"
-  },
-  {
-    "id": "karpathywiki",
-    "name": "Karpathy LLM Wiki",
-    "author": "Greener-Dalii",
-    "description": "Karpathy's LLM Wiki implementation - multi-page knowledge generation with entity/concept pages and conversational query. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "green-dalii/obsidian-llm-wiki"
   },
   {
     "id": "sync-trakt",
@@ -37835,13 +37828,6 @@
     "repo": "nabheetcloud/obsidian-gmail"
   },
   {
-    "id": "russian-rhymes",
-    "name": "Russian Rhymes",
-    "author": "mrrepac",
-    "description": "Offline Russian rhyming dictionary: rhymes, stress marks and synonyms for the selected word. Press Ctrl+C twice to look up a word. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mrrepac/russian-rhymes"
-  },
-  {
     "id": "scan-to-markdown",
     "name": "Scan to Markdown",
     "author": "swift",
@@ -38402,6 +38388,13 @@
     "repo": "aedraaelynn/Wikipedia-Importer"
   },
   {
+    "id": "claude-code-sync",
+    "name": "Claude Code Sync",
+    "author": "mattbirchler",
+    "description": "Mirror Claude Code sessions into your vault as Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mattbirchler/claude-code-obsidian"
+  },
+  {
     "id": "terminal-workbench-pet",
     "name": "Terminal Workbench Pet",
     "author": "Real-Fruit-Snacks",
@@ -38759,6 +38752,13 @@
     "repo": "ansango/obsidian-slugify"
   },
   {
+    "id": "voice-scribe",
+    "name": "Voice Scribe",
+    "author": "mrrepac",
+    "description": "Record voice notes and transcribe them on your device with Whisper. No cloud, no API keys. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mrrepac/voice-scribe"
+  },
+  {
     "id": "eleven-days",
     "name": "Eleven Days",
     "author": "Dyllon Wright",
@@ -38778,5 +38778,33 @@
     "author": "xooooooooox",
     "description": "Selective, on-demand distribution of vault configuration (snippets, hotkeys, plugin settings) across devices and vaults. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xooooooooox/obsidian-config-sync"
+  },
+  {
+    "id": "wayback-linker",
+    "name": "Wayback Linker",
+    "author": "Real-Fruit-Snacks",
+    "description": "Archive external links in the active note with the Wayback Machine and replace them with snapshot URLs. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "real-fruit-snacks/wayback-linker"
+  },
+  {
+    "id": "ishibashi-auto-tagger",
+    "name": "Ishibashi Auto Tagger",
+    "author": "IshibashiCustomize",
+    "description": "Automatically manages frontmatter tags from Obsidian folder paths. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ishibashi-c/ishibashi-auto-tagger"
+  },
+  {
+    "id": "nested-vaults",
+    "name": "Nested Vaults",
+    "author": "Real-Fruit-Snacks",
+    "description": "Scope your vault to a specific folder, effectively treating it as a nested sub-vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "real-fruit-snacks/obsidian-nested-vaults"
+  },
+  {
+    "id": "github-updater",
+    "name": "GitHub Updater",
+    "author": "Real-Fruit-Snacks",
+    "description": "Download and install unofficial plugins directly from GitHub. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "real-fruit-snacks/obsidian-github-updater"
   }
 ]
