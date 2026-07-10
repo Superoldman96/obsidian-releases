@@ -27702,7 +27702,7 @@
     "id": "local-dictation",
     "name": "Local Dictation",
     "author": "Alexander Brittain",
-    "description": "Dictate notes with Whisper or Cohere Transcribe; clean up with a local Ollama model. Private, on-device speech-to-text for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Private, offline speech-to-text, voice typing, and meeting transcription. Dictate notes live or transcribe calls and system audio with Whisper, speaker labels, timestamps, and optional AI cleanup. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "brittain9/local-dictation-obsidian-plugin"
   },
   {
@@ -38353,6 +38353,13 @@
     "repo": "usero2/obsidian-plugins-json-table-viewer"
   },
   {
+    "id": "azer",
+    "name": "Azer",
+    "author": "Zach Norgaard",
+    "description": "D&D session toolkit: create typed campaign notes (NPCs, sessions, adventure logs, locations, PCs) with wikilink cross-references, roll on dice tables, and generate tables and session recaps with AI. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "znorgaard/azer"
+  },
+  {
     "id": "typing-interface-hider",
     "name": "Typing Interface Hider",
     "author": "Sergey Bychkov",
@@ -38892,6 +38899,13 @@
     "repo": "hata-suriiken/obsidian-popup-dictionary"
   },
   {
+    "id": "file-describer",
+    "name": "File Describer",
+    "author": "Alexandrovdi",
+    "description": "Automatically create description notes for files dropped into a watched folder. Search and find files by their descriptions via Obsidian search. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "alexandrovdi/File-Describer"
+  },
+  {
     "id": "lemon-comments",
     "name": "Lemon Comments",
     "author": "blackflag0623",
@@ -38918,5 +38932,12 @@
     "author": "Darren Zheng",
     "description": "Archive LLM texts as scrollable, format-safe cards. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "slow-coding/obsidian-llm-content-block"
+  },
+  {
+    "id": "icon-palette",
+    "name": "Icon Palette",
+    "author": "Charles Kelsoe",
+    "description": "Set custom icons and colors on files, folders, tabs, tags, properties, and bookmarks, with a rulebook to apply them automatically. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ckelsoe/obsidian-icon-palette"
   }
 ]
