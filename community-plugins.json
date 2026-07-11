@@ -22393,6 +22393,13 @@
     "repo": "josteniok/create-folder-at-note-location"
   },
   {
+    "id": "smartpick",
+    "name": "SmartPick",
+    "author": "bcs",
+    "description": "Smart text selection toolbar with custom commands and AI features. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bcs1037/SmartPick"
+  },
+  {
     "id": "datestamp",
     "name": "Datestamp",
     "author": "huynhtranhoanglong",
@@ -39011,6 +39018,13 @@
     "repo": "bartlab/obsidian-local-history"
   },
   {
+    "id": "embedded-terminal",
+    "name": "Embedded Terminal",
+    "author": "NoVarYe",
+    "description": "VS Code like terminal inside Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "no4var2ye/ObsidianEmbeddedTerminal"
+  },
+  {
     "id": "desk-photos",
     "name": "Desk Photos",
     "author": "tapeau",
@@ -39037,5 +39051,26 @@
     "author": "chrisamber",
     "description": "Render ChordPro lead sheets with transpose, capo shapes, chord diagrams, set lists, and autoscroll. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "chrisamber/obsidian-leadsheet"
+  },
+  {
+    "id": "web-embed",
+    "name": "Web Embed",
+    "author": "notenerd",
+    "description": "Embed any website as an interactive browser view inside a note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "notenerdofficial/web-embed"
+  },
+  {
+    "id": "icon-picker",
+    "name": "Icon picker",
+    "author": "rocketBANG",
+    "description": "Preview and pick Lucide icons for the icon frontmatter property, as used by the Bases map view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rocketbang/obsidian-icon-picker"
+  },
+  {
+    "id": "reading-time-status",
+    "name": "Reading Time Status",
+    "author": "loispsq",
+    "description": "Show word count and estimated reading time for the current note in the status bar (CJK-aware). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "loispsq/reading-time-status"
   }
 ]
