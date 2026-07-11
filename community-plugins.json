@@ -33320,6 +33320,13 @@
     "repo": "kwhittle/obsidian-github-tools"
   },
   {
+    "id": "lumina",
+    "name": "Lumina",
+    "author": "Lumina",
+    "description": "Language-Agnostic RAG & MCP Agent powered by Multilingual Embeddings for local AI semantic search. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lumina-apps/obsidian-lumina"
+  },
+  {
     "id": "image-peek",
     "name": "Image Peek",
     "author": "groundfic",
@@ -38995,5 +39002,12 @@
     "author": "B@RT",
     "description": "On-disk version history for your notes: highlight changed lines, capture a timeline, and diff or restore any earlier version, fully local. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "bartlab/obsidian-local-history"
+  },
+  {
+    "id": "desk-photos",
+    "name": "Desk Photos",
+    "author": "tapeau",
+    "description": "Add sticky and floating photos in your editor, fixed to your screen or to some part of your notes. Customize them with frames, tapes, pins, texts, and they can even play a sound! - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tapeau/Desk-Photos"
   }
 ]
