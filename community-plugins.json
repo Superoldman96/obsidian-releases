@@ -18690,13 +18690,6 @@
     "repo": "tcatlas/obsidian-notes-calendar"
   },
   {
-    "id": "cloud-attach",
-    "name": "CloudAttach",
-    "author": "Garry",
-    "description": "Connect to OpenList and manage cloud attachments, insert signed file links into notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "curryhendry/obsidian-cloud-attach"
-  },
-  {
     "id": "ollama-notes-chat",
     "name": "Ollama Notes Chat",
     "author": "Taylor D. Marchetta",
@@ -38941,6 +38934,13 @@
     "repo": "anandrajbaghel/obsidian-gate-manager"
   },
   {
+    "id": "octo-agent",
+    "name": "Octo Agent",
+    "author": "open-octo",
+    "description": "Embeds the Octo Agent coding assistant in your vault. Your vault becomes its working directory, giving it capabilities for file reads and writes, search, bash commands, and multi-step workflows. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "open-octo/octo-obsidian"
+  },
+  {
     "id": "jmdict-popup-dictionary",
     "name": "JMdict Popup Dictionary (Japanese-English)",
     "author": "Katsuhiko Hata",
@@ -39072,5 +39072,12 @@
     "author": "loispsq",
     "description": "Show word count and estimated reading time for the current note in the status bar (CJK-aware). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "loispsq/reading-time-status"
+  },
+  {
+    "id": "emotional-time-capsule",
+    "name": "Emotional Time Capsule",
+    "author": "ibrh96-prog",
+    "description": "Write what you feel now. Revisit it after time has changed its meaning. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ibrh96-prog/obsidian-emotional-time-capsule"
   }
 ]
