@@ -32515,13 +32515,6 @@
     "repo": "flowing-abyss/obsidian-hybrid-search-plugin"
   },
   {
-    "id": "grimoire",
-    "name": "Grimoire",
-    "author": "Michael Makarov",
-    "description": "Run Claude Code, Codex, Grok, AntiGravity, Gemini CLI, and OpenCode as local AI agents in your vault, with chat, inline editing, and tools. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sandsaber/Grimoire"
-  },
-  {
     "id": "headings-indicator",
     "name": "Headings Indicator",
     "author": "willwang",
@@ -38839,7 +38832,7 @@
     "id": "jira-confluence-converter",
     "name": "Jira Confluence Converter",
     "author": "Ildar Kamalov",
-    "description": "Copy Markdown as Jira Wiki Markup or Confluence Storage XHTML. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Copy Markdown as Jira Wiki Markup or Confluence rich text - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "topk36/obsidian-jira-confluence-converter"
   },
   {
@@ -39163,5 +39156,19 @@
     "author": "IT039",
     "description": "Play audio embeds from clickable transcript timestamps. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "itnq18/obsidian-audio-timestamp-player"
+  },
+  {
+    "id": "shortcuts",
+    "name": "Command Shortcuts",
+    "author": "jsmorabito",
+    "description": "Activate commands using multiple shortcut methods. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jsmorabito/Obsidian-Shortcuts"
+  },
+  {
+    "id": "column-explorer",
+    "name": "Column Explorer",
+    "author": "N23eos",
+    "description": "Finder-style file explorer for Obsidian with Miller columns, drag and drop, multi-select, context menus, and complete file management. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "n23eos/column_explorer"
   }
 ]
