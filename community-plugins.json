@@ -11410,6 +11410,13 @@
     "repo": "name/obsidian-rpg"
   },
   {
+    "id": "syrinscape-player-control",
+    "name": "Syrinscape Online Player",
+    "author": "Stephen Cooper",
+    "description": "Control Syrinscape Online Player from inside of notes.",
+    "repo": "scooper4711/obsidian-syrinscape"
+  },
+  {
     "id": "edit-in-neovim",
     "name": "Edit in Neovim",
     "author": "theseusgrey",
@@ -15897,13 +15904,6 @@
     "repo": "gasparschott/obsidian-mark-open-files"
   },
   {
-    "id": "note-mover-shortcut",
-    "name": "Advanced Note Mover",
-    "author": "Lars Bücker",
-    "description": "Quickly and easily move notes to a predefined folder. Perfect for organizing your notes.",
-    "repo": "bueckerlars/obsidian-note-mover-shortcut"
-  },
-  {
     "id": "text-block-timer",
     "name": "Text Block Timer",
     "author": "wth461694678",
@@ -18485,6 +18485,13 @@
     "author": "cazzek",
     "description": "Browse markdown and text files in an accordion-style preview view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cazzek/obsidian-accordion-file-view"
+  },
+  {
+    "id": "thought-agent",
+    "name": "Thought Agent",
+    "author": "tuguberk",
+    "description": "An autonomous graph-aware AI assistant that chats with your notes, proposes edits safely, and creates intelligent mindmaps. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tuguberk/thought-agent-obsidian"
   },
   {
     "id": "sqlite-explorer",
@@ -26451,6 +26458,13 @@
     "author": "Axelle Abbadie",
     "description": "Pseudonymize and correct interactional transcripts (Jefferson, ICOR, SRT, CHAT/CHA). Designed for qualitative researchers in linguistics and conversation analysis. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "core-hn/pseudobsidian-ization"
+  },
+  {
+    "id": "codex-panel",
+    "name": "Codex Panel",
+    "author": "murashit",
+    "description": "Codex in your sidebar. ChatGPT Work for your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "murashit/codex-panel"
   },
   {
     "id": "spotify-sorter",
@@ -36925,6 +36939,13 @@
     "repo": "dfceo/obsidian-stp-viewer"
   },
   {
+    "id": "stashpad-classic",
+    "name": "Stashpad Classic",
+    "author": "Grub Basket",
+    "description": "A chat-style, nested-notes workspace: rapid capture, outliner navigation, fast search, tasks, and per-folder templates, with options to export notes instead of using the System Explorer. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/SP-Classic"
+  },
+  {
     "id": "cm-code-editor",
     "name": "CM Code Editor",
     "author": "gapmiss",
@@ -36942,7 +36963,7 @@
     "id": "glossary-linker",
     "name": "Glossary Linker",
     "author": "max-fluff",
-    "description": "Highlights glossary terms in any word form, converts them into links, and learns aliases from the links you already made - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Highlights glossary terms in any word form, converts them into links, and learns aliases from the links you already made. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "max-fluff/obsidian-glossary-linker"
   },
   {
@@ -39081,10 +39102,31 @@
     "repo": "ibrh96-prog/obsidian-emotional-time-capsule"
   },
   {
+    "id": "asana-connect",
+    "name": "Asana Connect",
+    "author": "notenerd",
+    "description": "Embed, create, and sync Asana tasks inside Obsidian. Supports any workspace or project. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "notenerdofficial/asana-connect"
+  },
+  {
     "id": "nextdeck",
     "name": "NextDeck",
     "author": "onlymykazari",
     "description": "Markdown-backed kanban boards with two-way Nextcloud Deck sync. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "onlymykazari/obsidian-nextcloud-deck"
+  },
+  {
+    "id": "spark-memo",
+    "name": "Spark Memo",
+    "author": "Joe Hou",
+    "description": "Highlight timestamps in your Journal section, capture quick notes, images, and audio from a sidebar, dictate with real-time speech-to-text, and review your year with a heatmap. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "houjoe0829/sparkmemo"
+  },
+  {
+    "id": "code-linker",
+    "name": "Code Linker",
+    "author": "max-fluff",
+    "description": "Autocomplete links to source-code files and type declarations that open at the exact line in your editor. Hover to preview the code and embed live snippets in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "max-fluff/obsidian-code-linker"
   }
 ]
