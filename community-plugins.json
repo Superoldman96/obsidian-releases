@@ -23254,6 +23254,13 @@
     "repo": "xiaozhuang0433/mermaid-zoom"
   },
   {
+    "id": "nldates-revived",
+    "name": "Natural Language Dates (Revived)",
+    "author": "amato21",
+    "description": "Auto-complete dates and times naturally (@today, @dans 20 min). Now with multilingual support and hybrid links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "amato21/nldates-revived"
+  },
+  {
     "id": "monday-integration",
     "name": "Monday.com Integration",
     "author": "nbdev99",
@@ -32067,6 +32074,13 @@
     "repo": "usero2/obsidian-plugins-book-index"
   },
   {
+    "id": "weave-incremental-reading",
+    "name": "Weave Incremental Reading",
+    "author": "zhuzhige123",
+    "description": "Standalone incremental reading workflow with topics, reading points, calendar scheduling, and source tracing. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhuzhige123/Obsidian-Weave-incremental-reading"
+  },
+  {
     "id": "lilbee",
     "name": "lilbee",
     "author": "tobocop2",
@@ -35234,7 +35248,7 @@
     "id": "cards-for-links",
     "name": "Cards4Links",
     "author": "Matthew",
-    "description": "Paste URLs to generate beautiful card-styled links - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Paste URLs to generate beautiful card-styled links, 3 possible way and a carousel for group of links - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mats324/cards4links"
   },
   {
@@ -35992,13 +36006,6 @@
     "author": "James Karlsson & Thomas Goldman",
     "description": "Run normal fenced Markdown code blocks in Obsidian while keeping native syntax highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tzadikimbiu/lotus"
-  },
-  {
-    "id": "html-effectiveness",
-    "name": "HTML Effectiveness",
-    "author": "rosswang",
-    "description": "边对比 / 流程图 / 幻灯片 / 报告 / 时间线 — 在 Obsidian 中直接渲染空间化 HTML 内容。基于 html-effectiveness 方法论。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "yanqingwang/obsidian-html-effectiveness"
   },
   {
     "id": "lapis-lazuli-ai-assistant",
@@ -36930,13 +36937,6 @@
     "author": "ove",
     "description": "3D STEP file previewer — powered by OpenCascade WASM + Three.js. Rotate, zoom, and inspect CAD models directly in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dfceo/obsidian-stp-viewer"
-  },
-  {
-    "id": "stashpad-classic",
-    "name": "Stashpad Classic",
-    "author": "Grub Basket",
-    "description": "A chat-style, nested-notes workspace: rapid capture, outliner navigation, fast search, tasks, and per-folder templates, with options to export notes instead of using the System Explorer. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "grub-basket/SP-Classic"
   },
   {
     "id": "cm-code-editor",
@@ -38570,13 +38570,6 @@
     "repo": "vladb-evs/obsidian-explorer-sort"
   },
   {
-    "id": "code-runner",
-    "name": "Code Runner",
-    "author": "chujiu-dev",
-    "description": "Interactively run code blocks in Obsidian with stdin input support. Supports Python, C, C++, Java, Go, JavaScript, TypeScript, Rust, Kotlin and more. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "chujiu-dev/obsidian-code-runner"
-  },
-  {
     "id": "pm-compass",
     "name": "PM Compass",
     "author": "Laurent Ferier",
@@ -39072,6 +39065,13 @@
     "author": "rocketBANG",
     "description": "Preview and pick Lucide icons for the icon frontmatter property, as used by the Bases map view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "rocketbang/obsidian-icon-picker"
+  },
+  {
+    "id": "api-key-checker",
+    "name": "AI API Key Checker",
+    "author": "kigrok",
+    "description": "Validate API keys and check rate limits for 20+ AI providers. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kigrok/api-key-checker"
   },
   {
     "id": "reading-time-status",
