@@ -26453,13 +26453,6 @@
     "repo": "core-hn/pseudobsidian-ization"
   },
   {
-    "id": "codex-panel",
-    "name": "Codex Panel",
-    "author": "murashit",
-    "description": "Codex in your sidebar. ChatGPT Work for your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "murashit/codex-panel"
-  },
-  {
     "id": "spotify-sorter",
     "name": "Spotify Sorter",
     "author": "fleker",
@@ -33404,6 +33397,13 @@
     "repo": "emberleif/Chronoboard"
   },
   {
+    "id": "vim-motions",
+    "name": "Vim Motions",
+    "author": "Emile Bangma",
+    "description": "Enhances Obsidian's Vim mode with Markdown-aware text objects, structural navigation, workspace keyboard control, and a polished Neovim-native experience. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "saberzero1/motions"
+  },
+  {
     "id": "lindar",
     "name": "Lindar",
     "author": "punkyard",
@@ -36176,6 +36176,13 @@
     "repo": "shuuul/obsidian-marp-extended"
   },
   {
+    "id": "text-brush",
+    "name": "Text Brush",
+    "author": "shimengjie",
+    "description": "Right-click selected text in the editor to apply color, font size, or bold from a configurable palette. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "callmekeyboardman/text-brush"
+  },
+  {
     "id": "bases-power-pack",
     "name": "Bases Power Pack",
     "author": "saiken",
@@ -38549,6 +38556,13 @@
     "repo": "vladb-evs/obsidian-explorer-sort"
   },
   {
+    "id": "code-runner",
+    "name": "Code Runner",
+    "author": "chujiu-dev",
+    "description": "Interactively run code blocks in Obsidian with stdin input support. Supports Python, C, C++, Java, Go, JavaScript, TypeScript, Rust, Kotlin and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chujiu-dev/obsidian-code-runner"
+  },
+  {
     "id": "pm-compass",
     "name": "PM Compass",
     "author": "Laurent Ferier",
@@ -39065,5 +39079,12 @@
     "author": "ibrh96-prog",
     "description": "Write what you feel now. Revisit it after time has changed its meaning. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ibrh96-prog/obsidian-emotional-time-capsule"
+  },
+  {
+    "id": "nextdeck",
+    "name": "NextDeck",
+    "author": "onlymykazari",
+    "description": "Markdown-backed kanban boards with two-way Nextcloud Deck sync. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "onlymykazari/obsidian-nextcloud-deck"
   }
 ]
