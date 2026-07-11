@@ -18487,13 +18487,6 @@
     "repo": "cazzek/obsidian-accordion-file-view"
   },
   {
-    "id": "thought-agent",
-    "name": "Thought Agent",
-    "author": "tuguberk",
-    "description": "An autonomous graph-aware AI assistant that chats with your notes, proposes edits safely, and creates intelligent mindmaps. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tuguberk/thought-agent-obsidian"
-  },
-  {
     "id": "sqlite-explorer",
     "name": "SQLite Explorer",
     "author": "qf3l3k",
@@ -33411,13 +33404,6 @@
     "repo": "emberleif/Chronoboard"
   },
   {
-    "id": "vim-motions",
-    "name": "Vim Motions",
-    "author": "Emile Bangma",
-    "description": "Enhances Obsidian's Vim mode with Markdown-aware text objects, structural navigation, workspace keyboard control, and a polished Neovim-native experience. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "saberzero1/motions"
-  },
-  {
     "id": "lindar",
     "name": "Lindar",
     "author": "punkyard",
@@ -36188,13 +36174,6 @@
     "author": "shuuul",
     "description": "Create markdown-based Marp presentations in Obsidian with extended Marp support - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "shuuul/obsidian-marp-extended"
-  },
-  {
-    "id": "text-brush",
-    "name": "Text Brush",
-    "author": "shimengjie",
-    "description": "Right-click selected text in the editor to apply color, font size, or bold from a configurable palette. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "callmekeyboardman/text-brush"
   },
   {
     "id": "bases-power-pack",
