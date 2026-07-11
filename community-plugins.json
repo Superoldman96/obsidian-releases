@@ -30177,6 +30177,13 @@
     "repo": "t0masgutierrez/folder-sort"
   },
   {
+    "id": "gallery-view-dashboard",
+    "name": "Gallery View Dashboard",
+    "author": "Kawê Cezar",
+    "description": "Transforms your vault's directory structures into a streamlined grid of card visuals with fallback banners and interactive metadata. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kawecz/gallery-view"
+  },
+  {
     "id": "vir",
     "name": "Vir",
     "author": "Djordje Marković",
@@ -34074,6 +34081,13 @@
     "author": "sdking",
     "description": "Render draw.io diagrams inline in your notes with zoom, pan, and multi-page support. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sdkay/obsidian-drawio-view"
+  },
+  {
+    "id": "slide-and-reveal",
+    "name": "Slide and Reveal",
+    "author": "Grub Basket",
+    "description": "Scroll-to-reveal flashcard study for diagrams/images. Right-click any folder to open it as a Slide & Reveal view: drop covers over each label, then scroll in place to uncover them one pair at a time. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/SnR"
   },
   {
     "id": "image-actions",
@@ -38780,6 +38794,13 @@
     "repo": "ansango/obsidian-slugify"
   },
   {
+    "id": "jira-confluence-converter",
+    "name": "Jira Confluence Converter",
+    "author": "Ildar Kamalov",
+    "description": "Copy Markdown as Jira Wiki Markup or Confluence Storage XHTML. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "topk36/obsidian-jira-confluence-converter"
+  },
+  {
     "id": "voice-scribe",
     "name": "Voice Scribe",
     "author": "mrrepac",
@@ -38939,5 +38960,26 @@
     "author": "Charles Kelsoe",
     "description": "Set custom icons and colors on files, folders, tabs, tags, properties, and bookmarks, with a rulebook to apply them automatically. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ckelsoe/obsidian-icon-palette"
+  },
+  {
+    "id": "pensio-sync",
+    "name": "Pensio Journaling Sync",
+    "author": "Pensio",
+    "description": "Sync your journal to Pensio for AI-powered journaling insights: emotion and mood tracking, relationship mapping, and weekly reflections on your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gabrielrubens/pensio-obsidian-sync"
+  },
+  {
+    "id": "prodlife",
+    "name": "ProdLife",
+    "author": "0libots",
+    "description": "Build daily notes, roll over tasks, manage reminders, and turn consistent productivity into visible progress. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "0libote/ProdLife"
+  },
+  {
+    "id": "random-note-from-folder",
+    "name": "Random Note from Folder",
+    "author": "nobodyrightnow",
+    "description": "Select a folder to have a random note chosen from. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nobodyrightnow/obsidian-random-note-plugin"
   }
 ]
