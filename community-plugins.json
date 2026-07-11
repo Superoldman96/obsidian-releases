@@ -22386,6 +22386,13 @@
     "repo": "josteniok/create-folder-at-note-location"
   },
   {
+    "id": "cbt-exam",
+    "name": "CBT Exam Simulator",
+    "author": "nazdridoy",
+    "description": "A robust, offline-first CBT exam simulator using FlashQuiz format. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nazdridoy/obsidian-cbt-exam"
+  },
+  {
     "id": "smartpick",
     "name": "SmartPick",
     "author": "bcs",
@@ -26388,13 +26395,6 @@
     "author": "teaos",
     "description": "Roleplay sync tool for use with the MultiMuse bot in discord. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tea0s/multimuse-tracker"
-  },
-  {
-    "id": "ai-vault",
-    "name": "AI-Vault",
-    "author": "JamJan05",
-    "description": "Chat with GPT and Claude directly inside your notes — RAG from your vault, history, projects and smart modes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jamjan05/AI-Vault-for-Obsidian"
   },
   {
     "id": "iconocolor",
@@ -35077,6 +35077,13 @@
     "repo": "scottnine/obsidian-filamental"
   },
   {
+    "id": "masking-as-md",
+    "name": "Masking as MD",
+    "author": "ahseyg",
+    "description": "Open non-markdown files (.py, .html, .txt, .js, .css, etc.) as editable text documents directly in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ahseyg/Masking-as-MD"
+  },
+  {
     "id": "qreview",
     "name": "Quick Review",
     "author": "Bitcoming",
@@ -39142,5 +39149,12 @@
     "author": "Justin Rosales",
     "description": "Two-finger trackpad swipes mapped to any command. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "justinrosales/obsidian-swipe-gestures"
+  },
+  {
+    "id": "audio-timestamp-player",
+    "name": "Audio Timestamp Player",
+    "author": "IT039",
+    "description": "Play audio embeds from clickable transcript timestamps. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "itnq18/obsidian-audio-timestamp-player"
   }
 ]
