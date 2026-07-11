@@ -39123,10 +39123,24 @@
     "repo": "houjoe0829/sparkmemo"
   },
   {
+    "id": "airtable-tabula",
+    "name": "Airtable Tabula",
+    "author": "MehulG",
+    "description": "Local Airtable-like tables with selects, filters, query, CSV/Excel import, and optional Airtable sync. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mehulg/airtable-tabula"
+  },
+  {
     "id": "code-linker",
     "name": "Code Linker",
     "author": "max-fluff",
     "description": "Autocomplete links to source-code files and type declarations that open at the exact line in your editor. Hover to preview the code and embed live snippets in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "max-fluff/obsidian-code-linker"
+  },
+  {
+    "id": "horizontal-swipe-gestures",
+    "name": "Horizontal Swipe Gestures",
+    "author": "Justin Rosales",
+    "description": "Two-finger trackpad swipes mapped to any command. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "justinrosales/obsidian-swipe-gestures"
   }
 ]
