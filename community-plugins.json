@@ -30836,9 +30836,9 @@
   },
   {
     "id": "regex-css-highlighter",
-    "name": "SwiftGlean",
+    "name": "SwiftGlossa",
     "author": "swiSwift",
-    "description": "Highlight text with regex and custom CSS. Add interlinear notes above keywords, keyword-level remarks with backlinks, and AskMe AI questions to deepen understanding. (Formerly Regex CSS Highlighter) - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Highlight text with regex + custom CSS. Add interlinear notes, keyword remarks with backlinks, AI relation graphs, and AskMe questions to deepen understanding. (Formerly Regex CSS Highlighter) - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dlsdgj/obsidian-regex-css-highlighter"
   },
   {
@@ -38932,6 +38932,13 @@
     "author": "p1tt1",
     "description": "Track time on tasks with org-mode LOGBOOK-style clock entries, stored as Dataview-queryable inline fields. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "p1tt1/obsidian-logbook"
+  },
+  {
+    "id": "commonplace-notes",
+    "name": "Commonplace Notes",
+    "author": "zachmueller",
+    "description": "Publish your notes with sliding panes and link to others notes - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zachmueller/commonplace-notes"
   },
   {
     "id": "status-date-tracker",
