@@ -33138,6 +33138,13 @@
     "repo": "demartinogiuseppe/antinomia"
   },
   {
+    "id": "mysync",
+    "name": "MySync",
+    "author": "Henrique Manduca",
+    "description": "Sync notes to your home CouchDB database with MySync. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "henriquemanduca/mysync-plugin"
+  },
+  {
     "id": "annoteca",
     "name": "Annoteca",
     "author": "Charles Kelsoe",
@@ -35999,6 +36006,13 @@
     "author": "James Karlsson & Thomas Goldman",
     "description": "Run normal fenced Markdown code blocks in Obsidian while keeping native syntax highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tzadikimbiu/lotus"
+  },
+  {
+    "id": "html-effectiveness",
+    "name": "HTML Effectiveness",
+    "author": "rosswang",
+    "description": "边对比 / 流程图 / 幻灯片 / 报告 / 时间线 — 在 Obsidian 中直接渲染空间化 HTML 内容。基于 html-effectiveness 方法论。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yanqingwang/obsidian-html-effectiveness"
   },
   {
     "id": "lapis-lazuli-ai-assistant",
@@ -39219,5 +39233,19 @@
     "author": "Haniewicz",
     "description": "Synchronize an Obsidian vault with a private server. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "haniewicz/PrivateSyncPlugin"
+  },
+  {
+    "id": "graph-node-preview",
+    "name": "I Will Never Leave the Graph View",
+    "author": "yaye.work",
+    "description": "Preview, edit, and add notes directly in the graph view — hover a node to preview it, click to edit, right-click empty space to create. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yaye-work/obsidian-never-leave-graph-view"
+  },
+  {
+    "id": "thai-bracket-remap",
+    "name": "Thai Bracket Remap",
+    "author": "Poom",
+    "description": "แปลงตัวอักษร ฃ ให้กลายเป็น [ และ ฅ ให้กลายเป็น ] ทันทีที่พิมพ์ในตัวแก้ไข - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "khunpoom/Thai-bracket-remap"
   }
 ]

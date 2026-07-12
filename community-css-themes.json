@@ -4334,5 +4334,12 @@
     "repo": "alanfgn/obsidian-more-mono-color",
     "screenshot": "more_mono_color.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Neon Acid",
+    "author": "Ashly Lorenzana",
+    "repo": "monapdx/Neon-Acid",
+    "screenshot": "screenshot.png",
+    "modes": ["dark"]
   }
 ]
