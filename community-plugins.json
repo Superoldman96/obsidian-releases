@@ -21987,13 +21987,6 @@
     "repo": "landnthrn/Obsidian-GraphForge"
   },
   {
-    "id": "obisidian-dataloom",
-    "name": "DataLoom",
-    "author": "Aykut Kardas",
-    "description": "Weave together data from diverse sources into different views. Inspired by Excel Spreadsheets and Notion.so. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "aykutkardas/obsidian-dataloom"
-  },
-  {
     "id": "stock-blocks",
     "name": "Stock Blocks",
     "author": "sandypockets",
@@ -28761,13 +28754,6 @@
     "author": "masaki39",
     "description": "Timeline view for daily notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "masaki39/daily-notes-timeline"
-  },
-  {
-    "id": "command-group",
-    "name": "Command Group",
-    "author": "masaki39",
-    "description": "Group commands and select them quickly with custom keyboard shortcuts - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "masaki39/obsidian-command-group"
   },
   {
     "id": "homework-for-life",
@@ -39268,5 +39254,12 @@
     "author": "kylemumu",
     "description": "Connect RedNote/Xiaohongshu (小红书) with Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ch-yyk/obsidian-rednote"
+  },
+  {
+    "id": "inline-link-suggestions",
+    "name": "Inline Link Suggestions",
+    "author": "Alexey Alekhin",
+    "description": "Underlines plain-text mentions of existing notes (incl. aliases) right in the editor. Click a mention to turn it into a wiki link. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "laughedelic/obsidian-inline-link-suggestions"
   }
 ]

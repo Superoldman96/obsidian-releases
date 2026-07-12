@@ -4348,5 +4348,12 @@
     "repo": "elijahchan2019/obsidian-h2os-theme",
     "screenshot": "screenshot.png",
     "modes": ["light"]
+  },
+  {
+    "name": "Composed",
+    "author": "Zijie Wang",
+    "repo": "zjie-wang/obsidian-composed",
+    "screenshot": "screenshot.png",
+    "modes": ["light"]
   }
 ]
