@@ -4355,5 +4355,12 @@
     "repo": "zjie-wang/obsidian-composed",
     "screenshot": "screenshot.png",
     "modes": ["light"]
+  },
+  {
+    "name": "Dissociated IdentiTea",
+    "author": "TeaHaus Shindan",
+    "repo": "7eahaus/dissociated-identitea",
+    "screenshot": "screenshots/darkmode-overview.png",
+    "modes": ["dark", "light"]
   }
 ]

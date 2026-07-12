@@ -18991,6 +18991,13 @@
     "repo": "lunevoilee/obsidian-latex-color-sync"
   },
   {
+    "id": "merge-as-alias",
+    "name": "Merge as Alias",
+    "author": "quietbyday",
+    "description": "Merge one note into another while adding the old name as an alias and updating all internal links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "quietbyday/obsidian-merge-as-alias"
+  },
+  {
     "id": "apple-tts",
     "name": "Apple TTS",
     "author": "ajsscott",
@@ -38976,13 +38983,6 @@
     "repo": "hata-suriiken/obsidian-popup-dictionary"
   },
   {
-    "id": "file-describer",
-    "name": "File Describer",
-    "author": "Alexandrovdi",
-    "description": "Automatically create description notes for files dropped into a watched folder. Search and find files by their descriptions via Obsidian search. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "alexandrovdi/File-Describer"
-  },
-  {
     "id": "lemon-comments",
     "name": "Lemon Comments",
     "author": "blackflag0623",
@@ -39086,6 +39086,13 @@
     "author": "notenerd",
     "description": "Embed any website as an interactive browser view inside a note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "notenerdofficial/web-embed"
+  },
+  {
+    "id": "canvas-branch-chat",
+    "name": "Canvas Branch Chat",
+    "author": "p4nt1um",
+    "description": "Flowith-style branching AI conversations on Obsidian Canvas. Fork, explore, and map your thinking. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "p4nt1um/canvas-branch-chat"
   },
   {
     "id": "icon-picker",
@@ -39401,6 +39408,13 @@
     "author": "Jeremy Jin",
     "description": "将 Looki 的日常数据与即时提示同步进 Obsidian，合并为按日期的「每日记忆」笔记。可配置目标文件夹，并选择是否同步图片/视频。 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kidd911-cmd/obsidian-looki-sync"
+  },
+  {
+    "id": "alias-linker",
+    "name": "Alias Linker",
+    "author": "johannrichard",
+    "description": "An experimental Obsidian plugin that resolves bare alias links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "johannrichard/alias-linker"
   },
   {
     "id": "aimeton-cloud-bridge",
