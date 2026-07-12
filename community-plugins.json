@@ -13840,7 +13840,7 @@
   },
   {
     "id": "better-plugins-manager",
-    "name": "Better Add-on Manager",
+    "name": "Better Manager",
     "author": "eondrcode",
     "description": "Make plugin management more intuitive and efficient.",
     "repo": "eondrcode/obsidian-manager"
@@ -19033,13 +19033,6 @@
     "repo": "fengshuzi/lite-calendar"
   },
   {
-    "id": "image-viewer",
-    "name": "Image Viewer",
-    "author": "fengshuzi",
-    "description": "A powerful image viewer with gallery view, zoom, slideshow and more. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "fengshuzi/image-viewer"
-  },
-  {
     "id": "file-commander",
     "name": "File Commander",
     "author": "fengshuzi",
@@ -21985,6 +21978,13 @@
     "author": "landn.thrn",
     "description": "Automatic graph creation & maintenance through real-time updating. Additionally includes quick access folder hubs. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "landnthrn/Obsidian-GraphForge"
+  },
+  {
+    "id": "obisidian-dataloom",
+    "name": "DataLoom",
+    "author": "Aykut Kardas",
+    "description": "Weave together data from diverse sources into different views. Inspired by Excel Spreadsheets and Notion.so. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aykutkardas/obsidian-dataloom"
   },
   {
     "id": "stock-blocks",
@@ -26549,13 +26549,6 @@
     "author": "o1xhack",
     "description": "Sync your Trakt.tv watchlist, watch history, favorites, and ratings into Markdown notes — with metadata localization and detailed per-episode watch timestamps. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "o1xhack/obsidian-sync-trakt"
-  },
-  {
-    "id": "realclaudian",
-    "name": "Claudian",
-    "author": "Yishen Tu",
-    "description": "Embeds Claude Code/Codex as an AI collaborator in your vault. Your vault becomes agent's working directory, giving it full agentic capabilities: file read/write, search, bash commands, and multi-step workflows. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "yishentu/claudian"
   },
   {
     "id": "ima-copilot-sync",
@@ -37751,25 +37744,11 @@
     "repo": "cferrugem/obsidian-cfr-find"
   },
   {
-    "id": "beautytasks",
-    "name": "BeautyTasks",
-    "author": "Avni Bilgin",
-    "description": "A Todoist-inspired task and project manager built entirely on Markdown — one note per task, no external services, no dependencies. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "avnibilgin/BeautyTasks"
-  },
-  {
     "id": "libretranslate",
     "name": "LibreTranslate",
     "author": "p0shkar",
     "description": "Translate text using LibreTranslate. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "p0shkar/LibreTranslate-for-Obsidian"
-  },
-  {
-    "id": "bamboo-walking",
-    "name": "Bamboo Walking",
-    "author": "羽鳞君",
-    "description": "个人写作专栏 · 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生 | Personal writing column reader - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-bamboo-walking"
   },
   {
     "id": "promptbox",
@@ -39261,5 +39240,19 @@
     "author": "Alexey Alekhin",
     "description": "Underlines plain-text mentions of existing notes (incl. aliases) right in the editor. Click a mention to turn it into a wiki link. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "laughedelic/obsidian-inline-link-suggestions"
+  },
+  {
+    "id": "drag-biolink",
+    "name": "Drag Bi-Link",
+    "author": "LingXiFox",
+    "description": "Link existing text across split panes by dragging with Option or Alt and a configurable selection key. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lingxifox/drag-biolink"
+  },
+  {
+    "id": "incremental-reading-toolkit",
+    "name": "Incremental Reading Toolkit",
+    "author": "kieran",
+    "description": "Process long-form reading into scheduled topics, extracts, and Spaced Repetition flashcards. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kja140/incremental-reading"
   }
 ]
