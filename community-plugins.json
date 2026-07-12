@@ -16753,7 +16753,7 @@
   {
     "id": "template-folder",
     "name": "Template Folder",
-    "author": "lucasoe",
+    "author": "LucasOe",
     "description": "Moves notes to a folder when applying a template.",
     "repo": "lucasoe/obsidian-template-folder"
   },
@@ -19031,6 +19031,13 @@
     "author": "fengshuzi",
     "description": "macOS Calendar integration with a lightweight, flash-note style interface. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fengshuzi/lite-calendar"
+  },
+  {
+    "id": "image-viewer",
+    "name": "Image Viewer",
+    "author": "fengshuzi",
+    "description": "A powerful image viewer with gallery view, zoom, slideshow and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fengshuzi/image-viewer"
   },
   {
     "id": "file-commander",
@@ -23728,6 +23735,13 @@
     "author": "liuyangart",
     "description": "Canvas AI Plugin - use Gemini AI in Canvas view, support text / image / node generation. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "liuyangart/obsidian-canvas-banana"
+  },
+  {
+    "id": "gemini-helper",
+    "name": "Gemini Helper",
+    "author": "takeshy",
+    "description": "AI chat, workflow automation, semantic search (RAG), LLM Wiki (OKF), and dashboards with reading memos powered by Google Gemini. Works on both desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "takeshy/obsidian-gemini-helper"
   },
   {
     "id": "dropdown-vars",
@@ -30072,13 +30086,6 @@
     "repo": "dylantartarini1996/dyresearch-obsidian"
   },
   {
-    "id": "miyo-tomo-hashi",
-    "name": "MiYo Tomo Hashi",
-    "author": "Marcus Breiden",
-    "description": "Direct integration with Tomo, the Claude Code agent, for session interaction and automated vault updates. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mmomm-org/miyo-tomo-hashi"
-  },
-  {
     "id": "mermaid-flow",
     "name": "Mermaid Flow",
     "author": "Mohammed Thanseer",
@@ -30343,13 +30350,6 @@
     "author": "Jayce",
     "description": "Smart review system based on Obsidian Properties / YAML frontmatter with Review Center, spaced review feedback, history, and AI payload export. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jaycelu/Smart-Review"
-  },
-  {
-    "id": "made-up-words",
-    "name": "Made Up Words",
-    "author": "obsidian-ttrpg-community",
-    "description": "A dictionary for the words you've made up. Browse, search, and look up your invented vocabulary across multiple languages, with hover tooltips and a side-panel lexicon. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "obsidian-ttrpg-community/Made-Up-Words"
   },
   {
     "id": "english-learning-assistant",
@@ -37982,6 +37982,13 @@
     "repo": "kennyrn/nameForge"
   },
   {
+    "id": "drivesync",
+    "name": "DriveSync",
+    "author": "lcjury",
+    "description": "Two-way sync your vault with Google Drive. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lcjury/obsidian-drivesync"
+  },
+  {
     "id": "eink-cursor",
     "name": "Eink Cursor",
     "author": "l'Atelier",
@@ -38288,13 +38295,6 @@
     "author": "Kolpa4",
     "description": "Experimental patch for per-node local graph depth. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kolpa4/Expansive-local-graph"
-  },
-  {
-    "id": "ai-refiner",
-    "name": "AI Refiner",
-    "author": "Maxim Kravtsov",
-    "description": "Refine selected text with a floating prompt using CLI or API providers. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "surdeddd/ai-refiner"
   },
   {
     "id": "reallygood-research",
@@ -39137,6 +39137,13 @@
     "repo": "max-fluff/obsidian-code-linker"
   },
   {
+    "id": "pg",
+    "name": "Postgres DB",
+    "author": "Arghyahub",
+    "description": "Lets you use Postgresql database inside Obsidian and manage queries. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arghyahub/postgres-db"
+  },
+  {
     "id": "horizontal-swipe-gestures",
     "name": "Horizontal Swipe Gestures",
     "author": "Justin Rosales",
@@ -39186,6 +39193,13 @@
     "repo": "pilafdob/Pinup"
   },
   {
+    "id": "toml-editor",
+    "name": "TOML Editor",
+    "author": "Jason Crawford",
+    "description": "Open and edit TOML files with syntax highlighting and parse diagnostics. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jasoncrawford/obsidian-toml"
+  },
+  {
     "id": "external-attachments",
     "name": "External Attachments",
     "author": "Dyllon Wright",
@@ -39219,6 +39233,13 @@
     "author": "Haniewicz",
     "description": "Synchronize an Obsidian vault with a private server. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "haniewicz/PrivateSyncPlugin"
+  },
+  {
+    "id": "graph-node-preview",
+    "name": "I Will Never Leave the Graph View",
+    "author": "yaye.work",
+    "description": "Preview, edit, and add notes directly in the graph view — hover a node to preview it, click to edit, right-click empty space to create. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yaye-work/obsidian-never-leave-graph-view"
   },
   {
     "id": "thai-bracket-remap",
@@ -39317,5 +39338,26 @@
     "author": "XJain",
     "description": "Auto upload images to your Roim PicX instance - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xjain03/roim-picx-uploader"
+  },
+  {
+    "id": "ultrafocus",
+    "name": "Ultrafocus",
+    "author": "Elia Scotto",
+    "description": "A plugin to turn Obsidian into the ultimate platform for focused writing. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "eliascotto/ultrafocus"
+  },
+  {
+    "id": "fragrantica-search",
+    "name": "Fragrantica Search",
+    "author": "Aleksander Pugowski",
+    "description": "Searches for fragrances on the Fragrantica website. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pug0r/obsidian-fragrantica-plugin"
+  },
+  {
+    "id": "emotion-book",
+    "name": "Emotion Book",
+    "author": "oxilldat",
+    "description": "Emotion diary plugin for Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "oxilldat/obsidian-emotion-book"
   }
 ]
