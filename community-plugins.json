@@ -22666,6 +22666,13 @@
     "repo": "penyt/vim-mode-status"
   },
   {
+    "id": "weekly-notes",
+    "name": "Weekly notes",
+    "author": "brabli",
+    "description": "Create notes on a weekly basis, starting on a weekday of your choice. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "brabli/obsidian-weekly-notes"
+  },
+  {
     "id": "better-bullets",
     "name": "Better Bullets",
     "author": "lualum",
@@ -34650,13 +34657,6 @@
     "repo": "synaphi/background-tray"
   },
   {
-    "id": "lifequest",
-    "name": "LifeQuest",
-    "author": "Snifer",
-    "description": "Life RPG Gamify your daily life inside Obsidian — quests, XP, levels, streaks, and a personal dashboard. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "snifer/LifeQuest"
-  },
-  {
     "id": "embed-eml",
     "name": "Embed EML",
     "author": "useroption3",
@@ -37744,11 +37744,25 @@
     "repo": "cferrugem/obsidian-cfr-find"
   },
   {
+    "id": "beautytasks",
+    "name": "BeautyTasks",
+    "author": "Avni Bilgin",
+    "description": "A Todoist-inspired task and project manager built entirely on Markdown — one note per task, no external services, no dependencies. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "avnibilgin/BeautyTasks"
+  },
+  {
     "id": "libretranslate",
     "name": "LibreTranslate",
     "author": "p0shkar",
     "description": "Translate text using LibreTranslate. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "p0shkar/LibreTranslate-for-Obsidian"
+  },
+  {
+    "id": "bamboo-walking",
+    "name": "Bamboo Walking",
+    "author": "羽鳞君",
+    "description": "个人写作专栏 · 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生 | Personal writing column reader - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-bamboo-walking"
   },
   {
     "id": "promptbox",
@@ -39088,6 +39102,13 @@
     "repo": "notenerdofficial/asana-connect"
   },
   {
+    "id": "spell-picker",
+    "name": "Spell Picker",
+    "author": "Szynszyl320",
+    "description": "Allows the user to pick out from all the basic dnd spells - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "szynszyl320/spell-picker-obsidian"
+  },
+  {
     "id": "nextdeck",
     "name": "NextDeck",
     "author": "onlymykazari",
@@ -39254,5 +39275,19 @@
     "author": "kieran",
     "description": "Process long-form reading into scheduled topics, extracts, and Spaced Repetition flashcards. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kja140/incremental-reading"
+  },
+  {
+    "id": "nudge",
+    "name": "Nudge",
+    "author": "Peter",
+    "description": "Manage tasks in a single plain-text todo.txt file, with lists, due dates, priorities, and recurrence. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "2easy/nudge"
+  },
+  {
+    "id": "ai-article",
+    "name": "AI Article",
+    "author": "jiang",
+    "description": "Extract article style from notes and generate articles for your workspace. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "javajiang/article_ai"
   }
 ]
