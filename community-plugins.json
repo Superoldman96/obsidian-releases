@@ -23730,13 +23730,6 @@
     "repo": "liuyangart/obsidian-canvas-banana"
   },
   {
-    "id": "gemini-helper",
-    "name": "Gemini Helper",
-    "author": "takeshy",
-    "description": "AI chat, workflow automation, semantic search (RAG), LLM Wiki (OKF), and dashboards with reading memos powered by Google Gemini. Works on both desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "takeshy/obsidian-gemini-helper"
-  },
-  {
     "id": "dropdown-vars",
     "name": "Dropdown Vars",
     "author": "majid-khonji",
@@ -25611,13 +25604,6 @@
     "author": "blackajiro",
     "description": "A local-first AI recorder with live transcription, diagnostics, and session-based notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "blackajiro/Resonance"
-  },
-  {
-    "id": "synch",
-    "name": "Synch",
-    "author": "hjinco",
-    "description": "Sync your vault across devices with end-to-end encryption. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "hjinco/synch"
   },
   {
     "id": "harness-noting",
