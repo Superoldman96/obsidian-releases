@@ -18690,6 +18690,13 @@
     "repo": "tcatlas/obsidian-notes-calendar"
   },
   {
+    "id": "cloud-attach",
+    "name": "CloudAttach",
+    "author": "Garry",
+    "description": "Connect to OpenList and manage cloud attachments, insert signed file links into notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "curryhendry/obsidian-cloud-attach"
+  },
+  {
     "id": "ollama-notes-chat",
     "name": "Ollama Notes Chat",
     "author": "Taylor D. Marchetta",
@@ -21243,13 +21250,6 @@
     "author": "samhopwell",
     "description": "A plugin that persists heading fold state across devices and sessions by embedding fold markers directly in your markdown files. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "samhopwell/obsidian-foldstate"
-  },
-  {
-    "id": "weave",
-    "name": "Weave",
-    "author": "zhuzhige123",
-    "description": "Enhance knowledge learning and memory consolidation with incremental reading, memory decks, and practice quiz decks. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zhuzhige123/obsidian---Weave"
   },
   {
     "id": "ai-link-summarizer",
@@ -33985,13 +33985,6 @@
     "repo": "aziz-zahran/obsidian-chroma-key"
   },
   {
-    "id": "json-editor",
-    "name": "JSON Editor",
-    "author": "Johannes Kaindl",
-    "description": "View and edit JSON files with a Tree/Source toggle. Renders JSON code blocks in Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "johannes-kaindl/json-editor"
-  },
-  {
     "id": "color-tab",
     "name": "Color Tab",
     "author": "Rafael Ordaz",
@@ -35159,13 +35152,6 @@
     "author": "Johannes Kaindl",
     "description": "Local, offline retrieval over your vault: related notes, semantic search, and grounded chat with a local LLM — nothing leaves your machine. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "johannes-kaindl/vault-rag"
-  },
-  {
-    "id": "image-to-markdown",
-    "name": "Image to Markdown",
-    "author": "Johannes Kaindl",
-    "description": "Transcribe the images and PDFs in a note to Markdown with a local vision LLM — fully offline, non-destructive, streaming into the sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "johannes-kaindl/image-to-markdown"
   },
   {
     "id": "custom-tag-color",
@@ -38045,17 +38031,10 @@
     "repo": "yzyhhhstudy/paper-deadlines"
   },
   {
-    "id": "vault-crews",
-    "name": "Vault Crews",
-    "author": "Johannes Kaindl",
-    "description": "Run autonomous local LLM agent teams (crews) on your vault via LM Studio - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "johannes-kaindl/vault-crews"
-  },
-  {
     "id": "obsync-webdav-gpg",
-    "name": "WebDAV GPG Sync",
+    "name": "Webdav PQC Sync",
     "author": "obsync",
-    "description": "Encrypt vault data with Post Quntum and sync/restore to/from WebDAV. Encrypts both file content and filenames. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Encrypt vault data with Post Quantum and sync/restore to/from WebDAV. Encrypts both file content and filenames. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "normanify/obsync_webdav_gpg"
   },
   {
@@ -38794,6 +38773,13 @@
     "repo": "fahera-mx/obsidian.alissa.app"
   },
   {
+    "id": "piclinker",
+    "name": "PicLinker",
+    "author": "Coeris",
+    "description": "一款面向 Obsidian 的全库图片资产管理工具，覆盖扫描、去重、比对、批量等操作。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "coeris/PicLinker"
+  },
+  {
     "id": "mirror-archive",
     "name": "Mirror Archive",
     "author": "MapleCheng",
@@ -39368,10 +39354,24 @@
     "repo": "oxilldat/obsidian-emotion-book"
   },
   {
+    "id": "canvas-toolkit",
+    "name": "Canvas Toolkit",
+    "author": "freemax",
+    "description": "Customize Obsidian Canvas with editable labels, sticky notes, board-style groups, and fast appearance controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "maksparker/canvas-toolkit"
+  },
+  {
     "id": "task-cockpit",
     "name": "Tasks Cockpit",
     "author": "DevidCode",
     "description": "A single, hand-orderable list of your vault tasks grouped by due date. Auto-aggregated, drag to reorder (order persists), auto-refreshed. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "devidcode/obsidian-tasks-cockpit"
+  },
+  {
+    "id": "looki-sync",
+    "name": "Looki Sync",
+    "author": "Jeremy Jin",
+    "description": "将 Looki 的日常数据与即时提示同步进 Obsidian，合并为按日期的「每日记忆」笔记。可配置目标文件夹，并选择是否同步图片/视频。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kidd911-cmd/obsidian-looki-sync"
   }
 ]
