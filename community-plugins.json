@@ -20349,6 +20349,13 @@
     "repo": "qustrolabe/zoxide-notes"
   },
   {
+    "id": "vault-coach",
+    "name": "Vault Coach",
+    "author": "wanjin5508",
+    "description": "Local knowledge Q&A and interview practice from your vault using Ollama. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wanjin5508/vault-coach"
+  },
+  {
     "id": "linkvault",
     "name": "LinkVault",
     "author": "calghar",
@@ -34657,6 +34664,13 @@
     "repo": "synaphi/background-tray"
   },
   {
+    "id": "lifequest",
+    "name": "LifeQuest",
+    "author": "Snifer",
+    "description": "Life RPG Gamify your daily life inside Obsidian — quests, XP, levels, streaks, and a personal dashboard. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "snifer/LifeQuest"
+  },
+  {
     "id": "embed-eml",
     "name": "Embed EML",
     "author": "useroption3",
@@ -38972,7 +38986,7 @@
     "id": "cursor-smith",
     "name": "Cursor-Smith",
     "author": "sadsnake1",
-    "description": "Forge your perfect editing experience with custom cursor styles, including terminal blocks, animated trails, and dynamic torch effects. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Forge your perfect editing experience with custom cursor styles. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sadsnake1/cursor-smith"
   },
   {
@@ -39256,6 +39270,13 @@
     "repo": "ch-yyk/obsidian-rednote"
   },
   {
+    "id": "better-store",
+    "name": "Better Store",
+    "author": "Real-Fruit-Snacks",
+    "description": "A polished community plugin browser: filters, rich details, trending, and installed-plugin management. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "real-fruit-snacks/obsidian-better-store"
+  },
+  {
     "id": "inline-link-suggestions",
     "name": "Inline Link Suggestions",
     "author": "Alexey Alekhin",
@@ -39289,5 +39310,26 @@
     "author": "jiang",
     "description": "Extract article style from notes and generate articles for your workspace. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "javajiang/article_ai"
+  },
+  {
+    "id": "better-flashcards",
+    "name": "Better Flashcards",
+    "author": "Mihir Patel (fork of reuseman/flashcards)",
+    "description": "Sync Obsidian flashcards to Anki using tags, inline separators, and cloze syntax. Fork of the original Flashcards plugin with bug fixes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mihirpatel1112/better-flashcards"
+  },
+  {
+    "id": "pumice",
+    "name": "Pumice",
+    "author": "Ji-ho Lee",
+    "description": "Sync, version, and publish your vault over your own self-hosted gRPC server. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "search5/pumice"
+  },
+  {
+    "id": "roim-picx-uploader",
+    "name": "Roim PicX Uploader",
+    "author": "XJain",
+    "description": "Auto upload images to your Roim PicX instance - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xjain03/roim-picx-uploader"
   }
 ]
