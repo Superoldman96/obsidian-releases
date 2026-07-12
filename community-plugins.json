@@ -26397,6 +26397,13 @@
     "repo": "tea0s/multimuse-tracker"
   },
   {
+    "id": "ai-vault",
+    "name": "AI-Vault",
+    "author": "JamJan05",
+    "description": "Chat with GPT and Claude directly inside your notes — RAG from your vault, history, projects and smart modes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jamjan05/AI-Vault-for-Obsidian"
+  },
+  {
     "id": "iconocolor",
     "name": "Iconocolor",
     "author": "Gavin Picard",
@@ -27704,13 +27711,6 @@
     "author": "TimiKays",
     "description": "Sync notes with images to MarkPage editor. One click to send your note to MarkPage for beautiful visual editing. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "timikays/markpage-obsidian-plugin"
-  },
-  {
-    "id": "local-dictation",
-    "name": "Local Dictation",
-    "author": "Alexander Brittain",
-    "description": "Private, offline speech-to-text, voice typing, and meeting transcription. Dictate notes live or transcribe calls and system audio with Whisper, speaker labels, timestamps, and optional AI cleanup. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "brittain9/local-dictation-obsidian-plugin"
   },
   {
     "id": "markr",
@@ -32513,6 +32513,13 @@
     "author": "flowing-abyss",
     "description": "Fast hybrid search (BM25 + semantic) over your vault via a background CLI. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "flowing-abyss/obsidian-hybrid-search-plugin"
+  },
+  {
+    "id": "grimoire",
+    "name": "Grimoire",
+    "author": "Michael Makarov",
+    "description": "Run Claude Code, Codex, Grok, AntiGravity, Gemini CLI, and OpenCode as local AI agents in your vault, with chat, inline editing, and tools. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sandsaber/Grimoire"
   },
   {
     "id": "headings-indicator",
@@ -39170,5 +39177,54 @@
     "author": "N23eos",
     "description": "Finder-style file explorer for Obsidian with Miller columns, drag and drop, multi-select, context menus, and complete file management. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "n23eos/column_explorer"
+  },
+  {
+    "id": "survey-log",
+    "name": "Survey Log",
+    "author": "jannik-el",
+    "description": "Create timestamped survey log entries with location tags via a fast, keyboard-only modal with autocomplete. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jannik-el/survey-log-obsidian-plugin"
+  },
+  {
+    "id": "paperize",
+    "name": "Paperize",
+    "author": "Johannes Kaindl",
+    "description": "Export the active note as a clean, text-selectable vector PDF — no letterhead. Works on desktop, iPhone and iPad. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "johannes-kaindl/obsidian-paperize"
+  },
+  {
+    "id": "pinup",
+    "name": "Pinup",
+    "author": "pilafdob",
+    "description": "Pin files and folders in the File Explorer, or elevate them to a compact pin-up shelf. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pilafdob/Pinup"
+  },
+  {
+    "id": "external-attachments",
+    "name": "External Attachments",
+    "author": "Dyllon Wright",
+    "description": "Resolve attachment embeds from folders outside the vault — offload heavy files to external drives or extra cloud storage while wikilinks keep rendering. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dyllonwright/Obsidian-External-Attachments"
+  },
+  {
+    "id": "blinks",
+    "name": "Blinks",
+    "author": "diagonalcounty",
+    "description": "Block links that don't make you type #^fa5d4c and pretend you meant it. [[note^^ → phrase search → readable ^slugs. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "diagonalcounty/blinks"
+  },
+  {
+    "id": "bridge-control",
+    "name": "Bridge Control",
+    "author": "studentepercaso",
+    "description": "Choose safe local read and write access with a visual folder picker for an external AI bridge. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "studentepercaso/bridge-control"
+  },
+  {
+    "id": "advanced-wikipedia-importer",
+    "name": "Advanced Wikipedia Importer",
+    "author": "Dyllon Wright",
+    "description": "Import Wikipedia articles as clean notes — pick sections, download and rename images, flatten complex tables, and auto-detect film articles. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dyllonwright/Wikipedia-To-Obsidian-Markdown"
   }
 ]
