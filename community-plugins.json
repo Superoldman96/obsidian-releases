@@ -20356,13 +20356,6 @@
     "repo": "qustrolabe/zoxide-notes"
   },
   {
-    "id": "vault-coach",
-    "name": "Vault Coach",
-    "author": "wanjin5508",
-    "description": "Local knowledge Q&A and interview practice from your vault using Ollama. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "wanjin5508/vault-coach"
-  },
-  {
     "id": "linkvault",
     "name": "LinkVault",
     "author": "calghar",
@@ -33145,13 +33138,6 @@
     "repo": "demartinogiuseppe/antinomia"
   },
   {
-    "id": "mysync",
-    "name": "MySync",
-    "author": "Henrique Manduca",
-    "description": "Sync notes to your home CouchDB database with MySync. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "henriquemanduca/mysync-plugin"
-  },
-  {
     "id": "annoteca",
     "name": "Annoteca",
     "author": "Charles Kelsoe",
@@ -39226,5 +39212,12 @@
     "author": "Dyllon Wright",
     "description": "Import Wikipedia articles as clean notes — pick sections, download and rename images, flatten complex tables, and auto-detect film articles. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dyllonwright/Wikipedia-To-Obsidian-Markdown"
+  },
+  {
+    "id": "private-sync",
+    "name": "Private Sync",
+    "author": "Haniewicz",
+    "description": "Synchronize an Obsidian vault with a private server. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "haniewicz/PrivateSyncPlugin"
   }
 ]
