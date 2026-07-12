@@ -37716,13 +37716,6 @@
     "repo": "irolyuk/chillight-graph"
   },
   {
-    "id": "nicons",
-    "name": "Nicons",
-    "author": "pilafdob",
-    "description": "Customize File and Folder icons with bundled Phosphor icon assets. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "pilafdob/Nicons"
-  },
-  {
     "id": "codex-usage",
     "name": "Codex Usage",
     "author": "0libots",
@@ -38983,6 +38976,13 @@
     "repo": "hata-suriiken/obsidian-popup-dictionary"
   },
   {
+    "id": "file-describer",
+    "name": "File Describer",
+    "author": "Alexandrovdi",
+    "description": "Automatically create description notes for files dropped into a watched folder. Search and find files by their descriptions via Obsidian search. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "alexandrovdi/File-Describer"
+  },
+  {
     "id": "lemon-comments",
     "name": "Lemon Comments",
     "author": "blackflag0623",
@@ -39373,6 +39373,13 @@
     "author": "Elia Scotto",
     "description": "A plugin to turn Obsidian into the ultimate platform for focused writing. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "eliascotto/ultrafocus"
+  },
+  {
+    "id": "photo-tagging",
+    "name": "Photo-tagging",
+    "author": "Pavlo Myroniuk",
+    "description": "Plugin for tagging people on photos and rendering interactive galleries. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "thebesttvarynka/photo-tagging"
   },
   {
     "id": "fragrantica-search",
