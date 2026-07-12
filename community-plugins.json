@@ -27706,6 +27706,13 @@
     "repo": "timikays/markpage-obsidian-plugin"
   },
   {
+    "id": "local-dictation",
+    "name": "Local Dictation",
+    "author": "Alexander Brittain",
+    "description": "Private, offline speech-to-text, voice typing, and meeting transcription. Dictate notes live or transcribe calls and system audio with Whisper, speaker labels, timestamps, and optional AI cleanup. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "brittain9/local-dictation-obsidian-plugin"
+  },
+  {
     "id": "markr",
     "name": "Markr",
     "author": "visua1hue",
@@ -38048,7 +38055,7 @@
     "id": "obsync-webdav-gpg",
     "name": "WebDAV GPG Sync",
     "author": "obsync",
-    "description": "Encrypt vault data with GPG and sync/restore to/from WebDAV. Encrypts both file content and filenames. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Encrypt vault data with Post Quntum and sync/restore to/from WebDAV. Encrypts both file content and filenames. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "normanify/obsync_webdav_gpg"
   },
   {
@@ -39359,5 +39366,12 @@
     "author": "oxilldat",
     "description": "Emotion diary plugin for Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "oxilldat/obsidian-emotion-book"
+  },
+  {
+    "id": "task-cockpit",
+    "name": "Tasks Cockpit",
+    "author": "DevidCode",
+    "description": "A single, hand-orderable list of your vault tasks grouped by due date. Auto-aggregated, drag to reorder (order persists), auto-refreshed. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "devidcode/obsidian-tasks-cockpit"
   }
 ]
