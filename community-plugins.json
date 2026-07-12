@@ -32335,7 +32335,7 @@
   {
     "id": "desmos-live",
     "name": "Desmos Live",
-    "author": "Clinton Nguyen",
+    "author": "notnilcn",
     "description": "Embed live interactive Desmos graphs using desmos-live code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "notnilc-n/obsidian-desmos-live"
   },
@@ -39235,17 +39235,38 @@
     "repo": "haniewicz/PrivateSyncPlugin"
   },
   {
-    "id": "graph-node-preview",
-    "name": "I Will Never Leave the Graph View",
-    "author": "yaye.work",
-    "description": "Preview, edit, and add notes directly in the graph view — hover a node to preview it, click to edit, right-click empty space to create. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "yaye-work/obsidian-never-leave-graph-view"
-  },
-  {
     "id": "thai-bracket-remap",
     "name": "Thai Bracket Remap",
     "author": "Poom",
     "description": "แปลงตัวอักษร ฃ ให้กลายเป็น [ และ ฅ ให้กลายเป็น ] ทันทีที่พิมพ์ในตัวแก้ไข - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "khunpoom/Thai-bracket-remap"
+  },
+  {
+    "id": "search-exploder",
+    "name": "Search Exploder",
+    "author": "Jason Klein",
+    "description": "Opens each search result in its own tab. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jklein64/obsidian-search-exploder"
+  },
+  {
+    "id": "image-ai",
+    "name": "Image AI",
+    "author": "jiang",
+    "description": "Extract image style from pictures and distill ecommerce visual rules for ecommerce workflows. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "javajiang/image_plugin"
+  },
+  {
+    "id": "readable-date-links",
+    "name": "Readable Date Links",
+    "author": "Alexey Alekhin",
+    "description": "Display dates in a readable format without any changes to the content - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "laughedelic/obsidian-readable-date-links"
+  },
+  {
+    "id": "rednote",
+    "name": "RedNote",
+    "author": "kylemumu",
+    "description": "Connect RedNote/Xiaohongshu (小红书) with Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ch-yyk/obsidian-rednote"
   }
 ]
