@@ -35413,13 +35413,6 @@
     "repo": "sapienskid/Lemma"
   },
   {
-    "id": "glossa",
-    "name": "Glossa",
-    "author": "yiiwang",
-    "description": "AI sidebar with multi-provider chat, @-context, semantic search (RAG), agent mode with sandboxed file edits, MCP bridge, encrypted keys, and Codex CLI integration. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "yiiwang118/obsidian-glossa"
-  },
-  {
     "id": "quick-capture-triage",
     "name": "Quick Capture Triage",
     "author": "hazel",
@@ -35467,13 +35460,6 @@
     "author": "Post-Math",
     "description": "Survey wide content instead of scrolling sideways. Pan and zoom Mermaid diagrams (wheel, Ctrl+wheel, or buttons), fit them to the frame, and open diagrams or wide tables full-screen. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "post-math/Lookout"
-  },
-  {
-    "id": "reformat-windows-title",
-    "name": "Reformat Windows Title",
-    "author": "zhao414",
-    "description": "Customize the window title format by reordering vault name and file name. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zhao414/obsidian-reformat-windows-title"
   },
   {
     "id": "aql-syntax-highlighting",
@@ -39179,6 +39165,13 @@
     "repo": "justinrosales/obsidian-swipe-gestures"
   },
   {
+    "id": "nous",
+    "name": "Nous",
+    "author": "Andy Ho",
+    "description": "Turn dictated or pasted notes into a linked, tagged knowledge graph, right inside Obsidian - uses Claude Code (your subscription) or a direct API key from Anthropic, OpenAI, Gemini, or a local model, your choice. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "andymdh/obsidian-nous"
+  },
+  {
     "id": "audio-timestamp-player",
     "name": "Audio Timestamp Player",
     "author": "IT039",
@@ -39429,5 +39422,19 @@
     "author": "Dimar4713",
     "description": "Browse and transfer files between your vault and Yandex Disk, with previews, progress, bilingual UI, and desktop proxy support. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dimar4713/aimeton-cloud-bridge"
+  },
+  {
+    "id": "maguilanote",
+    "name": "Maguilanote",
+    "author": "Lucas Coutinho",
+    "description": "Milanote-like visual workspace boards inside Obsidian: infinite canvas, notes, images, links, columns, to-do lists, arrows and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "is-cout/maguilanote-obsidian"
+  },
+  {
+    "id": "checkbox-context-menu",
+    "name": "Checkbox Context Menu",
+    "author": "carbongo",
+    "description": "Right-click context menu to toggle checkbox states - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "carbongo/checkbox-context-menu"
   }
 ]
