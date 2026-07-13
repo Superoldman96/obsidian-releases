@@ -21259,13 +21259,6 @@
     "repo": "samhopwell/obsidian-foldstate"
   },
   {
-    "id": "weave",
-    "name": "Weave",
-    "author": "zhuzhige123",
-    "description": "Enhance knowledge learning and memory consolidation with incremental reading, memory decks, and practice quiz decks. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zhuzhige123/obsidian---Weave"
-  },
-  {
     "id": "ai-link-summarizer",
     "name": "AI Link Summarizer",
     "author": "laroy-sh",
@@ -34657,13 +34650,6 @@
     "repo": "synaphi/background-tray"
   },
   {
-    "id": "lifequest",
-    "name": "LifeQuest",
-    "author": "Snifer",
-    "description": "Life RPG Gamify your daily life inside Obsidian — quests, XP, levels, streaks, and a personal dashboard. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "snifer/LifeQuest"
-  },
-  {
     "id": "embed-eml",
     "name": "Embed EML",
     "author": "useroption3",
@@ -35292,13 +35278,6 @@
     "author": "CLINCH",
     "description": "Companion plugin to securely sync articles, summarize content with LLMs, and provide vault context to your self-hosted backend. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "epicylon/add-to-vault-plugin"
-  },
-  {
-    "id": "traverture",
-    "name": "traVERture",
-    "author": "Eryk J.",
-    "description": "Parse, convert, and preview scripture references; insert citations from NWT Bible, and launch in JW Library and JW.ORG. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "erykjj/traverture"
   },
   {
     "id": "bible-study",
@@ -37674,6 +37653,13 @@
     "repo": "irolyuk/chillight-graph"
   },
   {
+    "id": "nicons",
+    "name": "Nicons",
+    "author": "pilafdob",
+    "description": "Customize File and Folder icons with bundled Phosphor icon assets. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pilafdob/Nicons"
+  },
+  {
     "id": "codex-usage",
     "name": "Codex Usage",
     "author": "0libots",
@@ -39039,13 +39025,6 @@
     "repo": "notenerdofficial/web-embed"
   },
   {
-    "id": "canvas-branch-chat",
-    "name": "Canvas Branch Chat",
-    "author": "p4nt1um",
-    "description": "Flowith-style branching AI conversations on Obsidian Canvas. Fork, explore, and map your thinking. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "p4nt1um/canvas-branch-chat"
-  },
-  {
     "id": "icon-picker",
     "name": "Icon picker",
     "author": "rocketBANG",
@@ -39240,13 +39219,6 @@
     "author": "Poom",
     "description": "แปลงตัวอักษร ฃ ให้กลายเป็น [ และ ฅ ให้กลายเป็น ] ทันทีที่พิมพ์ในตัวแก้ไข - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "khunpoom/Thai-bracket-remap"
-  },
-  {
-    "id": "search-exploder",
-    "name": "Search Exploder",
-    "author": "Jason Klein",
-    "description": "Opens each search result in its own tab. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jklein64/obsidian-search-exploder"
   },
   {
     "id": "image-ai",
