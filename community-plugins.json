@@ -17822,6 +17822,13 @@
     "repo": "cha-yh/transcription-audio-obsidian-plugin"
   },
   {
+    "id": "deep-sit",
+    "name": "Deep Sit",
+    "author": "bassio",
+    "description": "Focused study and research tool that allows citing and reviewing primary sources through a Zotero integration.",
+    "repo": "bassio/obsidian-deepsit"
+  },
+  {
     "id": "last-edit-location",
     "name": "Last Edit Location",
     "author": "awfrok",
@@ -22407,6 +22414,13 @@
     "repo": "nazdridoy/obsidian-cbt-exam"
   },
   {
+    "id": "smartpick",
+    "name": "SmartPick",
+    "author": "bcs",
+    "description": "Smart text selection toolbar with custom commands and AI features. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bcs1037/SmartPick"
+  },
+  {
     "id": "datestamp",
     "name": "Datestamp",
     "author": "huynhtranhoanglong",
@@ -26570,6 +26584,13 @@
     "author": "o1xhack",
     "description": "Sync your Trakt.tv watchlist, watch history, favorites, and ratings into Markdown notes — with metadata localization and detailed per-episode watch timestamps. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "o1xhack/obsidian-sync-trakt"
+  },
+  {
+    "id": "realclaudian",
+    "name": "Claudian",
+    "author": "Yishen Tu",
+    "description": "Embeds Claude Code/Codex and other local Agents as AI collaborators in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yishentu/claudian"
   },
   {
     "id": "ima-copilot-sync",
@@ -38227,13 +38248,6 @@
     "repo": "jaanaltosaar/obsidian-microlite"
   },
   {
-    "id": "starter-packs",
-    "name": "Starter Packs",
-    "author": "Grub Basket",
-    "description": "Create and share curated lists of community plugins. Share a pack as a link or code; recipients preview the pack and install everything in a couple of clicks. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "grub-basket/starter-packs"
-  },
-  {
     "id": "eventide-quill",
     "name": "Eventide Quill",
     "author": "EventideMiles",
@@ -39410,6 +39424,13 @@
     "repo": "devidcode/obsidian-tasks-cockpit"
   },
   {
+    "id": "looki-sync",
+    "name": "Looki Sync",
+    "author": "Jeremy Jin",
+    "description": "将 Looki 的日常数据与即时提示同步进 Obsidian，合并为按日期的「每日记忆」笔记。可配置目标文件夹，并选择是否同步图片/视频。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kidd911-cmd/obsidian-looki-sync"
+  },
+  {
     "id": "alias-linker",
     "name": "Alias Linker",
     "author": "johannrichard",
@@ -39445,10 +39466,38 @@
     "repo": "sajee05/obsidian-star-tags"
   },
   {
+    "id": "local-office-preview",
+    "name": "Local Office Preview",
+    "author": "tndgyq",
+    "description": "Read-only local preview for PPT/PPTX, XLS/XLSX, DOC/DOCX, TXT, and LOG files. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tndgyq/local-office-preview"
+  },
+  {
     "id": "investment-tracker",
     "name": "Investment Tracker",
     "author": "Lam",
     "description": "Track encrypted investment cash flows, valuations, annualized returns, and benchmark performance. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "joelam2023/investment-tracker"
+  },
+  {
+    "id": "ai-book-manager",
+    "name": "AI Book Manager",
+    "author": "cyk111",
+    "description": "AI-powered book library manager with auto-tagging, knowledge graphs, and multi-tool skill generation. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cyk111/ai-book-manager"
+  },
+  {
+    "id": "note-snooze",
+    "name": "Note Snooze",
+    "author": "Gabriel",
+    "description": "Hide notes from the file explorer until a date specified in a frontmatter property. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "turingexmachina/obsidian-note-snooze"
+  },
+  {
+    "id": "vault-loom",
+    "name": "Vault Loom",
+    "author": "yangzuo0621",
+    "description": "Weave your vault into useful AI context for chat, retrieval, and confirmed note actions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yangzuo0621/vault-loom"
   }
 ]
