@@ -20562,7 +20562,7 @@
     "id": "voxtral-transcribe",
     "name": "Voxtral Transcribe",
     "author": "maxonamission",
-    "description": "Speech-to-text with Mistral Voxtral: real-time dictation with voice commands and automatic correction, plus transcription of audio files in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Real-time dictation into markdown with voice commands and automatic correction, plus transcription of existing audio files in your vault. EU based with Mistral's latest and excellent Voxtral model - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maxonamission/obsidian-voxtral"
   },
   {
@@ -27643,6 +27643,13 @@
     "repo": "ryukyuhub/obsidian-claude-panel-ryukyuhub"
   },
   {
+    "id": "task-hub",
+    "name": "Task Hub",
+    "author": "Carlos",
+    "description": "Bring Obsidian tasks together with Apple Reminders, Apple Calendar on macOS. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "saralaaga/task-hub"
+  },
+  {
     "id": "vault-share",
     "name": "Vault Share",
     "author": "Bob Hyman",
@@ -30119,6 +30126,13 @@
     "author": "Dylan Tartarini",
     "description": "Bridge to the DyResearch Agent system built with Google ADK. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dylantartarini1996/dyresearch-obsidian"
+  },
+  {
+    "id": "miyo-tomo-hashi",
+    "name": "MiYo Tomo Hashi",
+    "author": "Marcus Breiden",
+    "description": "Direct integration with Tomo, the Claude Code agent, for session interaction and automated vault updates. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mmomm-org/miyo-tomo-hashi"
   },
   {
     "id": "mermaid-flow",
@@ -37485,13 +37499,6 @@
     "repo": "waldemar-one/obsidian-empty-tab"
   },
   {
-    "id": "bamboo-immortals",
-    "name": "Bamboo Immortals",
-    "author": "羽鳞君",
-    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-bamboo-immortals"
-  },
-  {
     "id": "pie-tasks",
     "name": "Pie Tasks",
     "author": "Pie Of Mind",
@@ -39499,5 +39506,12 @@
     "author": "yangzuo0621",
     "description": "Weave your vault into useful AI context for chat, retrieval, and confirmed note actions. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yangzuo0621/vault-loom"
+  },
+  {
+    "id": "katazuke",
+    "name": "Katazuke",
+    "author": "DaisukeMiyazaki",
+    "description": "Surface over-connected, stale notes by link degree and freshness so you can tidy the ones that grew sprawling, one or several at a time. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "daisukemiyazaki/katazuke"
   }
 ]

@@ -4362,5 +4362,19 @@
     "repo": "7eahaus/dissociated-identitea",
     "screenshot": "screenshots/darkmode-overview.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "SAzure Glass",
+    "author": "SAsecurityN",
+    "repo": "sasecurityn/SAzure-Glass",
+    "screenshot": "screenshot.png",
+    "modes": ["dark"]
+  },
+  {
+    "name": "Another Nord",
+    "author": "qanszer",
+    "repo": "qanszer/another-obsidian-nord-theme",
+    "screenshot": "dark.png",
+    "modes": ["dark", "light"]
   }
 ]
