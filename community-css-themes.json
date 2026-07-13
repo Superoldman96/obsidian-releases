@@ -3881,6 +3881,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Alice Velvet",
+    "author": "kaymade",
+    "repo": "kaymade/alice-velvet",
+    "screenshot": "alice-velvet-screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Ember",
     "author": "Rhyd Lewis",
     "repo": "rhydlewis/obsidian-ember",
@@ -4210,6 +4217,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Blue Ribbon",
+    "author": "kaymade",
+    "repo": "kaymade/blue-ribbon",
+    "screenshot": "blue-ribbon-preview.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Sugar",
     "author": "choo",
     "repo": "chooliu/obsidian-sugar-theme",
@@ -4355,6 +4369,13 @@
     "repo": "zjie-wang/obsidian-composed",
     "screenshot": "screenshot.png",
     "modes": ["light"]
+  },
+  {
+    "name": "Opus",
+    "author": "opus-magnus",
+    "repo": "opus-oss/obsidian-opus",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   },
   {
     "name": "Dissociated IdentiTea",

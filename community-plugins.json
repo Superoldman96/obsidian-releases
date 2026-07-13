@@ -20020,13 +20020,6 @@
     "repo": "sbuffkin/hexmaker"
   },
   {
-    "id": "terminal-agent-tabs",
-    "name": "Terminal Agent Tabs",
-    "author": "hirose30",
-    "description": "Run multiple agent CLI sessions (Claude Code, Codex, Gemini, etc.) as editor tabs. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "hirose30/terminal-agent-tabs"
-  },
-  {
     "id": "handwriting-to-markdown",
     "name": "HandTranscriptMd",
     "author": "gabriele-cusato",
@@ -20123,13 +20116,6 @@
     "author": "Americo",
     "description": "Scroll notes as a teleprompter with mobile remote control, Stream Deck integration, countdown timer, and voice tracking. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "juracyamerico/obsidian-teleprompter-plus"
-  },
-  {
-    "id": "journalit",
-    "name": "Journalit",
-    "author": "Cursive",
-    "description": "Trading journal with templates, trade tracking, imports, and reviews. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "cursivez/journalit"
   },
   {
     "id": "direct-git-sync",
@@ -20578,13 +20564,6 @@
     "author": "nyaaas",
     "description": "A visual card-flip flashcard system for your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nyaaas/visual-flashcards-obsidian"
-  },
-  {
-    "id": "realtime-transcription",
-    "name": "Realtime Transcription",
-    "author": "garetneda-gif",
-    "description": "Real-time speech-to-text powered by SenseVoice-Small. Supports Chinese, English, Japanese, Korean, and Cantonese with auto-translation, AI summarization, and text polishing. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "garetneda-gif/obsidian-realtime-transcription"
   },
   {
     "id": "companion-mcp",
@@ -31724,6 +31703,13 @@
     "repo": "somesanity/draw-io-obsidian"
   },
   {
+    "id": "day-planner-enhanced",
+    "name": "Day Planner Enhanced",
+    "author": "jagaldol",
+    "description": "A day planner with an enhanced timeline UI and readable nested schedules. Based on Day Planner 0.30.0. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jagaldol/obsidian-day-planner-enhanced"
+  },
+  {
     "id": "vault-brain",
     "name": "Vault Brain",
     "author": "Prvoslav Savić",
@@ -36344,6 +36330,13 @@
     "repo": "kanade2511/clip-link-obsidian"
   },
   {
+    "id": "md-to-html-effect",
+    "name": "MD to HTML Effectiveness",
+    "author": "rosswang",
+    "description": "Render spatial HTML in Obsidian notes — compare, timeline, diagram (SVG), report, slides. Export with zoom controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yanqingwang/obsidian-md-to-html-effect"
+  },
+  {
     "id": "ultimate-pomodoro-timer",
     "name": "Ultimate Pomodoro Timer",
     "author": "isgin01",
@@ -37492,6 +37485,13 @@
     "repo": "waldemar-one/obsidian-empty-tab"
   },
   {
+    "id": "bamboo-immortals",
+    "name": "Bamboo Immortals",
+    "author": "羽鳞君",
+    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-bamboo-immortals"
+  },
+  {
     "id": "pie-tasks",
     "name": "Pie Tasks",
     "author": "Pie Of Mind",
@@ -37623,13 +37623,6 @@
     "author": "Saunak Karnati",
     "description": "Record audio from the ribbon, save it to your vault, and create Groq-powered transcription notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sonickarnati/flux-tts"
-  },
-  {
-    "id": "smarttask",
-    "name": "SmartTask",
-    "author": "SmartTask Team",
-    "description": "高性能、易操作的智能任务管理插件。支持多视图、快速创建、智能查询。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "fat-pumpkin/SmarTask"
   },
   {
     "id": "pinax",
@@ -39128,6 +39121,13 @@
     "author": "Szynszyl320",
     "description": "Allows the user to pick out from all the basic dnd spells - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "szynszyl320/spell-picker-obsidian"
+  },
+  {
+    "id": "html-to-md-effect",
+    "name": "HTML to MD Effectiveness",
+    "author": "rosswang",
+    "description": "Convert HTML files to clean Markdown — headings, lists, code blocks, tables, links, images, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yanqingwang/obsidian-html-to-md-effect"
   },
   {
     "id": "nextdeck",
