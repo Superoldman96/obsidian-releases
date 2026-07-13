@@ -22407,13 +22407,6 @@
     "repo": "nazdridoy/obsidian-cbt-exam"
   },
   {
-    "id": "smartpick",
-    "name": "SmartPick",
-    "author": "bcs",
-    "description": "Smart text selection toolbar with custom commands and AI features. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "bcs1037/SmartPick"
-  },
-  {
     "id": "datestamp",
     "name": "Datestamp",
     "author": "huynhtranhoanglong",
@@ -27340,6 +27333,13 @@
     "author": "Moonjuun",
     "description": "Transcribe meeting recordings via Deepgram, then generate template-based AI summaries via Gemini. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "moonjuun/obsidian-voxnote"
+  },
+  {
+    "id": "japanese-calendar",
+    "name": "Japanese Calendar",
+    "author": "DualyzeAI",
+    "description": "Japanese public holiday calendar with wareki (Japanese era) and rokuyo. Click any date to auto-create daily notes. Substitute holidays and   weekend coloring included. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kojiman55/obsidian-japanese-calendar"
   },
   {
     "id": "neodb-sync",
@@ -32980,7 +32980,7 @@
     "id": "cockpit-dashboard",
     "name": "Cockpit Dashboard",
     "author": "hang",
-    "description": "知识库驾驶舱仪表盘 - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Cockpit Dashboard - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sadom125/Cockpit-Dashboard"
   },
   {
@@ -35404,6 +35404,13 @@
     "author": "Sabin Pokharel",
     "description": "An Obsidian plugin for creating and reviewing flashcards powered by the FSRS spaced repetition algorithm. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sapienskid/Lemma"
+  },
+  {
+    "id": "glossa",
+    "name": "Glossa",
+    "author": "yiiwang",
+    "description": "AI sidebar with multi-provider chat, @-context, semantic search (RAG), agent mode with sandboxed file edits, MCP bridge, encrypted keys, and Codex CLI integration. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yiiwang118/obsidian-glossa"
   },
   {
     "id": "quick-capture-triage",
@@ -38648,7 +38655,7 @@
   },
   {
     "id": "graphite",
-    "name": "graphite",
+    "name": "Graphite",
     "author": "Real-Fruit-Snacks",
     "description": "A calm, Todoist-like task manager for Obsidian — tasks stay as local Markdown files in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "real-fruit-snacks/Graphite"
@@ -39252,7 +39259,7 @@
     "id": "graph-node-preview",
     "name": "I Will Never Leave the Graph View",
     "author": "yaye.work",
-    "description": "Preview, edit, and add notes directly in the graph view — hover a node to preview it, click to edit, right-click empty space to create. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Preview, edit, and create notes without ever leaving the graph view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yaye-work/obsidian-never-leave-graph-view"
   },
   {
@@ -39303,6 +39310,13 @@
     "author": "Alexey Alekhin",
     "description": "Underlines plain-text mentions of existing notes (incl. aliases) right in the editor. Click a mention to turn it into a wiki link. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "laughedelic/obsidian-inline-link-suggestions"
+  },
+  {
+    "id": "media-sidecar-tools",
+    "name": "Media Sidecar Tools",
+    "author": "Gabriel",
+    "description": "Create sidecar notes for media with Ctrl+Click, and hide the original media in file navigation if wanted. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "turingexmachina/obsidian-media-sidecar-tools"
   },
   {
     "id": "drag-biolink",
@@ -39429,5 +39443,12 @@
     "author": "sxjeel",
     "description": "Scans your entire vault for customizable tags (like #todo) and lists them with context in an interactive sidebar panel. Features visual checkboxes specifically for #todo tags. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sajee05/obsidian-star-tags"
+  },
+  {
+    "id": "investment-tracker",
+    "name": "Investment Tracker",
+    "author": "Lam",
+    "description": "Track encrypted investment cash flows, valuations, annualized returns, and benchmark performance. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "joelam2023/investment-tracker"
   }
 ]
