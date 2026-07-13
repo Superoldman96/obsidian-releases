@@ -14234,7 +14234,7 @@
     "id": "pixel-perfect-image",
     "name": "Pixel Perfect Image",
     "author": "Johan Sanneblad",
-    "description": "Pixel perfect 100% image resizing, copy to clipboard, show image in Finder/Explorer, edit image in external editor, and much more.",
+    "description": "Pixel perfect 100% image resizing, copy to clipboard, show image in Finder/Explorer, and much more.",
     "repo": "johansan/pixel-perfect-image"
   },
   {
@@ -36640,7 +36640,7 @@
   {
     "id": "csv-quiz-practice",
     "name": "csv quiz practice",
-    "author": "Kong",
+    "author": "盒子熊",
     "description": "a csv to quiz plugin - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ozephyr-ctrl/csv-quiz-practice"
   },
@@ -39513,5 +39513,12 @@
     "author": "DaisukeMiyazaki",
     "description": "Surface over-connected, stale notes by link degree and freshness so you can tidy the ones that grew sprawling, one or several at a time. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "daisukemiyazaki/katazuke"
+  },
+  {
+    "id": "interactive-map",
+    "name": "Interactive Map",
+    "author": "interactive-map",
+    "description": "Embed interactive SVG maps with hover highlight, Ctrl+preview, click navigation, and province-to-city-to-district drill-down. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "user-a100/obsidian-interactive-map"
   }
 ]
