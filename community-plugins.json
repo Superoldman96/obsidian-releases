@@ -8610,13 +8610,6 @@
     "repo": "kraxen72/obsidian-emoji-autocomplete"
   },
   {
-    "id": "hill-charts",
-    "name": "Hill Charts",
-    "author": "stufro",
-    "description": "Add hill charts to your notes.",
-    "repo": "stufro/obsidian-hill-charts"
-  },
-  {
     "id": "ollama-chat",
     "name": "Ollama Chat",
     "author": "brumik",
@@ -39480,6 +39473,13 @@
     "repo": "cyk111/ai-book-manager"
   },
   {
+    "id": "note-publisher",
+    "name": "Note publisher",
+    "author": "bvn13",
+    "description": "Publishes a note (with its images) to a private GitHub repo and creates a UUID-only public link rendered by a Cloudflare Worker. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "obsidian-note-publisher/obsidian-plugin-note-publisher"
+  },
+  {
     "id": "note-snooze",
     "name": "Note Snooze",
     "author": "Gabriel",
@@ -39555,5 +39555,12 @@
     "author": "Dmitrii Dmitriev",
     "description": "Keeps file names compatible across Windows, Linux, Android, and iOS. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dmitrievdmitriya/obsidian-file-name-length-limit"
+  },
+  {
+    "id": "prose-lens",
+    "name": "Prose Lens",
+    "author": "saiken",
+    "description": "Live readability and style marks in the editor: passive voice, adverbs, hedges, long sentences, and a Flesch reading grade. Works fully offline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/prose-lens"
   }
 ]
