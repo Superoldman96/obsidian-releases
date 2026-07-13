@@ -10493,6 +10493,13 @@
     "repo": "open-horizon-labs/obsidian-am"
   },
   {
+    "id": "tabs",
+    "name": "Markdown Tabs",
+    "author": "xhuajin",
+    "description": "Create tabs in your notes.",
+    "repo": "xhuajin/obsidian-tabs"
+  },
+  {
     "id": "outline-converter",
     "name": "Outline Converter",
     "author": "masaki39",
@@ -37513,13 +37520,6 @@
     "repo": "ismailivanov/task-deck"
   },
   {
-    "id": "vault-link",
-    "name": "Vault Link",
-    "author": "",
-    "description": "Link files and folders between vaults so they share the same content on disk, with per-file exclude rules for things you want to keep vault-specific (e.g. themes). - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "armalv/vault-link"
-  },
-  {
     "id": "vault-reader",
     "name": "Vault Reader",
     "author": "MaverickHQ",
@@ -38990,6 +38990,13 @@
     "repo": "bartlab/obsidian-local-history"
   },
   {
+    "id": "callout-metadata",
+    "name": "Callout Metadata",
+    "author": "Erin Skidds",
+    "description": "Add & Read metadata tokens on callouts. Works with your existing callouts, no need to change your syntax. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dudethatserin/callout-metadata"
+  },
+  {
     "id": "embedded-terminal",
     "name": "Embedded Terminal",
     "author": "NoVarYe",
@@ -39144,6 +39151,13 @@
     "repo": "andymdh/obsidian-nous"
   },
   {
+    "id": "audio-timestamp-player",
+    "name": "Audio Timestamp Player",
+    "author": "IT039",
+    "description": "Play audio embeds from clickable transcript timestamps. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "itnq18/obsidian-audio-timestamp-player"
+  },
+  {
     "id": "shortcuts",
     "name": "Command Shortcuts",
     "author": "jsmorabito",
@@ -39198,6 +39212,13 @@
     "author": "diagonalcounty",
     "description": "Block links that don't make you type #^fa5d4c and pretend you meant it. [[note^^ → phrase search → readable ^slugs. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "diagonalcounty/blinks"
+  },
+  {
+    "id": "bridge-control",
+    "name": "Bridge Control",
+    "author": "studentepercaso",
+    "description": "Choose safe local read and write access with a visual folder picker for an external AI bridge. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "studentepercaso/bridge-control"
   },
   {
     "id": "advanced-wikipedia-importer",
@@ -39326,6 +39347,13 @@
     "repo": "search5/pumice"
   },
   {
+    "id": "slidev",
+    "name": "Slidev",
+    "author": "Nir Tamir",
+    "description": "Create Markdown-based presentations in Obsidian using Slidev. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nirtamir2/obsidian-slidev"
+  },
+  {
     "id": "roim-picx-uploader",
     "name": "Roim PicX Uploader",
     "author": "XJain",
@@ -39387,6 +39415,13 @@
     "author": "johannrichard",
     "description": "An experimental Obsidian plugin that resolves bare alias links. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "johannrichard/alias-linker"
+  },
+  {
+    "id": "noveler-a-storyline-expansion",
+    "name": "Noveler - A StoryLine Expansion",
+    "author": "dylancomas",
+    "description": "A manuscript editor with integrated StoryLine scene routing, formatted exports, and Antidote Connect support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dylancomas/noveler-a-storyline-expansion"
   },
   {
     "id": "aimeton-cloud-bridge",
@@ -39473,6 +39508,13 @@
     "repo": "user-a100/obsidian-interactive-map"
   },
   {
+    "id": "heading-handler",
+    "name": "Heading Handler",
+    "author": "Malte Henriksson",
+    "description": "Smart heading commands that respect document hierarchy and indentation. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "goopii/heading-handler"
+  },
+  {
     "id": "fancy-kanban",
     "name": "Fancy Kanban",
     "author": "Roberto Allende",
@@ -39492,6 +39534,13 @@
     "author": "Robert Spaans",
     "description": "Run coding agents (Claude Code, Codex, Ollama) inside Obsidian. Ships a built-in terminal and exposes the active selection and open editors over MCP. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "rospaans/obsidian-agent-mcp"
+  },
+  {
+    "id": "carbon-voice-sync",
+    "name": "Carbon Voice Sync",
+    "author": "Travis Bogard",
+    "description": "Sync your Carbon Voice conversations and voice memos into your vault as Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "phononx/cv-obsidian-sync"
   },
   {
     "id": "vault-storage-map",
