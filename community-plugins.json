@@ -15904,6 +15904,13 @@
     "repo": "gasparschott/obsidian-mark-open-files"
   },
   {
+    "id": "note-mover-shortcut",
+    "name": "Advanced Note Mover",
+    "author": "Lars Bücker",
+    "description": "Quickly and easily move notes to a predefined folder. Perfect for organizing your notes.",
+    "repo": "bueckerlars/obsidian-note-mover-shortcut"
+  },
+  {
     "id": "text-block-timer",
     "name": "Text Block Timer",
     "author": "wth461694678",
@@ -20118,6 +20125,13 @@
     "repo": "juracyamerico/obsidian-teleprompter-plus"
   },
   {
+    "id": "journalit",
+    "name": "Journalit",
+    "author": "Cursive",
+    "description": "Trading journal with templates, trade tracking, imports, and reviews. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cursivez/journalit"
+  },
+  {
     "id": "direct-git-sync",
     "name": "Direct Git Sync",
     "author": "swekizer",
@@ -24087,13 +24101,6 @@
     "repo": "ebullient/obsidian-prompt-flow"
   },
   {
-    "id": "fast-note-sync",
-    "name": "Fast Note Sync",
-    "author": "HaierKeys",
-    "description": "Real-time sync of your vaults across server, mobile, and web; shareable with anyone; supports REST and MCP integrations to build your personal AI knowledge base. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "haierkeys/obsidian-fast-note-sync"
-  },
-  {
     "id": "ontask",
     "name": "OnTask",
     "author": "bfloydd",
@@ -24631,13 +24638,6 @@
     "author": "uthvah",
     "description": "Secure your vault with a beautiful lockscreen and industry-standard AES-GCM encryption. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "uthvah/vaultguard"
-  },
-  {
-    "id": "equation-citator",
-    "name": "Equation Citator",
-    "author": "friedparrot",
-    "description": "A powerful LaTeX-like Academic Citation Tool for equations, figures, and more. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "friedparrot/obsidian-equation-citator"
   },
   {
     "id": "stomp",
@@ -26857,13 +26857,6 @@
     "author": "LJ OS",
     "description": "Standalone local Git activity snapshots for Daily Notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ljrobinson/obsidian-lj-os-plugin"
-  },
-  {
-    "id": "hide-sidebars",
-    "name": "Hide Sidebars",
-    "author": "Hasan Yılmaz",
-    "description": "Enhanced sidebar control with auto-hide mode, dedicated toggle icons, and intuitive controls for independent left and right sidebars. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "hasanyilmaz/hide-sidebars"
   },
   {
     "id": "auto-heading",
@@ -39046,6 +39039,13 @@
     "repo": "tapeau/Desk-Photos"
   },
   {
+    "id": "style-manager",
+    "name": "Style Manager",
+    "author": "emarpiee",
+    "description": "Provides advanced controls for managing themes, CSS snippets, and style settings. Transforms them into adjustable controls, enabling you to save, export or switch between configurations as presets. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "emarpiee/obsidian-style-manager"
+  },
+  {
     "id": "image-attachment-upload",
     "name": "Image Attachment Upload",
     "author": "rocketBANG",
@@ -39534,5 +39534,12 @@
     "author": "Johannes Kaindl",
     "description": "Cast the I Ching (Yijing) in your vault: three-coin oracle with Wilhelm hexagram texts, readings saved as notes. Local-first, no cloud. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "johannes-kaindl/yijing-oracle"
+  },
+  {
+    "id": "agent-mcp",
+    "name": "Agent MCP",
+    "author": "Robert Spaans",
+    "description": "Run coding agents (Claude Code, Codex, Ollama) inside Obsidian. Ships a built-in terminal and exposes the active selection and open editors over MCP. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rospaans/obsidian-agent-mcp"
   }
 ]
