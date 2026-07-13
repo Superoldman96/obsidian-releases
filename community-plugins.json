@@ -31724,13 +31724,6 @@
     "repo": "somesanity/draw-io-obsidian"
   },
   {
-    "id": "day-planner-enhanced",
-    "name": "Day Planner Enhanced",
-    "author": "jagaldol",
-    "description": "A day planner with an enhanced timeline UI and readable nested schedules. Based on Day Planner 0.30.0. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jagaldol/obsidian-day-planner-enhanced"
-  },
-  {
     "id": "vault-brain",
     "name": "Vault Brain",
     "author": "Prvoslav Savić",
@@ -38381,13 +38374,6 @@
     "repo": "galkatzh/obs-svg"
   },
   {
-    "id": "code-snippet-manager",
-    "name": "code-snippet-manager",
-    "author": "jingmengzhiyue",
-    "description": "Collect, organize, format, search, and explain code snippets in Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jingmengzhiyue/obsidian-code-snippet-manager"
-  },
-  {
     "id": "readingrate",
     "name": "ReadingRate",
     "author": "ReadingRate",
@@ -39319,6 +39305,13 @@
     "repo": "ch-yyk/obsidian-rednote"
   },
   {
+    "id": "netease-sync",
+    "name": "NetEase + Discogs Sync",
+    "author": "meowphy & Fable",
+    "description": "Sync NetEase Cloud Music and Discogs collections into notes with metadata, lyrics and tracklists, deduplicated by ID. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoche2-cell/obsidian-netease-sync"
+  },
+  {
     "id": "better-store",
     "name": "Better Store",
     "author": "Real-Fruit-Snacks",
@@ -39473,6 +39466,13 @@
     "repo": "sajee05/obsidian-star-tags"
   },
   {
+    "id": "hyoka",
+    "name": "Hyoka",
+    "author": "ABHIJEETH V N",
+    "description": "Hyoka — an Agentic System for Obsidian. MCP-style tool loop, multi-profile agents best suited for local egents - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "abhijeeth-v-n/HYOKA"
+  },
+  {
     "id": "local-office-preview",
     "name": "Local Office Preview",
     "author": "tndgyq",
@@ -39520,5 +39520,19 @@
     "author": "interactive-map",
     "description": "Embed interactive SVG maps with hover highlight, Ctrl+preview, click navigation, and province-to-city-to-district drill-down. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "user-a100/obsidian-interactive-map"
+  },
+  {
+    "id": "fancy-kanban",
+    "name": "Fancy Kanban",
+    "author": "Roberto Allende",
+    "description": "Kanban that finally lives where your notes do. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "robertoallende/fancy-kanban"
+  },
+  {
+    "id": "yijing-oracle",
+    "name": "Yijing Oracle",
+    "author": "Johannes Kaindl",
+    "description": "Cast the I Ching (Yijing) in your vault: three-coin oracle with Wilhelm hexagram texts, readings saved as notes. Local-first, no cloud. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "johannes-kaindl/yijing-oracle"
   }
 ]

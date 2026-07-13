@@ -4376,5 +4376,12 @@
     "repo": "qanszer/another-obsidian-nord-theme",
     "screenshot": "dark.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Oat Latte",
+    "author": "giselle",
+    "repo": "giselle-tr/Oat-Latte-Theme-Obsidian",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
