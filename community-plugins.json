@@ -28357,13 +28357,6 @@
     "repo": "wanglin2/obsidian-simplemindmap"
   },
   {
-    "id": "ultra-zen-mode",
-    "name": "Ultra Zen Mode",
-    "author": "Marcos",
-    "description": "Enter a distraction-free zen mode by hiding sidebars, properties, title and status bar. Works on desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "marckfp/ultra-zen-mode"
-  },
-  {
     "id": "tagser",
     "name": "Tagser",
     "author": "caorol",
@@ -28530,13 +28523,6 @@
     "author": "shendongchun",
     "description": "Connect to Memos and manage memo records in a card view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "adoom2017/memos-obsidian"
-  },
-  {
-    "id": "wechat-inbox-sync",
-    "name": "WeChat Inbox Sync",
-    "author": "Zhang Zhang",
-    "description": "Sync text, webpages, audio, and files from a WeChat mini program inbox into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mingjuner123-spec/wechat-inbox-sync"
   },
   {
     "id": "wrot",
@@ -29479,7 +29465,7 @@
   {
     "id": "draw-integration",
     "name": "Draw Integration",
-    "author": "asbolute",
+    "author": "absolute",
     "description": "Integrate a draw application into your obsidian workflow, Krita, MyPaint, GIMP, etc., everything at the speed of thought. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "evolutiontrash/draw_integration"
   },
@@ -35336,13 +35322,6 @@
     "repo": "ibrh96-prog/obsidian-watch-later-synthesizer"
   },
   {
-    "id": "heading-shift",
-    "name": "Heading Shift",
-    "author": "malele",
-    "description": "Promote or demote heading levels together with all sub-headings at once, like Typora. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "malelestudyhome/heading-shift"
-  },
-  {
     "id": "tutu-emoji-toolbar",
     "name": "Tutu Emoji Toolbar",
     "author": "tinswangtao-web",
@@ -37611,13 +37590,6 @@
     "repo": "nabheetcloud/Obsidian-Whatsapp"
   },
   {
-    "id": "flux-tts",
-    "name": "Flux TTS",
-    "author": "Saunak Karnati",
-    "description": "Record audio from the ribbon, save it to your vault, and create Groq-powered transcription notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sonickarnati/flux-tts"
-  },
-  {
     "id": "pinax",
     "name": "Pinax",
     "author": "Nick Nikolakakis",
@@ -38302,13 +38274,6 @@
     "author": "reallygood83",
     "description": "Run NotebookLM/Tavily-style deep research and publish Markdown plus HTML into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "reallygood83/reallygood-research"
-  },
-  {
-    "id": "footnote-inline-editor",
-    "name": "Footnote Inline Editor",
-    "author": "kebl3541",
-    "description": "Insert footnotes and edit their text in a popup, without scrolling to the bottom of the note. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kebl3541/Obsidian-Footnotes-Plugin"
   },
   {
     "id": "self-hosted-vault-sync",
@@ -39179,13 +39144,6 @@
     "repo": "andymdh/obsidian-nous"
   },
   {
-    "id": "audio-timestamp-player",
-    "name": "Audio Timestamp Player",
-    "author": "IT039",
-    "description": "Play audio embeds from clickable transcript timestamps. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "itnq18/obsidian-audio-timestamp-player"
-  },
-  {
     "id": "shortcuts",
     "name": "Command Shortcuts",
     "author": "jsmorabito",
@@ -39240,13 +39198,6 @@
     "author": "diagonalcounty",
     "description": "Block links that don't make you type #^fa5d4c and pretend you meant it. [[note^^ → phrase search → readable ^slugs. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "diagonalcounty/blinks"
-  },
-  {
-    "id": "bridge-control",
-    "name": "Bridge Control",
-    "author": "studentepercaso",
-    "description": "Choose safe local read and write access with a visual folder picker for an external AI bridge. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "studentepercaso/bridge-control"
   },
   {
     "id": "advanced-wikipedia-importer",
@@ -39541,5 +39492,19 @@
     "author": "Robert Spaans",
     "description": "Run coding agents (Claude Code, Codex, Ollama) inside Obsidian. Ships a built-in terminal and exposes the active selection and open editors over MCP. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "rospaans/obsidian-agent-mcp"
+  },
+  {
+    "id": "vault-storage-map",
+    "name": "Vault Storage Map",
+    "author": "Dimar4713",
+    "description": "Visualize vault disk usage with an interactive treemap, multilingual interface, cached scans, comparisons, exports, and diagnostic recommendations. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dimar4713/vault-storage-map"
+  },
+  {
+    "id": "file-name-length-limit",
+    "name": "File name length limit",
+    "author": "Dmitrii Dmitriev",
+    "description": "Keeps file names compatible across Windows, Linux, Android, and iOS. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dmitrievdmitriya/obsidian-file-name-length-limit"
   }
 ]
