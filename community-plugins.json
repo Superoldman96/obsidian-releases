@@ -28525,6 +28525,13 @@
     "repo": "adoom2017/memos-obsidian"
   },
   {
+    "id": "wechat-inbox-sync",
+    "name": "WeChat Inbox Sync",
+    "author": "Zhang Zhang",
+    "description": "Sync text, webpages, audio, and files from a WeChat mini program inbox into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mingjuner123-spec/wechat-inbox-sync"
+  },
+  {
     "id": "wrot",
     "name": "Wrot",
     "author": "Vill Yoshioka",
@@ -33166,13 +33173,6 @@
     "repo": "brightwav3/clipping-note"
   },
   {
-    "id": "tasklist",
-    "name": "Projex",
-    "author": "Lenonss",
-    "description": "任务列表管理组件，支持集中式任务数据库，提供新增、编辑、状态切换和移除功能。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "lenonss/obsidian-tasklist"
-  },
-  {
     "id": "github-contributions",
     "name": "GitHub Contributions",
     "author": "gearheaded",
@@ -36099,6 +36099,13 @@
     "repo": "arias007/obsidian-ntfy"
   },
   {
+    "id": "cancip",
+    "name": "Cancip",
+    "author": "Murat",
+    "description": "AI side panel for vault read&write, memory context, and safe note assistance. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arias007/cancip"
+  },
+  {
     "id": "canvas-layer-order",
     "name": "Canvas Layer Order",
     "author": "fengzhe",
@@ -38782,7 +38789,7 @@
   {
     "id": "eleven-days",
     "name": "Eleven Days",
-    "author": "Dyllon Wright",
+    "author": "Dylan Wright",
     "description": "Today across eleven calendar systems — Gregorian plus ten esoteric calendars, with personal annual holidays and archive-aware daily-note navigation. How to live eleven days in twenty-four hours. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dyllonwright/Eleven-Days"
   },
@@ -38869,6 +38876,13 @@
     "author": "zachmueller",
     "description": "Publish your notes with sliding panes and link to others notes - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zachmueller/commonplace-notes"
+  },
+  {
+    "id": "mdflow-publisher",
+    "name": "Jacky-mdflow",
+    "author": "Jackywxsz",
+    "description": "Turn Markdown notes into ready-to-publish layouts for WeChat Official Accounts, X Articles, and Xiaohongshu. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jackywxsz/Jacky-mdflow"
   },
   {
     "id": "status-date-tracker",
@@ -39181,7 +39195,7 @@
   {
     "id": "external-attachments",
     "name": "External Attachments",
-    "author": "Dyllon Wright",
+    "author": "Dylan Wright",
     "description": "Resolve attachment embeds from folders outside the vault — offload heavy files to external drives or extra cloud storage while wikilinks keep rendering. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dyllonwright/Obsidian-External-Attachments"
   },
@@ -39202,7 +39216,7 @@
   {
     "id": "advanced-wikipedia-importer",
     "name": "Advanced Wikipedia Importer",
-    "author": "Dyllon Wright",
+    "author": "Dylan Wright",
     "description": "Import Wikipedia articles as clean notes — pick sections, download and rename images, flatten complex tables, and auto-detect film articles. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dyllonwright/Wikipedia-To-Obsidian-Markdown"
   },
@@ -39552,7 +39566,7 @@
   {
     "id": "daily-note-lookback",
     "name": "Daily Note Lookback",
-    "author": "Dyllon Wright",
+    "author": "Dylan Wright",
     "description": "Render lazy lookbacks of any daily-note section from previous years, months, or custom intervals — collapsed until expanded, far lighter than native embeds. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dyllonwright/Obsidian-Daily-Note-Lookback-Plugin"
   },
@@ -39562,5 +39576,19 @@
     "author": "jiang198012",
     "description": "Chat with the local WorkBuddy/CodeBuddy CLI as an AI agent in your vault: streaming replies, thinking/tool-call cards, @-note references, file attachments, model/permission toolbar, slash commands, inline edit with diff, export and search. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jiang198012/workbuddian"
+  },
+  {
+    "id": "url-file-preview",
+    "name": "URL File Preview",
+    "author": "Gabriel",
+    "description": "Preview and edit Windows .url shortcut files — edit the URL inline, open in your default app or the web viewer, and convert to a Markdown note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "turingexmachina/obsidian-url-file-preview"
+  },
+  {
+    "id": "vault-mcp-connector",
+    "name": "Vault MCP Connector",
+    "author": "tristanedu",
+    "description": "Connect approved vault context and direct local file tools to MCP clients with explicit access controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vault-mcp/platform"
   }
 ]
