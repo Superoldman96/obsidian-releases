@@ -24206,13 +24206,6 @@
     "repo": "lemon695/obsidian-note-image-gallery"
   },
   {
-    "id": "social-archiver",
-    "name": "Social Archiver",
-    "author": "Jun Lim",
-    "description": "Archive social media posts from various platforms. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "hyungyunlim/obsidian-social-archiver-releases"
-  },
-  {
     "id": "workout-ai-tracker",
     "name": "Workout AI Tracker",
     "author": "avlihachev",
@@ -26836,6 +26829,13 @@
     "author": "LJ OS",
     "description": "Standalone local Git activity snapshots for Daily Notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ljrobinson/obsidian-lj-os-plugin"
+  },
+  {
+    "id": "hide-sidebars",
+    "name": "Hide Sidebars",
+    "author": "Hasan Yılmaz",
+    "description": "Enhanced sidebar control with auto-hide mode, dedicated toggle icons, and intuitive controls for independent left and right sidebars. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hasanyilmaz/hide-sidebars"
   },
   {
     "id": "auto-heading",
@@ -39779,5 +39779,12 @@
     "author": "John Surles",
     "description": "Define a selected word with AI, link it in place, and maintain a navigable dictionary note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "0utsights/obsidian-contextual-vocabulary"
+  },
+  {
+    "id": "image-magick",
+    "name": "ImageMagick",
+    "author": "Abdulkader Safi",
+    "description": "Resize, crop, rotate, compress and convert images in your vault, powered by ImageMagick. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "abdulkader-safi/obsidian-image-magick-plugins"
   }
 ]
