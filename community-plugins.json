@@ -32809,6 +32809,13 @@
     "repo": "wenciara/obsidian-pst-importer"
   },
   {
+    "id": "native-powerpoint-doc-editor",
+    "name": "Native PowerPoint Doc Editor",
+    "author": "Marwan Luay",
+    "description": "Open, view, and edit DOCX and PPTX files directly in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "marsluay/NativePowerPointDocEditor"
+  },
+  {
     "id": "insider",
     "name": "Insider",
     "author": "barcantree",
@@ -36414,13 +36421,6 @@
     "repo": "nicklennonliu/obsidian-codex-session-archive"
   },
   {
-    "id": "hearth",
-    "name": "Hearth",
-    "author": "ondreu",
-    "description": "A beautiful, customizable home screen — dashboard, launchpad, mission control, homescreen, search - all in one. As simple or complex as you need. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ondreu/Hearth"
-  },
-  {
     "id": "vault-not-a-typo",
     "name": "Vault - Not A Typo",
     "author": "Remi HOEPPE",
@@ -39319,13 +39319,6 @@
     "repo": "kja140/incremental-reading"
   },
   {
-    "id": "nudge",
-    "name": "Nudge",
-    "author": "Peter",
-    "description": "Manage tasks in a single plain-text todo.txt file, with lists, due dates, priorities, and recurrence. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "2easy/nudge"
-  },
-  {
     "id": "ai-article",
     "name": "AI Article",
     "author": "jiang",
@@ -39641,13 +39634,6 @@
     "repo": "eason38467/Obsidian-Knowledge-Atlas"
   },
   {
-    "id": "native-pdf-handwriting",
-    "name": "Native PDF Handwriting",
-    "author": "Marwan Luay",
-    "description": "Locally handwrite on PDFs with a stylus or mouse. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "marsluay/native-pdf-handwriting"
-  },
-  {
     "id": "central-vault-sync",
     "name": "Central Vault Sync",
     "author": "WebObsidian contributors",
@@ -39807,5 +39793,12 @@
     "author": "gooderno1",
     "description": "Create encrypted Markdown notes with visible metadata, native links, and optional gateway storage. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gooderno1/CipherLink"
+  },
+  {
+    "id": "calendar-clock",
+    "name": "Calendar Clock Companion",
+    "author": "Izzan Mirza",
+    "description": "Simple, live clock above the Liam Cain's Calendar plugin - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "izz4n/obsidian-calendar-clock-plugin"
   }
 ]
