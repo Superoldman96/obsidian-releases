@@ -24661,6 +24661,13 @@
     "repo": "hyungyunlim/obsidian-naver-blog-importer"
   },
   {
+    "id": "semantic-vault-mcp",
+    "name": "Semantic Notes Vault MCP",
+    "author": "Aaron Bockelie",
+    "description": "Give Claude Desktop and other AI assistants semantic access to your notes through a built-in Model Context Protocol (MCP) server. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aaronsb/obsidian-mcp-plugin"
+  },
+  {
     "id": "co-intelligence",
     "name": "Co-Intelligence AI",
     "author": "epistemic-technology",
@@ -32809,13 +32816,6 @@
     "repo": "wenciara/obsidian-pst-importer"
   },
   {
-    "id": "native-powerpoint-doc-editor",
-    "name": "Native PowerPoint Doc Editor",
-    "author": "Marwan Luay",
-    "description": "Open, view, and edit DOCX and PPTX files directly in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "marsluay/NativePowerPointDocEditor"
-  },
-  {
     "id": "insider",
     "name": "Insider",
     "author": "barcantree",
@@ -35147,13 +35147,6 @@
     "repo": "gustavczar/local-agent-obsidian-plugin"
   },
   {
-    "id": "vault-retrieval",
-    "name": "Vault Retrieval",
-    "author": "Johannes Kaindl",
-    "description": "Local, offline retrieval over your vault: related notes, semantic search, and grounded chat with a local LLM — nothing leaves your machine. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "johannes-kaindl/vault-rag"
-  },
-  {
     "id": "image-to-markdown",
     "name": "Image to Markdown",
     "author": "Johannes Kaindl",
@@ -36419,6 +36412,13 @@
     "author": "river",
     "description": "Export local Codex archived sessions to Markdown notes grouped by workspace. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nicklennonliu/obsidian-codex-session-archive"
+  },
+  {
+    "id": "hearth",
+    "name": "Hearth",
+    "author": "ondreu",
+    "description": "A beautiful, customizable home screen — dashboard, launchpad, mission control, homescreen, search - all in one. As simple or complex as you need. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ondreu/Hearth"
   },
   {
     "id": "vault-not-a-typo",
@@ -39319,6 +39319,13 @@
     "repo": "kja140/incremental-reading"
   },
   {
+    "id": "nudge",
+    "name": "Nudge",
+    "author": "Peter",
+    "description": "Manage tasks in a single plain-text todo.txt file, with lists, due dates, priorities, and recurrence. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "2easy/nudge"
+  },
+  {
     "id": "ai-article",
     "name": "AI Article",
     "author": "jiang",
@@ -39634,6 +39641,13 @@
     "repo": "eason38467/Obsidian-Knowledge-Atlas"
   },
   {
+    "id": "native-pdf-handwriting",
+    "name": "Handwriting Natively",
+    "author": "Marwan Luay",
+    "description": "Locally handwrite on PDFs with a stylus or mouse. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "marsluay/native-pdf-handwriting"
+  },
+  {
     "id": "central-vault-sync",
     "name": "Central Vault Sync",
     "author": "WebObsidian contributors",
@@ -39781,6 +39795,13 @@
     "repo": "abdulkader-safi/obsidian-image-magick-plugins"
   },
   {
+    "id": "chorefast",
+    "name": "Chorefast",
+    "author": "webinspectinc",
+    "description": "Helps you complete your chore list in record time. Based on work by Simone Giertz. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "webinspectinc/obsidian-chorefast"
+  },
+  {
     "id": "bitiful-helper",
     "name": "Bitiful Helper",
     "author": "viacai",
@@ -39795,10 +39816,45 @@
     "repo": "gooderno1/CipherLink"
   },
   {
+    "id": "frontmatter-timestamps",
+    "name": "Frontmatter Timestamps",
+    "author": "Pat",
+    "description": "Keeps created and updated frontmatter timestamps in sync with Markdown file events. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jqml/frontmatter-timestamps"
+  },
+  {
+    "id": "native-property-operator",
+    "name": "Native Property Operator",
+    "author": "Pat",
+    "description": "Safely preview and apply native frontmatter property operations across Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jqml/native-property-operator"
+  },
+  {
+    "id": "style-controller",
+    "name": "Style Controller",
+    "author": "Pat",
+    "description": "Manage reusable Obsidian style profiles, path overrides, and visual settings through a native settings interface. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jqml/style-controller"
+  },
+  {
     "id": "calendar-clock",
     "name": "Calendar Clock Companion",
     "author": "Izzan Mirza",
     "description": "Simple, live clock above the Liam Cain's Calendar plugin - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "izz4n/obsidian-calendar-clock-plugin"
+  },
+  {
+    "id": "writing-assistant-chat",
+    "name": "Writing Assistant Chat",
+    "author": "Resolve-public",
+    "description": "AI writing assistant with unified chat, planning, and ambient editing. Connects to local or cloud providers. Features vault-wide RAG retrieval, knowledge graph, agentic tool use, note context, and reusable prompt commands. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "resolve-public/writing-assistant-chat"
+  },
+  {
+    "id": "strong-start",
+    "name": "Strong Start",
+    "author": "Dan King",
+    "description": "Create, manage, and run TTRPG campaigns with Sly Flourish's eight steps of lazy RPG prep. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "leethobbit/obsidian-strong-start-plugin"
   }
 ]
