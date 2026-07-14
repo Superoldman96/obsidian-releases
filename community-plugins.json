@@ -31368,7 +31368,7 @@
   },
   {
     "id": "section-meter",
-    "name": "Section Meter",
+    "name": "Section Writing Stats",
     "author": "Martino Wong",
     "description": "Shows stats (wordcount, reading time) beside headings and in the status bar - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "martinowong/obsidian-section-meter"
@@ -35145,6 +35145,13 @@
     "author": "Gustavo Lourenço",
     "description": "Turn your vault into a team of AI agents built from your own notes — they chat, act on your notes (with approval), remember, and brainstorm together. Bring your own key, local-first. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gustavczar/local-agent-obsidian-plugin"
+  },
+  {
+    "id": "vault-retrieval",
+    "name": "Vault Retrieval",
+    "author": "Johannes Kaindl",
+    "description": "Local, offline retrieval over your vault: related notes, semantic search, and grounded chat with a local LLM — nothing leaves your machine. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "johannes-kaindl/vault-rag"
   },
   {
     "id": "image-to-markdown",
@@ -39564,13 +39571,6 @@
     "repo": "dmitrievdmitriya/obsidian-file-name-length-limit"
   },
   {
-    "id": "prose-lens",
-    "name": "Prose Lens",
-    "author": "saiken",
-    "description": "Live readability and style marks in the editor: passive voice, adverbs, hedges, long sentences, and a Flesch reading grade. Works fully offline. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "israerusan/prose-lens"
-  },
-  {
     "id": "relational-graph",
     "name": "Relational Graph",
     "author": "Tristan Van Garsse",
@@ -39583,13 +39583,6 @@
     "author": "Dylan Wright",
     "description": "Render lazy lookbacks of any daily-note section from previous years, months, or custom intervals — collapsed until expanded, far lighter than native embeds. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dyllonwright/Obsidian-Daily-Note-Lookback-Plugin"
-  },
-  {
-    "id": "workbuddian",
-    "name": "Workbuddian",
-    "author": "jiang198012",
-    "description": "Chat with the local WorkBuddy/CodeBuddy CLI as an AI agent in your vault: streaming replies, thinking/tool-call cards, @-note references, file attachments, model/permission toolbar, slash commands, inline edit with diff, export and search. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jiang198012/workbuddian"
   },
   {
     "id": "daily-work-log",
@@ -39793,13 +39786,6 @@
     "author": "Abdulkader Safi",
     "description": "Resize, crop, rotate, compress and convert images in your vault, powered by ImageMagick. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "abdulkader-safi/obsidian-image-magick-plugins"
-  },
-  {
-    "id": "chorefast",
-    "name": "Chorefast",
-    "author": "webinspectinc",
-    "description": "Helps you complete your chore list in record time. Based on work by Simone Giertz. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "webinspectinc/obsidian-chorefast"
   },
   {
     "id": "bitiful-helper",
