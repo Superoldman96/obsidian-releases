@@ -20027,6 +20027,13 @@
     "repo": "sbuffkin/hexmaker"
   },
   {
+    "id": "terminal-agent-tabs",
+    "name": "Terminal Agent Tabs",
+    "author": "hirose30",
+    "description": "Run multiple agent CLI sessions (Claude Code, Codex, Gemini, etc.) as editor tabs. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hirose30/terminal-agent-tabs"
+  },
+  {
     "id": "handwriting-to-markdown",
     "name": "HandTranscriptMd",
     "author": "gabriele-cusato",
@@ -38514,13 +38521,6 @@
     "repo": "vladb-evs/obsidian-explorer-sort"
   },
   {
-    "id": "code-runner",
-    "name": "Code Runner",
-    "author": "chujiu-dev",
-    "description": "Interactively run code blocks in Obsidian with stdin input support. Supports Python, C, C++, Java, Go, JavaScript, TypeScript, Rust, Kotlin and more. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "chujiu-dev/obsidian-code-runner"
-  },
-  {
     "id": "pm-compass",
     "name": "PM Compass",
     "author": "Laurent Ferier",
@@ -38937,7 +38937,7 @@
     "id": "cursor-smith",
     "name": "Cursor-Smith",
     "author": "sadsnake1",
-    "description": "Forge your perfect editing experience with custom cursor styles. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Forge your cursor with the most advanced cursor engine there is! - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sadsnake1/cursor-smith"
   },
   {
@@ -39578,6 +39578,13 @@
     "repo": "jiang198012/workbuddian"
   },
   {
+    "id": "daily-work-log",
+    "name": "Daily Work Log",
+    "author": "Hong SeongChan",
+    "description": "Visualize daily time tracking and To-Do lists directly from daily notes with minimal metadata. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "seongchan/DailyWorkLog"
+  },
+  {
     "id": "url-file-preview",
     "name": "URL File Preview",
     "author": "Gabriel",
@@ -39585,10 +39592,24 @@
     "repo": "turingexmachina/obsidian-url-file-preview"
   },
   {
+    "id": "attachment-type-icons",
+    "name": "Attachment Type Icons",
+    "author": "GOODJINC",
+    "description": "Shows configurable file-type icons for linked attachments without changing Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "goodjinc/obsidian-attachment-type-icons"
+  },
+  {
     "id": "vault-mcp-connector",
     "name": "Vault MCP Connector",
     "author": "tristanedu",
     "description": "Connect approved vault context and direct local file tools to MCP clients with explicit access controls. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "vault-mcp/platform"
+  },
+  {
+    "id": "knowledge-atlas",
+    "name": "Knowledge Atlas",
+    "author": "Eason38467",
+    "description": "Explore every Markdown note in your vault as an interactive, searchable knowledge map. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "eason38467/Obsidian-Knowledge-Atlas"
   }
 ]
