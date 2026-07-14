@@ -21259,6 +21259,13 @@
     "repo": "samhopwell/obsidian-foldstate"
   },
   {
+    "id": "weave",
+    "name": "Weave",
+    "author": "zhuzhige123",
+    "description": "Enhance knowledge learning and memory consolidation with incremental reading, memory decks, and practice quiz decks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhuzhige123/obsidian---Weave"
+  },
+  {
     "id": "ai-link-summarizer",
     "name": "AI Link Summarizer",
     "author": "laroy-sh",
@@ -35280,6 +35287,13 @@
     "repo": "epicylon/add-to-vault-plugin"
   },
   {
+    "id": "traverture",
+    "name": "traVERture",
+    "author": "Eryk J.",
+    "description": "Parse, convert, and preview scripture references; insert citations from NWT Bible, and launch in JW Library and JW.ORG. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "erykjj/traverture"
+  },
+  {
     "id": "bible-study",
     "name": "Bible Study",
     "author": "linkongren",
@@ -36083,13 +36097,6 @@
     "author": "Murat",
     "description": "Send vault reminders and captured app notices to ntfy with auto scan, editable queues, delayed notifications, repeats, and optional AI webhooks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "arias007/obsidian-ntfy"
-  },
-  {
-    "id": "cancip",
-    "name": "Cancip",
-    "author": "Murat",
-    "description": "AI side panel for vault search, memory context, and safe note assistance. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "arias007/cancip"
   },
   {
     "id": "canvas-layer-order",
@@ -39221,6 +39228,13 @@
     "repo": "khunpoom/Thai-bracket-remap"
   },
   {
+    "id": "search-exploder",
+    "name": "Search Exploder",
+    "author": "Jason Klein",
+    "description": "Opens each search result in its own tab. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jklein64/obsidian-search-exploder"
+  },
+  {
     "id": "image-ai",
     "name": "Image AI",
     "author": "jiang",
@@ -39534,5 +39548,19 @@
     "author": "saiken",
     "description": "Live readability and style marks in the editor: passive voice, adverbs, hedges, long sentences, and a Flesch reading grade. Works fully offline. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "israerusan/prose-lens"
+  },
+  {
+    "id": "daily-note-lookback",
+    "name": "Daily Note Lookback",
+    "author": "Dyllon Wright",
+    "description": "Render lazy lookbacks of any daily-note section from previous years, months, or custom intervals — collapsed until expanded, far lighter than native embeds. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dyllonwright/Obsidian-Daily-Note-Lookback-Plugin"
+  },
+  {
+    "id": "workbuddian",
+    "name": "Workbuddian",
+    "author": "jiang198012",
+    "description": "Chat with the local WorkBuddy/CodeBuddy CLI as an AI agent in your vault: streaming replies, thinking/tool-call cards, @-note references, file attachments, model/permission toolbar, slash commands, inline edit with diff, export and search. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jiang198012/workbuddian"
   }
 ]
