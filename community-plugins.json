@@ -18088,13 +18088,6 @@
     "repo": "aliceinwaterdeep/obsidian-hardcover"
   },
   {
-    "id": "blueprint",
-    "name": "Blueprint",
-    "author": "madx",
-    "description": "Write once, update everywhere - note templates that pull from Properties.",
-    "repo": "madx/blueprint-obsidian-plugin"
-  },
-  {
     "id": "decks",
     "name": "Decks",
     "author": "dscherdi",
@@ -31150,6 +31143,13 @@
     "repo": "shangchengwen/obsidian-morse-translator"
   },
   {
+    "id": "narrative-canvas",
+    "name": "Narrative Canvas",
+    "author": "ringeringeraja33",
+    "description": "A node-based writing tool for game development, interactive fiction, branching scripts, quest chains, and other nonlinear narrative structures. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ringeringeraja33/NarrativeCanvas"
+  },
+  {
     "id": "buildian",
     "name": "Buildian",
     "author": "YuChenSSR",
@@ -38920,6 +38920,13 @@
     "repo": "blackflag0623/obsidian-lemon-comments"
   },
   {
+    "id": "cursor-smith",
+    "name": "Cursor-Smith",
+    "author": "sadsnake1",
+    "description": "Forge your cursor with the most advanced cursor engine there is! - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sadsnake1/cursor-smith"
+  },
+  {
     "id": "workspace-plus-group",
     "name": "WorkSpace Plus Group",
     "author": "cnwenzhihong",
@@ -39571,6 +39578,13 @@
     "repo": "turingexmachina/obsidian-url-file-preview"
   },
   {
+    "id": "mindmap-plugin-hbd-dang",
+    "name": "Mind Map Visual",
+    "author": "William Dang",
+    "description": "Brainstorming-focused mind map plugin with auto-organized layouts and keyboard shortcuts - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "duybaodg/mindmap-plugin-hbd-dang"
+  },
+  {
     "id": "skill-harness-manager",
     "name": "Skill and Harness Manager",
     "author": "Joe Utke",
@@ -39606,6 +39620,13 @@
     "repo": "marsluay/native-pdf-handwriting"
   },
   {
+    "id": "central-vault-sync",
+    "name": "Central Vault Sync",
+    "author": "WebObsidian contributors",
+    "description": "Revision-safe synchronization with a self-hosted authoritative vault server. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "picassio/central-vault-sync"
+  },
+  {
     "id": "sticky-table-headers",
     "name": "Sticky Table Headers",
     "author": "Yinno",
@@ -39618,5 +39639,19 @@
     "author": "Yinno",
     "description": "Zoom the whole app in and out with Ctrl/Cmd+Shift+Scroll, including a wider zoom-out range than the built-in limit. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jwczju/scroll-wheel-zoom"
+  },
+  {
+    "id": "html-blocks",
+    "name": "HTML Blocks",
+    "author": "Yinno",
+    "description": "Render live HTML, CSS and JavaScript directly in your notes with html-block code fences, each isolated in its own Shadow DOM. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jwczju/html-blocks"
+  },
+  {
+    "id": "terminus",
+    "name": "Terminus",
+    "author": "notenerd",
+    "description": "A real terminal with shell integration and beginner-friendly command help, plus a review workflow for Claude Code file edits: word-level diffs, undo, backlink-breakage warnings, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "notenerdofficial/terminus"
   }
 ]
