@@ -28350,6 +28350,13 @@
     "repo": "wanglin2/obsidian-simplemindmap"
   },
   {
+    "id": "ultra-zen-mode",
+    "name": "Ultra Zen Mode",
+    "author": "Marcos",
+    "description": "Enter a distraction-free zen mode by hiding sidebars, properties, title and status bar. Works on desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "marckfp/ultra-zen-mode"
+  },
+  {
     "id": "tagser",
     "name": "Tagser",
     "author": "caorol",
@@ -28481,13 +28488,6 @@
     "author": "Mateusz Nitka",
     "description": "Create new paragraph after hitting Enter once instead of twice. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mateusznitka/obsidian-paragraph-break"
-  },
-  {
-    "id": "operon",
-    "name": "Operon",
-    "author": "Hasan Yılmaz",
-    "description": "Task and project management system that unifies inline tasks and file-based tasks in the same workflows with Tables, Filters, Calendar planning, Kanban boards, pinned tasks, and time tracking. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "hasanyilmaz/operon"
   },
   {
     "id": "clio",
@@ -33467,13 +33467,6 @@
     "repo": "sandsaber/mdMenu"
   },
   {
-    "id": "notedraw",
-    "name": "NoteDraw",
-    "author": "Murat",
-    "description": "Draw and edit directly on Obsidian notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "arias007/notedraw"
-  },
-  {
     "id": "letterhead",
     "name": "Letterhead",
     "author": "Johannes Kaindl",
@@ -36736,6 +36729,13 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
+    "id": "pivi",
+    "name": "Pivi",
+    "author": "shuuul",
+    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shuuul/obsidian-pivi"
+  },
+  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -37567,6 +37567,13 @@
     "author": "Nabheet Madan",
     "description": "Read your local WhatsApp Desktop message database and mirror chats into your vault as one transcript note per conversation. Read-only, incremental, fully local — no network, no cloud, no API keys. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nabheetcloud/Obsidian-Whatsapp"
+  },
+  {
+    "id": "smarttask",
+    "name": "SmartTask",
+    "author": "SmartTask Team",
+    "description": "高性能、易操作的智能任务管理插件。支持多视图、快速创建、智能查询。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fat-pumpkin/SmarTask"
   },
   {
     "id": "pinax",
@@ -39480,6 +39487,13 @@
     "repo": "yangzuo0621/vault-loom"
   },
   {
+    "id": "knowledge-views-studio",
+    "name": "Knowledge Views Studio",
+    "author": "W A Khan",
+    "description": "Turn Markdown tables, note properties, tasks and Excel rows scattered across your vault into live, editable dashboards — table, board, calendar, cards, gallery or pivot. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wk-101/knowledge-views-studio"
+  },
+  {
     "id": "katazuke",
     "name": "Katazuke",
     "author": "DaisukeMiyazaki",
@@ -39548,6 +39562,13 @@
     "author": "saiken",
     "description": "Live readability and style marks in the editor: passive voice, adverbs, hedges, long sentences, and a Flesch reading grade. Works fully offline. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "israerusan/prose-lens"
+  },
+  {
+    "id": "relational-graph",
+    "name": "Relational Graph",
+    "author": "Tristan Van Garsse",
+    "description": "Visualize relationships between notes using shared context, direct links, recency, filters, and project focus. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tristanvangarsse/relational-graph"
   },
   {
     "id": "daily-note-lookback",
@@ -39627,6 +39648,13 @@
     "repo": "picassio/central-vault-sync"
   },
   {
+    "id": "simple-homepage",
+    "name": "Simple Homepage",
+    "author": "Dajhiro",
+    "description": "Set a note as your homepage and open it automatically on startup or with a command. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dajhiro/obsidian-simple-homepage"
+  },
+  {
     "id": "sticky-table-headers",
     "name": "Sticky Table Headers",
     "author": "Yinno",
@@ -39653,5 +39681,40 @@
     "author": "notenerd",
     "description": "A real terminal with shell integration and beginner-friendly command help, plus a review workflow for Claude Code file edits: word-level diffs, undo, backlink-breakage warnings, and more. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "notenerdofficial/terminus"
+  },
+  {
+    "id": "artinors-kanban",
+    "name": "Artin0rs Advanced Kanban",
+    "author": "ArtinŌr",
+    "description": "ArtinŌr's Advanced Kanban, A powerful kanban board. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "artin0r/artinors-kanban"
+  },
+  {
+    "id": "cad-viewer",
+    "name": "CAD Viewer",
+    "author": "栗子仁儿",
+    "description": "Preview DXF/DWG CAD drawings directly in Obsidian (based on mlightcad/cad-viewer). Supports both DXF and DWG formats with full rendering. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "liamzy2021/Obsidian-CAD-DWG-DXF-viewer"
+  },
+  {
+    "id": "github-pages-share",
+    "name": "GitHub Pages share",
+    "author": "Mark Chang",
+    "description": "Publish notes to a GitHub Pages site and copy shareable links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wzmf399443/github-pages-share"
+  },
+  {
+    "id": "picnexus",
+    "name": "PicNexus",
+    "author": "joeyliu6",
+    "description": "Upload pasted and dropped images through the PicNexus desktop app. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "joeyliu6/picnexus-obsidian"
+  },
+  {
+    "id": "custom-emojis",
+    "name": "Discord-style Custom Emojis",
+    "author": "akskokki",
+    "description": "Type :shortcode: to render your own custom emoji image anywhere, just like chatting in Discord/Slack. The underlying note stays as plain text. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "akskokki/obsidian-custom-emojis"
   }
 ]
