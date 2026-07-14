@@ -24682,13 +24682,6 @@
     "repo": "hyungyunlim/obsidian-naver-blog-importer"
   },
   {
-    "id": "semantic-vault-mcp",
-    "name": "Semantic Notes Vault MCP",
-    "author": "Aaron Bockelie",
-    "description": "Give Claude Desktop and other AI assistants semantic access to your notes through a built-in Model Context Protocol (MCP) server. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "aaronsb/obsidian-mcp-plugin"
-  },
-  {
     "id": "co-intelligence",
     "name": "Co-Intelligence AI",
     "author": "epistemic-technology",
@@ -31157,13 +31150,6 @@
     "repo": "shangchengwen/obsidian-morse-translator"
   },
   {
-    "id": "narrative-canvas",
-    "name": "Narrative Canvas",
-    "author": "ringeringeraja33",
-    "description": "A node-based writing tool for game development, interactive fiction, branching scripts, quest chains, and other nonlinear narrative structures. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ringeringeraja33/NarrativeCanvas"
-  },
-  {
     "id": "buildian",
     "name": "Buildian",
     "author": "YuChenSSR",
@@ -31699,7 +31685,7 @@
     "id": "day-planner-enhanced",
     "name": "Day Planner Enhanced",
     "author": "jagaldol",
-    "description": "A day planner with an enhanced timeline UI and readable nested schedules. Based on Day Planner 0.30.0. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A day planner with an enhanced timeline UI and readable nested schedules. Based on Day Planner 0.31.0. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jagaldol/obsidian-day-planner-enhanced"
   },
   {
@@ -33178,6 +33164,13 @@
     "author": "Brightwav3",
     "description": "Creates new Clipping note into folder \"Clippings\" using template just by clicking sidetab icon. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "brightwav3/clipping-note"
+  },
+  {
+    "id": "tasklist",
+    "name": "Projex",
+    "author": "Lenonss",
+    "description": "任务列表管理组件，支持集中式任务数据库，提供新增、编辑、状态切换和移除功能。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lenonss/obsidian-tasklist"
   },
   {
     "id": "github-contributions",
@@ -36743,13 +36736,6 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
-    "id": "pivi",
-    "name": "Pivi",
-    "author": "shuuul",
-    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "shuuul/obsidian-pivi"
-  },
-  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -37737,13 +37723,6 @@
     "repo": "p0shkar/LibreTranslate-for-Obsidian"
   },
   {
-    "id": "bamboo-walking",
-    "name": "Bamboo Walking",
-    "author": "羽鳞君",
-    "description": "个人写作专栏 · 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生 | Personal writing column reader - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-bamboo-walking"
-  },
-  {
     "id": "promptbox",
     "name": "Promptbox",
     "author": "istefox",
@@ -38521,6 +38500,13 @@
     "repo": "vladb-evs/obsidian-explorer-sort"
   },
   {
+    "id": "code-runner",
+    "name": "Code Runner",
+    "author": "chujiu-dev",
+    "description": "Interactively run code blocks in Obsidian with stdin input support. Supports Python, C, C++, Java, Go, JavaScript, TypeScript, Rust, Kotlin and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chujiu-dev/obsidian-code-runner"
+  },
+  {
     "id": "pm-compass",
     "name": "PM Compass",
     "author": "Laurent Ferier",
@@ -38932,13 +38918,6 @@
     "author": "blackflag0623",
     "description": "Add Markdown comments to selected text in Reading view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "blackflag0623/obsidian-lemon-comments"
-  },
-  {
-    "id": "cursor-smith",
-    "name": "Cursor-Smith",
-    "author": "sadsnake1",
-    "description": "Forge your cursor with the most advanced cursor engine there is! - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sadsnake1/cursor-smith"
   },
   {
     "id": "workspace-plus-group",
@@ -39592,6 +39571,13 @@
     "repo": "turingexmachina/obsidian-url-file-preview"
   },
   {
+    "id": "skill-harness-manager",
+    "name": "Skill and Harness Manager",
+    "author": "Joe Utke",
+    "description": "Launch skills stored in your vault with dedicated ribbon buttons and the contextual right click menu. Register harnesses and agents, assign them to your skills and connect to their active sessions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "joeutke-dev/skill-harness-manager"
+  },
+  {
     "id": "attachment-type-icons",
     "name": "Attachment Type Icons",
     "author": "GOODJINC",
@@ -39611,5 +39597,26 @@
     "author": "Eason38467",
     "description": "Explore every Markdown note in your vault as an interactive, searchable knowledge map. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "eason38467/Obsidian-Knowledge-Atlas"
+  },
+  {
+    "id": "native-pdf-handwriting",
+    "name": "Native PDF Handwriting",
+    "author": "Marwan Luay",
+    "description": "Locally handwrite on PDFs with a stylus or mouse. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "marsluay/native-pdf-handwriting"
+  },
+  {
+    "id": "sticky-table-headers",
+    "name": "Sticky Table Headers",
+    "author": "Yinno",
+    "description": "Keeps table headers visible while you scroll through long tables, with support for multiple tables and horizontal scrolling. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jwczju/sticky-table-headers"
+  },
+  {
+    "id": "scroll-wheel-zoom",
+    "name": "Scroll Wheel Zoom",
+    "author": "Yinno",
+    "description": "Zoom the whole app in and out with Ctrl/Cmd+Shift+Scroll, including a wider zoom-out range than the built-in limit. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jwczju/scroll-wheel-zoom"
   }
 ]
