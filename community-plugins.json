@@ -8442,6 +8442,13 @@
     "repo": "peerdraft/obsidian-plugin"
   },
   {
+    "id": "gamified-pkm",
+    "name": "Gamificate your PKM",
+    "author": "saertna",
+    "description": "Enhance your Personal Knowledge Management with gamification elements. Boost motivation and achieve growth as you engage with your PKM.",
+    "repo": "saertna/obsidian-gamified-pkm"
+  },
+  {
     "id": "coder",
     "name": "Transcode",
     "author": "rudimuc",
@@ -11354,13 +11361,6 @@
     "repo": "quorafind/Obsidian-Search-In-Canvas"
   },
   {
-    "id": "sheet-plus",
-    "name": "Sheet Plus",
-    "author": "ljcoder2015",
-    "description": "Create Excel-like spreadsheets and easily embed them in Markdown.",
-    "repo": "ljcoder2015/obsidian-sheet-plus"
-  },
-  {
     "id": "asciidoc-reader",
     "name": "Asciidoc Reader",
     "author": "voidgrown",
@@ -13487,13 +13487,6 @@
     "author": "hoshino-yumetsuki",
     "description": "Automatically generate permanent short links for your markdown files.",
     "repo": "hoshino-yumetsuki/obsidian-plugin-abbrlink"
-  },
-  {
-    "id": "scribe",
-    "name": "Scribe",
-    "author": "mikodin",
-    "description": "Record voice notes, Fill in lost thoughts, Transcribe the audio, Summarize & Visualize the text - All in one clip",
-    "repo": "mikodin/obsidian-scribe"
   },
   {
     "id": "instant-above-divider",
@@ -28490,6 +28483,13 @@
     "repo": "mateusznitka/obsidian-paragraph-break"
   },
   {
+    "id": "operon",
+    "name": "Operon",
+    "author": "Hasan Yılmaz",
+    "description": "Task and project management system that unifies inline tasks and file-based tasks in the same workflows with Tables, Filters, Calendar planning, Kanban boards, pinned tasks, and time tracking. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hasanyilmaz/operon"
+  },
+  {
     "id": "clio",
     "name": "Clio",
     "author": "Matthew Newton",
@@ -33404,6 +33404,13 @@
     "repo": "punkyard/obsidian-lindar"
   },
   {
+    "id": "swift-match",
+    "name": "SwiftMatch",
+    "author": "swiSwift",
+    "description": "Quickly match and mark selected text across your vault with visual highlights - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dlsdgj/Obsidian-SwiftMatch"
+  },
+  {
     "id": "lecture-lens",
     "name": "Lecture Lens",
     "author": "Yima",
@@ -36935,7 +36942,7 @@
     "id": "glossary-linker",
     "name": "Glossary Linker",
     "author": "max-fluff",
-    "description": "Highlights glossary terms in any word form, converts them into links, and learns aliases from the links you already made. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Auto-link glossary terms across your vault in any word form: plurals, declensions, and cases, powered by morphological stemming for six languages. Convert highlights into real wiki links. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "max-fluff/obsidian-glossary-linker"
   },
   {
@@ -39112,7 +39119,7 @@
     "id": "code-linker",
     "name": "Code Linker",
     "author": "max-fluff",
-    "description": "Autocomplete links to source-code files and type declarations that open at the exact line in your editor. Hover to preview the code and embed live snippets in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Deep-link your notes to your source code. Autocomplete a symbol and jump to the exact line in your IDE (VS Code, JetBrains) or a GitHub/GitLab permalink. Embed live code snippets. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "max-fluff/obsidian-code-linker"
   },
   {
@@ -39529,6 +39536,13 @@
     "repo": "johannes-kaindl/yijing-oracle"
   },
   {
+    "id": "agent-mcp",
+    "name": "Agent MCP",
+    "author": "Robert Spaans",
+    "description": "Run coding agents (Claude Code, Codex, Ollama) inside Obsidian. Ships a built-in terminal and exposes the active selection and open editors over MCP. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rospaans/obsidian-agent-mcp"
+  },
+  {
     "id": "carbon-voice-sync",
     "name": "Carbon Voice Sync",
     "author": "Travis Bogard",
@@ -39718,10 +39732,31 @@
     "repo": "akskokki/obsidian-custom-emojis"
   },
   {
+    "id": "readability-compass",
+    "name": "Readability Compass",
+    "author": "maxonamission",
+    "description": "Know the reading level of your notes to ensure it fits your readers. See a language-independent score (LIX) and specify your own target. Check scores in the status bar and details in the side panel - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "maxonamission/obsidian-readability-compass"
+  },
+  {
     "id": "digital-archive",
     "name": "Digital Archive",
     "author": "HyoYoonNam",
     "description": "Search books through the Aladin open API, generate notes with cover images and metadata, and browse your library in a card gallery view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hyoyoonnam/digital-archive"
+  },
+  {
+    "id": "color-marker",
+    "name": "Color Marker",
+    "author": "Central Brain Trust",
+    "description": "Mark folders and notes with color labels from the right-click menu — 12 calendar-style colors you can add or remove anytime. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ruisloan/obsidian-color-marker"
+  },
+  {
+    "id": "mathify-notes",
+    "name": "Mathify Notes",
+    "author": "Science Note Taker",
+    "description": "Auto-formats chemical formulas, nested fractions, powers, variables, and math symbols instantly as you type. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "katananananna/obsidian-mathify-notes"
   }
 ]
