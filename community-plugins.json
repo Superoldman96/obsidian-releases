@@ -13489,6 +13489,13 @@
     "repo": "hoshino-yumetsuki/obsidian-plugin-abbrlink"
   },
   {
+    "id": "scribe",
+    "name": "Scribe",
+    "author": "mikodin",
+    "description": "Record voice notes, Fill in lost thoughts, Transcribe the audio, Summarize & Visualize the text - All in one clip",
+    "repo": "mikodin/obsidian-scribe"
+  },
+  {
     "id": "instant-above-divider",
     "name": "Instant Above Divider",
     "author": "sedationh",
@@ -32802,13 +32809,6 @@
     "repo": "wenciara/obsidian-pst-importer"
   },
   {
-    "id": "native-powerpoint-doc-editor",
-    "name": "Native PowerPoint Doc Editor",
-    "author": "Marwan Luay",
-    "description": "Open, view, and edit DOCX and PPTX files directly in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "marsluay/NativePowerPointDocEditor"
-  },
-  {
     "id": "insider",
     "name": "Insider",
     "author": "barcantree",
@@ -38192,6 +38192,13 @@
     "repo": "jaanaltosaar/obsidian-microlite"
   },
   {
+    "id": "starter-packs",
+    "name": "Starter Packs",
+    "author": "Grub Basket",
+    "description": "Create and share curated lists of community plugins. Share a pack as a link or code; recipients preview the pack and install everything in a couple of clicks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/starter-packs"
+  },
+  {
     "id": "eventide-quill",
     "name": "Eventide Quill",
     "author": "EventideMiles",
@@ -38309,6 +38316,13 @@
     "author": "Gal Katzhendler",
     "description": "Edit inline SVG code blocks visually — draw lines, circles, rectangles and freehand scribbles — or switch to code mode to edit the SVG source directly. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "galkatzh/obs-svg"
+  },
+  {
+    "id": "code-snippet-manager",
+    "name": "code-snippet-manager",
+    "author": "jingmengzhiyue",
+    "description": "Collect, organize, format, search, and explain code snippets in Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jingmengzhiyue/obsidian-code-snippet-manager"
   },
   {
     "id": "readingrate",
@@ -39501,13 +39515,6 @@
     "repo": "daisukemiyazaki/katazuke"
   },
   {
-    "id": "interactive-map",
-    "name": "Interactive Map",
-    "author": "interactive-map",
-    "description": "Embed interactive SVG maps with hover highlight, Ctrl+preview, click navigation, and province-to-city-to-district drill-down. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "user-a100/obsidian-interactive-map"
-  },
-  {
     "id": "heading-handler",
     "name": "Heading Handler",
     "author": "Malte Henriksson",
@@ -39786,5 +39793,19 @@
     "author": "Abdulkader Safi",
     "description": "Resize, crop, rotate, compress and convert images in your vault, powered by ImageMagick. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "abdulkader-safi/obsidian-image-magick-plugins"
+  },
+  {
+    "id": "bitiful-helper",
+    "name": "Bitiful Helper",
+    "author": "viacai",
+    "description": "Manage Bitiful cloud storage with file browsing, upload, image compression, watermark, capacity statistics, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "viacai/bitiful-helper"
+  },
+  {
+    "id": "cipher-link",
+    "name": "CipherLink",
+    "author": "gooderno1",
+    "description": "Create encrypted Markdown notes with visible metadata, native links, and optional gateway storage. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gooderno1/CipherLink"
   }
 ]
