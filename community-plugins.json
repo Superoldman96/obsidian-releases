@@ -33372,7 +33372,7 @@
     "id": "float-on-top",
     "name": "Pin on Top",
     "author": "Joe Utke",
-    "description": "Keep window on top of other windows with adjustable translucency. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Pin Obsidian window above all other application windows. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "joeutke-dev/obsidian-float"
   },
   {
@@ -34771,7 +34771,7 @@
   {
     "id": "inline-properties",
     "name": "Inline Properties",
-    "author": "Zizouet",
+    "author": "fr4nc0i5",
     "description": "Reference note properties as inline variables anywhere in your vault using {{variable}} syntax. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zizouet/obsidian-dynamic-variables"
   },
@@ -36391,6 +36391,13 @@
     "author": "zoupuyo",
     "description": "Browse Daily Notes in week and month calendars with rich Markdown previews in each day cell. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zoupuyo-obsidian/obsidian-daily-preview-calendar"
+  },
+  {
+    "id": "ratel-vault",
+    "name": "Ratel",
+    "author": "golddream-y",
+    "description": "Chat with your vault. Ask questions with cited answers, and auto-research across notes to write summaries. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "golddream-y/obsidian-ratel"
   },
   {
     "id": "readlog",
@@ -39735,7 +39742,7 @@
     "id": "readability-compass",
     "name": "Readability Compass",
     "author": "Max",
-    "description": "Know the reading level of your notes to ensure it fits your readers. See a language-independent score (LIX) and specify your own target. Check scores in the status bar and details in the side panel. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Know the readability of your notes to ensure it fits your readers. See a language-independent score (LIX) and specify your own target. Check scores in the status bar and details in the side panel. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maxonamission/obsidian-readability-compass"
   },
   {
@@ -39744,6 +39751,13 @@
     "author": "HyoYoonNam",
     "description": "Search books through the Aladin open API, generate notes with cover images and metadata, and browse your library in a card gallery view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hyoyoonnam/digital-archive"
+  },
+  {
+    "id": "tome",
+    "name": "Tome",
+    "author": "Mohit",
+    "description": "Search books across Google Books, Open Library and OpenAlex with automatic fallback, cache covers locally, generate customizable note templates, and track reading status/ratings/progress. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tsukki-is-dead/Tome"
   },
   {
     "id": "color-marker",
@@ -39758,5 +39772,12 @@
     "author": "Science Note Taker",
     "description": "Auto-formats chemical formulas, nested fractions, powers, variables, and math symbols instantly as you type. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "katananananna/obsidian-mathify-notes"
+  },
+  {
+    "id": "contextual-vocabulary",
+    "name": "Contextual Vocabulary",
+    "author": "John Surles",
+    "description": "Define a selected word with AI, link it in place, and maintain a navigable dictionary note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "0utsights/obsidian-contextual-vocabulary"
   }
 ]
