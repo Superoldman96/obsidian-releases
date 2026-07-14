@@ -45,13 +45,6 @@
     "modes": ["dark"]
   },
   {
-    "name": "Blue Topaz",
-    "author": "pkm-er",
-    "repo": "pkm-er/Blue-Topaz_Obsidian-css",
-    "screenshot": "preview_Blue Topaz.png",
-    "modes": ["dark", "light"]
-  },
-  {
     "name": "Charcoal",
     "author": "bcdavasconcelos",
     "repo": "bcdavasconcelos/Obsidian-Charcoal",

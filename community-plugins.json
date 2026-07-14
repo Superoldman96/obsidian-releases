@@ -14693,13 +14693,6 @@
     "repo": "kotaindah55/extended-markdown-syntax"
   },
   {
-    "id": "file-ignore",
-    "name": "File Ignore",
-    "author": "feng6611",
-    "description": "Controls file indexing by managing dot prefixes on files/folders to truly hide/exclude them, providing a .gitignore-like experience.",
-    "repo": "feng6611/Obsidian-File-Ignore"
-  },
-  {
     "id": "timecodes",
     "name": "Timecodes",
     "author": "gavvvr",
@@ -20554,7 +20547,7 @@
   {
     "id": "voxtral-transcribe",
     "name": "Voxtral Transcribe",
-    "author": "maxonamission",
+    "author": "Max",
     "description": "Real-time dictation into markdown with voice commands and automatic correction, plus transcription of existing audio files in your vault. EU based with Mistral's latest and excellent Voxtral model - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maxonamission/obsidian-voxtral"
   },
@@ -36400,13 +36393,6 @@
     "repo": "zoupuyo-obsidian/obsidian-daily-preview-calendar"
   },
   {
-    "id": "ratel-vault",
-    "name": "Ratel",
-    "author": "golddream-y",
-    "description": "Chat with your vault. Ask questions with cited answers, and auto-research across notes to write summaries. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "golddream-y/obsidian-ratel"
-  },
-  {
     "id": "readlog",
     "name": "Readlog",
     "author": "mrcnkobu",
@@ -37704,7 +37690,7 @@
   {
     "id": "consensus-research",
     "name": "Parallax",
-    "author": "maxonamission",
+    "author": "Max",
     "description": "Where research thinking takes shape: explore before you search, develop a question through multiple theoretical lenses, weigh OpenAlex & Semantic Scholar evidence, and keep a methodological account. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maxonamission/obsidian-parallax"
   },
@@ -39690,6 +39676,13 @@
     "repo": "notenerdofficial/terminus"
   },
   {
+    "id": "mini-tray",
+    "name": "Mini Tray",
+    "author": "Damon",
+    "description": "Close Obsidian to system tray. ~5 KB, zero config. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wangdamon6-hub/obsidian-mini-tray"
+  },
+  {
     "id": "artinors-kanban",
     "name": "Artin0rs Advanced Kanban",
     "author": "ArtinŌr",
@@ -39702,6 +39695,13 @@
     "author": "栗子仁儿",
     "description": "Preview DXF/DWG CAD drawings directly in Obsidian (based on mlightcad/cad-viewer). Supports both DXF and DWG formats with full rendering. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "liamzy2021/Obsidian-CAD-DWG-DXF-viewer"
+  },
+  {
+    "id": "timemeter",
+    "name": "TimeMeter",
+    "author": "nauppece",
+    "description": "Time tracker that auto-tracks the frontmost app and records it to Markdown (macOS tracking; mobile viewing / manual logging). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nauppece/timemeter"
   },
   {
     "id": "github-pages-share",
@@ -39734,8 +39734,8 @@
   {
     "id": "readability-compass",
     "name": "Readability Compass",
-    "author": "maxonamission",
-    "description": "Know the reading level of your notes to ensure it fits your readers. See a language-independent score (LIX) and specify your own target. Check scores in the status bar and details in the side panel - This plugin has not been manually reviewed by Obsidian staff.",
+    "author": "Max",
+    "description": "Know the reading level of your notes to ensure it fits your readers. See a language-independent score (LIX) and specify your own target. Check scores in the status bar and details in the side panel. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maxonamission/obsidian-readability-compass"
   },
   {
