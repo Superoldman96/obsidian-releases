@@ -33404,13 +33404,6 @@
     "repo": "punkyard/obsidian-lindar"
   },
   {
-    "id": "swift-match",
-    "name": "SwiftMatch",
-    "author": "swiSwift",
-    "description": "Quickly match and mark selected text across your vault with visual highlights - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dlsdgj/Obsidian-SwiftMatch"
-  },
-  {
     "id": "lecture-lens",
     "name": "Lecture Lens",
     "author": "Yima",
@@ -33465,6 +33458,13 @@
     "author": "Michael Makarov",
     "description": "A mini WYSIWYG-style Markdown formatting toolbar. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sandsaber/mdMenu"
+  },
+  {
+    "id": "notedraw",
+    "name": "NoteDraw",
+    "author": "Murat",
+    "description": "Draw and edit directly on Obsidian notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arias007/notedraw"
   },
   {
     "id": "letterhead",
@@ -39529,13 +39529,6 @@
     "repo": "johannes-kaindl/yijing-oracle"
   },
   {
-    "id": "agent-mcp",
-    "name": "Agent MCP",
-    "author": "Robert Spaans",
-    "description": "Run coding agents (Claude Code, Codex, Ollama) inside Obsidian. Ships a built-in terminal and exposes the active selection and open editors over MCP. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "rospaans/obsidian-agent-mcp"
-  },
-  {
     "id": "carbon-voice-sync",
     "name": "Carbon Voice Sync",
     "author": "Travis Bogard",
@@ -39711,10 +39704,24 @@
     "repo": "joeyliu6/picnexus-obsidian"
   },
   {
+    "id": "bioread",
+    "name": "BioRead",
+    "author": "ADHDTools",
+    "description": "ADHD accessibility plugin that applies Bionic Reading formatting to notes in Preview/Reading mode on the fly. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "5ha99y0/obsidian-bionic-reader"
+  },
+  {
     "id": "custom-emojis",
     "name": "Discord-style Custom Emojis",
     "author": "akskokki",
     "description": "Type :shortcode: to render your own custom emoji image anywhere, just like chatting in Discord/Slack. The underlying note stays as plain text. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "akskokki/obsidian-custom-emojis"
+  },
+  {
+    "id": "digital-archive",
+    "name": "Digital Archive",
+    "author": "HyoYoonNam",
+    "description": "Search books through the Aladin open API, generate notes with cover images and metadata, and browse your library in a card gallery view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hyoyoonnam/digital-archive"
   }
 ]
