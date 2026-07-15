@@ -28987,6 +28987,13 @@
     "repo": "goryugocast/atomic-insights"
   },
   {
+    "id": "excavelo",
+    "name": "ExcaVelo",
+    "author": "bibleCode21",
+    "description": "Transform raw memos into structured notes (meeting minutes, 1:1s, daily) using Claude. Works with Claude Code subscription or Anthropic API key. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "biblecode21/excavelo"
+  },
+  {
     "id": "formula-forge",
     "name": "Formula Forge",
     "author": "unxok",
@@ -36417,7 +36424,7 @@
     "id": "ratel-vault",
     "name": "Ratel",
     "author": "golddream-y",
-    "description": "Chat with your vault. Ask questions with cited answers, and auto-research across notes to write summaries. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "AI assistant for your notes—chat with your vault, semantic search with citations, multi-step research and safe edits. Works with DeepSeek, Claude, and Ollama. Local embeddings, no telemetry. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "golddream-y/obsidian-ratel"
   },
   {
@@ -39823,6 +39830,13 @@
     "repo": "ruisloan/obsidian-color-marker"
   },
   {
+    "id": "mathify-notes",
+    "name": "Mathify Notes",
+    "author": "katananananna",
+    "description": "Auto-formats chemical formulas, nested fractions, powers, variables, and math symbols instantly as you type. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "katananananna/obsidian-mathify-notes"
+  },
+  {
     "id": "contextual-vocabulary",
     "name": "Contextual Vocabulary",
     "author": "John Surles",
@@ -39907,6 +39921,13 @@
     "repo": "leethobbit/obsidian-strong-start-plugin"
   },
   {
+    "id": "uru",
+    "name": "Uru",
+    "author": "Arsenije Catic",
+    "description": "Find notes by meaning and ask questions about what you wrote. Fully local AI, nothing leaves your machine. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arsenije/Uru"
+  },
+  {
     "id": "meeting-tools",
     "name": "Meeting Tools",
     "author": "extzzy",
@@ -39933,6 +39954,13 @@
     "author": "notenerd",
     "description": "Ask a research question about your vault and get an answer with grounded, claim-grouped citations -- no external account, uses your local claude CLI. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "notenerdofficial/cited"
+  },
+  {
+    "id": "multistate-checkboxes",
+    "name": "Multistate Checkboxes",
+    "author": "evgene-kopylov",
+    "description": "Theme-independent extended checkbox states with custom SVG icons - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "evgene-kopylov/obsidian-multistate-checkboxes"
   },
   {
     "id": "weekly-meal-shopper",
@@ -39978,10 +40006,17 @@
   },
   {
     "id": "qvac-local-ai",
-    "name": "QVAC",
+    "name": "Local AI for your vault",
     "author": "QVAC",
     "description": "Chat with your vault, fully local. Semantic search and cited answers via a local QVAC companion. Nothing leaves your machine. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "thomasblc/obsidian-qvac"
+  },
+  {
+    "id": "constellations",
+    "name": "Constellations",
+    "author": "NikShukrem",
+    "description": "A 3D star map alternative to Graph View: notes are stars, shared tags form constellations, top-level folders form universes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nikshukrem/obsidian-constellations"
   },
   {
     "id": "nuance-excalidraw-pen-sound",
@@ -39989,5 +40024,12 @@
     "author": "Nuance",
     "description": "Satisfying paper writing sounds for digital handwriting on Excalidraw canvases. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "theanh97/nuance-excalidraw-pen-sound"
+  },
+  {
+    "id": "opal-companion",
+    "name": "Opal Companion",
+    "author": "Cyrius",
+    "description": "Companion for the Opal theme: a visual picker for per-note page states, accent recolour, layout, callouts, coloured highlights, task states and image layouts — preview each before you apply it. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cyriusweng/opal-companion"
   }
 ]
