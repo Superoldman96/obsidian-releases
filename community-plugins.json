@@ -20132,6 +20132,13 @@
     "repo": "juracyamerico/obsidian-teleprompter-plus"
   },
   {
+    "id": "journalit",
+    "name": "Journalit",
+    "author": "Cursive",
+    "description": "Trading journal with templates, trade tracking, imports, and reviews. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cursivez/journalit"
+  },
+  {
     "id": "direct-git-sync",
     "name": "Direct Git Sync",
     "author": "swekizer",
@@ -39917,7 +39924,7 @@
     "id": "writing-assistant-chat",
     "name": "Writing Assistant Chat",
     "author": "Resolve-public",
-    "description": "AI writing assistant with unified chat, planning, and ambient editing. Connects to local or cloud providers. Features vault-wide RAG retrieval, knowledge graph, agentic tool use, note context, and reusable prompt commands. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "AI writing assistant with unified chat, planning, and ambient editing. Connects to local or cloud providers. Features vault-wide RAG retrieval, knowledge graph, agentic tool use. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "resolve-public/writing-assistant-chat"
   },
   {
@@ -40101,5 +40108,19 @@
     "author": "Jiangnan Ye",
     "description": "Replace pasted paper URLs (arXiv, OpenReview, ACL Anthology, …) with [Title (Venue Year)](url) links. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jiangnan0522/paper-link"
+  },
+  {
+    "id": "second-brain-builder",
+    "name": "Second Brain Builder",
+    "author": "algometrix",
+    "description": "Grow your vault into a linked knowledge graph: select any word or phrase to generate detailed, wiki-linked explanation notes using Claude Code, Gemini, Codex, or a local Ollama model. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "algometrix/second_brain_builder"
+  },
+  {
+    "id": "note-diary",
+    "name": "Note Diary",
+    "author": "yaye.work",
+    "description": "Browse your notes on a calendar. Every note appears on the day you created it, like a Daily Note setup but automatic. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yaye-work/note-diary"
   }
 ]
