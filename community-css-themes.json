@@ -4390,5 +4390,12 @@
     "repo": "giselle-tr/Oat-Latte-Theme-Obsidian",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Esther Inspired",
+    "author": "lisitan",
+    "repo": "lisitan/esther-obsidian-typora-themes",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]

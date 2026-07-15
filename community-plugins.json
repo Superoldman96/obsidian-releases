@@ -31738,13 +31738,6 @@
     "repo": "krental/obsidian-auto-card-link"
   },
   {
-    "id": "drawio-editor",
-    "name": "Drawio",
-    "author": "doge-liang",
-    "description": "Embed, preview, and edit draw.io diagrams directly in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "doge-liang/obsidian-drawio"
-  },
-  {
     "id": "jot",
     "name": "Jot",
     "author": "Ben Verbeken",
@@ -38549,6 +38542,13 @@
     "repo": "vladb-evs/obsidian-explorer-sort"
   },
   {
+    "id": "code-runner",
+    "name": "Code Runner",
+    "author": "chujiu-dev",
+    "description": "Interactively run code blocks in Obsidian with stdin input support,works on desktop, iOS & Android.. Supports Python, C, C++, Java, Go, JavaScript, TypeScript, Rust, Kotlin and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chujiu-dev/obsidian-code-runner"
+  },
+  {
     "id": "pm-compass",
     "name": "PM Compass",
     "author": "Laurent Ferier",
@@ -39879,6 +39879,13 @@
     "repo": "izz4n/obsidian-calendar-clock-plugin"
   },
   {
+    "id": "coo",
+    "name": "coo",
+    "author": "Wenyi",
+    "description": "Discuss, translate, and rewrite your notes with AI — grounded in the paragraph you are editing.  Answers become foldable callouts and follow-up questions chain. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jwy600/obsidian-coo"
+  },
+  {
     "id": "writing-assistant-chat",
     "name": "Writing Assistant Chat",
     "author": "Resolve-public",
@@ -39912,5 +39919,12 @@
     "author": "notenerd",
     "description": "Ask a research question about your vault and get an answer with grounded, claim-grouped citations -- no external account, uses your local claude CLI. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "notenerdofficial/cited"
+  },
+  {
+    "id": "weekly-meal-shopper",
+    "name": "Weekly Meal Shopper",
+    "author": "Antoine + Codex",
+    "description": "Standardize recipe notes, parse ingredient amounts, and generate weekly shopping lists from a meal-plan canvas. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arangutambo/weekly-meal-shopper"
   }
 ]
