@@ -13344,7 +13344,7 @@
   {
     "id": "mdfriday",
     "name": "Friday",
-    "author": "mdfriday",
+    "author": "sunwei",
     "description": "Notes to Website. Friday helps you turn Markdown documents into websites in minutes.",
     "repo": "mdfriday/obsidian-friday-plugin"
   },
@@ -19336,7 +19336,7 @@
   {
     "id": "consolidate-to-pdf",
     "name": "Consolidate to PDF",
-    "author": "ohm-engineering",
+    "author": "OHM Engineering",
     "description": "Consolidates and exports the entire vault into one PDF. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ohm-engineering/Obsidian-Consolidate-To-PDF"
   },
@@ -25363,7 +25363,7 @@
   {
     "id": "image-gin",
     "name": "Image Gin",
-    "author": "lossless-group",
+    "author": "The Lossless Group",
     "description": "Generate AI images, search stock images, and upload to ImageKit CDN. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lossless-group/image-gin"
   },
@@ -25405,7 +25405,7 @@
   {
     "id": "perplexed",
     "name": "Perplexed",
-    "author": "lossless-group",
+    "author": "The Lossless Group",
     "description": "Generate source-cited research content from Perplexity, Anthropic Claude, Perplexica, or local LM Studio — directly into your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lossless-group/perplexed-plugin"
   },
@@ -26021,7 +26021,7 @@
   {
     "id": "myworld-task-manager",
     "name": "MyWorld Task Manager",
-    "author": "kjh-portfolio",
+    "author": "KJH",
     "description": "Integrated task and project management for MyWorld workspace. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kjh-portfolio/202604-obsidian-task-manager"
   },
@@ -26035,7 +26035,7 @@
   {
     "id": "gryphon",
     "name": "Gryphon",
-    "author": "polleoai",
+    "author": "POLLEO.AI",
     "description": "Bring AI to your vault — with guardrails at runtime. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "polleoai/gryphon"
   },
@@ -26084,7 +26084,7 @@
   {
     "id": "git-file-sync",
     "name": "Git File Sync",
-    "author": "firstsun-dev",
+    "author": "ClaudiaFang",
     "description": "Selectively sync individual notes with GitLab or GitHub. Push, pull, diff, and resolve conflicts — file by file, on mobile and desktop. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "firstsun-dev/git-files-sync"
   },
@@ -38974,6 +38974,13 @@
     "author": "blackflag0623",
     "description": "Add Markdown comments to selected text in Reading view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "blackflag0623/obsidian-lemon-comments"
+  },
+  {
+    "id": "cursor-smith",
+    "name": "Cursor-Smith",
+    "author": "sadsnake1",
+    "description": "Forge your cursor with the most advanced cursor engine there is! - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sadsnake1/cursor-smith"
   },
   {
     "id": "workspace-plus-group",
