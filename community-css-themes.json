@@ -4404,5 +4404,19 @@
     "repo": "law-of-cycles/claude-paper-obsidian",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Opal",
+    "author": "Cyrius",
+    "repo": "cyriusweng/opal-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Electrocution",
+    "author": "Ashly Lorenzana",
+    "repo": "monapdx/Electrocution",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
