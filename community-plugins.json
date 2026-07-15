@@ -1302,13 +1302,6 @@
     "repo": "vanadium23/obsidian-advanced-new-file"
   },
   {
-    "id": "obsidian-pluck",
-    "name": "Pluck",
-    "author": "kevboh",
-    "description": "Quickly create notes from web pages.",
-    "repo": "kevboh/obsidian-pluck"
-  },
-  {
     "id": "quickadd",
     "name": "QuickAdd",
     "author": "chhoumann",
@@ -20988,7 +20981,7 @@
   {
     "id": "local-llm-hub",
     "name": "Local LLM Hub",
-    "author": "takeshy",
+    "author": "TAKESHI MORITA",
     "description": "Chat with local LLMs (Ollama, LM Studio) with local embeddings RAG, file encryption, edit history, slash commands, and workflow automation. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "takeshy/obsidian-local-llm-hub"
   },
@@ -23767,7 +23760,7 @@
   {
     "id": "gemini-helper",
     "name": "Gemini Helper",
-    "author": "takeshy",
+    "author": "TAKESHI MORITA",
     "description": "AI chat, workflow automation, semantic search (RAG), LLM Wiki (OKF), and dashboards with reading memos powered by Google Gemini. Works on both desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "takeshy/obsidian-gemini-helper"
   },
@@ -23830,7 +23823,7 @@
   {
     "id": "wysimark-editor",
     "name": "Wysimark Editor",
-    "author": "takeshy",
+    "author": "TAKESHI MORITA",
     "description": "A modern WYSIWYG Markdown editor. Edit your notes with a rich text interface while keeping pure Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "takeshy/obsidian-wysimark"
   },
@@ -39847,7 +39840,7 @@
     "id": "mathify-notes",
     "name": "Mathify Notes",
     "author": "katananananna",
-    "description": "Auto-formats chemical formulas, nested fractions, powers, variables, and math symbols instantly as you type. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": " - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "katananananna/obsidian-mathify-notes"
   },
   {
@@ -39970,6 +39963,13 @@
     "repo": "notenerdofficial/cited"
   },
   {
+    "id": "linkwise",
+    "name": "Linkwise",
+    "author": "Dheeraj",
+    "description": "Sync your Linkwise links, highlights and collections into your vault as Markdown notes. One-way, incremental, local-first. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "linkwiseapp/obsidian-linkwise"
+  },
+  {
     "id": "multistate-checkboxes",
     "name": "Multistate Checkboxes",
     "author": "evgene-kopylov",
@@ -40026,6 +40026,13 @@
     "repo": "thomasblc/obsidian-qvac"
   },
   {
+    "id": "ledgr",
+    "name": "Ledgr",
+    "author": "jcig789",
+    "description": "Multi-currency personal finance for Obsidian. Track spending, budgets, net worth, and international transfers — all in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jcig789/ledgr"
+  },
+  {
     "id": "constellations",
     "name": "Constellations",
     "author": "NikShukrem",
@@ -40052,5 +40059,19 @@
     "author": "Cyrius",
     "description": "Companion for the Opal theme: a visual picker for per-note page states, accent recolour, layout, callouts, coloured highlights, task states and image layouts — preview each before you apply it. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cyriusweng/opal-companion"
+  },
+  {
+    "id": "simple-calendar",
+    "name": "Simple Calendar",
+    "author": "newcodejin",
+    "description": "A simple calendar that shows a dot on days that have a daily note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "newcodejin/simple-calendar"
+  },
+  {
+    "id": "no-more-untitled",
+    "name": "No More Untitled",
+    "author": "woodamsclark",
+    "description": "Review, rename, or delete accumulated Untitled notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "woodamsclark/no-more-untitled"
   }
 ]
