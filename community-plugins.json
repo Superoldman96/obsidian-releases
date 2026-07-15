@@ -7366,7 +7366,7 @@
   {
     "id": "excel",
     "name": "Excel",
-    "author": "ljcoder2015",
+    "author": "ljcoder",
     "description": "Create spreadsheets and easily embed them in Markdown.",
     "repo": "ljcoder2015/obsidian-excel"
   },
@@ -11359,6 +11359,13 @@
     "author": "quorafind",
     "description": "Search text in canvas.",
     "repo": "quorafind/Obsidian-Search-In-Canvas"
+  },
+  {
+    "id": "sheet-plus",
+    "name": "Sheet Plus",
+    "author": "ljcoder",
+    "description": "Create Excel-like spreadsheets and easily embed them in Markdown.",
+    "repo": "ljcoder2015/obsidian-sheet-plus"
   },
   {
     "id": "asciidoc-reader",
@@ -38542,13 +38549,6 @@
     "repo": "vladb-evs/obsidian-explorer-sort"
   },
   {
-    "id": "code-runner",
-    "name": "Code Runner",
-    "author": "chujiu-dev",
-    "description": "Interactively run code blocks in Obsidian with stdin input support. Supports Python, C, C++, Java, Go, JavaScript, TypeScript, Rust, Kotlin and more. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "chujiu-dev/obsidian-code-runner"
-  },
-  {
     "id": "pm-compass",
     "name": "PM Compass",
     "author": "Laurent Ferier",
@@ -39725,6 +39725,13 @@
     "repo": "wangdamon6-hub/obsidian-mini-tray"
   },
   {
+    "id": "lexibridge",
+    "name": "LexiBridge",
+    "author": "Ongiei",
+    "description": "Local-first dictionary toolkit with offline definitions, online enrichment, and wordbook sync. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ongiei/obsidian-lexibridge"
+  },
+  {
     "id": "artinors-kanban",
     "name": "Artin0rs Advanced Kanban",
     "author": "ArtinŌr",
@@ -39800,6 +39807,13 @@
     "author": "Central Brain Trust",
     "description": "Mark folders and notes with color labels from the right-click menu — 12 calendar-style colors you can add or remove anytime. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ruisloan/obsidian-color-marker"
+  },
+  {
+    "id": "mathify-notes",
+    "name": "Mathify Notes",
+    "author": "katananananna",
+    "description": "Auto-formats chemical formulas, nested fractions, powers, variables, and math symbols instantly as you type. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "katananananna/obsidian-mathify-notes"
   },
   {
     "id": "contextual-vocabulary",
