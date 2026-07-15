@@ -20394,7 +20394,7 @@
     "id": "vault-coach",
     "name": "Vault Coach",
     "author": "wanjin5508",
-    "description": "Local knowledge Q&A and interview practice from your vault using Ollama. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Local-first Q&A and exam practice across Markdown notes and PDFs, with cited answers, AI scoring, saved records, and Ollama or OpenAI-compatible models. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wanjin5508/vault-coach"
   },
   {
@@ -39095,6 +39095,13 @@
     "repo": "notenerdofficial/web-embed"
   },
   {
+    "id": "canvas-branch-chat",
+    "name": "Canvas Branch Chat",
+    "author": "p4nt1um",
+    "description": "Flowith-style branching AI conversations on Obsidian Canvas. Fork, explore, and map your thinking. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "p4nt1um/canvas-branch-chat"
+  },
+  {
     "id": "icon-picker",
     "name": "Icon picker",
     "author": "rocketBANG",
@@ -39690,6 +39697,13 @@
     "repo": "eason38467/Obsidian-Knowledge-Atlas"
   },
   {
+    "id": "tree-graph-view",
+    "name": "Tree",
+    "author": "studiogamma",
+    "description": "Visualize your notes as a forest of tree graph (dendrogram). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "studiogamma/tree-graph-view"
+  },
+  {
     "id": "native-pdf-handwriting",
     "name": "Handwriting Natively",
     "author": "Marwan Luay",
@@ -39972,7 +39986,7 @@
   {
     "id": "zj-html-studio",
     "name": "ZJ HTML Studio",
-    "author": "aidenxu",
+    "author": "兆基",
     "description": "Preview, search, inspect, and embed local HTML files with scoped resources, live reload, zoom, and full screen. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "aidenxu-1/zj-html-studio"
   },
@@ -40024,6 +40038,13 @@
     "author": "Nuance",
     "description": "Satisfying paper writing sounds for digital handwriting on Excalidraw canvases. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "theanh97/nuance-excalidraw-pen-sound"
+  },
+  {
+    "id": "memo-lite",
+    "name": "Memo Lite",
+    "author": "artemislin",
+    "description": "Capture fleeting notes and ideas quickly. Organize memos with tags, review them with an activity heatmap, search instantly, and share them as image cards. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "artemislin/memo-lite"
   },
   {
     "id": "opal-companion",
