@@ -18095,6 +18095,13 @@
     "repo": "aliceinwaterdeep/obsidian-hardcover"
   },
   {
+    "id": "blueprint",
+    "name": "Blueprint",
+    "author": "François Vaux",
+    "description": "Write once, update everywhere - note templates that pull from Properties.",
+    "repo": "madx/blueprint-obsidian-plugin"
+  },
+  {
     "id": "decks",
     "name": "Decks",
     "author": "dscherdi",
@@ -31738,6 +31745,13 @@
     "repo": "krental/obsidian-auto-card-link"
   },
   {
+    "id": "drawio-editor",
+    "name": "Drawio",
+    "author": "doge-liang",
+    "description": "Embed, preview, and edit draw.io diagrams directly in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "doge-liang/obsidian-drawio"
+  },
+  {
     "id": "jot",
     "name": "Jot",
     "author": "Ben Verbeken",
@@ -32828,6 +32842,13 @@
     "author": "wenjunzhu",
     "description": "Import Outlook PST email archives as Markdown files with metadata, attachments, and Obsidian wikilinks. Supports PST files of any size (including >2GB Unicode PST) via pure JavaScript. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wenciara/obsidian-pst-importer"
+  },
+  {
+    "id": "native-powerpoint-doc-editor",
+    "name": "Native PowerPoint Doc Editor",
+    "author": "Marwan Luay",
+    "description": "Open, view, and edit DOCX and PPTX files directly in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "marsluay/NativePowerPointDocEditor"
   },
   {
     "id": "insider",
@@ -38325,6 +38346,13 @@
     "repo": "kebl3541/Obsidian-PDF-Highlight-Notes"
   },
   {
+    "id": "tasktodo",
+    "name": "TaskTodo",
+    "author": "SunnyYYLin",
+    "description": "A planning and today dashboard for TaskLite Core. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sunnyyylin/obsidian-tasktodo"
+  },
+  {
     "id": "title-case-converter",
     "name": "Title Case Converter",
     "author": "Max S. Rodenkirchen",
@@ -39900,6 +39928,13 @@
     "repo": "leethobbit/obsidian-strong-start-plugin"
   },
   {
+    "id": "meeting-tools",
+    "name": "Meeting Tools",
+    "author": "extzzy",
+    "description": "Native meeting notes, quick journals, and an editable task dashboard without external services. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "extzzy/Meeting-Tools"
+  },
+  {
     "id": "journal-utils",
     "name": "Journal Utils",
     "author": "sagersmith8",
@@ -39923,8 +39958,22 @@
   {
     "id": "weekly-meal-shopper",
     "name": "Weekly Meal Shopper",
-    "author": "Antoine + Codex",
+    "author": "Antoine",
     "description": "Standardize recipe notes, parse ingredient amounts, and generate weekly shopping lists from a meal-plan canvas. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "arangutambo/weekly-meal-shopper"
+  },
+  {
+    "id": "time-recorder",
+    "name": "Time Recorder",
+    "author": "Louie",
+    "description": "Track time with two-click punch-in. Daily summary and timeline back-fill, all stored as Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "louie-vibecoding/time-recorder"
+  },
+  {
+    "id": "finance-tracker",
+    "name": "Finance Tracker",
+    "author": "Antoine",
+    "description": "Log spending as tags in your daily notes, then turn them into pace-aware budget, holiday, and savings dashboards. Capture via Apple Shortcuts or a quick-add modal. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arangutambo/finance-tracker"
   }
 ]
