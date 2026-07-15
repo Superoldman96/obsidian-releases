@@ -17717,6 +17717,13 @@
     "repo": "moshiqaq/obsidian-lark-countdown-plugin"
   },
   {
+    "id": "hydrate",
+    "name": "Hydrate",
+    "author": "hydrateagent",
+    "description": "Cursor-like note agent with MCP support.",
+    "repo": "hydrateagent/hydrate"
+  },
+  {
     "id": "dangerous-mode",
     "name": "Dangerous Mode",
     "author": "vanshkumar",
@@ -39637,7 +39644,7 @@
     "id": "skill-harness-manager",
     "name": "Skill and Harness Manager",
     "author": "Joe Utke",
-    "description": "Launch skills stored in your vault with dedicated ribbon buttons and the contextual right click menu. Register harnesses and agents, assign them to your skills and connect to their active sessions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "MacOS only - Launch skills stored in your vault with ribbon buttons and contextual right click menu. Register harnesses and agents, assign them to your skills and connect to their active sessions. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "joeutke-dev/skill-harness-manager"
   },
   {
@@ -39793,13 +39800,6 @@
     "author": "Central Brain Trust",
     "description": "Mark folders and notes with color labels from the right-click menu — 12 calendar-style colors you can add or remove anytime. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ruisloan/obsidian-color-marker"
-  },
-  {
-    "id": "mathify-notes",
-    "name": "Mathify Notes",
-    "author": "Science Note Taker",
-    "description": "Auto-formats chemical formulas, nested fractions, powers, variables, and math symbols instantly as you type. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "katananananna/obsidian-mathify-notes"
   },
   {
     "id": "contextual-vocabulary",
