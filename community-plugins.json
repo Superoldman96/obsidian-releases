@@ -816,7 +816,7 @@
     "name": "Dice Roller",
     "author": "obsidian-ttrpg-community",
     "description": "Add a little randomness to your notes!",
-    "repo": "Obsidian-TTRPG-Community/dice-roller"
+    "repo": "obsidian-ttrpg-community/dice-roller"
   },
   {
     "id": "unique-attachments",
@@ -1131,7 +1131,7 @@
     "name": "Fantasy Statblocks",
     "author": "obsidian-ttrpg-community",
     "description": "Create, manage and view a Fantasy Bestiary with Dungeons and Dragons style statblocks.",
-    "repo": "Obsidian-TTRPG-Community/fantasy-statblocks"
+    "repo": "obsidian-ttrpg-community/fantasy-statblocks"
   },
   {
     "id": "obsidian-collapse-all-plugin",
@@ -1376,7 +1376,7 @@
     "name": "Initiative Tracker",
     "author": "obsidian-ttrpg-community",
     "description": "TTRPG initiative tracker.",
-    "repo": "Obsidian-TTRPG-Community/initiative-tracker"
+    "repo": "obsidian-ttrpg-community/initiative-tracker"
   },
   {
     "id": "copy-url-in-preview",
@@ -4162,7 +4162,7 @@
     "name": "Chorded Hotkeys",
     "author": "treymeyers",
     "description": "Type multiple letters at the same time to trigger text insertion, template insertion, or command execution.",
-    "repo": "TreyMeyers/obsidian-chorded-hotkeys"
+    "repo": "treymeyers/obsidian-chorded-hotkeys"
   },
   {
     "id": "obsidian-dirtreeist",
@@ -12262,13 +12262,6 @@
     "author": "Moritz Jung",
     "description": "A blazingly fast fuzzy finder with file preview.",
     "repo": "mprojectscode/obsidian-lemons-search-plugin"
-  },
-  {
-    "id": "find-orphaned-images",
-    "name": "Find Orphaned Images",
-    "author": "josmarcristello",
-    "description": "Finds images in the vault that are not linked to any notes. Either lists, or deletes them.",
-    "repo": "josmarcristello/Obsidian-Find-Orphaned-Images"
   },
   {
     "id": "mermaid-popup",
@@ -24108,6 +24101,13 @@
     "repo": "ebullient/obsidian-prompt-flow"
   },
   {
+    "id": "fast-note-sync",
+    "name": "Fast Note Sync",
+    "author": "HaierKeys",
+    "description": "Real-time sync of your vaults across server, mobile, and web; shareable with anyone; supports REST and MCP integrations to build your personal AI knowledge base. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "haierkeys/obsidian-fast-note-sync"
+  },
+  {
     "id": "ontask",
     "name": "OnTask",
     "author": "bfloydd",
@@ -26490,7 +26490,7 @@
   {
     "id": "simple-storage-sync-and-backup",
     "name": "S3 Sync + Backup",
-    "author": "ceilaolabs",
+    "author": "Sathindu",
     "description": "Vault synchronization and scheduled backups across devices using S3-compatible storage (AWS S3, Cloudflare R2, RustFS, etc.) with optional end-to-end encryption. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ceilaolabs/obsidian-s3-sync-and-backup"
   },
@@ -27925,14 +27925,14 @@
   {
     "id": "relations",
     "name": "Relations",
-    "author": "obsidian-ttrpg-community",
+    "author": "Obsidian TTRPG Community",
     "description": "Visualise relationships between notes — for worldbuilding, fiction, TTRPG campaigns, genealogies, or any project where seeing how things connect matters. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "obsidian-ttrpg-community/Relations"
   },
   {
     "id": "granite",
     "name": "Granite",
-    "author": "obsidian-ttrpg-community",
+    "author": "Obsidian TTRPG Community",
     "description": "A Goal Reinforcing And Note Improving Tiny Entity - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "obsidian-ttrpg-community/Granite"
   },
@@ -28058,7 +28058,7 @@
   {
     "id": "cite-wide",
     "name": "Cite Wide",
-    "author": "lossless-group",
+    "author": "The Lossless Group",
     "description": "A plugin for Obsidian that enables rigorous citation and reference management. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lossless-group/cite-wide"
   },
@@ -28093,7 +28093,7 @@
   {
     "id": "metafetch",
     "name": "Metafetch",
-    "author": "lossless-group",
+    "author": "The Lossless Group",
     "description": "Pull OpenGraph metadata from any URL into note frontmatter — title, image, description, publisher — via OpenGraph.io or Microlink. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lossless-group/metafetch"
   },
@@ -28191,7 +28191,7 @@
   {
     "id": "athena",
     "name": "Athena",
-    "author": "polleoai",
+    "author": "POLLEO.AI",
     "description": "Your Second Brain — chat with the LLM of your choice (Claude, GPT, Gemini, or local CLI), ingest URLs, manage knowledge, run projects. Powered by Gryphon. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "polleoai/athena"
   },
@@ -28597,7 +28597,7 @@
   {
     "id": "randomness",
     "name": "Randomness",
-    "author": "obsidian-ttrpg-community",
+    "author": "Obsidian TTRPG Community",
     "description": "Random generator engine. Render `randomness` codeblocks inline with rich text output, plus support for legacy Inspiration Pad Pro 3 .ipt files. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "obsidian-ttrpg-community/Randomness"
   },
@@ -29094,7 +29094,7 @@
   {
     "id": "webhooks-server",
     "name": "Webhooks Server",
-    "author": "khabaroff-studio",
+    "author": "khabaroff",
     "description": "Receive webhooks from external services and create notes in your vault via a self-hosted server with real-time delivery. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "khabaroff-studio/obsidian-webhooks-server"
   },
@@ -30067,7 +30067,7 @@
   {
     "id": "town-forge",
     "name": "Town Forge",
-    "author": "obsidian-ttrpg-community",
+    "author": "Obsidian TTRPG Community",
     "description": "Procedurally generate fantasy landscape and settlement maps for tabletop RPGs, with a live preview panel and optional pinned-map export. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "obsidian-ttrpg-community/Town-Forge"
   },
@@ -30424,7 +30424,7 @@
   {
     "id": "csharp-snippet-runner",
     "name": "CSharp Snippet Runner",
-    "author": "ohm-engineering",
+    "author": "OHM Engineering",
     "description": "Run C# code blocks in Obsidian using an auto-installed CSharpRepl runtime. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ohm-engineering/obsidian-csharp-interactive"
   },
@@ -30578,7 +30578,7 @@
   {
     "id": "heraldry-weaver",
     "name": "Heraldry Weaver",
-    "author": "obsidian-ttrpg-community",
+    "author": "Obsidian TTRPG Community",
     "description": "Procedural and custom heraldry for worldbuilders and TTRPGs. Generate, save, and embed coats of arms in codeblocks or inline in tables. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "obsidian-ttrpg-community/heraldry-weaver"
   },
@@ -31518,7 +31518,7 @@
     "name": "Auto Move On Property",
     "author": "Soul",
     "description": "Automatically moves notes from root to folders based on a YAML property. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "SoulBits-Vibe/Obsidian-Auto-Move-On-Property"
+    "repo": "soulbits-vibe/Obsidian-Auto-Move-On-Property"
   },
   {
     "id": "douyin-capture",
@@ -32797,7 +32797,7 @@
   {
     "id": "player-facing-notes",
     "name": "Player Facing Notes",
-    "author": "obsidian-ttrpg-community",
+    "author": "Obsidian TTRPG Community",
     "description": "Selectively publish parts of your notes. Flag blocks as public, then sync them into publish-ready copies, keeping secrets, drafts, and private content out of your published site. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "obsidian-ttrpg-community/player-facing-notes"
   },
@@ -34162,7 +34162,7 @@
   {
     "id": "watermark-bucket-uploader",
     "name": "Watermark Bucket Uploader",
-    "author": "firstsun-dev",
+    "author": "ClaudiaFang",
     "description": "Upload images to any S3-compatible storage. Features: WebP conversion, image compression, text & logo watermark with live preview. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "firstsun-dev/watermark-bucket-uploader"
   },
@@ -35590,7 +35590,7 @@
   {
     "id": "components-lib-downloader",
     "name": "Components Library Downloader",
-    "author": "raven-pensieve",
+    "author": "ravenhogwarts",
     "description": "Downloads and manages components libraries files. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "raven-pensieve/obsidian-components-lib-downloader"
   },
@@ -36997,7 +36997,7 @@
   {
     "id": "sidebar-resource-saver",
     "name": "Sidebar Resource Saver",
-    "author": "kjh-portfolio",
+    "author": "KJH",
     "description": "Automatically suspends unused webviews and iframes in collapsed sidebars to drastically save RAM and CPU usage. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kjh-portfolio/202606-sidebar-resource-saver"
   },
@@ -37557,7 +37557,7 @@
   {
     "id": "mdfriday-sync",
     "name": "MDFriday Sync",
-    "author": "mdfriday",
+    "author": "sunwei",
     "description": "Sync your Obsidian vault across devices using CouchDB — with end-to-end encryption, selective sync, and live sync. Desktop & Mobile. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mdfriday/obsidian-sync"
   },
@@ -38976,13 +38976,6 @@
     "repo": "blackflag0623/obsidian-lemon-comments"
   },
   {
-    "id": "cursor-smith",
-    "name": "Cursor-Smith",
-    "author": "sadsnake1",
-    "description": "Forge your cursor with the most advanced cursor engine there is! - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sadsnake1/cursor-smith"
-  },
-  {
     "id": "workspace-plus-group",
     "name": "WorkSpace Plus Group",
     "author": "cnwenzhihong",
@@ -39359,13 +39352,6 @@
     "author": "kieran",
     "description": "Process long-form reading into scheduled topics, extracts, and Spaced Repetition flashcards. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kja140/incremental-reading"
-  },
-  {
-    "id": "nudge",
-    "name": "Nudge",
-    "author": "Peter",
-    "description": "Manage tasks in a single plain-text todo.txt file, with lists, due dates, priorities, and recurrence. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "2easy/nudge"
   },
   {
     "id": "ai-article",
@@ -40082,11 +40068,25 @@
     "repo": "johannes-kaindl/neurovim-obsidian"
   },
   {
+    "id": "markdown-columns",
+    "name": "Markdown Columns",
+    "author": "Czeglédy Péter",
+    "description": "Create responsive Markdown columns using a simple syntax. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "peterczegledy/Obsidian-markdown-columns"
+  },
+  {
     "id": "simple-calendar",
     "name": "Simple Calendar",
     "author": "newcodejin",
     "description": "A simple calendar that shows a dot on days that have a daily note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "newcodejin/simple-calendar"
+  },
+  {
+    "id": "easy-sync",
+    "name": "EasySync",
+    "author": "Jiao Yingxing",
+    "description": "Two-way OneDrive sync for Obsidian, with conflict safeguards, mobile support, and optional settings/plugin sync. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jiaoyingxing/easy-sync"
   },
   {
     "id": "no-more-untitled",
