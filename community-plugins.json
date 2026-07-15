@@ -10005,7 +10005,7 @@
   {
     "id": "semantic-canvas",
     "name": "Semantic Canvas",
-    "author": "aarongilly",
+    "author": "Aaron Gillespie",
     "description": "Create semantic knowledge graphs using Canvases to modify note properties graphically.",
     "repo": "aarongilly/obsidian-semantic-canvas-plugin"
   },
@@ -23606,7 +23606,7 @@
   {
     "id": "auto-properties",
     "name": "Auto-Properties",
-    "author": "aarongilly",
+    "author": "Aaron Gillespie",
     "description": "Create automated properties based on note content and rules. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "aarongilly/obsidian-auto-properties"
   },
@@ -28344,7 +28344,7 @@
   },
   {
     "id": "fit-pdf",
-    "name": "Fit PDF",
+    "name": "Fix PDF",
     "author": "Tomas Gutierrez",
     "description": "Open PDFs using fit height by default instead of fit width - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "t0masgutierrez/fit-pdf"
@@ -32828,6 +32828,13 @@
     "author": "wenjunzhu",
     "description": "Import Outlook PST email archives as Markdown files with metadata, attachments, and Obsidian wikilinks. Supports PST files of any size (including >2GB Unicode PST) via pure JavaScript. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wenciara/obsidian-pst-importer"
+  },
+  {
+    "id": "native-powerpoint-doc-editor",
+    "name": "Native PowerPoint Doc Editor",
+    "author": "Marwan Luay",
+    "description": "Open, view, and edit DOCX and PPTX files directly in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "marsluay/NativePowerPointDocEditor"
   },
   {
     "id": "insider",
@@ -37705,7 +37712,7 @@
     "id": "vault-companion-for-claude",
     "name": "Vault Companion for Claude",
     "author": "Sander Robijns",
-    "description": "Chat with Claude on desktop and mobile. Claude reads, searches, creates, and updates notes in your vault with your approval — via your own Anthropic API key or your Claude subscription through a self-hosted relay. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Chat with Claude on desktop and mobile. Claude reads, searches, creates, and updates notes in your vaultl — via your own Anthropic API key or your Claude subscription through a self-hosted relay. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "estrenuo/vault-companion-for-claude"
   },
   {
@@ -40129,5 +40136,12 @@
     "author": "yaye.work",
     "description": "Browse your notes on a calendar. Every note appears on the day you created it, like a Daily Note setup but automatic. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yaye-work/note-diary"
+  },
+  {
+    "id": "code-playground",
+    "name": "Code Playground",
+    "author": "touss59",
+    "description": "Live, editable code playgrounds with instant preview inside your notes: HTML/CSS, React, Vue, Svelte, Angular, Solid, Next.js, TypeScript, JavaScript and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "touss59/obsidian-code-playground"
   }
 ]
