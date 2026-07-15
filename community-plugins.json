@@ -20132,13 +20132,6 @@
     "repo": "juracyamerico/obsidian-teleprompter-plus"
   },
   {
-    "id": "journalit",
-    "name": "Journalit",
-    "author": "Cursive",
-    "description": "Trading journal with templates, trade tracking, imports, and reviews. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "cursivez/journalit"
-  },
-  {
     "id": "direct-git-sync",
     "name": "Direct Git Sync",
     "author": "swekizer",
@@ -39473,6 +39466,13 @@
     "repo": "dimar4713/aimeton-cloud-bridge"
   },
   {
+    "id": "simple-table-formulas",
+    "name": "Simple Table Formulas",
+    "author": "Maxwell Cohn",
+    "description": "Add spreadsheet-style formulas to Markdown tables. Write a formula into a cell, run a command to bake it into a computed value with the formula preserved in a comment for later editing. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "maxcohn/obsidian-simple-table-formulas"
+  },
+  {
     "id": "maguilanote",
     "name": "Maguilanote",
     "author": "Lucas Coutinho",
@@ -39861,7 +39861,7 @@
     "id": "chorefast",
     "name": "Chorefast",
     "author": "webinspectinc",
-    "description": "Helps you complete your chore list in record time. Based on work by Simone Giertz. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Roll the dice, complete your chores! Based on work by Simone Giertz. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "webinspectinc/obsidian-chorefast"
   },
   {
@@ -39970,6 +39970,13 @@
     "repo": "linkwiseapp/obsidian-linkwise"
   },
   {
+    "id": "birthday-reminder",
+    "name": "Birthday Reminder",
+    "author": "Lifein",
+    "description": "Show contact's birthday reminder, support Gregorian/Lunar calendar conversion, astrological sign and zodiac sign, calendar view - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ichris007/Obsidian-Birthday-Reminder"
+  },
+  {
     "id": "multistate-checkboxes",
     "name": "Multistate Checkboxes",
     "author": "evgene-kopylov",
@@ -40061,6 +40068,13 @@
     "repo": "cyriusweng/opal-companion"
   },
   {
+    "id": "neurovim",
+    "name": "NeuroVim",
+    "author": "Johannes Kaindl",
+    "description": "Learn Vim by playing a cyberpunk spy-thriller. Missions are Vim exercises you fix in real Obsidian notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "johannes-kaindl/neurovim-obsidian"
+  },
+  {
     "id": "simple-calendar",
     "name": "Simple Calendar",
     "author": "newcodejin",
@@ -40073,5 +40087,19 @@
     "author": "woodamsclark",
     "description": "Review, rename, or delete accumulated Untitled notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "woodamsclark/no-more-untitled"
+  },
+  {
+    "id": "lite-reminders",
+    "name": "Lite Reminders",
+    "author": "fengshuzi",
+    "description": "macOS Reminders integration with a lightweight, flash-note style interface. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fengshuzi/lite-reminders"
+  },
+  {
+    "id": "paper-link",
+    "name": "Paper Link",
+    "author": "Jiangnan Ye",
+    "description": "Replace pasted paper URLs (arXiv, OpenReview, ACL Anthology, …) with [Title (Venue Year)](url) links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jiangnan0522/paper-link"
   }
 ]
