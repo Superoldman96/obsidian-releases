@@ -4397,5 +4397,12 @@
     "repo": "lisitan/esther-obsidian-typora-themes",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Claude Paper",
+    "author": "Law-Of-Cycles",
+    "repo": "law-of-cycles/claude-paper-obsidian",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]

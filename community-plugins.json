@@ -27776,13 +27776,6 @@
     "repo": "whatsyourwhy/Cognitive-Glow"
   },
   {
-    "id": "codex-echoink",
-    "name": "Codex EchoInk",
-    "author": "Akin-Lvyf",
-    "description": "Use Codex CLI or OpenCode in Obsidian to manage knowledge, ask vault questions, and review local agent work. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "akin-lvyifang/codex-echoink"
-  },
-  {
     "id": "kai-command-center",
     "name": "KAI Command Center",
     "author": "Jason Peters",
@@ -32522,13 +32515,6 @@
     "repo": "viggomeesters/obsidian-git-viewer"
   },
   {
-    "id": "hybrid-search",
-    "name": "Hybrid Search",
-    "author": "flowing-abyss",
-    "description": "Fast hybrid search (BM25 + semantic) over your vault via a background CLI. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "flowing-abyss/obsidian-hybrid-search-plugin"
-  },
-  {
     "id": "grimoire",
     "name": "Grimoire",
     "author": "Michael Makarov",
@@ -32842,13 +32828,6 @@
     "author": "wenjunzhu",
     "description": "Import Outlook PST email archives as Markdown files with metadata, attachments, and Obsidian wikilinks. Supports PST files of any size (including >2GB Unicode PST) via pure JavaScript. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wenciara/obsidian-pst-importer"
-  },
-  {
-    "id": "native-powerpoint-doc-editor",
-    "name": "Native PowerPoint Doc Editor",
-    "author": "Marwan Luay",
-    "description": "Open, view, and edit DOCX and PPTX files directly in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "marsluay/NativePowerPointDocEditor"
   },
   {
     "id": "insider",
@@ -37772,6 +37751,13 @@
     "repo": "p0shkar/LibreTranslate-for-Obsidian"
   },
   {
+    "id": "bamboo-walking",
+    "name": "Bamboo Walking",
+    "author": "羽鳞君",
+    "description": "个人写作专栏 · 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生 | Personal writing column reader - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-bamboo-walking"
+  },
+  {
     "id": "promptbox",
     "name": "Promptbox",
     "author": "istefox",
@@ -39518,7 +39504,7 @@
     "id": "investment-tracker",
     "name": "Investment Tracker",
     "author": "Lam",
-    "description": "Track encrypted investment cash flows, valuations, annualized returns, and benchmark performance. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Private, local-first portfolio tracker with encrypted records in your vault. Track investment cash flows, returns, and S&P 500 benchmarks without an account or telemetry. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "joelam2023/investment-tracker"
   },
   {
@@ -39837,13 +39823,6 @@
     "repo": "ruisloan/obsidian-color-marker"
   },
   {
-    "id": "mathify-notes",
-    "name": "Mathify Notes",
-    "author": "katananananna",
-    "description": "Auto-formats chemical formulas, nested fractions, powers, variables, and math symbols instantly as you type. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "katananananna/obsidian-mathify-notes"
-  },
-  {
     "id": "contextual-vocabulary",
     "name": "Contextual Vocabulary",
     "author": "John Surles",
@@ -39963,6 +39942,13 @@
     "repo": "arangutambo/weekly-meal-shopper"
   },
   {
+    "id": "zj-html-studio",
+    "name": "ZJ HTML Studio",
+    "author": "aidenxu",
+    "description": "Preview, search, inspect, and embed local HTML files with scoped resources, live reload, zoom, and full screen. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aidenxu-1/zj-html-studio"
+  },
+  {
     "id": "time-recorder",
     "name": "Time Recorder",
     "author": "Louie",
@@ -39975,5 +39961,33 @@
     "author": "Antoine",
     "description": "Log spending as tags in your daily notes, then turn them into pace-aware budget, holiday, and savings dashboards. Capture via Apple Shortcuts or a quick-add modal. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "arangutambo/finance-tracker"
+  },
+  {
+    "id": "inline-note",
+    "name": "Inline Note",
+    "author": "yaye.work",
+    "description": "Create and edit a linked note inline, withot ever leaving the current note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "yaye-work/inline-note"
+  },
+  {
+    "id": "notepipe",
+    "name": "NotePipe",
+    "author": "jiezhengj",
+    "description": "Copy text from Obsidian with file path and line number context, ready to paste into AI agent terminals. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jiezhengj/NotePipe"
+  },
+  {
+    "id": "qvac-local-ai",
+    "name": "QVAC",
+    "author": "QVAC",
+    "description": "Chat with your vault, fully local. Semantic search and cited answers via a local QVAC companion. Nothing leaves your machine. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "thomasblc/obsidian-qvac"
+  },
+  {
+    "id": "nuance-excalidraw-pen-sound",
+    "name": "Nuance - Excalidraw Pen Sound",
+    "author": "Nuance",
+    "description": "Satisfying paper writing sounds for digital handwriting on Excalidraw canvases. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "theanh97/nuance-excalidraw-pen-sound"
   }
 ]
