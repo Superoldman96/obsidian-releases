@@ -29743,6 +29743,13 @@
     "repo": "ouou365/Semlink"
   },
   {
+    "id": "semantic-todoist-sync",
+    "name": "Semantic Todoist Sync",
+    "author": "Neurocloud",
+    "description": "BYOK semantic/AI vault search, Gemini/OpenAI-assisted Todoist task generation, using Notes-to-Todoist and Email-to-Todoist (optional) workflows. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "neurocloud-activate/semantic-todoist-sync"
+  },
+  {
     "id": "easy-link-to-daily-note",
     "name": "Easy Link to Daily Note",
     "author": "kdnk",
@@ -40103,6 +40110,13 @@
     "repo": "cyriusweng/opal-companion"
   },
   {
+    "id": "worktable",
+    "name": "worktable",
+    "author": "DaoYoung",
+    "description": "A native dashboard for focus, tasks, learning, review, and news. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "daoyoung/obsidian-worktable"
+  },
+  {
     "id": "neurovim",
     "name": "NeuroVim",
     "author": "Johannes Kaindl",
@@ -40250,6 +40264,20 @@
     "repo": "ririririse/obsidian-progress-dock"
   },
   {
+    "id": "view-mode-lock",
+    "name": "View Mode Lock",
+    "author": "GOODJINC",
+    "description": "Lock Markdown notes to Reading, Live Preview, or Source mode with flexible rules. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "goodjinc/obsidian-view-mode-lock"
+  },
+  {
+    "id": "searchosaurus",
+    "name": "Searchosaurus",
+    "author": "polygonhunter",
+    "description": "Spotlight-style search — the note you meant comes first, with type filters, previews, and offline OCR that makes text in images and PDFs findable. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "polygonhunter/searchosaurus"
+  },
+  {
     "id": "markdown-to-card",
     "name": "markdown to card",
     "author": "hazel",
@@ -40269,5 +40297,19 @@
     "author": "Tiger",
     "description": "Copy vault files on macOS, copy note contents, and insert Markdown code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "oktiger/ob-super-copy"
+  },
+  {
+    "id": "corvidae",
+    "name": "Corvidae",
+    "author": "ein.ink",
+    "description": "Configure a modular dashboard with graph, note, browser, and terminal boxes. Manage tickets, folder notes, hybrid links, frontmatter, explorer tags, and graph node size and color. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "einfachsj/obsidian-corvidae"
+  },
+  {
+    "id": "atoms",
+    "name": "Atoms",
+    "author": "Tai Hartman",
+    "description": "Classify past daily-note captures into linked atomic notes via the Anthropic API. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "taihartman/obsidian-atoms"
   }
 ]
