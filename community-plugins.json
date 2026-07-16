@@ -19110,13 +19110,6 @@
     "repo": "stefmf/vault-pulse"
   },
   {
-    "id": "mcp-tools-istefox",
-    "name": "MCP Connector",
-    "author": "istefox",
-    "description": "Connect MCP-compatible clients (Claude Desktop, Claude Code, Cline) to your vault with semantic search, templates, file management and gated command execution. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "istefox/obsidian-mcp-connector"
-  },
-  {
     "id": "enhanced-search-replace",
     "name": "Enhanced search and replace",
     "author": "liuhaoxd",
@@ -26222,6 +26215,13 @@
     "repo": "ekrizdis367/obsidian-mtg-decklist"
   },
   {
+    "id": "make-it-rain",
+    "name": "Make It Rain",
+    "author": "Jonathan Wagner",
+    "description": "Pull Raindrop.io bookmarks, highlights, and attachments into Markdown notes with rich metadata, smart folder structures, and native file support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "frostmute/make-it-rain"
+  },
+  {
     "id": "gitlab-inbox",
     "name": "GitLab Inbox",
     "author": "srwildman",
@@ -27340,13 +27340,6 @@
     "author": "Moonjuun",
     "description": "Transcribe meeting recordings via Deepgram, then generate template-based AI summaries via Gemini. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "moonjuun/obsidian-voxnote"
-  },
-  {
-    "id": "japanese-calendar",
-    "name": "Japanese Calendar",
-    "author": "DualyzeAI",
-    "description": "Japanese public holiday calendar with wareki (Japanese era) and rokuyo. Click any date to auto-create daily notes. Substitute holidays and   weekend coloring included. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kojiman55/obsidian-japanese-calendar"
   },
   {
     "id": "neodb-sync",
@@ -39368,6 +39361,13 @@
     "repo": "kja140/incremental-reading"
   },
   {
+    "id": "nudge",
+    "name": "Nudge",
+    "author": "Peter",
+    "description": "Manage tasks in a single plain-text todo.txt file, with lists, due dates, priorities, and recurrence. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "2easy/nudge"
+  },
+  {
     "id": "canvas-bundle",
     "name": "Canvas Bundle",
     "author": "Rajat Nai",
@@ -40201,10 +40201,31 @@
     "repo": "deck6/obsidian-galaxy-graph"
   },
   {
+    "id": "wayfinder-maps",
+    "name": "Wayfinder Maps",
+    "author": "Matthew Ford",
+    "description": "Wayfinder Maps turns a GitHub repo's issues into a live picture of what to work on next. Each issue labeled wayfinder:map renders as a head card with its tickets laid out in a dependency-layered tree, - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ocuclaw/obsidian-wayfinder"
+  },
+  {
     "id": "visual-notes",
     "name": "Visual Notes",
     "author": "Daniel Anderson",
     "description": "A visual workspace built on Obsidian's Canvas format: nestable freeform boards, icon tile grids, kanban boards, sticky notes, checklists, columns, drawing with pen and highlighter, labels, reactions, and more. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "danderson1988/visual-notes"
+  },
+  {
+    "id": "progress-dock",
+    "name": "Progress Dock",
+    "author": "usagi",
+    "description": "Track numeric goals, deadlines, countdowns, and branching learning roadmaps in a dockable dashboard. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ririririse/obsidian-progress-dock"
+  },
+  {
+    "id": "searchosaurus",
+    "name": "Searchosaurus",
+    "author": "polygonhunter",
+    "description": "Spotlight-style search — the note you meant comes first, with type filters, previews, and offline OCR that makes text in images and PDFs findable. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "polygonhunter/searchosaurus"
   }
 ]
