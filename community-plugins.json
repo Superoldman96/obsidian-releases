@@ -18361,13 +18361,6 @@
     "repo": "mnaoumov/obsidian-fix-tab-size"
   },
   {
-    "id": "nested-properties",
-    "name": "Nested Properties",
-    "author": "Michael Naumov",
-    "description": "Allows to view/edit nested frontmatter properties. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mnaoumov/obsidian-nested-properties"
-  },
-  {
     "id": "vault-as-mcp",
     "name": "Vault as MCP",
     "author": "ebullient",
@@ -20018,13 +20011,6 @@
     "author": "xmisio72",
     "description": "Notion-style synced blocks. Click any transclusion (![[note]]) to edit its source in a floating panel — edit embeds in place. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xmisio72/obsidian-embed-editor"
-  },
-  {
-    "id": "the-deleometer",
-    "name": "The Deleometer",
-    "author": "michellegdyason",
-    "description": "A plugin for deep self-discovery journaling using AI. Use analysis history, and export options. Requires an OpenAI API key. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "michellegdyason/The_Obsidian_Deleometer_v2"
   },
   {
     "id": "hexmaker",
@@ -33838,13 +33824,6 @@
     "repo": "istefox/obsidian-bookmarker"
   },
   {
-    "id": "gtd-flow",
-    "name": "GTD Flow",
-    "author": "Marco Guidetti",
-    "description": "Structured GTD: sequential/parallel projects, defer dates, next actions, forecast and review. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "gaedol/gtd-flow"
-  },
-  {
     "id": "feishu-lark-cli-sync",
     "name": "Feishu Lark CLI Sync",
     "author": "wanghuan",
@@ -35322,25 +35301,11 @@
     "repo": "epicylon/add-to-vault-plugin"
   },
   {
-    "id": "traverture",
-    "name": "traVERture",
-    "author": "Eryk J.",
-    "description": "Parse, convert, and preview scripture references; insert citations from NWT Bible, and launch in JW Library and JW.ORG. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "erykjj/traverture"
-  },
-  {
     "id": "bible-study",
     "name": "Bible Study",
     "author": "linkongren",
     "description": "圣经研读助手 — 快速引用经文、圣经阅读面板，支持和合本 (CUV) - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "linkongren/obsidian-bible-study"
-  },
-  {
-    "id": "pdf-scholia-scribe",
-    "name": "PDF Scholia Scribe",
-    "author": "michellegdyason",
-    "description": "Citation-focused PDF annotation and note-linking for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "michellegdyason/pdf-scholia-scribe"
   },
   {
     "id": "watch-later-synthesizer",
@@ -36771,13 +36736,6 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
-    "id": "pivi",
-    "name": "Pivi",
-    "author": "shuuul",
-    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "shuuul/obsidian-pivi"
-  },
-  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -37835,13 +37793,6 @@
     "repo": "jimmycarroll2021/obsidian-kg-forge"
   },
   {
-    "id": "focus-first",
-    "name": "Focus First",
-    "author": "Christian Luger",
-    "description": "Prioritize your tasks with the Eisenhower matrix. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "christian-luger-at/obsidian-focus-first"
-  },
-  {
     "id": "loft",
     "name": "Loft",
     "author": "san",
@@ -38208,7 +38159,7 @@
   {
     "id": "files-progress",
     "name": "Files Progress",
-    "author": "Walter",
+    "author": "Sonna",
     "description": "Tiny progress bars in the file explorer showing how full each note is, relative to a target character count. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sonna-io/obsidian-files-progress"
   },
@@ -38568,13 +38519,6 @@
     "author": "Claude Code",
     "description": "Inline GitHub-style calendar heatmap trackers rendered directly in your notes, with a quick input field to log today's value. Data is stored in a local JSON file. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mxncrou/Calendar-heatmap-simple"
-  },
-  {
-    "id": "vault-telegram-bridge",
-    "name": "Vault Telegram Bridge",
-    "author": "N23eos",
-    "description": "Capture messages from a Telegram bot in your vault. No server required. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "n23eos/vault_telegram_bridge"
   },
   {
     "id": "linked-attachments",
@@ -39746,13 +39690,6 @@
     "repo": "marsluay/native-pdf-handwriting"
   },
   {
-    "id": "central-vault-sync",
-    "name": "Central Vault Sync",
-    "author": "WebObsidian contributors",
-    "description": "Revision-safe synchronization with a self-hosted authoritative vault server. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "picassio/central-vault-sync"
-  },
-  {
     "id": "simple-homepage",
     "name": "Simple Homepage",
     "author": "Dajhiro",
@@ -40117,13 +40054,6 @@
     "repo": "daoyoung/obsidian-worktable"
   },
   {
-    "id": "neurovim",
-    "name": "NeuroVim",
-    "author": "Johannes Kaindl",
-    "description": "Learn Vim by playing a cyberpunk spy-thriller. Missions are Vim exercises you fix in real Obsidian notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "johannes-kaindl/neurovim-obsidian"
-  },
-  {
     "id": "office-viewer",
     "name": "Office Viewer",
     "author": "jerry4pan",
@@ -40346,5 +40276,26 @@
     "author": "Anand Baghel",
     "description": "A scientific calculator. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "anandrajbaghel/gate-calculator"
+  },
+  {
+    "id": "max-sync",
+    "name": "MAX Sync",
+    "author": "Victor Stupin",
+    "description": "Sync messages from MAX messenger into your Obsidian vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vicstu/obsidian_max_sync"
+  },
+  {
+    "id": "ai-voice-polish",
+    "name": "AI Voice Polish",
+    "author": "Winslow",
+    "description": "语音录制 → AI 润色 → 插入笔记，一站式语音写作工作流 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pangtouyu717/obsidian-ai-voice-polish"
+  },
+  {
+    "id": "jenn-bridge",
+    "name": "Jenn Bridge",
+    "author": "Jenn",
+    "description": "Route data into Obsidian via WebSocket — Jenn Core output endpoint / Маршрутизация данных из Jenn Core в Obsidian через WebSocket - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kazantsev-v/obsidian-jenn-bridge"
   }
 ]
