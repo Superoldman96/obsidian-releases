@@ -18466,13 +18466,6 @@
     "repo": "polybjorn/obsidian-readest-highlights"
   },
   {
-    "id": "tether",
-    "name": "Tether",
-    "author": "llewellyn500",
-    "description": "Sync your vault with Google Drive using your own Google Cloud credentials. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "llewellyn500/obsidian-tether"
-  },
-  {
     "id": "review-critic",
     "name": "Review Critic",
     "author": "rohrbachd",
@@ -19108,13 +19101,6 @@
     "author": "stefmf",
     "description": "A GitHub-style activity heatmap of your vault's file activity across the last 365 days. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "stefmf/vault-pulse"
-  },
-  {
-    "id": "mcp-tools-istefox",
-    "name": "MCP Connector",
-    "author": "istefox",
-    "description": "Connect MCP-compatible clients (Claude Desktop, Claude Code, Cline) to your vault with semantic search, templates, file management and gated command execution. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "istefox/obsidian-mcp-connector"
   },
   {
     "id": "enhanced-search-replace",
@@ -39144,13 +39130,6 @@
     "repo": "mehulg/airtable-tabula"
   },
   {
-    "id": "code-linker",
-    "name": "Code Linker",
-    "author": "max-fluff",
-    "description": "Deep-link your notes to your source code. Autocomplete a symbol and jump to the exact line in your IDE (VS Code, JetBrains) or a GitHub/GitLab permalink. Embed live code snippets. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "max-fluff/obsidian-code-linker"
-  },
-  {
     "id": "pg",
     "name": "Postgres DB",
     "author": "Arghyahub",
@@ -40297,5 +40276,12 @@
     "author": "Jenn",
     "description": "Route data into Obsidian via WebSocket — Jenn Core output endpoint / Маршрутизация данных из Jenn Core в Obsidian через WebSocket - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kazantsev-v/obsidian-jenn-bridge"
+  },
+  {
+    "id": "fiction-book-reader",
+    "name": "FB2 Reader",
+    "author": "Mark Beerman",
+    "description": "Read FictionBook (.fb2) files directly in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kvasonaft/fb2-reader"
   }
 ]
