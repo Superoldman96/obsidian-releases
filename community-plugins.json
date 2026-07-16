@@ -37604,6 +37604,13 @@
     "repo": "nabheetcloud/Obsidian-Whatsapp"
   },
   {
+    "id": "flux-tts",
+    "name": "Flux TTS",
+    "author": "Saunak Karnati",
+    "description": "Record audio from the ribbon, save it to your vault, and create Groq-powered transcription notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sonickarnati/flux-tts"
+  },
+  {
     "id": "smarttask",
     "name": "SmartTask",
     "author": "SmartTask Team",
@@ -40089,6 +40096,13 @@
     "repo": "johannes-kaindl/neurovim-obsidian"
   },
   {
+    "id": "office-viewer",
+    "name": "Office Viewer",
+    "author": "jerry4pan",
+    "description": "View local PPTX files inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jerry4pan/obsidian-office-viewer-plugin"
+  },
+  {
     "id": "markdown-columns",
     "name": "Markdown Columns",
     "author": "Czeglédy Péter",
@@ -40157,5 +40171,12 @@
     "author": "Robert Fleming",
     "description": "Edit properties as readable, syntax-highlighted YAML frontmatter and collapse them when not needed. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "haivri/obsidian-yaml-properties"
+  },
+  {
+    "id": "vault-galaxy",
+    "name": "Vault Galaxy",
+    "author": "Samer Jaber",
+    "description": "View your vault as a living galaxy: your most-linked notes become suns, hubs orbit them, and every note orbits what it links to — with grabbable, link-coupled spring physics. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sjhealthadvising-prog/vault-galaxy"
   }
 ]
