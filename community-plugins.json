@@ -29729,13 +29729,6 @@
     "repo": "ouou365/Semlink"
   },
   {
-    "id": "semantic-todoist-sync",
-    "name": "Semantic Todoist Sync",
-    "author": "Neurocloud",
-    "description": "BYOK semantic/AI vault search, Gemini/OpenAI-assisted Todoist task generation, using Notes-to-Todoist and Email-to-Todoist (optional) workflows. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "neurocloud-activate/semantic-todoist-sync"
-  },
-  {
     "id": "easy-link-to-daily-note",
     "name": "Easy Link to Daily Note",
     "author": "kdnk",
@@ -34554,7 +34547,7 @@
   {
     "id": "block-reference-enhancer",
     "name": "Block Reference Enhancer",
-    "author": "msjsc001",
+    "author": "EllisMorrow",
     "description": "Render and navigate Logseq-style UUID block references and block embeds in Obsidian, with outlines, backlinks, and page-property/YAML sync. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "msjsc001/obsidian-block-reference-enhancer"
   },
@@ -39375,6 +39368,13 @@
     "repo": "kja140/incremental-reading"
   },
   {
+    "id": "canvas-bundle",
+    "name": "Canvas Bundle",
+    "author": "Rajat Nai",
+    "description": "Export Obsidian canvas files with all connected notes, assets, and structure into a zip. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rajatnai49/obsidian-canvas-bundler"
+  },
+  {
     "id": "ai-article",
     "name": "AI Article",
     "author": "jiang",
@@ -40192,5 +40192,19 @@
     "author": "SEVENTEEN",
     "description": "Cloud WebDAV Sync is an experimental WebDAV sync plugin with content-addressed storage, commit snapshots, capability checks, guarded updates, sync history, diagnostics, and local/remote conflict resol - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "seventeen-tan/cloud-webdav-sync"
+  },
+  {
+    "id": "galaxy-graph-view",
+    "name": "Galaxy Graph 3D",
+    "author": "DECK Yuk",
+    "description": "Explore your vault as an immersive, translucent 3D galaxy. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "deck6/obsidian-galaxy-graph"
+  },
+  {
+    "id": "visual-notes",
+    "name": "Visual Notes",
+    "author": "Daniel Anderson",
+    "description": "A visual workspace built on Obsidian's Canvas format: nestable freeform boards, icon tile grids, kanban boards, sticky notes, checklists, columns, drawing with pen and highlighter, labels, reactions, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "danderson1988/visual-notes"
   }
 ]
