@@ -4425,5 +4425,12 @@
     "repo": "monapdx/Electrocution",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "steam",
+    "author": "ArtinŌr",
+    "repo": "artin0r/steam-theme-obsidian",
+    "screenshot": "Showcase.png",
+    "modes": ["dark"]
   }
 ]

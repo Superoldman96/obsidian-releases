@@ -33516,13 +33516,6 @@
     "repo": "arias007/notedraw"
   },
   {
-    "id": "letterhead",
-    "name": "Letterhead",
-    "author": "Johannes Kaindl",
-    "description": "Generate professionally formatted business letters (DIN 5008 and modern) from note frontmatter and export them to PDF — via the print dialog on desktop, or the system share sheet on iPhone and iPad. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "johannes-kaindl/obsidian-letterhead"
-  },
-  {
     "id": "auto-scroll",
     "name": "Auto Scroll",
     "author": "femto",
@@ -40201,13 +40194,6 @@
     "repo": "haivri/obsidian-yaml-properties"
   },
   {
-    "id": "daydeck",
-    "name": "DayDeck",
-    "author": "Shivraj Rath",
-    "description": "Organize your mind: a powerful cognitive dashboard that separates strategy from frictionless execution. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "shivrajrath/daydeck"
-  },
-  {
     "id": "vault-galaxy",
     "name": "Vault Galaxy",
     "author": "Samer Jaber",
@@ -40311,5 +40297,26 @@
     "author": "Tai Hartman",
     "description": "Classify past daily-note captures into linked atomic notes via the Anthropic API. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "taihartman/obsidian-atoms"
+  },
+  {
+    "id": "galley-studio",
+    "name": "Galley Studio",
+    "author": "CHEN",
+    "description": "AI-driven Markdown-to-HTML publishing studio. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kinrochen/Galley-Studio"
+  },
+  {
+    "id": "bible-journal",
+    "name": "Bible Journal",
+    "author": "Skyler Norgaard",
+    "description": "An interface for Bible journaling and notetaking. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "skylernorgaard/obsidian-bible-journal-plugin"
+  },
+  {
+    "id": "ishibashi-web-clipper-next",
+    "name": "Ishibashi Web Clipper V2",
+    "author": "IshibashiCustomize",
+    "description": "Saves user-shared web links as local Markdown notes without fetching page content or metadata. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ishibashi-c/ishibashi-web-clipper-v2"
   }
 ]
