@@ -36134,6 +36134,13 @@
     "repo": "arias007/obsidian-ntfy"
   },
   {
+    "id": "cancip",
+    "name": "Cancip",
+    "author": "Murat",
+    "description": "AI side panel for vault read&write, memory context, and safe note assistance. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arias007/cancip"
+  },
+  {
     "id": "canvas-layer-order",
     "name": "Canvas Layer Order",
     "author": "fengzhe",
@@ -36452,7 +36459,7 @@
     "id": "hearth",
     "name": "Hearth",
     "author": "ondreu",
-    "description": "A beautiful, customizable home screen — dashboard, launchpad, mission control, homescreen, search - all in one. As simple or complex as you need. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A beautiful, heavily customizable home screen — dashboard, launchpad, mission control, homescreen, search - all in one. As simple or complex as you need. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ondreu/Hearth"
   },
   {
@@ -40194,6 +40201,13 @@
     "repo": "haivri/obsidian-yaml-properties"
   },
   {
+    "id": "daydeck",
+    "name": "DayDeck",
+    "author": "Shivraj Rath",
+    "description": "Organize your mind: a powerful cognitive dashboard that separates strategy from frictionless execution. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shivrajrath/daydeck"
+  },
+  {
     "id": "vault-galaxy",
     "name": "Vault Galaxy",
     "author": "Samer Jaber",
@@ -40318,5 +40332,19 @@
     "author": "IshibashiCustomize",
     "description": "Saves user-shared web links as local Markdown notes without fetching page content or metadata. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ishibashi-c/ishibashi-web-clipper-v2"
+  },
+  {
+    "id": "navidrome-player",
+    "name": "Navidrome Player",
+    "author": "Ben Currie",
+    "description": "Dock a music player in the sidebar that streams your Navidrome (Subsonic) library at full quality without leaving your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bencurrie42/navidrome-player-for-obsidian"
+  },
+  {
+    "id": "gate-calculator",
+    "name": "GATE Calculator",
+    "author": "Anand Baghel",
+    "description": "A scientific calculator. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "anandrajbaghel/gate-calculator"
   }
 ]
