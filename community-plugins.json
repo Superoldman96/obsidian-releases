@@ -40246,7 +40246,7 @@
     "id": "visual-notes",
     "name": "Visual Notes",
     "author": "Daniel Anderson",
-    "description": "A visual workspace built on Obsidian's Canvas format: nestable freeform boards, icon tile grids, kanban boards, sticky notes, checklists, columns, drawing with pen and highlighter, labels, reactions, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A visual workspace built on Obsidian's Canvas format: nestable freeform boards, icon tile grids, kanban boards, sticky notes, checklists, columns, drawing with pen, labels, reactions, and more.. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "danderson1988/visual-notes"
   },
   {
