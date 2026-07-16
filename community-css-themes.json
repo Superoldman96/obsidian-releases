@@ -4432,5 +4432,12 @@
     "repo": "artin0r/steam-theme-obsidian",
     "screenshot": "Showcase.png",
     "modes": ["dark"]
+  },
+  {
+    "name": "WeiYa",
+    "author": "吴伟亚",
+    "repo": "weiya9511/weiya-obsidian-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
