@@ -18480,6 +18480,13 @@
     "repo": "llewellyn500/obsidian-tether"
   },
   {
+    "id": "review-critic",
+    "name": "Review Critic",
+    "author": "rohrbachd",
+    "description": "Review and CriticMarkup-style comments for markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rohrbachd/obsidian-review-critics"
+  },
+  {
     "id": "health-md",
     "name": "Health.md Visualizations",
     "author": "codybontecou",
@@ -19108,6 +19115,13 @@
     "author": "stefmf",
     "description": "A GitHub-style activity heatmap of your vault's file activity across the last 365 days. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "stefmf/vault-pulse"
+  },
+  {
+    "id": "mcp-tools-istefox",
+    "name": "MCP Connector",
+    "author": "istefox",
+    "description": "Connect MCP-compatible clients (Claude Desktop, Claude Code, Cline) to your vault with semantic search, templates, file management and gated command execution. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "istefox/obsidian-mcp-connector"
   },
   {
     "id": "enhanced-search-replace",
@@ -32508,6 +32522,13 @@
     "repo": "viggomeesters/obsidian-git-viewer"
   },
   {
+    "id": "hybrid-search",
+    "name": "Hybrid Search",
+    "author": "flowing-abyss",
+    "description": "Fast hybrid search (BM25 + semantic) over your vault via a background CLI. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "flowing-abyss/obsidian-hybrid-search-plugin"
+  },
+  {
     "id": "grimoire",
     "name": "Grimoire",
     "author": "Michael Makarov",
@@ -36106,13 +36127,6 @@
     "repo": "arias007/obsidian-ntfy"
   },
   {
-    "id": "cancip",
-    "name": "Cancip",
-    "author": "Murat",
-    "description": "AI side panel for vault read&write, memory context, and safe note assistance. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "arias007/cancip"
-  },
-  {
     "id": "canvas-layer-order",
     "name": "Canvas Layer Order",
     "author": "fengzhe",
@@ -38178,6 +38192,13 @@
     "repo": "psalkiewicz/obsidian-proxmox-vm-list"
   },
   {
+    "id": "files-progress",
+    "name": "Files Progress",
+    "author": "Walter",
+    "description": "Tiny progress bars in the file explorer showing how full each note is, relative to a target character count. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sonna-io/obsidian-files-progress"
+  },
+  {
     "id": "ripple",
     "name": "Ripple",
     "author": "Johan Mensah",
@@ -38582,13 +38603,6 @@
     "author": "JunweiHu0",
     "description": "Select text in any note and instantly see its Google translation in a side panel. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "junweihu0/obsidian-google-translate"
-  },
-  {
-    "id": "rsvp-reader",
-    "name": "RSVP Reader",
-    "author": "Kevin Lin",
-    "description": "Read notes fast with RSVP: words flash one at a time at a fixed point, with an optional voice narrator synced to the words. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kevinsslin/obsidian-rsvp-reader"
   },
   {
     "id": "property-values-browser",
@@ -39452,13 +39466,6 @@
     "repo": "devidcode/obsidian-tasks-cockpit"
   },
   {
-    "id": "looki-sync",
-    "name": "Looki Sync",
-    "author": "Jeremy Jin",
-    "description": "将 Looki 的日常数据与即时提示同步进 Obsidian，合并为按日期的「每日记忆」笔记。可配置目标文件夹，并选择是否同步图片/视频。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kidd911-cmd/obsidian-looki-sync"
-  },
-  {
     "id": "alias-linker",
     "name": "Alias Linker",
     "author": "johannrichard",
@@ -39826,7 +39833,7 @@
     "id": "readability-compass",
     "name": "Readability Compass",
     "author": "Max",
-    "description": "Know the readability of your notes to ensure it fits your readers. See a language-independent score (LIX) and specify your own target. Check scores in the status bar and details in the side panel. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Check the readability of your writing to ensure it fits your readers. See a language-independent score (LIX) and specify your own target. Check scores in the status bar and details in the side panel. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maxonamission/obsidian-readability-compass"
   },
   {
@@ -40215,6 +40222,13 @@
     "repo": "danderson1988/visual-notes"
   },
   {
+    "id": "tetromino",
+    "name": "Tetromino",
+    "author": "Jonathan Wagner",
+    "description": "One-way import Are.na blocks and attachments into your vault as Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "frostmute/tetromino"
+  },
+  {
     "id": "progress-dock",
     "name": "Progress Dock",
     "author": "usagi",
@@ -40227,5 +40241,26 @@
     "author": "polygonhunter",
     "description": "Spotlight-style search — the note you meant comes first, with type filters, previews, and offline OCR that makes text in images and PDFs findable. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "polygonhunter/searchosaurus"
+  },
+  {
+    "id": "markdown-to-card",
+    "name": "markdown to card",
+    "author": "hazel",
+    "description": "一键将 Obsidian 笔记渲染为高质感多平台图文卡片，适配小红书、抖音图文、Bilibili 图文等平台,同时支持ai文案转写,一键内容即可发布。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ghh-l-djl/markdown2card"
+  },
+  {
+    "id": "chronicle-lanes",
+    "name": "Chronicle Lanes",
+    "author": "Steve",
+    "description": "Explore dated notes in configurable timeline lanes and a dockable overview. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "roasted-nz/chronicle-lanes"
+  },
+  {
+    "id": "ob-super-copy",
+    "name": "Super Copy",
+    "author": "Tiger",
+    "description": "Copy vault files on macOS, copy note contents, and insert Markdown code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "oktiger/ob-super-copy"
   }
 ]
