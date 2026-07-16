@@ -19670,13 +19670,6 @@
     "repo": "pandanocturne/obsidian-advanced-search-ui"
   },
   {
-    "id": "bring-to-front",
-    "name": "Bring to Front",
-    "author": "rockbenben",
-    "description": "Automatically brings the window to front when modals or notices appear in the background. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "rockbenben/bring-obsidian-to-front"
-  },
-  {
     "id": "vaultcrypt",
     "name": "VaultCrypt",
     "author": "romejoe",
@@ -20578,6 +20571,13 @@
     "author": "nyaaas",
     "description": "A visual card-flip flashcard system for your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nyaaas/visual-flashcards-obsidian"
+  },
+  {
+    "id": "realtime-transcription",
+    "name": "Realtime Transcription",
+    "author": "garetneda-gif",
+    "description": "Real-time speech-to-text powered by SenseVoice-Small. Supports Chinese, English, Japanese, Korean, and Cantonese with auto-translation, AI summarization, and text polishing. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "garetneda-gif/obsidian-realtime-transcription"
   },
   {
     "id": "companion-mcp",
@@ -40143,5 +40143,12 @@
     "author": "touss59",
     "description": "Live, editable code playgrounds with instant preview inside your notes: HTML/CSS, React, Vue, Svelte, Angular, Solid, Next.js, TypeScript, JavaScript and more. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "touss59/obsidian-code-playground"
+  },
+  {
+    "id": "yaml-properties",
+    "name": "YAML Properties",
+    "author": "Robert Fleming",
+    "description": "Edit properties as readable, syntax-highlighted YAML frontmatter and collapse them when not needed. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "haivri/obsidian-yaml-properties"
   }
 ]
