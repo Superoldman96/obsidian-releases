@@ -504,6 +504,13 @@
     "repo": "ryanjamurphy/vantage-obsidian"
   },
   {
+    "id": "obsidian-sort-and-permute-lines",
+    "name": "Sort and Permute lines",
+    "author": "Vinzent",
+    "description": "Sort and Permute lines in whole file or selection.",
+    "repo": "vinzent03/obsidian-sort-and-permute-lines"
+  },
+  {
     "id": "obsidian-jsonifier",
     "name": "JSONifier",
     "author": "kjellconnelly",
@@ -12262,6 +12269,13 @@
     "author": "Moritz Jung",
     "description": "A blazingly fast fuzzy finder with file preview.",
     "repo": "mprojectscode/obsidian-lemons-search-plugin"
+  },
+  {
+    "id": "find-orphaned-images",
+    "name": "Find Orphaned Images",
+    "author": "josmarcristello",
+    "description": "Finds images in the vault that are not linked to any notes. Either lists, or deletes them.",
+    "repo": "josmarcristello/Obsidian-Find-Orphaned-Images"
   },
   {
     "id": "mermaid-popup",
@@ -32830,13 +32844,6 @@
     "repo": "wenciara/obsidian-pst-importer"
   },
   {
-    "id": "native-powerpoint-doc-editor",
-    "name": "Native PowerPoint Doc Editor",
-    "author": "Marwan Luay",
-    "description": "Open, view, and edit DOCX and PPTX files directly in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "marsluay/NativePowerPointDocEditor"
-  },
-  {
     "id": "insider",
     "name": "Insider",
     "author": "barcantree",
@@ -39993,7 +40000,7 @@
   {
     "id": "weekly-meal-shopper",
     "name": "Weekly Meal Shopper",
-    "author": "Antoine",
+    "author": "AJ",
     "description": "Standardize recipe notes, parse ingredient amounts, and generate weekly shopping lists from a meal-plan canvas. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "arangutambo/weekly-meal-shopper"
   },
@@ -40014,7 +40021,7 @@
   {
     "id": "finance-tracker",
     "name": "Finance Tracker",
-    "author": "Antoine",
+    "author": "AJ",
     "description": "Log spending as tags in your daily notes, then turn them into pace-aware budget, holiday, and savings dashboards. Capture via Apple Shortcuts or a quick-add modal. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "arangutambo/finance-tracker"
   },
