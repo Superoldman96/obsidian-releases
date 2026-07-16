@@ -10355,7 +10355,7 @@
   {
     "id": "custom-sidebar-icons",
     "name": "Custom Icons",
-    "author": "raven-pensieve",
+    "author": "ravenhogwarts",
     "description": "Enhance your workspace with customizable icons for documents and folders.",
     "repo": "raven-pensieve/obsidian-custom-icons"
   },
@@ -16326,7 +16326,7 @@
   {
     "id": "ace-code-editor",
     "name": "Ace Code Editor",
-    "author": "raven-pensieve",
+    "author": "ravenhogwarts",
     "description": "An enhanced code editor using Ace editor, providing syntax highlighting, code folding, and other advanced editing features.",
     "repo": "raven-pensieve/obsidian-ace-code-editor"
   },
@@ -17943,7 +17943,7 @@
   {
     "id": "next-toc",
     "name": "Next TOC",
-    "author": "raven-pensieve",
+    "author": "ravenhogwarts",
     "description": "Floating panel displaying the current document's reading progress, table of contents, and navigation aids.",
     "repo": "raven-pensieve/obsidian-next-toc"
   },
@@ -26222,13 +26222,6 @@
     "repo": "ekrizdis367/obsidian-mtg-decklist"
   },
   {
-    "id": "make-it-rain",
-    "name": "Make It Rain",
-    "author": "Jonathan Wagner",
-    "description": "Pull Raindrop.io bookmarks, highlights, and attachments into Markdown notes with rich metadata, smart folder structures, and native file support. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "frostmute/make-it-rain"
-  },
-  {
     "id": "gitlab-inbox",
     "name": "GitLab Inbox",
     "author": "srwildman",
@@ -26619,13 +26612,6 @@
     "author": "o1xhack",
     "description": "Agentic AI chat assistant that reads, edits, and creates notes through natural conversation. Supports Anthropic, OpenAI, and ChatGPT account sign-in. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "o1xhack/obsidian-chatting"
-  },
-  {
-    "id": "daily-note-plus",
-    "name": "Daily Note Plus",
-    "author": "o1xhack",
-    "description": "Automatically creates missing daily notes - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "o1xhack/obsidian-daily-note-plus"
   },
   {
     "id": "inbox-zero",
@@ -27781,6 +27767,13 @@
     "author": "Justin Shank",
     "description": "Note activity heatmap in a sidebar. Navigate your vault by visual glow instead of hunting filenames. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "whatsyourwhy/Cognitive-Glow"
+  },
+  {
+    "id": "codex-echoink",
+    "name": "Codex EchoInk",
+    "author": "Akin-Lvyf",
+    "description": "Use Codex CLI or OpenCode in Obsidian to manage knowledge, ask vault questions, and review local agent work. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "akin-lvyifang/codex-echoink"
   },
   {
     "id": "kai-command-center",
@@ -39861,7 +39854,7 @@
     "id": "mathify-notes",
     "name": "Mathify Notes",
     "author": "katananananna",
-    "description": " - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Automatically converts 1/2 ➔ ½ (Fractions), H2O ➔ H₂O (Chemistry), sqrt(x) ➔ √x (Roots) and more - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "katananananna/obsidian-mathify-notes"
   },
   {
@@ -40173,10 +40166,31 @@
     "repo": "haivri/obsidian-yaml-properties"
   },
   {
+    "id": "daydeck",
+    "name": "DayDeck",
+    "author": "Shivraj Rath",
+    "description": "Organize your mind: a powerful cognitive dashboard that separates strategy from frictionless execution. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shivrajrath/daydeck"
+  },
+  {
     "id": "vault-galaxy",
     "name": "Vault Galaxy",
     "author": "Samer Jaber",
     "description": "View your vault as a living galaxy: your most-linked notes become suns, hubs orbit them, and every note orbits what it links to — with grabbable, link-coupled spring physics. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sjhealthadvising-prog/vault-galaxy"
+  },
+  {
+    "id": "terminal-workbench-cursor",
+    "name": "Terminal Workbench Cursor",
+    "author": "Real-Fruit-Snacks",
+    "description": "A cursor engine for the Terminal Workbench family: gliding carets, torch spotlight, and a Ghost Trail that peels the Terminal Workbench Pet ghost off your text as you type. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "real-fruit-snacks/terminal-workbench-cursor"
+  },
+  {
+    "id": "cloud-webdav-sync",
+    "name": "Cloud WebDAV Sync",
+    "author": "SEVENTEEN",
+    "description": "Cloud WebDAV Sync is an experimental WebDAV sync plugin with content-addressed storage, commit snapshots, capability checks, guarded updates, sync history, diagnostics, and local/remote conflict resol - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "seventeen-tan/cloud-webdav-sync"
   }
 ]
