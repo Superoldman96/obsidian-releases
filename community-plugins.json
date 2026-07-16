@@ -27356,6 +27356,13 @@
     "repo": "moonjuun/obsidian-voxnote"
   },
   {
+    "id": "japanese-calendar",
+    "name": "Japanese Calendar",
+    "author": "DualyzeAI",
+    "description": "Japanese public holiday calendar with wareki (Japanese era) and rokuyo. Click any date to auto-create daily notes. Substitute holidays and   weekend coloring included. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kojiman55/obsidian-japanese-calendar"
+  },
+  {
     "id": "neodb-sync",
     "name": "NeoDB Sync",
     "author": "sisyphe42",
@@ -36969,7 +36976,7 @@
   {
     "id": "note-nav-cards",
     "name": "Note Nav Cards",
-    "author": "David Torró",
+    "author": "David Torro",
     "description": "Componente de navegación para enlazar con la nota anterior y la siguiente. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "davidtorro/Obsidian-Note-Nav-Cards-Plugin"
   },
@@ -38668,6 +38675,13 @@
     "repo": "real-fruit-snacks/Graphite"
   },
   {
+    "id": "social-network-analysis",
+    "name": "Social Network Analysis",
+    "author": "fiddlestix27",
+    "description": "Performs comprehensive social network analysis on your graph view, including various centrality measures, directional analysis, and graph layout customization. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fiddlestix27/Obsidian-SNA"
+  },
+  {
     "id": "tokenbar",
     "name": "TokenBar",
     "author": "sn1p4am",
@@ -40057,7 +40071,7 @@
     "id": "ledgr",
     "name": "Ledgr",
     "author": "jcig789",
-    "description": "Multi-currency personal finance for Obsidian. Track spending, budgets, net worth, and international transfers — all in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "[Beta] Multi-currency personal finance for Obsidian. Track spending, budgets, net worth, and international transfers — all in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jcig789/ledgr"
   },
   {
@@ -40234,13 +40248,6 @@
     "author": "usagi",
     "description": "Track numeric goals, deadlines, countdowns, and branching learning roadmaps in a dockable dashboard. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ririririse/obsidian-progress-dock"
-  },
-  {
-    "id": "searchosaurus",
-    "name": "Searchosaurus",
-    "author": "polygonhunter",
-    "description": "Spotlight-style search — the note you meant comes first, with type filters, previews, and offline OCR that makes text in images and PDFs findable. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "polygonhunter/searchosaurus"
   },
   {
     "id": "markdown-to-card",
