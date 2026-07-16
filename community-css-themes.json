@@ -4446,5 +4446,12 @@
     "repo": "weiya9511/weiya-obsidian-theme",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Solace",
+    "author": "Solace",
+    "repo": "bhavya-dang/solace-obsidian",
+    "screenshot": "./preview/demo.png",
+    "modes": ["dark", "light"]
   }
 ]
