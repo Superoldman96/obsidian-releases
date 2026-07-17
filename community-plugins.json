@@ -27286,6 +27286,13 @@
     "repo": "moonjuun/obsidian-voxnote"
   },
   {
+    "id": "japanese-calendar",
+    "name": "Japanese Calendar",
+    "author": "DualyzeAI",
+    "description": "Japanese public holiday calendar with wareki (Japanese era) and rokuyo. Click any date to auto-create daily notes. Substitute holidays and   weekend coloring included. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kojiman55/obsidian-japanese-calendar"
+  },
+  {
     "id": "neodb-sync",
     "name": "NeoDB Sync",
     "author": "sisyphe42",
@@ -33796,13 +33803,6 @@
     "repo": "woop18/Zhongwen-Vault"
   },
   {
-    "id": "text-formatting-toolbar",
-    "name": "Text Formatting Toolbar",
-    "author": "jsmorabito",
-    "description": "A floating formatting toolbar that appears above selected text in the editor. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jsmorabito/obsidian-text-formatting-toolbar"
-  },
-  {
     "id": "substack-clipper",
     "name": "Substack Clipper",
     "author": "gapmiss",
@@ -33864,13 +33864,6 @@
     "author": "Sonophage",
     "description": "Pulls watched movies (Trakt) and full-album listens (Last.fm) into reference notes via Templater. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "sonophage/stardust-importer"
-  },
-  {
-    "id": "rootweave",
-    "name": "Rootweave",
-    "author": "Max Oliver",
-    "description": "A conlang workspace for worldbuilders — manage roots, build words, validate grammar, and translate. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "molive6316github/rootweave"
   },
   {
     "id": "chroma-key",
@@ -34091,7 +34084,7 @@
   },
   {
     "id": "german-law-lookup",
-    "name": "German Law Lookup",
+    "name": "Law Lookup for Germany + Austria + Switzerland",
     "author": "GammaFunds",
     "description": "Look up German federal law references in Obsidian and insert formatted law text into notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gammafunds/german-law-lookup"
@@ -39536,6 +39529,13 @@
     "repo": "marsluay/native-pdf-handwriting"
   },
   {
+    "id": "central-vault-sync",
+    "name": "Central Vault Sync",
+    "author": "WebObsidian contributors",
+    "description": "Revision-safe synchronization with a self-hosted authoritative vault server. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "picassio/central-vault-sync"
+  },
+  {
     "id": "simple-homepage",
     "name": "Simple Homepage",
     "author": "Dajhiro",
@@ -40166,6 +40166,20 @@
     "repo": "kazantsev-v/obsidian-jenn-bridge"
   },
   {
+    "id": "fiction-book-reader",
+    "name": "FB2 Reader",
+    "author": "Mark Beerman",
+    "description": "Read FictionBook (.fb2) files directly in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kvasonaft/fb2-reader"
+  },
+  {
+    "id": "graph-search-sync",
+    "name": "Graph Search Sync",
+    "author": "Hall",
+    "description": "Applies your global search query to the graph view filter in real time and highlights hovered search results in the graph. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aldaw/graph-search-sync"
+  },
+  {
     "id": "chatobby",
     "name": "Chatobby",
     "author": "Madelyn",
@@ -40175,7 +40189,7 @@
   {
     "id": "granola-api-sync",
     "name": "Granola API Sync",
-    "author": "Arshia Navabi",
+    "author": "StratosHouse",
     "description": "Sync meeting notes and full transcripts from Granola into your vault using the official Granola API. Just paste an API key, no credential scraping. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "arshiaecho/obsidian-granola-api-sync"
   },
@@ -40213,5 +40227,12 @@
     "author": "Caoshengzhao",
     "description": "Manually toggle and update display-equation numbering per document, and reuse the first number for duplicate equations. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wolframscs/obsidian-auto-equation-numbering"
+  },
+  {
+    "id": "unfinished-todo-highlighter",
+    "name": "Unfinished Todo Highlighter",
+    "author": "Aoba Suzuki",
+    "description": "Highlights files with unfinished tasks and provides a synchronized vault-wide task summary. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "7jo-yamato/unfinished-todo-highlighter"
   }
 ]
