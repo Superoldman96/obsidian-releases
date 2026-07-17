@@ -4453,5 +4453,12 @@
     "repo": "bhavya-dang/solace-obsidian",
     "screenshot": "./preview/demo.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Hyo",
+    "author": "Ev Chapman",
+    "repo": "evielync/hyo-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]

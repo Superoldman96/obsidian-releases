@@ -20930,13 +20930,6 @@
     "repo": "lastratalive/Librarian"
   },
   {
-    "id": "neural-composer",
-    "name": "Neural Composer",
-    "author": "Oscar Campo",
-    "description": "Local Graph RAG powered by LightRAG. Chat with your notes using deep knowledge graph connections. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "oscampo/obsidian-neural-composer"
-  },
-  {
     "id": "rhino-pdf-export",
     "name": "Rhino PDF Export",
     "author": "degun-osint",
@@ -26418,13 +26411,6 @@
     "repo": "krcnow/manex-brain"
   },
   {
-    "id": "ai-wiki",
-    "name": "AI Wiki",
-    "author": "Ilya",
-    "description": "AI-powered compoundable knowledge base — extracts, synthesizes and maintains a wiki from raw sources. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ikeniborn/obsidian-llm-wiki"
-  },
-  {
     "id": "copy-highlighter",
     "name": "Copy Highlighter",
     "author": "Nymbo",
@@ -29916,13 +29902,6 @@
     "author": "Max",
     "description": "Sync your vault to Spectacles AR glasses to explore your notes as a 3D knowledge graph. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "r3d5/obsidian-spectacles-sync"
-  },
-  {
-    "id": "bullet",
-    "name": "Bullet",
-    "author": "kdnk",
-    "description": "Work with your lists like in Workflowy or RoamResearch. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kdnk/obsidian-bullet"
   },
   {
     "id": "manuscript-outliner",
@@ -40276,12 +40255,5 @@
     "author": "Jenn",
     "description": "Route data into Obsidian via WebSocket — Jenn Core output endpoint / Маршрутизация данных из Jenn Core в Obsidian через WebSocket - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kazantsev-v/obsidian-jenn-bridge"
-  },
-  {
-    "id": "fiction-book-reader",
-    "name": "FB2 Reader",
-    "author": "Mark Beerman",
-    "description": "Read FictionBook (.fb2) files directly in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kvasonaft/fb2-reader"
   }
 ]
