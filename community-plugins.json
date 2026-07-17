@@ -33127,7 +33127,7 @@
     "id": "book-search-covers",
     "name": "Book Search + Covers",
     "author": "lksrpp",
-    "description": "Search books and create notes from a template, with high-resolution covers. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Search for books with high-resolution covers and create new notes based on your template. Supports searching via Google Book API, Open Library, Apple Store. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lksrpp/obsidian-book-search-covers"
   },
   {
@@ -40556,5 +40556,12 @@
     "author": "Leandro Voltolino",
     "description": "Yet Another Bases Calendar View. Lay notes out as cards on a day, week or month grid, and drag them to reschedule a date property. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xupisco/obsidian-yabacavi"
+  },
+  {
+    "id": "gremlins",
+    "name": "Gremlins",
+    "author": "xryul",
+    "description": "Reveal invisible Unicode characters and suspicious indentation in notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xryul/gremlins"
   }
 ]
