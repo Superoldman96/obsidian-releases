@@ -4451,7 +4451,7 @@
     "name": "Solace",
     "author": "Solace",
     "repo": "bhavya-dang/solace-obsidian",
-    "screenshot": "./preview/demo.png",
+    "screenshot": "preview/demo-2.png",
     "modes": ["dark", "light"]
   },
   {

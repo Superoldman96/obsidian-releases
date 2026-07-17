@@ -2716,13 +2716,6 @@
     "repo": "julesguesnon/obsidian-markdown-shortcuts"
   },
   {
-    "id": "digitalgarden",
-    "name": "Digital Garden",
-    "author": "oleeskild",
-    "description": "Publish your notes to a digital garden for others to enjoy.",
-    "repo": "oleeskild/obsidian-digital-garden"
-  },
-  {
     "id": "obsidian-hotkeys-chords",
     "name": "Hotkeys Chords",
     "author": "trenta3",
@@ -26712,6 +26705,13 @@
     "repo": "merrier/obsidian-blog-bridge"
   },
   {
+    "id": "storyline",
+    "name": "StoryLine",
+    "author": "Jan Sandström",
+    "description": "Transform your vault into a powerful book planning and writing tool. Corkboard, KanbanBoard view, timeline, plotlines,character tracking, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pixerojan/obsidian-storyline"
+  },
+  {
     "id": "to-word",
     "name": "ToWord",
     "author": "Jan Sandström",
@@ -31211,6 +31211,13 @@
     "author": "Ar4l",
     "description": "Retrieve and import research papers from arXiv. Fork of willjhliang/obsidian-papers with rate-limit handling and OpenAlex fallback. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ar4l/obsidian-papers"
+  },
+  {
+    "id": "lorebase",
+    "name": "Lorebase",
+    "author": "Murch1k",
+    "description": "Track games and anime with card views, status filters, ratings, and metadata integrations. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "murchi1k/obsidian-lorebase-plugin"
   },
   {
     "id": "streamradio",
@@ -39648,6 +39655,13 @@
     "repo": "jiezhengj/NotePipe"
   },
   {
+    "id": "qvac-local-ai",
+    "name": "Local AI for your vault",
+    "author": "QVAC",
+    "description": "Chat with your vault, fully local. Semantic search and cited answers via a local QVAC companion. Nothing leaves your machine. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "thomasblc/obsidian-qvac"
+  },
+  {
     "id": "ledgr",
     "name": "Ledgr",
     "author": "jcig789",
@@ -39879,13 +39893,6 @@
     "repo": "einfachsj/obsidian-corvidae"
   },
   {
-    "id": "atoms",
-    "name": "Atoms",
-    "author": "Tai Hartman",
-    "description": "Classify past daily-note captures into linked atomic notes via the Anthropic API. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "taihartman/obsidian-atoms"
-  },
-  {
     "id": "galley-studio",
     "name": "Galley Studio",
     "author": "CHEN",
@@ -40066,5 +40073,12 @@
     "author": "Higa Fuyuki",
     "description": "Kanban board driven by note frontmatter properties. Creating, moving, and deleting cards stays in sync with note properties, with swimlanes, quick actions, and parent/child links. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maitake4211/property-kanban"
+  },
+  {
+    "id": "ling-sync",
+    "name": "Ling Sync",
+    "author": "Ling",
+    "description": "Sync selected Markdown notes from Obsidian to Ling. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zavixai/ling-sync-obsidian"
   }
 ]
