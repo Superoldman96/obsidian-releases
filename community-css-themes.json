@@ -4460,5 +4460,12 @@
     "repo": "evielync/hyo-theme",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Aera",
+    "author": "def-peter",
+    "repo": "def-peter/obsidian-aera-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]

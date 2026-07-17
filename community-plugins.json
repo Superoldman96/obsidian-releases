@@ -24437,6 +24437,13 @@
     "repo": "greetclammy/copy-link"
   },
   {
+    "id": "seo",
+    "name": "Search Engine Optimization",
+    "author": "David V. Kimball",
+    "description": "Ensure your public-facing notes are optimized for search engines and AI. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "davidvkimball/obsidian-seo"
+  },
+  {
     "id": "speech-to-text",
     "name": "Speech to Text",
     "author": "asyouplz",
@@ -27279,13 +27286,6 @@
     "repo": "moonjuun/obsidian-voxnote"
   },
   {
-    "id": "japanese-calendar",
-    "name": "Japanese Calendar",
-    "author": "DualyzeAI",
-    "description": "Japanese public holiday calendar with wareki (Japanese era) and rokuyo. Click any date to auto-create daily notes. Substitute holidays and   weekend coloring included. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kojiman55/obsidian-japanese-calendar"
-  },
-  {
     "id": "neodb-sync",
     "name": "NeoDB Sync",
     "author": "sisyphe42",
@@ -27557,6 +27557,13 @@
     "author": "Ryukyu HUB Inc.",
     "description": "Right-sidebar chat panel powered by Claude Code. Runs the `claude` CLI as a subprocess with the active vault as the working directory. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ryukyuhub/obsidian-claude-panel-ryukyuhub"
+  },
+  {
+    "id": "task-hub",
+    "name": "Task Hub",
+    "author": "Carlos",
+    "description": "Bring Obsidian tasks together with Apple Reminders, Apple Calendar on macOS. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "saralaaga/task-hub"
   },
   {
     "id": "vault-share",
@@ -29629,13 +29636,6 @@
     "author": "Ouzhongyuan",
     "description": "Semantic search for Obsidian Vault via MCP - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ouou365/Semlink"
-  },
-  {
-    "id": "semantic-todoist-sync",
-    "name": "Semantic Todoist Sync",
-    "author": "Neurocloud",
-    "description": "BYOK semantic/AI vault search, Gemini/OpenAI-assisted Todoist task generation, using Notes-to-Todoist and Email-to-Todoist (optional) workflows. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "neurocloud-activate/semantic-todoist-sync"
   },
   {
     "id": "easy-link-to-daily-note",
@@ -31995,13 +31995,6 @@
     "author": "zhuzhige123",
     "description": "Standalone incremental reading workflow with topics, reading points, calendar scheduling, and source tracing. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zhuzhige123/Obsidian-Weave-incremental-reading"
-  },
-  {
-    "id": "lilbee",
-    "name": "lilbee",
-    "author": "tobocop2",
-    "description": "A local AI search engine and native LLM manager for your vault, with a built-in web crawler. Ask it anything and get cited answers (local RAG). Works with Ollama, LM Studio, and frontier models too. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tobocop2/obsidian-lilbee"
   },
   {
     "id": "selection-toolbar",
@@ -36288,13 +36281,6 @@
     "repo": "zoupuyo-obsidian/obsidian-daily-preview-calendar"
   },
   {
-    "id": "ratel-vault",
-    "name": "Ratel",
-    "author": "golddream-y",
-    "description": "AI assistant for your notes—chat with your vault, semantic search with citations, multi-step research and safe edits. Works with DeepSeek, Claude, and Ollama. Local embeddings, no telemetry. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "golddream-y/obsidian-ratel"
-  },
-  {
     "id": "readlog",
     "name": "Readlog",
     "author": "mrcnkobu",
@@ -36615,6 +36601,13 @@
     "author": "zhaohongxuan",
     "description": "Highlight timestamps in your Journal section, capture quick notes, images, and audio from a sidebar, dictate with real-time speech-to-text, and review your year with a heatmap. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zhaohongxuan/journal-partner"
+  },
+  {
+    "id": "pivi",
+    "name": "Pivi",
+    "author": "shuuul",
+    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shuuul/obsidian-pivi"
   },
   {
     "id": "read-it-never",
@@ -39277,6 +39270,13 @@
     "repo": "devidcode/obsidian-tasks-cockpit"
   },
   {
+    "id": "looki-sync",
+    "name": "Looki Sync",
+    "author": "Jeremy Jin",
+    "description": "将 Looki 的日常数据与即时提示同步进 Obsidian，合并为按日期的「每日记忆」笔记。可配置目标文件夹，并选择是否同步图片/视频。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kidd911-cmd/obsidian-looki-sync"
+  },
+  {
     "id": "alias-linker",
     "name": "Alias Linker",
     "author": "johannrichard",
@@ -39634,13 +39634,6 @@
     "repo": "akskokki/obsidian-custom-emojis"
   },
   {
-    "id": "readability-compass",
-    "name": "Readability Compass",
-    "author": "Max",
-    "description": "Check the readability of your writing to ensure it fits your readers. See a language-independent score (LIX) and specify your own target. Check scores in the status bar and details in the side panel. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "maxonamission/obsidian-readability-compass"
-  },
-  {
     "id": "digital-archive",
     "name": "Digital Archive",
     "author": "HyoYoonNam",
@@ -39674,13 +39667,6 @@
     "author": "John Surles",
     "description": "Define a selected word with AI, link it in place, and maintain a navigable dictionary note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "0utsights/obsidian-contextual-vocabulary"
-  },
-  {
-    "id": "image-magick",
-    "name": "ImageMagick",
-    "author": "Abdulkader Safi",
-    "description": "Resize, crop, rotate, compress and convert images in your vault, powered by ImageMagick. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "abdulkader-safi/obsidian-image-magick-plugins"
   },
   {
     "id": "chorefast",
@@ -39949,13 +39935,6 @@
     "repo": "jiangnan0522/paper-link"
   },
   {
-    "id": "second-brain-builder",
-    "name": "Second Brain Builder",
-    "author": "algometrix",
-    "description": "Grow your vault into a linked knowledge graph: select any word or phrase to generate detailed, wiki-linked explanation notes using Claude Code, Gemini, Codex, or a local Ollama model. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "algometrix/second_brain_builder"
-  },
-  {
     "id": "note-diary",
     "name": "Note Diary",
     "author": "yaye.work",
@@ -40080,6 +40059,13 @@
     "author": "polygonhunter",
     "description": "Spotlight-style search — the note you meant comes first, with type filters, previews, and offline OCR that makes text in images and PDFs findable. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "polygonhunter/searchosaurus"
+  },
+  {
+    "id": "zhihu-reader",
+    "name": "Zhihu Reader",
+    "author": "ZHENG ANYUAN",
+    "description": "Read Zhihu questions and answers inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "iamzay/obsidian-zhihu-reader"
   },
   {
     "id": "markdown-to-card",
