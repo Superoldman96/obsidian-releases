@@ -21861,13 +21861,6 @@
     "repo": "shu-red/propmove"
   },
   {
-    "id": "hex-cartographer",
-    "name": "Hex Cartographer",
-    "author": "Christoph Werner",
-    "description": "Visual Fantasy Hex Map Editor for GMs, RPG Authors & Worldbuilders - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "taroslord/Hex-Cartographer"
-  },
-  {
     "id": "myloc",
     "name": "MyLoc",
     "author": "mrcnkobu",
@@ -26005,13 +25998,6 @@
     "repo": "evgene-kopylov/fsrs_plugin"
   },
   {
-    "id": "myworld-task-manager",
-    "name": "MyWorld Task Manager",
-    "author": "KJH",
-    "description": "Integrated task and project management for MyWorld workspace. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kjh-portfolio/202604-obsidian-task-manager"
-  },
-  {
     "id": "audio-sidebar",
     "name": "Audio Sidebar",
     "author": "pjeurien",
@@ -26584,6 +26570,13 @@
     "author": "o1xhack",
     "description": "Agentic AI chat assistant that reads, edits, and creates notes through natural conversation. Supports Anthropic, OpenAI, and ChatGPT account sign-in. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "o1xhack/obsidian-chatting"
+  },
+  {
+    "id": "daily-note-plus",
+    "name": "Daily Note Plus",
+    "author": "o1xhack",
+    "description": "Automatically creates missing daily notes - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "o1xhack/obsidian-daily-note-plus"
   },
   {
     "id": "inbox-zero",
@@ -27699,13 +27692,6 @@
     "repo": "timikays/markpage-obsidian-plugin"
   },
   {
-    "id": "local-dictation",
-    "name": "Local Dictation",
-    "author": "Alexander Brittain",
-    "description": "Private, offline speech-to-text, voice typing, and meeting transcription. Dictate notes live or transcribe calls and system audio with Whisper, speaker labels, timestamps, and optional AI cleanup. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "brittain9/local-dictation-obsidian-plugin"
-  },
-  {
     "id": "markr",
     "name": "Markr",
     "author": "visua1hue",
@@ -27921,13 +27907,6 @@
     "author": "smirnoffmg",
     "description": "Infinite vertical temporal feed for your daily Periodic Notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "smirnoffmg/obsidian-timeflow"
-  },
-  {
-    "id": "blackglass",
-    "name": "Glass",
-    "author": "Scott Kosman",
-    "description": "Run Claude Code inside Obsidian on macOS, Linux, and Windows: interactive terminal, quick-ask modal, and a built-in MCP server for structured vault access. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "humantorch/blackglass"
   },
   {
     "id": "gamer-giveaways",
@@ -30359,6 +30338,13 @@
     "repo": "jaycelu/Smart-Review"
   },
   {
+    "id": "made-up-words",
+    "name": "Made Up Words",
+    "author": "Obsidian TTRPG Community",
+    "description": "A dictionary for the words you've made up. Browse, search, and look up your invented vocabulary across multiple languages, with hover tooltips and a side-panel lexicon. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "obsidian-ttrpg-community/Made-Up-Words"
+  },
+  {
     "id": "english-learning-assistant",
     "name": "English Learning Assistant",
     "author": "LQ",
@@ -31239,13 +31225,6 @@
     "author": "zen",
     "description": "A clean timeline calendar with grid-aligned time labels for daily notes and tasks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "deemsd/timeline-calendar"
-  },
-  {
-    "id": "chess-tree",
-    "name": "Chess Tree",
-    "author": "weshell",
-    "description": "Chess variation tree. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "west-shell/obsidian-chess-tree"
   },
   {
     "id": "gz-sync",
@@ -36645,13 +36624,6 @@
     "repo": "hamzamoiyadi/obsidian-film-artist-search"
   },
   {
-    "id": "seek",
-    "name": "Seek",
-    "author": "ryanm",
-    "description": "Search your vault with a powerful Obsidian native hybrid semantic and keyword retrieval, in over 52 langauges. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ryan-manor/Obsidian-Seek"
-  },
-  {
     "id": "math-plotter",
     "name": "Math Plotter",
     "author": "Sharbel Marshi",
@@ -39256,13 +39228,6 @@
     "repo": "real-fruit-snacks/obsidian-better-store"
   },
   {
-    "id": "inline-link-suggestions",
-    "name": "Inline Link Suggestions",
-    "author": "Alexey Alekhin",
-    "description": "Underlines plain-text mentions of existing notes (incl. aliases) right in the editor. Click a mention to turn it into a wiki link. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "laughedelic/obsidian-inline-link-suggestions"
-  },
-  {
     "id": "media-sidecar-tools",
     "name": "Media Sidecar Tools",
     "author": "Gabriel",
@@ -39959,7 +39924,7 @@
     "id": "ledgr",
     "name": "Ledgr",
     "author": "jcig789",
-    "description": "[Beta] Multi-currency personal finance for Obsidian. Track spending, budgets, net worth, and international transfers — all in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Multi-currency personal finance for Obsidian. Track spending, budgets, net worth, and loans — all in your vault. No accounts, no subscriptions. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jcig789/ledgr"
   },
   {
@@ -40283,5 +40248,19 @@
     "author": "Arshia Navabi",
     "description": "Sync meeting notes and full transcripts from Granola into your vault using the official Granola API. Just paste an API key, no credential scraping. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "arshiaecho/obsidian-granola-api-sync"
+  },
+  {
+    "id": "editor-mode-button",
+    "name": "Editor Mode Button",
+    "author": "kubaxius",
+    "description": "Adds a button to toggle global editor mode. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kubaxius/obsidian-editor-mode-button"
+  },
+  {
+    "id": "patina",
+    "name": "Patina",
+    "author": "saiken",
+    "description": "Score every note's staleness from edits, opens, and inbound links, then work through a decay-ranked review queue. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/patina"
   }
 ]
