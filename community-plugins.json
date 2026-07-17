@@ -33383,13 +33383,6 @@
     "repo": "emberleif/Chronoboard"
   },
   {
-    "id": "vim-motions",
-    "name": "Vim Motions",
-    "author": "Emile Bangma",
-    "description": "Enhances Obsidian's Vim mode with Markdown-aware text objects, structural navigation, workspace keyboard control, and a polished Neovim-native experience. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "saberzero1/motions"
-  },
-  {
     "id": "lindar",
     "name": "Lindar",
     "author": "punkyard",
@@ -39242,13 +39235,6 @@
     "repo": "javajiang/image_plugin"
   },
   {
-    "id": "readable-date-links",
-    "name": "Readable Date Links",
-    "author": "Alexey Alekhin",
-    "description": "Display dates in a readable format without any changes to the content - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "laughedelic/obsidian-readable-date-links"
-  },
-  {
     "id": "rednote",
     "name": "RedNote",
     "author": "kylemumu",
@@ -40110,6 +40096,34 @@
     "repo": "real-fruit-snacks/terminal-workbench-cursor"
   },
   {
+    "id": "standing-questions",
+    "name": "Standing Questions",
+    "author": "saiken",
+    "description": "Track the open questions in your vault and surface new notes that may answer them. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/standing-questions"
+  },
+  {
+    "id": "effort-index",
+    "name": "Effort Index",
+    "author": "saiken",
+    "description": "Measure the editing time and revision effort behind every note, then resurface the expensive ones you stopped reading. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/effort-index"
+  },
+  {
+    "id": "unwritten",
+    "name": "Unwritten",
+    "author": "saiken",
+    "description": "Report the notes you never wrote: unexplained link pairs, stub hubs, and decisions with no stated reason. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/unwritten"
+  },
+  {
+    "id": "prior-art",
+    "name": "Prior Art",
+    "author": "saiken",
+    "description": "Show similar existing notes while you write a new one, and merge duplicates without losing links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "israerusan/prior-art"
+  },
+  {
     "id": "cloud-webdav-sync",
     "name": "Cloud WebDAV Sync",
     "author": "SEVENTEEN",
@@ -40236,6 +40250,13 @@
     "repo": "anandrajbaghel/gate-calculator"
   },
   {
+    "id": "nightly-journal",
+    "name": "Nightly Journal",
+    "author": "David Mogollon",
+    "description": "A local AI interviews you at the end of your day and writes your journal for you: daily notes, people and projects, a confirmable writing plan, and a long-term memory you can ask questions. 100% local - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "damofer/nightly-journal"
+  },
+  {
     "id": "max-sync",
     "name": "MAX Sync",
     "author": "Victor Stupin",
@@ -40255,5 +40276,12 @@
     "author": "Jenn",
     "description": "Route data into Obsidian via WebSocket — Jenn Core output endpoint / Маршрутизация данных из Jenn Core в Obsidian через WebSocket - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kazantsev-v/obsidian-jenn-bridge"
+  },
+  {
+    "id": "granola-api-sync",
+    "name": "Granola API Sync",
+    "author": "Arshia Navabi",
+    "description": "Sync meeting notes and full transcripts from Granola into your vault using the official Granola API. Just paste an API key, no credential scraping. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arshiaecho/obsidian-granola-api-sync"
   }
 ]
