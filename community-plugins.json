@@ -24437,13 +24437,6 @@
     "repo": "greetclammy/copy-link"
   },
   {
-    "id": "seo",
-    "name": "Search Engine Optimization",
-    "author": "David V. Kimball",
-    "description": "Ensure your public-facing notes are optimized for search engines and AI. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "davidvkimball/obsidian-seo"
-  },
-  {
     "id": "speech-to-text",
     "name": "Speech to Text",
     "author": "asyouplz",
@@ -24778,13 +24771,6 @@
     "author": "dun8",
     "description": "Sync your Lichess/Chess.com games! - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dun8/Chess-Vault"
-  },
-  {
-    "id": "codeian",
-    "name": "Codeian",
-    "author": "wdblink",
-    "description": "Use Codex from a sidebar in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "wdblink/codein"
   },
   {
     "id": "cms-xgkb-sync",
@@ -25984,13 +25970,6 @@
     "repo": "fancive/obsidian-parallel-reader"
   },
   {
-    "id": "byoc",
-    "name": "Bring Your Own Cloud",
-    "author": "winters27",
-    "description": "A native cloud and device synchronization tool. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "winters27/obsidian-byoc"
-  },
-  {
     "id": "fsrs",
     "name": "FSRS",
     "author": "evgene-kopylov",
@@ -26936,13 +26915,6 @@
     "repo": "jheddings/obsidian-folderize"
   },
   {
-    "id": "aside",
-    "name": "Aside",
-    "author": "vicky469",
-    "description": "Side comments for humans and agents. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "vicky469/aside"
-  },
-  {
     "id": "markdown-minimap",
     "name": "Markdown Minimap",
     "author": "Nymbo",
@@ -27419,13 +27391,6 @@
     "repo": "cheng-zi-qing/stepvox"
   },
   {
-    "id": "remarkable-synchronizer",
-    "name": "Remarkable Synchronizer",
-    "author": "Sébastien Dubois",
-    "description": "Connect to the reMarkable cloud, list, download, and sync notebook pages as images. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dsebastien/obsidian-remarkable-sync"
-  },
-  {
     "id": "excerpt-outline-mindmap-editor",
     "name": "Excerpt-Outline-Mindmap-Editor",
     "author": "kpaede",
@@ -27592,13 +27557,6 @@
     "author": "Ryukyu HUB Inc.",
     "description": "Right-sidebar chat panel powered by Claude Code. Runs the `claude` CLI as a subprocess with the active vault as the working directory. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ryukyuhub/obsidian-claude-panel-ryukyuhub"
-  },
-  {
-    "id": "task-hub",
-    "name": "Task Hub",
-    "author": "Carlos",
-    "description": "Bring Obsidian tasks together with Apple Reminders, Apple Calendar on macOS. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "saralaaga/task-hub"
   },
   {
     "id": "vault-share",
@@ -28938,13 +28896,6 @@
     "repo": "goryugocast/atomic-insights"
   },
   {
-    "id": "excavelo",
-    "name": "ExcaVelo",
-    "author": "bibleCode21",
-    "description": "Transform raw memos into structured notes (meeting minutes, 1:1s, daily) using Claude. Works with Claude Code subscription or Anthropic API key. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "biblecode21/excavelo"
-  },
-  {
     "id": "formula-forge",
     "name": "Formula Forge",
     "author": "unxok",
@@ -29881,6 +29832,13 @@
     "author": "Max",
     "description": "Sync your vault to Spectacles AR glasses to explore your notes as a 3D knowledge graph. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "r3d5/obsidian-spectacles-sync"
+  },
+  {
+    "id": "bullet",
+    "name": "Bullet",
+    "author": "kdnk",
+    "description": "Work with your lists like in Workflowy or RoamResearch. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kdnk/obsidian-bullet"
   },
   {
     "id": "manuscript-outliner",
@@ -32618,13 +32576,6 @@
     "author": "Lam Phuc Hai",
     "description": "Capture daily check-ins in a right sidebar timeline with local-first markdown storage. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hailp-vn38/obsidian-dayline-plugin"
-  },
-  {
-    "id": "task-manager-bases-view",
-    "name": "Task Manager Bases View",
-    "author": "vastea",
-    "description": "Kanban, timeline and weekly-log views for tasks stored in your notes, powered by Bases. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "vastea/obsidian-task-manager-bases-view"
   },
   {
     "id": "react-kanban",
@@ -37576,13 +37527,6 @@
     "repo": "naggischnulu/obsidian-folder-limit"
   },
   {
-    "id": "ishibashi-web-clipper",
-    "name": "Ishibashi Web Clipper",
-    "author": "IshibashiCustomize",
-    "description": "Captures shared web links as Markdown notes with public metadata, duplicate checks, tags, and clip history. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ishibashi-c/ishibashi-web-clipper"
-  },
-  {
     "id": "basecraft",
     "name": "Basecraft",
     "author": "Hewnpath",
@@ -38750,13 +38694,6 @@
     "author": "Sharky",
     "description": "Sync your vault with Notion — preserves folder hierarchy, markdown formatting, internal links, metadata, and attachments. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kaventro/notion-sync"
-  },
-  {
-    "id": "config-sync",
-    "name": "Config Sync",
-    "author": "xooooooooox",
-    "description": "Selective, on-demand distribution of vault configuration (snippets, hotkeys, plugin settings) across devices and vaults. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "xooooooooox/obsidian-config-sync"
   },
   {
     "id": "wayback-linker",
@@ -40243,6 +40180,13 @@
     "repo": "kazantsev-v/obsidian-jenn-bridge"
   },
   {
+    "id": "chatobby",
+    "name": "Chatobby",
+    "author": "Madelyn",
+    "description": "Obsidian workspace for the local Chatobby agent runtime. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "titaniceclair/chatobby-obsidian"
+  },
+  {
     "id": "granola-api-sync",
     "name": "Granola API Sync",
     "author": "Arshia Navabi",
@@ -40262,5 +40206,26 @@
     "author": "saiken",
     "description": "Score every note's staleness from edits, opens, and inbound links, then work through a decay-ranked review queue. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "israerusan/patina"
+  },
+  {
+    "id": "daytask",
+    "name": "AgendaPane",
+    "author": "PeanutUp",
+    "description": "Plan one-off and recurring tasks in a sidebar calendar without creating Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "peanutup/AgendaPane"
+  },
+  {
+    "id": "quick-capture",
+    "name": "Quick Capture",
+    "author": "茜宁郑",
+    "description": "Capture text and links from iPhone or Android into your Obsidian vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhengxn1/quick-capture"
+  },
+  {
+    "id": "auto-equation-numbering",
+    "name": "Auto Equation Numbering",
+    "author": "Caoshengzhao",
+    "description": "Manually toggle and update display-equation numbering per document, and reuse the first number for duplicate equations. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wolframscs/obsidian-auto-equation-numbering"
   }
 ]
