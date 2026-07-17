@@ -18690,6 +18690,13 @@
     "repo": "tcatlas/obsidian-notes-calendar"
   },
   {
+    "id": "cloud-attach",
+    "name": "CloudAttach",
+    "author": "Garry",
+    "description": "Connect to OpenList and manage cloud attachments, insert signed file links into notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "curryhendry/obsidian-cloud-attach"
+  },
+  {
     "id": "ollama-notes-chat",
     "name": "Ollama Notes Chat",
     "author": "Taylor D. Marchetta",
@@ -21579,6 +21586,13 @@
     "author": "joaonoturno",
     "description": "Automatically replaces -- with — (em dash) - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "joaonoturno/Em-dash-plugin"
+  },
+  {
+    "id": "diary",
+    "name": "Diary",
+    "author": "pobsiz",
+    "description": "Yearly and monthly planner with date notes, range notes, and holiday support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pobsiz/obsidian-diary"
   },
   {
     "id": "anything-as-md",
@@ -27314,13 +27328,6 @@
     "repo": "wlankasper/obsidian-opencode-plugin"
   },
   {
-    "id": "pi-agent",
-    "name": "Pi Agent",
-    "author": "Christian Lempa",
-    "description": "Chat with Pi using context from your notes, links, backlinks, tags, and search results. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "christianlempa/obsidian-pi"
-  },
-  {
     "id": "local-audio-plus",
     "name": "Local Audio Plus",
     "author": "linziyan",
@@ -29580,6 +29587,13 @@
     "author": "Ouzhongyuan",
     "description": "Semantic search for Obsidian Vault via MCP - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ouou365/Semlink"
+  },
+  {
+    "id": "semantic-todoist-sync",
+    "name": "Semantic Todoist Sync",
+    "author": "Neurocloud",
+    "description": "BYOK semantic/AI vault search, Gemini/OpenAI-assisted Todoist task generation, using Notes-to-Todoist and Email-to-Todoist (optional) workflows. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "neurocloud-activate/semantic-todoist-sync"
   },
   {
     "id": "easy-link-to-daily-note",
@@ -39389,6 +39403,13 @@
     "repo": "jwczju/sticky-table-headers"
   },
   {
+    "id": "sr-popup-review",
+    "name": "Popup Review for Spaced Repetition",
+    "author": "uzusio",
+    "description": "Review your Spaced Repetition flashcards in a small always-on-top popup that appears at regular intervals. Companion plugin for the Spaced Repetition plugin. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "uzusio/obsidian-sr-popup-review"
+  },
+  {
     "id": "scroll-wheel-zoom",
     "name": "Scroll Wheel Zoom",
     "author": "Yinno",
@@ -39627,6 +39648,13 @@
     "repo": "arangutambo/weekly-meal-shopper"
   },
   {
+    "id": "zj-html-studio",
+    "name": "ZJ HTML Studio",
+    "author": "兆基",
+    "description": "Preview, search, inspect, and embed local HTML files with scoped resources, live reload, zoom, and full screen. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aidenxu-1/zj-html-studio"
+  },
+  {
     "id": "time-recorder",
     "name": "Time Recorder",
     "author": "Louie",
@@ -39685,7 +39713,7 @@
   {
     "id": "opal-companion",
     "name": "Opal Companion",
-    "author": "Cyrius",
+    "author": "Cyrius Weng",
     "description": "Companion for the Opal theme: a visual picker for per-note page states, accent recolour, layout, callouts, coloured highlights, task states and image layouts — preview each before you apply it. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cyriusweng/opal-companion"
   },
@@ -40080,5 +40108,12 @@
     "author": "Ling",
     "description": "Sync selected Markdown notes from Obsidian to Ling. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zavixai/ling-sync-obsidian"
+  },
+  {
+    "id": "bases-timeline",
+    "name": "Bases Timeline",
+    "author": "Mattia Stella",
+    "description": "Notion-style timeline view for Bases: plan project notes on draggable bars with statuses, priorities and dates. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mmattia09/obsidian-project-manager"
   }
 ]

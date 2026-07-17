@@ -4421,7 +4421,7 @@
   },
   {
     "name": "Opal",
-    "author": "Cyrius",
+    "author": "Cyrius Weng",
     "repo": "cyriusweng/opal-theme",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
