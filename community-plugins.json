@@ -36666,6 +36666,13 @@
     "repo": "viy1204/smart-red-public"
   },
   {
+    "id": "momentum-life",
+    "name": "Momentum Life",
+    "author": "Jaime Nagase",
+    "description": "All-in-one life dashboard for habits, tasks, fitness, nutrition and studies, stored as plain Markdown notes in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jnagase/obsidian-momentum"
+  },
+  {
     "id": "film-artist-search",
     "name": "Film Artist Search",
     "author": "Hamza Moiyadi",
@@ -37490,13 +37497,6 @@
     "author": "MaverickHQ",
     "description": "Focused speed reading for Obsidian notes with in-note highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maverickhq/obsidian-vault-reader"
-  },
-  {
-    "id": "auto-headings",
-    "name": "Auto Headings",
-    "author": "AArlert",
-    "description": "Automatic heading numbering with fully customizable templates, per-folder rules, whitelist and backlink sync. Bilingual UI (English / 中文). - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "aarlert/obsidian-auto-headings"
   },
   {
     "id": "bullet-time",
@@ -40579,6 +40579,13 @@
     "repo": "fangface-hub/ObsidianSharedVault"
   },
   {
+    "id": "footprint-map",
+    "name": "Footprint Map",
+    "author": "evanwong",
+    "description": "Render local photo footprints as interactive time-ordered maps. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "evanwong89/footprint-map"
+  },
+  {
     "id": "tasknotes-agenda-wrapper",
     "name": "TaskNotes Agenda Wrapper",
     "author": "toyotathief",
@@ -40612,5 +40619,12 @@
     "author": "fengwei4707@gmail.com",
     "description": "Publish Markdown notes to multiple WeChat Official Accounts. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kianzzz/obsidian-wechat-publisher"
+  },
+  {
+    "id": "table-layout-helper",
+    "name": "Table Layout Helper",
+    "author": "xcloud-ai",
+    "description": "Customize table layout, column width, text wrapping, alignment, overflow, and sticky headers. Replaces hand-written CSS snippets. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xcloud-ai/table-layout-helper"
   }
 ]
