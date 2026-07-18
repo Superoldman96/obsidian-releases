@@ -37457,13 +37457,6 @@
     "repo": "waldemar-one/obsidian-empty-tab"
   },
   {
-    "id": "bamboo-immortals",
-    "name": "Bamboo Immortals",
-    "author": "羽鳞君",
-    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "miaoziguan/obsidian-bamboo-immortals"
-  },
-  {
     "id": "pie-tasks",
     "name": "Pie Tasks",
     "author": "Pie Of Mind",
@@ -37518,6 +37511,13 @@
     "author": "MaverickHQ",
     "description": "Focused speed reading for Obsidian notes with in-note highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maverickhq/obsidian-vault-reader"
+  },
+  {
+    "id": "auto-headings",
+    "name": "Auto Headings",
+    "author": "AArlert",
+    "description": "Automatic heading numbering with fully customizable templates, per-folder rules, whitelist and backlink sync. Bilingual UI (English / 中文). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aarlert/obsidian-auto-headings"
   },
   {
     "id": "bullet-time",
@@ -40495,6 +40495,13 @@
     "repo": "monapdx/obsidian-skeletal"
   },
   {
+    "id": "anatomed",
+    "name": "Anatomed 3D Anatomy",
+    "author": "fabijan",
+    "description": "Embed interactive, region-isolated 3D anatomy in your notes. Write a region in an anatomed code block to get a rotatable, validated 3D model with a toggleable legend. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pitfa19/anatomed-obsidian"
+  },
+  {
     "id": "slashosaurus",
     "name": "Slashosaurus",
     "author": "polygonhunter",
@@ -40621,6 +40628,13 @@
     "repo": "svm0n/obsidian-rollup-to-pdf"
   },
   {
+    "id": "lmath",
+    "name": "LMath",
+    "author": "Lenin",
+    "description": "Graph functions, systems, derivatives and integrals in interactive blocks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lubriedev/lmath"
+  },
+  {
     "id": "manushelf",
     "name": "Manushelf",
     "author": "ivan94",
@@ -40682,5 +40696,19 @@
     "author": "zhangyuting",
     "description": "Local-first task execution, focus sessions, reviews, and reusable experience. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "879076256/task-companion"
+  },
+  {
+    "id": "sync-lastfm",
+    "name": "Sync Last.fm",
+    "author": "Jaival",
+    "description": "Seamlessly fetch scrobbles, artists, albums and cover art from Last.fm and auto creates notes with properties which can be directly used in Base. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jaival-11/lastfm-obsidian-plugin"
+  },
+  {
+    "id": "details-markdown",
+    "name": "Details Markdown",
+    "author": "Nickolay Kondratyev",
+    "description": "Render Markdown (headings, lists, tables, links, embeds) inside native HTML details blocks in Reading view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nickolay-kondratyev/obsidian-plugin-collapsible-details"
   }
 ]
