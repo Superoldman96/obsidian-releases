@@ -2716,6 +2716,13 @@
     "repo": "julesguesnon/obsidian-markdown-shortcuts"
   },
   {
+    "id": "digitalgarden",
+    "name": "Digital Garden",
+    "author": "oleeskild",
+    "description": "Publish your notes to a digital garden for others to enjoy.",
+    "repo": "oleeskild/obsidian-digital-garden"
+  },
+  {
     "id": "obsidian-hotkeys-chords",
     "name": "Hotkeys Chords",
     "author": "trenta3",
@@ -27636,6 +27643,13 @@
     "repo": "randonneurs/daily-saying-kr"
   },
   {
+    "id": "note-village",
+    "name": "Note Village",
+    "author": "Sébastien Dubois",
+    "description": "A 2D pixel art village where your notes become villagers you can explore and chat with using AI - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dsebastien/obsidian-note-village"
+  },
+  {
     "id": "excalidash-sync",
     "name": "ExcaliDash sync",
     "author": "SirEdvin",
@@ -34013,13 +34027,6 @@
     "repo": "patruusbarba/ObsidianSpoilerPlugin"
   },
   {
-    "id": "plaud-importer",
-    "name": "Plaud Importer",
-    "author": "Charles Kelsoe",
-    "description": "Import meeting summaries, transcripts, and attachments from Plaud.AI into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ckelsoe/obsidian-plaud-importer"
-  },
-  {
     "id": "cite-engine",
     "name": "Cite Engine",
     "author": "Nick",
@@ -38724,13 +38731,6 @@
     "repo": "astraaaa02/Obsidian-Torch-Cursor"
   },
   {
-    "id": "omni-viewer",
-    "name": "Omni Viewer",
-    "author": "battlecook",
-    "description": "View audio, image, video, archive, csv, DBC, ARXML, A2L, ASC, BLF, MF4, Avro, ROS bag, PCAP, PCAPNG, STEP, DB3, ReqIF, excel, word, powerpoint, parquet, Shapefile, HDF5, MAT, jsonl, yaml, toml, markdown, mermaid, PlantUML, hwp, PSD and PDF files inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "battlecook/omni-viewer-obsidian"
-  },
-  {
     "id": "schematex",
     "name": "Schematex",
     "author": "Maarten Peels",
@@ -40619,5 +40619,12 @@
     "author": "xcloud-ai",
     "description": "Customize table layout, column width, text wrapping, alignment, overflow, and sticky headers. Replaces hand-written CSS snippets. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xcloud-ai/table-layout-helper"
+  },
+  {
+    "id": "writing-activity-calendar",
+    "name": "Writing Activity Calendar",
+    "author": "soul",
+    "description": "Track net words written across your vault in a GitHub-style yearly heatmap and local contribution log. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mershedsoulaiman/obsidian-heatmap"
   }
 ]
