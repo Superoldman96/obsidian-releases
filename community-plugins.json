@@ -31712,7 +31712,7 @@
   {
     "id": "day-planner-enhanced",
     "name": "Day Planner Enhanced",
-    "author": "jagaldol",
+    "author": "Hyejun An",
     "description": "A day planner with an enhanced timeline UI and readable nested schedules. Based on Day Planner 0.33.0. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jagaldol/obsidian-day-planner-enhanced"
   },
@@ -40276,13 +40276,6 @@
     "author": "Steve",
     "description": "Explore dated notes in configurable timeline lanes and a dockable overview. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "roasted-nz/chronicle-lanes"
-  },
-  {
-    "id": "ob-super-copy",
-    "name": "Super Copy",
-    "author": "Tiger",
-    "description": "Copy vault files on macOS, copy note contents, and insert Markdown code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "oktiger/ob-super-copy"
   },
   {
     "id": "corvidae",
