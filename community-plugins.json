@@ -10069,7 +10069,7 @@
     "id": "slurp",
     "name": "Slurp",
     "author": "inhumantsar",
-    "description": "Slurps webpages and saves them as clean, uncluttered Markdown.",
+    "description": "Saves webpages as clean, uncluttered Markdown.",
     "repo": "inhumantsar/slurp"
   },
   {
@@ -22538,6 +22538,13 @@
     "author": "huluntuntao",
     "description": "Run, format, and share Golang code snippets using the Go Playground API. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "huluntuntao/go-playground-plugin-for-obsidian"
+  },
+  {
+    "id": "strava-periodic-note-sync",
+    "name": "Strava Periodic Note Sync",
+    "author": "jamesjarvis",
+    "description": "Sync Strava activities to your periodic notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jamesjarvis/obsidian-strava-periodic-sync"
   },
   {
     "id": "qmd-search",
