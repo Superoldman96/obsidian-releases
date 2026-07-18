@@ -24524,7 +24524,7 @@
     "id": "pairwise-glicko-ranking",
     "name": "Pairwise Glicko Ranking",
     "author": "Jack Williams",
-    "description": "Easily sort notes by any subjective criteria - Rank cohorts of notes in your vault by pairwise comparisons using the Glicko rating system. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Easily sort notes by any subjective criteria - Rank and compare cohorts of notes by pairwise comparisons using the Glicko rating system. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "williamsjack/pairwise-glicko-ranking"
   },
   {
@@ -26210,7 +26210,7 @@
   {
     "id": "make-it-rain",
     "name": "Make It Rain",
-    "author": "Jonathan Wagner",
+    "author": "Jonathan 'frostmute' Wagner",
     "description": "Pull Raindrop.io bookmarks, highlights, and attachments into Markdown notes with rich metadata, smart folder structures, and native file support. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "frostmute/make-it-rain"
   },
@@ -27634,13 +27634,6 @@
     "author": "Rando209",
     "description": "Insert a random Korean saying into the current note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "randonneurs/daily-saying-kr"
-  },
-  {
-    "id": "note-village",
-    "name": "Note Village",
-    "author": "Sébastien Dubois",
-    "description": "A 2D pixel art village where your notes become villagers you can explore and chat with using AI - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dsebastien/obsidian-note-village"
   },
   {
     "id": "excalidash-sync",
@@ -40252,7 +40245,7 @@
   {
     "id": "tetromino",
     "name": "Tetromino",
-    "author": "Jonathan Wagner",
+    "author": "Jonathan 'frostmute' Wagner",
     "description": "One-way import Are.na blocks and attachments into your vault as Markdown notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "frostmute/tetromino"
   },
@@ -40605,5 +40598,19 @@
     "author": "toyotathief",
     "description": "A simple, styled Today's Agenda window for TaskNotes — stats, a date-grouped list, and quick task entry, for a sidebar pane or embedded in a note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "toya-co/tasknotes-agenda-wrapper"
+  },
+  {
+    "id": "rollup-to-pdf",
+    "name": "Rollup to PDF",
+    "author": "SVM0N",
+    "description": "Compile a tree of wiki-linked notes into a single formatted PDF via Pandoc, with heading-relative nesting and inline or appendix-style page expansion. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "svm0n/obsidian-rollup-to-pdf"
+  },
+  {
+    "id": "manushelf",
+    "name": "Manushelf",
+    "author": "ivan94",
+    "description": "Browse Markdown manuscripts on a responsive, tactile 3D bookshelf. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ivan-94/obsidian-plugin-manushelf"
   }
 ]
