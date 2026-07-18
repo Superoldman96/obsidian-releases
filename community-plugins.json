@@ -24654,6 +24654,13 @@
     "repo": "uthvah/vaultguard"
   },
   {
+    "id": "equation-citator",
+    "name": "Equation Citator",
+    "author": "friedparrot",
+    "description": "A powerful LaTeX-like Academic Citation Tool for equations, figures, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "friedparrot/obsidian-equation-citator"
+  },
+  {
     "id": "stomp",
     "name": "STOMP",
     "author": "Jason Heddings",
@@ -25065,13 +25072,6 @@
     "author": "ranjugao",
     "description": "Local bridge for using vault notes with Codex and importing replies. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ranjugao/codex-bridge"
-  },
-  {
-    "id": "task-timestamp-marker",
-    "name": "Task Timestamp Marker",
-    "author": "gansxx",
-    "description": "Mark task timestamp and Archieve tasks. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "gansxx/task_manager"
   },
   {
     "id": "simple-merge",
@@ -40572,6 +40572,13 @@
     "repo": "xupisco/obsidian-yabacavi"
   },
   {
+    "id": "inline-graph",
+    "name": "Inline Graph",
+    "author": "SVM0N",
+    "description": "Render inline force-directed node graphs from gr code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "svm0n/obsidian-inline-graph"
+  },
+  {
     "id": "gremlins",
     "name": "Gremlins",
     "author": "xryul",
@@ -40584,5 +40591,19 @@
     "author": "lanjak",
     "description": "Syncs this vault to a self-hosted Qdrant collection instead of Obsidian Sync/CouchDB - every note is embedded for semantic search from agent tooling too. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lanjak/obsidian-qdrant-sync"
+  },
+  {
+    "id": "shared-vault",
+    "name": "Shared Vault",
+    "author": "fangface-hub",
+    "description": "Serverless, conflict-free collaboration layer for shared vaults. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fangface-hub/ObsidianSharedVault"
+  },
+  {
+    "id": "tasknotes-agenda-wrapper",
+    "name": "TaskNotes Agenda Wrapper",
+    "author": "toyotathief",
+    "description": "A simple, styled Today's Agenda window for TaskNotes — stats, a date-grouped list, and quick task entry, for a sidebar pane or embedded in a note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "toya-co/tasknotes-agenda-wrapper"
   }
 ]
