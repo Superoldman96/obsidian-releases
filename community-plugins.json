@@ -40390,13 +40390,6 @@
     "repo": "anthonyfitzpatrick/manuscript-compiler"
   },
   {
-    "id": "chatobby",
-    "name": "Chatobby",
-    "author": "Madelyn",
-    "description": "Obsidian workspace for the local Chatobby agent runtime. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "titaniceclair/chatobby-obsidian"
-  },
-  {
     "id": "granola-api-sync",
     "name": "Granola API Sync",
     "author": "StratosHouse",
