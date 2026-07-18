@@ -37457,6 +37457,13 @@
     "repo": "waldemar-one/obsidian-empty-tab"
   },
   {
+    "id": "bamboo-immortals",
+    "name": "Bamboo Immortals",
+    "author": "羽鳞君",
+    "description": "Bamboo Immortals（竹林修仙传）— 基于OGAS理念的中国风目标自动化管理系统。A Chinese-style goal automation system based on OGAS concepts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "miaoziguan/obsidian-bamboo-immortals"
+  },
+  {
     "id": "pie-tasks",
     "name": "Pie Tasks",
     "author": "Pie Of Mind",
@@ -40710,5 +40717,19 @@
     "author": "Nickolay Kondratyev",
     "description": "Render Markdown (headings, lists, tables, links, embeds) inside native HTML details blocks in Reading view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nickolay-kondratyev/obsidian-plugin-collapsible-details"
+  },
+  {
+    "id": "toc-block",
+    "name": "TOC Block",
+    "author": "Glenn R. Martin",
+    "description": "Type a Typora-style [TOC] tag — or your own regex patterns, even a code-fence marker — anywhere in a note to render a live table of contents built from its headings. Choose to show it as links or hide it in Live Preview. Insert it via the command palette or right-click menu, and it stays in sync as headings change, with real links in Reading View. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grmartin/obsidian-toc-block-plugin"
+  },
+  {
+    "id": "word-smith",
+    "name": "Word-Smith",
+    "author": "sadsnake1",
+    "description": "Distraction-free writing suite - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sadsnake1/word-smith"
   }
 ]
