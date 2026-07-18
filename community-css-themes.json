@@ -4084,13 +4084,6 @@
     "modes": ["dark"]
   },
   {
-    "name": "Clawdia",
-    "author": "TheShield2594",
-    "repo": "theshield2594/clawdia-obsidian-theme",
-    "screenshot": "screenshot.png",
-    "modes": ["dark", "light"]
-  },
-  {
     "name": "Lapfly",
     "author": "John Cattrall",
     "repo": "johncattrall/obsidian-lapfly",

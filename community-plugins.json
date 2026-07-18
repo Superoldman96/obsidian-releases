@@ -31713,7 +31713,7 @@
     "id": "day-planner-enhanced",
     "name": "Day Planner Enhanced",
     "author": "jagaldol",
-    "description": "A day planner with an enhanced timeline UI and readable nested schedules. Based on Day Planner 0.31.0. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A day planner with an enhanced timeline UI and readable nested schedules. Based on Day Planner 0.33.0. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jagaldol/obsidian-day-planner-enhanced"
   },
   {
@@ -33129,13 +33129,6 @@
     "author": "lksrpp",
     "description": "Search for books with high-resolution covers and create new notes based on your template. Supports searching via Google Book API, Open Library, Apple Store. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lksrpp/obsidian-book-search-covers"
-  },
-  {
-    "id": "theme-plume",
-    "name": "Theme Plume",
-    "author": "Eason596",
-    "description": "Render VuePress Theme Plume markdown containers (file-tree, tabs, steps, cards, and more) in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "eason596/obsidian-theme-plume"
   },
   {
     "id": "inline-secret-block",
@@ -35866,13 +35859,6 @@
     "author": "Real-Fruit-Snacks",
     "description": "Bookmark manager with four switchable layouts. Each bookmark is a Markdown file with YAML frontmatter — no proprietary database, no lock-in. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "real-fruit-snacks/Cove"
-  },
-  {
-    "id": "vault-viewer",
-    "name": "Vault Viewer",
-    "author": "zhouzeqiang",
-    "description": "Browse all file types, filter/sort, and preview Office documents in Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zhouzeqiang/obsidian-vault-viewer"
   },
   {
     "id": "ai-rewrite",
@@ -40544,13 +40530,6 @@
     "repo": "xcloud-ai/quick-codeblock"
   },
   {
-    "id": "file-catalog",
-    "name": "File Catalog",
-    "author": "xcloud-ai",
-    "description": "Generate clickable table of contents from any Markdown file headings. Supports dynamic code block rendering, command insertion, custom heading levels, styling, and hotkey configuration with conflict detection. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "xcloud-ai/file-catalog"
-  },
-  {
     "id": "openloops-hidden-files",
     "name": "OpenLoops Hidden Files",
     "author": "Tony Maltais",
@@ -40586,6 +40565,13 @@
     "repo": "lanjak/obsidian-qdrant-sync"
   },
   {
+    "id": "cdrawer",
+    "name": "Commutative Diagram Editor",
+    "author": "Wang Haoxuan",
+    "description": "Insert and edit commutative diagrams on a fixed grid. Renders to SVG matching native CD styling. Export to tikz-cd and AMS CD. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hxuanwang/obsidian-cdrawer"
+  },
+  {
     "id": "shared-vault",
     "name": "Shared Vault",
     "author": "fangface-hub",
@@ -40612,5 +40598,19 @@
     "author": "ivan94",
     "description": "Browse Markdown manuscripts on a responsive, tactile 3D bookshelf. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ivan-94/obsidian-plugin-manushelf"
+  },
+  {
+    "id": "federated-emoji",
+    "name": "Federated Emoji",
+    "author": "ringeringeraja33",
+    "description": "Render and insert custom emoji from Mastodon and compatible federated instances. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ringeringeraja33/FederatedEmoji"
+  },
+  {
+    "id": "wechat-multi-publisher",
+    "name": "WeChat Multi Publisher",
+    "author": "fengwei4707@gmail.com",
+    "description": "Publish Markdown notes to multiple WeChat Official Accounts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kianzzz/obsidian-wechat-publisher"
   }
 ]
