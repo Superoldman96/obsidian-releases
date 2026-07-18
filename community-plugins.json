@@ -24465,6 +24465,13 @@
     "repo": "nwbort/obsidian-harvest"
   },
   {
+    "id": "image-link-updater",
+    "name": "Image Link Updater",
+    "author": "andy51002000",
+    "description": "Automatically updates markdown image links when image files are renamed or moved in the vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "andy51002000/obsidian-image-link-updater"
+  },
+  {
     "id": "copy-link",
     "name": "Copy Link",
     "author": "greetclammy",
@@ -34027,6 +34034,13 @@
     "repo": "patruusbarba/ObsidianSpoilerPlugin"
   },
   {
+    "id": "plaud-importer",
+    "name": "Plaud Importer",
+    "author": "Charles Kelsoe",
+    "description": "Import meeting summaries, transcripts, and attachments from Plaud.AI into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ckelsoe/obsidian-plaud-importer"
+  },
+  {
     "id": "cite-engine",
     "name": "Cite Engine",
     "author": "Nick",
@@ -34751,7 +34765,7 @@
     "id": "interlinear",
     "name": "Interlinear",
     "author": "Yupeng Lin",
-    "description": "Translate notes paragraph by paragraph in reading view — bilingual or translation-only alongside the original, without ever modifying your files. BYOK (DeepSeek or any OpenAI-compatible endpoint). - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Paragraph-by-paragraph translation in Obsidian Reading view — bilingual or translation-only, with BYOK LLM and machine-translation backends. Never modifies your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "linyp/obsidian-interlinear"
   },
   {
@@ -40516,6 +40530,13 @@
     "repo": "mmattia09/obsidian-project-manager"
   },
   {
+    "id": "drive-attachments",
+    "name": "Drive Attachments",
+    "author": "Kim Dongryeong",
+    "description": "Search Google Drive and insert durable Drive-link notes, and upload dropped files to Drive instead of the vault — with content-hash dedup. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kim-dongryeong/obsidian-drive-attachments"
+  },
+  {
     "id": "quick-codeblock",
     "name": "Quick CodeBlock",
     "author": "xcloud-ai",
@@ -40549,6 +40570,13 @@
     "author": "xryul",
     "description": "Reveal invisible Unicode characters and suspicious indentation in notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xryul/gremlins"
+  },
+  {
+    "id": "leif",
+    "name": "Leif",
+    "author": "Luiz Gustavo",
+    "description": "Organize concursos, ciclos, editais, materiais e sessões de estudo. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ttusk/leif"
   },
   {
     "id": "qdrant-sync",
@@ -40626,5 +40654,26 @@
     "author": "soul",
     "description": "Track net words written across your vault in a GitHub-style yearly heatmap and local contribution log. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mershedsoulaiman/obsidian-heatmap"
+  },
+  {
+    "id": "header-filename",
+    "name": "Header Filename",
+    "author": "rbrauner",
+    "description": "Automatically renames files based on the first H1 heading, with kebab-case and Polish diacritics support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rbrauner/obsidian-header-filename"
+  },
+  {
+    "id": "vimium-navigation",
+    "name": "Vimium Navigation",
+    "author": "Giuseppe",
+    "description": "Navigate notes, links, sidebars, and tabs with Vimium-style keyboard controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "giuseqpe/vimium-for-obsidian"
+  },
+  {
+    "id": "lightweight-mentions",
+    "name": "Lightweight Mentions",
+    "author": "amato21",
+    "description": "Type a trigger character to mention anything: links to an existing note, or to a lightweight heading inside a shared stub file if no real note exists yet. Promote a mention to a full note whenever it deserves one. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "amato21/Lightweight-Mentions"
   }
 ]
