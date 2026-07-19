@@ -23408,13 +23408,6 @@
     "repo": "yy/obsidian-year-glance"
   },
   {
-    "id": "leetcode-template",
-    "name": "LeetCode template",
-    "author": "fennr",
-    "description": "Generate LeetCode problem templates in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "fennr/obsidian_leetcode_template"
-  },
-  {
     "id": "youtube-transcript-fetcher",
     "name": "YouTube transcript fetcher",
     "author": "Leif Jantzen",
@@ -26453,6 +26446,13 @@
     "repo": "krcnow/manex-brain"
   },
   {
+    "id": "ai-wiki",
+    "name": "AI Wiki",
+    "author": "Ilya",
+    "description": "AI-powered compoundable knowledge base — extracts, synthesizes and maintains a wiki from raw sources. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ikeniborn/obsidian-llm-wiki"
+  },
+  {
     "id": "copy-highlighter",
     "name": "Copy Highlighter",
     "author": "Nymbo",
@@ -28831,13 +28831,6 @@
     "author": "jabaho9523",
     "description": "Subscribe to calendars and create pre-filled meeting notes in one click. No drag-and-drop, no Outlook required. ICS-based, privacy-first. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jabaho9523/obsidian-meetings-plus"
-  },
-  {
-    "id": "aibrowser-chat",
-    "name": "OmniChat",
-    "author": "Mohammed Thanseer",
-    "description": "Embed ChatGPT, Claude, Gemini, Grok, DeepSeek, Kimi, Copliot, Manus and Perplexity in a sidebar. Send vault notes and selected text directly into AI chat. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "thansheer/AI-Chat"
   },
   {
     "id": "confluence-weaver",
@@ -37800,6 +37793,13 @@
     "repo": "jimmycarroll2021/obsidian-kg-forge"
   },
   {
+    "id": "noteflare",
+    "name": "NoteFlare",
+    "author": "Mohammed Thanseer",
+    "description": "Publish notes as a website and protect your vault with automatic private backups. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "thansheer/obsidian-noteflare"
+  },
+  {
     "id": "focus-first",
     "name": "Focus First",
     "author": "Christian Luger",
@@ -40425,6 +40425,13 @@
     "repo": "titaniceclair/chatobby-obsidian"
   },
   {
+    "id": "typing-stats",
+    "name": "Typing Stats",
+    "author": "Ryan Hardy",
+    "description": "A more productive way to build good typing habits. Compiles advanced typing stats as you take notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ryyhardy/obsidian-typing-stats"
+  },
+  {
     "id": "granola-api-sync",
     "name": "Granola API Sync",
     "author": "StratosHouse",
@@ -40733,6 +40740,13 @@
     "repo": "giuseqpe/vimium-for-obsidian"
   },
   {
+    "id": "lightweight-mentions",
+    "name": "Lightweight Mentions",
+    "author": "amato21",
+    "description": "Type a trigger character to mention anything: links to an existing note, or to a lightweight heading inside a shared stub file if no real note exists yet. Promote a mention to a full note whenever it deserves one. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "amato21/Lightweight-Mentions"
+  },
+  {
     "id": "agenter",
     "name": "Agenter",
     "author": "alinourizadeh",
@@ -40794,6 +40808,13 @@
     "author": "Ava li",
     "description": "Receive screenshots and video frames from the Visual Clipper Chrome extension over a local port and write structured notes into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "echore/vault-autopilot"
+  },
+  {
+    "id": "tvault",
+    "name": "TVault",
+    "author": "NameLess",
+    "description": "Lock your notes into an encrypted container and unlock them again, powered by the tvault-core CLI. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "namelesscorp/tvault-obsidian-plugin"
   },
   {
     "id": "rpg-scene-maker",
@@ -40969,5 +40990,26 @@
     "author": "West B",
     "description": "A calm, Markdown-first two-sided chat for self-distanced journaling and reflection. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "westb-dev/Solomon-Chat"
+  },
+  {
+    "id": "heading-linker",
+    "name": "Heading Linker",
+    "author": "max-fluff",
+    "description": "Auto-link unlinked mentions in your notes to headings in your glossary files, in any word form: plurals, declensions, verb endings, with stemming for six languages. Convert them to real wiki links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "max-fluff/obsidian-heading-linker"
+  },
+  {
+    "id": "expiry-manager",
+    "name": "Expiry Manager",
+    "author": "Sahil A",
+    "description": "Track anything that expires, renews, or needs periodic attention. Manage subscriptions, documents, licenses, and more. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sahilium/expiry-manager"
+  },
+  {
+    "id": "reference-linker",
+    "name": "Reference Linker",
+    "author": "max-fluff",
+    "description": "Deep-link your notes to PDFs, Office files, and images outside your vault. Autocomplete a document or a PDF section and jump to the exact page. Hover to preview the page, embed it inline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "max-fluff/obsidian-reference-linker"
   }
 ]

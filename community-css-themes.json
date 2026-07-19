@@ -3839,6 +3839,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "An Old Hope",
+    "author": "Bill Anastas",
+    "repo": "banastas/an-old-hope-obsidian-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Atelier",
     "author": "Subhadip",
     "repo": "bsbbera/atelier-obsidian",
