@@ -24864,6 +24864,13 @@
     "repo": "yllucsyeoj/quackblocks"
   },
   {
+    "id": "surface-notes",
+    "name": "Surface",
+    "author": "mistergf",
+    "description": "Automatically gathers all your date-based and keyword-marked notes into one sidebar view, so your past thoughts are always easy to find. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mistergf/obsidian-surface"
+  },
+  {
     "id": "wechat-article",
     "name": "WeChat Article Composer",
     "author": "frankl1u",
@@ -40754,10 +40761,45 @@
     "repo": "hansai-art/obsidian-tw-tts"
   },
   {
+    "id": "vault-autopilot",
+    "name": "Vault Autopilot",
+    "author": "Ava li",
+    "description": "Receive screenshots and video frames from the Visual Clipper Chrome extension over a local port and write structured notes into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "echore/vault-autopilot"
+  },
+  {
+    "id": "rpg-scene-maker",
+    "name": "RPG Scene Maker",
+    "author": "Mateusz Tomanek",
+    "description": "Trigger RPG Scene Maker scenes, events and sounds from your notes with inline buttons. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vegolas/obsidian-rpg-scene-maker"
+  },
+  {
     "id": "my-spaces",
     "name": "My Spaces",
     "author": "Hieu Cong",
     "description": "Create clean, minimal spaces to control which files and folders appear in your sidebar. Managing your file tree shouldn't be hard or clunky. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hyeucong/obsidian-my-spaces"
+  },
+  {
+    "id": "trans-hub-plugin-localizer",
+    "name": "Trans-Hub Localizer",
+    "author": "Saken",
+    "description": "Automatically translate and localize Obsidian community plugin names, descriptions, and interfaces into your preferred language with Trans-Hub. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sakenw/trans-hub-obsidian-localizer"
+  },
+  {
+    "id": "icloud-notes",
+    "name": "Apple Notes Sync",
+    "author": "Adam Coddington",
+    "description": "Sync a vault folder with your iCloud Notes via the icloud-md CLI. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "coddingtonbear/obsidian-icloud-notes"
+  },
+  {
+    "id": "draftline",
+    "name": "Draftline",
+    "author": "Noah Zender",
+    "description": "Create manual Markdown version snapshots and compare them with Lex-style inline diffs. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "noahzender/draftline"
   }
 ]
