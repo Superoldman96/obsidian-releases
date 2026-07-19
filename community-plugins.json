@@ -23513,6 +23513,13 @@
     "repo": "ahmed-hegazi0/image-importer"
   },
   {
+    "id": "obsimap",
+    "name": "Simple Mindmap",
+    "author": "creative781",
+    "description": "A powerful keyboard-centric mind map plugin with bi-directional link support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "creative781/obsimap"
+  },
+  {
     "id": "vault-intelligence",
     "name": "Vault Intelligence",
     "author": "cybaea",
@@ -24666,13 +24673,6 @@
     "author": "uthvah",
     "description": "Secure your vault with a beautiful lockscreen and industry-standard AES-GCM encryption. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "uthvah/vaultguard"
-  },
-  {
-    "id": "equation-citator",
-    "name": "Equation Citator",
-    "author": "friedparrot",
-    "description": "A powerful LaTeX-like Academic Citation Tool for equations, figures, and more. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "friedparrot/obsidian-equation-citator"
   },
   {
     "id": "stomp",
@@ -27879,13 +27879,6 @@
     "author": "Miranda",
     "description": "Track your energy levels and activities across 6 daily time slots for 30 days. Data is stored locally in your Vault. Supports Chinese and English. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "minus1min/obsidian-energy-tracker"
-  },
-  {
-    "id": "eink-sync",
-    "name": "E-Ink Sync",
-    "author": "hwangso595",
-    "description": "Local-first bridge between reMarkable tablet and Obsidian. Extract PDF highlights as markdown without cloud dependency. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "hwangso595/eink-sync"
   },
   {
     "id": "get-importer-sync",
@@ -40808,5 +40801,19 @@
     "author": "Mohammed Hussain",
     "description": "Watch YouTube videos in the right sidebar while you take notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "msh-01/obsidian-youtube-panel"
+  },
+  {
+    "id": "bible-reference-index",
+    "name": "Bible Reference Index",
+    "author": "the_nights",
+    "description": "Creates a lightweight index of Bible references and related notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "thenights20/obsidian-bible-reference-index"
+  },
+  {
+    "id": "toc-reader",
+    "name": "TOC Reader",
+    "author": "renyeren",
+    "description": "Render Typora-style [TOC] as a clickable, nested table of contents in both reading view and Live Preview. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "muzi-xiaoren/Obsidian--TOC--reader"
   }
 ]
