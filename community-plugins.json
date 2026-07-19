@@ -28833,6 +28833,13 @@
     "repo": "jabaho9523/obsidian-meetings-plus"
   },
   {
+    "id": "aibrowser-chat",
+    "name": "OmniChat",
+    "author": "Mohammed Thanseer",
+    "description": "Embed ChatGPT, Claude, Gemini, Grok, DeepSeek, Kimi, Copliot, Manus and Perplexity in a sidebar. Send vault notes and selected text directly into AI chat. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "thansheer/AI-Chat"
+  },
+  {
     "id": "confluence-weaver",
     "name": "Confluence Weaver",
     "author": "HJ",
@@ -36799,6 +36806,13 @@
     "repo": "nnyj/obsidian-indented-table"
   },
   {
+    "id": "konbini-kanban",
+    "name": "Konbini Kanban",
+    "author": "Nick",
+    "description": "Organize notes as a Linear-style kanban board in a Bases view, with status columns, drag-to-restatus, priority, labels, and sub-issues. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nicholasvo/konbini-kanban"
+  },
+  {
     "id": "khiip",
     "name": "Khiip",
     "author": "Khiip",
@@ -36839,6 +36853,13 @@
     "author": "Olivier Rouiller",
     "description": "Publish your vault notes for free in a few clicks - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "oilandrust/obsidian-github-publish"
+  },
+  {
+    "id": "slide-deck",
+    "name": "Slide Deck",
+    "author": "Johannes Kaindl",
+    "description": "Turn a Markdown note into a slide deck and export it to PDF or a PNG image series, with live readability checks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "johannes-kaindl/slide-deck"
   },
   {
     "id": "learning-practice-coevolution",
@@ -40811,7 +40832,7 @@
   },
   {
     "id": "tvault",
-    "name": "TVault",
+    "name": "TrustVault",
     "author": "NameLess",
     "description": "Lock your notes into an encrypted container and unlock them again, powered by the tvault-core CLI. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "namelesscorp/tvault-obsidian-plugin"
@@ -41011,5 +41032,26 @@
     "author": "max-fluff",
     "description": "Deep-link your notes to PDFs, Office files, and images outside your vault. Autocomplete a document or a PDF section and jump to the exact page. Hover to preview the page, embed it inline. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "max-fluff/obsidian-reference-linker"
+  },
+  {
+    "id": "digital-dogear",
+    "name": "Digital Dogear",
+    "author": "Dylan Wright",
+    "description": "Track books, shows, podcasts, comics, and more with one-line 'dogear' entries in your notes — ranges, auto-rolling, and sequence-break warnings. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dyllonwright/Digital-Dogear"
+  },
+  {
+    "id": "mac-autocorrect",
+    "name": "macOS Autocorrect",
+    "author": "Ninsuhn Rey",
+    "description": "Autocorrect as you type, powered by the native macOS spellchecker (NSSpellChecker), with the Electron spellchecker as a fallback. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ninsuhnrey/mac-autocorrect"
+  },
+  {
+    "id": "llm-token-count",
+    "name": "LLM Token Count",
+    "author": "William Hardesty",
+    "description": "Accurate LLM token counts in the status bar — GLM-5.2/GPT/Qwen/DeepSeek exact, Claude/Gemini approx. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hardes11/llm-token-count"
   }
 ]
