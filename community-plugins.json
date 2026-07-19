@@ -24017,6 +24017,13 @@
     "repo": "banisterious/obsidian-charted-roots"
   },
   {
+    "id": "save-modified-times",
+    "name": "Save Modified Times",
+    "author": "emklasson",
+    "description": "Save and restore notes' last modified times/dates (mtime). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "emklasson/obsidian-save-modified-times"
+  },
+  {
     "id": "priority-matrix",
     "name": "Priority Matrix",
     "author": "murtazaraza",
@@ -36113,6 +36120,13 @@
     "repo": "arias007/obsidian-ntfy"
   },
   {
+    "id": "cancip",
+    "name": "Cancip",
+    "author": "Murat",
+    "description": "AI side panel for vault read&write, memory context, and safe note assistance. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arias007/cancip"
+  },
+  {
     "id": "canvas-layer-order",
     "name": "Canvas Layer Order",
     "author": "fengzhe",
@@ -39571,6 +39585,13 @@
     "repo": "goopii/heading-handler"
   },
   {
+    "id": "fancy-kanban",
+    "name": "Fancy Kanban",
+    "author": "Roberto Allende",
+    "description": "Kanban that finally lives where your notes do. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "robertoallende/fancy-kanban"
+  },
+  {
     "id": "yijing-oracle",
     "name": "Yijing Oracle",
     "author": "Johannes Kaindl",
@@ -40775,13 +40796,6 @@
     "repo": "echore/vault-autopilot"
   },
   {
-    "id": "rpg-scene-maker",
-    "name": "RPG Scene Maker",
-    "author": "Mateusz Tomanek",
-    "description": "Trigger RPG Scene Maker scenes, events and sounds from your notes with inline buttons. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "vegolas/obsidian-rpg-scene-maker"
-  },
-  {
     "id": "my-spaces",
     "name": "My Spaces",
     "author": "Hieu Cong",
@@ -40845,6 +40859,13 @@
     "repo": "muzi-xiaoren/Obsidian--TOC--reader"
   },
   {
+    "id": "wetongbu",
+    "name": "WeTongbu",
+    "author": "felix ne",
+    "description": "将微信文章、飞书文档和文章型网页同步到 Obsidian。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ygx2378/wetongbu-obsidian-plugin"
+  },
+  {
     "id": "line-multi-selector",
     "name": "line-multi-selector",
     "author": "ibarv",
@@ -40871,5 +40892,12 @@
     "author": "Museday",
     "description": "Connect Obsidian with MarginNote to import cards, send notes, and export vault documents as PDFs. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "temsys-shen/ostracon-ob"
+  },
+  {
+    "id": "clippings-dedupe",
+    "name": "Clippings Dedupe",
+    "author": "Soma Sekimoto",
+    "description": "Merge duplicate highlights that Web Clipper appends when re-clipping a page, while protecting the comments you write under each quote. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "somasekimoto/obsidian-clippings-dedupe"
   }
 ]
