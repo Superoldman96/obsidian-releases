@@ -27846,13 +27846,6 @@
     "repo": "derek-larson14/obsidian-claude-anywhere"
   },
   {
-    "id": "zotflow",
-    "name": "ZotFlow",
-    "author": "Xianpi Duan",
-    "description": "Keep your research in flow! #Zotero #PDF #Annotation - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "duanxianpi/zotflow"
-  },
-  {
     "id": "convert-case",
     "name": "Convert case",
     "author": "Ryan Morrissey",
@@ -30866,7 +30859,7 @@
     "id": "regex-css-highlighter",
     "name": "SwiftGlossa",
     "author": "swiSwift",
-    "description": "Highlight text with regex + custom CSS. Add interlinear notes, keyword remarks with backlinks, AI relation graphs, and AskMe questions to deepen understanding. (Formerly Regex CSS Highlighter) - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Highlight text with regex + custom CSS. Add interlinear notes, remarks with backlinks, AI relation graphs, AskMe, & floating notes (in-app or standalone). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dlsdgj/obsidian-regex-css-highlighter"
   },
   {
@@ -38752,6 +38745,13 @@
     "repo": "astraaaa02/Obsidian-Torch-Cursor"
   },
   {
+    "id": "omni-viewer",
+    "name": "Omni Viewer",
+    "author": "battlecook",
+    "description": "View audio, image, video, archive, csv, DBC, ARXML, A2L, ASC, BLF, MF4, Avro, ROS bag, PCAP, PCAPNG, STEP, DB3, ReqIF, excel, word, powerpoint, parquet, Shapefile, HDF5, MAT, jsonl, yaml, toml, markdown, mermaid, PlantUML, hwp, PSD and PDF files inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "battlecook/omni-viewer-obsidian"
+  },
+  {
     "id": "schematex",
     "name": "Schematex",
     "author": "Maarten Peels",
@@ -40642,6 +40642,13 @@
     "repo": "svm0n/obsidian-rollup-to-pdf"
   },
   {
+    "id": "workout-block",
+    "name": "Workout Block",
+    "author": "wanguliux",
+    "description": "A flexible workout tracker: customize workout types, log fields, derived stats, muscle heatmaps, and training plans. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wanguliux/workout-block"
+  },
+  {
     "id": "lmath",
     "name": "LMath",
     "author": "Lenin",
@@ -40803,11 +40810,25 @@
     "repo": "msh-01/obsidian-youtube-panel"
   },
   {
+    "id": "doc-preview",
+    "name": "Doc Preview",
+    "author": "notenerd",
+    "description": "Preview PowerPoint and Word documents inside Obsidian. Automatically refreshes when you, Claude, or another AI agent makes changes to the file, so your preview is always up to date. Renders via a local LibreOffice install (bring your own, or install one from Settings). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "notenerdofficial/doc-preview"
+  },
+  {
     "id": "bible-reference-index",
     "name": "Bible Reference Index",
     "author": "the_nights",
     "description": "Creates a lightweight index of Bible references and related notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "thenights20/obsidian-bible-reference-index"
+  },
+  {
+    "id": "openwhispr-sync",
+    "name": "OpenWhispr Sync",
+    "author": "Sam K",
+    "description": "Sync your OpenWhispr notes and speaker-labeled transcripts into your Obsidian vault using the OpenWhispr CLI. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "samkawsarani/OpenWhispr-to-Obsidian"
   },
   {
     "id": "toc-reader",
