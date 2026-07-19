@@ -23513,13 +23513,6 @@
     "repo": "ahmed-hegazi0/image-importer"
   },
   {
-    "id": "obsimap",
-    "name": "Simple Mindmap",
-    "author": "creative781",
-    "description": "A powerful keyboard-centric mind map plugin with bi-directional link support. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "creative781/obsimap"
-  },
-  {
     "id": "vault-intelligence",
     "name": "Vault Intelligence",
     "author": "cybaea",
@@ -40572,6 +40565,13 @@
     "repo": "xcloud-ai/quick-codeblock"
   },
   {
+    "id": "file-catalog",
+    "name": "XU File Catalog",
+    "author": "xcloud-ai",
+    "description": "Generate clickable table of contents from any Markdown file headings. Supports dynamic code block rendering, command insertion, custom heading levels, styling, and hotkey configuration with conflict detection. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xcloud-ai/file-catalog"
+  },
+  {
     "id": "openloops-hidden-files",
     "name": "OpenLoops Hidden Files",
     "author": "Tony Maltais",
@@ -40799,7 +40799,14 @@
     "id": "draftline",
     "name": "Draftline",
     "author": "Noah Zender",
-    "description": "Create manual Markdown version snapshots and compare them with Lex-style inline diffs. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Create manual Markdown version snapshots and compare them with inline diffs. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "noahzender/draftline"
+  },
+  {
+    "id": "youtube-panel",
+    "name": "YouTube Panel",
+    "author": "Mohammed Hussain",
+    "description": "Watch YouTube videos in the right sidebar while you take notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "msh-01/obsidian-youtube-panel"
   }
 ]
