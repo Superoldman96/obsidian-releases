@@ -25060,6 +25060,13 @@
     "repo": "rgomezjnr/copy-notes-to-vault"
   },
   {
+    "id": "callout-studio",
+    "name": "Callout Studio",
+    "author": "niv20",
+    "description": "Callout Studio is a comprehensive toolkit featuring custom types, autocomplete, context menu actions, and support for Lucide, Material icons and emojis. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "niv20/obsidian-Plugin-Callout-Studio"
+  },
+  {
     "id": "akaire",
     "name": "Akaire",
     "author": "asonas",
@@ -30450,13 +30457,6 @@
     "repo": "mikuloverfan/draft-paper"
   },
   {
-    "id": "plugin-name-locker",
-    "name": "Name Locker",
-    "author": "Ivan",
-    "description": "Lock custom display names for your installed plugins so they persist through updates. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "agarcabin/plugin-name-locker"
-  },
-  {
     "id": "project-view",
     "name": "Project View",
     "author": "ngchenghow",
@@ -33619,6 +33619,13 @@
     "author": "yaye.work",
     "description": "Build mermaid flowcharts visually. Enuf said. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "yaye-work/obsidian-draw-a-mermaid"
+  },
+  {
+    "id": "arxiv-daily",
+    "name": "arXiv Daily",
+    "author": "Da-Chuan Tian",
+    "description": "Daily arXiv tracker that filters and summarizes papers via LLM into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tdccccc/arxiv-daily"
   },
   {
     "id": "pageden-sync",
@@ -39270,6 +39277,13 @@
     "repo": "khunpoom/Thai-bracket-remap"
   },
   {
+    "id": "frontmatter-cleaner",
+    "name": "Frontmatter Cleaner",
+    "author": "sharfaroz",
+    "description": "View the current file's frontmatter properties in a tap-friendly modal and delete the ones you select. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sharfaroz7/frontmatter-cleaner"
+  },
+  {
     "id": "search-exploder",
     "name": "Search Exploder",
     "author": "Jason Klein",
@@ -39555,13 +39569,6 @@
     "author": "Malte Henriksson",
     "description": "Smart heading commands that respect document hierarchy and indentation. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "goopii/heading-handler"
-  },
-  {
-    "id": "fancy-kanban",
-    "name": "Fancy Kanban",
-    "author": "Roberto Allende",
-    "description": "Kanban that finally lives where your notes do. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "robertoallende/fancy-kanban"
   },
   {
     "id": "yijing-oracle",
@@ -40542,6 +40549,13 @@
     "author": "Kim Dongryeong",
     "description": "Search Google Drive and insert durable Drive-link notes, and upload dropped files to Drive instead of the vault — with content-hash dedup. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kim-dongryeong/obsidian-drive-attachments"
+  },
+  {
+    "id": "task-syncer",
+    "name": "Task Syncer",
+    "author": "Wyson Cheng",
+    "description": "Sync tasks with Microsoft To Do and TickTick. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ysonc/obsidian-tasks-syncer"
   },
   {
     "id": "quick-codeblock",
