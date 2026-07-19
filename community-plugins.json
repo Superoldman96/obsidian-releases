@@ -27846,6 +27846,13 @@
     "repo": "derek-larson14/obsidian-claude-anywhere"
   },
   {
+    "id": "zotflow",
+    "name": "ZotFlow",
+    "author": "Xianpi Duan",
+    "description": "Keep your research in flow! #Zotero #PDF #Annotation - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "duanxianpi/zotflow"
+  },
+  {
     "id": "convert-case",
     "name": "Convert case",
     "author": "Ryan Morrissey",
@@ -36792,13 +36799,6 @@
     "repo": "nnyj/obsidian-indented-table"
   },
   {
-    "id": "konbini-kanban",
-    "name": "Konbini Kanban",
-    "author": "Nick",
-    "description": "Organize notes as a Linear-style kanban board in a Bases view, with status columns, drag-to-restatus, priority, labels, and sub-issues. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "nicholasvo/konbini-kanban"
-  },
-  {
     "id": "khiip",
     "name": "Khiip",
     "author": "Khiip",
@@ -40376,6 +40376,13 @@
     "repo": "kazantsev-v/obsidian-jenn-bridge"
   },
   {
+    "id": "task-manager",
+    "name": "Task Manager",
+    "author": "IT039",
+    "description": "Manage tasks and create configurable daily work reports from an Obsidian sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "itnq18/obsidian-task-manager"
+  },
+  {
     "id": "fiction-book-reader",
     "name": "FB2 Reader",
     "author": "Mark Beerman",
@@ -40836,5 +40843,12 @@
     "author": "renyeren",
     "description": "Render Typora-style [TOC] as a clickable, nested table of contents in both reading view and Live Preview. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "muzi-xiaoren/Obsidian--TOC--reader"
+  },
+  {
+    "id": "line-multi-selector",
+    "name": "line-multi-selector",
+    "author": "ibarv",
+    "description": "Implement multi-line selection via line-number regions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ibarv/obsidian_line-multi-selector"
   }
 ]
