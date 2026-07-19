@@ -40733,13 +40733,6 @@
     "repo": "giuseqpe/vimium-for-obsidian"
   },
   {
-    "id": "lightweight-mentions",
-    "name": "Lightweight Mentions",
-    "author": "amato21",
-    "description": "Type a trigger character to mention anything: links to an existing note, or to a lightweight heading inside a shared stub file if no real note exists yet. Promote a mention to a full note whenever it deserves one. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "amato21/Lightweight-Mentions"
-  },
-  {
     "id": "task-companion",
     "name": "Task Companion",
     "author": "zhangyuting",
@@ -40894,10 +40887,45 @@
     "repo": "temsys-shen/ostracon-ob"
   },
   {
+    "id": "crochet-weaver",
+    "name": "Crochet Weaver",
+    "author": "EvanLyu",
+    "description": "Render crochet stitch charts and progress tools from text patterns in Obsidian code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "evanlyu/obsidian-crochet-weaver"
+  },
+  {
     "id": "clippings-dedupe",
     "name": "Clippings Dedupe",
     "author": "Soma Sekimoto",
     "description": "Merge duplicate highlights that Web Clipper appends when re-clipping a page, while protecting the comments you write under each quote. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "somasekimoto/obsidian-clippings-dedupe"
+  },
+  {
+    "id": "dogear",
+    "name": "Dogear",
+    "author": "Masoud Masoumi",
+    "description": "Track your reading: search for books, log progress by page, percent, or listening time, and keep notes on every book in one place. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "masoudmim/obsidian-dogear"
+  },
+  {
+    "id": "claudian-plus",
+    "name": "Claudian Plus",
+    "author": "wuyifan-code",
+    "description": "A Codex-first enhanced Claudian fork for local-first knowledge work in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wuyifan-code/Claudian-plus"
+  },
+  {
+    "id": "knowstruct",
+    "name": "KnowStruct",
+    "author": "jackyun6",
+    "description": "Turn documents into Markdown flashcards, reviews, and connected Canvas mind maps. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jackyun6/knowstruct"
+  },
+  {
+    "id": "stratify-mindmap",
+    "name": "Stratify Mindmap",
+    "author": "LK",
+    "description": "Turn Markdown notes into deep, editable mind maps with drag-and-drop and keyboard navigation. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lywooye/stratify-mindmap"
   }
 ]
