@@ -25060,13 +25060,6 @@
     "repo": "rgomezjnr/copy-notes-to-vault"
   },
   {
-    "id": "callout-studio",
-    "name": "Callout Studio",
-    "author": "niv20",
-    "description": "Callout Studio is a comprehensive toolkit featuring custom types, autocomplete, context menu actions, and support for Lucide, Material icons and emojis. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "niv20/obsidian-Plugin-Callout-Studio"
-  },
-  {
     "id": "akaire",
     "name": "Akaire",
     "author": "asonas",
@@ -36113,13 +36106,6 @@
     "repo": "arias007/obsidian-ntfy"
   },
   {
-    "id": "cancip",
-    "name": "Cancip",
-    "author": "Murat",
-    "description": "AI side panel for vault read&write, memory context, and safe note assistance. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "arias007/cancip"
-  },
-  {
     "id": "canvas-layer-order",
     "name": "Canvas Layer Order",
     "author": "fengzhe",
@@ -39189,7 +39175,7 @@
     "id": "audio-timestamp-player",
     "name": "Audio Timestamp Player",
     "author": "IT039",
-    "description": "Play audio embeds from clickable transcript timestamps. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Play video and audio embeds from clickable transcript timestamps. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "itnq18/obsidian-audio-timestamp-player"
   },
   {
@@ -40685,7 +40671,7 @@
   },
   {
     "id": "table-layout-helper",
-    "name": "Table Layout Helper",
+    "name": "XU Table Layout Helper",
     "author": "xcloud-ai",
     "description": "Customize table layout, column width, text wrapping, alignment, overflow, and sticky headers. Replaces hand-written CSS snippets. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xcloud-ai/table-layout-helper"
@@ -40850,5 +40836,26 @@
     "author": "ibarv",
     "description": "Implement multi-line selection via line-number regions. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ibarv/obsidian_line-multi-selector"
+  },
+  {
+    "id": "user-prompt-optimizer",
+    "name": "User Prompt Optimizer",
+    "author": "chuanqz",
+    "description": "Select a prompt and refine it with an LLM. Two modes: template-driven structured optimization, and template-free light polishing (disambiguate / dedupe / mark missing info with placeholders). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chuanqq/user-prompt-optimizer"
+  },
+  {
+    "id": "checkbox-status",
+    "name": "Checkbox Status",
+    "author": "emklasson",
+    "description": "Show checked and total checkbox counts in the status bar and/or a separate view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "emklasson/obsidian-checkbox-status"
+  },
+  {
+    "id": "ostracon-ob",
+    "name": "Ostracon OB",
+    "author": "Museday",
+    "description": "Connect Obsidian with MarginNote to import cards, send notes, and export vault documents as PDFs. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "temsys-shen/ostracon-ob"
   }
 ]

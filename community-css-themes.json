@@ -3545,6 +3545,13 @@
     "modes": ["dark"]
   },
   {
+    "name": "Palenight",
+    "author": "nnniv",
+    "repo": "nnniv/palenight.obsidian",
+    "screenshot": "assets/screenshot.png",
+    "modes": ["dark"]
+  },
+  {
     "name": "Monokai Syntax",
     "author": "darkings",
     "repo": "darkings/Obsidian-MonokaiSyntax",
