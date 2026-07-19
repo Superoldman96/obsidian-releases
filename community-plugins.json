@@ -38780,13 +38780,6 @@
     "repo": "fahera-mx/obsidian.alissa.app"
   },
   {
-    "id": "piclinker",
-    "name": "PicLinker",
-    "author": "Coeris",
-    "description": "一款面向 Obsidian 的全库图片资产管理工具，覆盖扫描、去重、比对、批量等操作。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "coeris/PicLinker"
-  },
-  {
     "id": "mirror-archive",
     "name": "Mirror Archive",
     "author": "MapleCheng",
@@ -40362,6 +40355,13 @@
     "repo": "anandrajbaghel/gate-calculator"
   },
   {
+    "id": "storyforge",
+    "name": "storyForge",
+    "author": "volcanicMole",
+    "description": "A minimalist novel-writing workspace: series/book ordering, word-count history, and a scoped codex, built on plain markdown you already own. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kennyrn/storyForge"
+  },
+  {
     "id": "nightly-journal",
     "name": "Nightly Journal",
     "author": "David Mogollon",
@@ -40733,6 +40733,13 @@
     "repo": "giuseqpe/vimium-for-obsidian"
   },
   {
+    "id": "agenter",
+    "name": "Agenter",
+    "author": "alinourizadeh",
+    "description": "Chat with AI providers in Obsidian using vault-scoped tools for notes, web search, selected text, custom prompts, and approval-based edits. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ali-nourix/Agenter"
+  },
+  {
     "id": "task-companion",
     "name": "Task Companion",
     "author": "zhangyuting",
@@ -40789,6 +40796,13 @@
     "repo": "echore/vault-autopilot"
   },
   {
+    "id": "rpg-scene-maker",
+    "name": "Ambient Director",
+    "author": "Mateusz Tomanek",
+    "description": "Trigger Ambient Director scenes, events and sounds from your notes with inline buttons. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vegolas/obsidian-rpg-scene-maker"
+  },
+  {
     "id": "my-spaces",
     "name": "My Spaces",
     "author": "Hieu Cong",
@@ -40806,7 +40820,7 @@
     "id": "icloud-notes",
     "name": "Apple Notes Sync",
     "author": "Adam Coddington",
-    "description": "Sync a vault folder with your iCloud Notes via the icloud-md CLI. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Sync a vault folder with your Apple Notes via the icloud-md CLI. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "coddingtonbear/obsidian-icloud-notes"
   },
   {
@@ -40822,6 +40836,13 @@
     "author": "Mohammed Hussain",
     "description": "Watch YouTube videos in the right sidebar while you take notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "msh-01/obsidian-youtube-panel"
+  },
+  {
+    "id": "tag-visibility",
+    "name": "Tag Visibility",
+    "author": "Prisant Labs",
+    "description": "Control which tags are visible across Obsidian's UI: hide, flag, or always-show any tag. Display-only, file-safe, fully reversible. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "prisant-labs/obsidian-tag-visibility"
   },
   {
     "id": "doc-preview",
@@ -40894,6 +40915,13 @@
     "repo": "evanlyu/obsidian-crochet-weaver"
   },
   {
+    "id": "google-drive-mirror",
+    "name": "Google Drive Mirror",
+    "author": "Pascal  Lauener",
+    "description": "Sync multiple vault folders to multiple Google Drive folders, including Shared Drives. Each pairing syncs a subfolder or the whole vault two-way, mirrors the folder structure, and picks up files created directly in Drive. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "laupas/google-drive-mirror"
+  },
+  {
     "id": "clippings-dedupe",
     "name": "Clippings Dedupe",
     "author": "Soma Sekimoto",
@@ -40927,5 +40955,19 @@
     "author": "LK",
     "description": "Turn Markdown notes into deep, editable mind maps with drag-and-drop and keyboard navigation. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lywooye/stratify-mindmap"
+  },
+  {
+    "id": "autoicons",
+    "name": "AutoIcons",
+    "author": "Anuj Dhakal",
+    "description": "Automatically adds icons to files and folders based on frontmatter, custom rules, and file type. auto icon - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "anuzdhk/autoicon"
+  },
+  {
+    "id": "solomon-chat",
+    "name": "Solomon Chat",
+    "author": "West B",
+    "description": "A calm, Markdown-first two-sided chat for self-distanced journaling and reflection. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "westb-dev/Solomon-Chat"
   }
 ]
