@@ -7007,13 +7007,6 @@
     "repo": "julix14/chatGPT-Obsidian"
   },
   {
-    "id": "local-backup",
-    "name": "Local Backup",
-    "author": "velviagris",
-    "description": "Automatically creates a local backup of the vault.",
-    "repo": "velviagris/obsidian-local-backup"
-  },
-  {
     "id": "battlesnake-viewer",
     "name": "BattleSnake Board Viewer",
     "author": "enderinvader",
@@ -24577,13 +24570,6 @@
     "repo": "haperone/local-image-compress"
   },
   {
-    "id": "agenda-tasks",
-    "name": "Agenda Tasks",
-    "author": "elias-shalom",
-    "description": "Agenda provide intuitive task management interfaces and calendar views. Seamlessly integrate with your existing notes while organizing tasks across multiple views. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "elias-shalom/obsidian-agenda"
-  },
-  {
     "id": "typst-pdf-export",
     "name": "Typst PDF Export",
     "author": "alexkucera",
@@ -27114,7 +27100,7 @@
     "id": "vault-curate",
     "name": "Vault Curate",
     "author": "Jacob Mei",
-    "description": "Hybrid semantic search for your vault notes. BM25 + WebGPU embedding + fuzzy retrieval, Multilingual, with particularly strong Chinese/CJK support, with optional LLM - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A local-first second brain for Obsidian — semantic search · relation graph · semantic paths · Hot/Cold rediscovery · strong Chinese/CJK · WebGPU on-device · no API keys. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "notoriouslab/vault-curate"
   },
   {
@@ -28360,7 +28346,7 @@
     "id": "fit-pdf",
     "name": "Fix PDF",
     "author": "Tomas Gutierrez",
-    "description": "Open PDFs using fit height by default instead of fit width - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Open PDFs with custom settings - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "t0masgutierrez/fit-pdf"
   },
   {
@@ -32693,7 +32679,7 @@
     "id": "react-kanban",
     "name": "React Kanban",
     "author": "Marcel Reis-Soubkovsky",
-    "description": "Render markdown-backed Kanban boards in Obsidian with a React UI. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A modern Kanban board for Obsidian that works with your existing Markdown boards. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "marcelrsoub/react-kanban"
   },
   {
@@ -40922,6 +40908,13 @@
     "repo": "notenerdofficial/doc-preview"
   },
   {
+    "id": "bible-reference-index",
+    "name": "Indice Nights",
+    "author": "the_nights",
+    "description": "Creates a lightweight index of Bible references and related notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "thenights20/obsidian-bible-reference-index"
+  },
+  {
     "id": "openwhispr-sync",
     "name": "OpenWhispr Sync",
     "author": "Sam K",
@@ -41165,5 +41158,19 @@
     "author": "Johannes Kaindl",
     "description": "Import Apple Health exports and explore your health data in charts and tables. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "johannes-kaindl/health-vitals"
+  },
+  {
+    "id": "interval-timer",
+    "name": "Interval Timer",
+    "author": "tamiroh",
+    "description": "Run configurable focus and break cycles for methods like the Pomodoro Technique, and track completed intervals on your task lines. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tamiroh/obsidian-interval-timer"
+  },
+  {
+    "id": "gridsense",
+    "name": "GridSense",
+    "author": "Grub Basket",
+    "description": "Excel-grade editable grid over your notes' frontmatter: multi-cell selection, fill down/right, find & replace in selection, keyboard-first editing, heading-content columns. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/gridsense"
   }
 ]
