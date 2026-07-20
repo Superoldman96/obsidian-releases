@@ -35889,6 +35889,13 @@
     "repo": "real-fruit-snacks/Cove"
   },
   {
+    "id": "vault-viewer",
+    "name": "Vault Viewer",
+    "author": "zhouzeqiang",
+    "description": "Browse all file types, filter/sort, and preview Office documents in Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhouzeqiang/obsidian-vault-viewer"
+  },
+  {
     "id": "ai-rewrite",
     "name": "AI Rewrite",
     "author": "masaki39",
