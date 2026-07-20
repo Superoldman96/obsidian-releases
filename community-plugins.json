@@ -29064,13 +29064,6 @@
     "repo": "rockorolla/obsidian-easy-wikilink"
   },
   {
-    "id": "easy-tikz",
-    "name": "Easy TikZ",
-    "author": "Saiki77",
-    "description": "Visually design TikZ and pgfplots graphs with a live SVG preview. Supports 2D functions, 3D surfaces, tangents, extrema, and one-click code insertion. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "saiki77/easy-tikz"
-  },
-  {
     "id": "quickclip-organize",
     "name": "Quick Organize",
     "author": "Vipul Bansal",
@@ -33523,6 +33516,13 @@
     "repo": "arias007/notedraw"
   },
   {
+    "id": "letterhead",
+    "name": "Letterhead",
+    "author": "Johannes Kaindl",
+    "description": "Generate professionally formatted business letters (DIN 5008 and modern) from note frontmatter and export them to PDF — via the print dialog on desktop, or the system share sheet on iPhone and iPad. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "johannes-kaindl/obsidian-letterhead"
+  },
+  {
     "id": "auto-scroll",
     "name": "Auto Scroll",
     "author": "femto",
@@ -34289,7 +34289,7 @@
     "id": "reverysky-map",
     "name": "ReverySky Map",
     "author": "MoonSkorch Studio",
-    "description": "Navigate your vault through an interactive 3D graph built with a game engine and shaped into an explorable universe. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Interactive 3D graph built with a game engine and shaped into an explorable universe. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "moonskorch/ReverySky-Plugin"
   },
   {
@@ -34389,6 +34389,13 @@
     "author": "Afan",
     "description": "Export Markdown notes into clean, readable HTML pages with table of contents and in-app reading. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "afanos/notes-to-html-pages"
+  },
+  {
+    "id": "google-docs-sync",
+    "name": "Google Docs Sync",
+    "author": "Ori Kabeli",
+    "description": "Publish a note to Google Docs and keep the two in two-way sync, auto-merging changes and surfacing real conflicts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kwanum/obsidian-docs-sync"
   },
   {
     "id": "audio-inbox",
@@ -40110,6 +40117,13 @@
     "repo": "jcig789/ledgr"
   },
   {
+    "id": "constellations",
+    "name": "Constellations",
+    "author": "NikShukrem",
+    "description": "A 3D star map alternative to Graph View: notes are stars, shared tags form constellations, top-level folders form universes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nikshukrem/obsidian-constellations"
+  },
+  {
     "id": "nuance-excalidraw-pen-sound",
     "name": "Nuance - Excalidraw Pen Sound",
     "author": "Nuance",
@@ -41109,5 +41123,19 @@
     "author": "valleytheknight",
     "description": "Move a Kanban card to your Complete lane the moment its checkbox is checked, with an optional completion-date stamp. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "chrisairbrown-del/Kanban-Complete-Mover"
+  },
+  {
+    "id": "mood-journal",
+    "name": "Mood Journal",
+    "author": "nyonyataro",
+    "description": "Quickly log mood, activities, and notes to daily notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nyonyataro/obsidian-mood-journal"
+  },
+  {
+    "id": "fileclass",
+    "name": "Fileclass",
+    "author": "mdelobelle",
+    "description": "Schemas, typed fields & data quality for your vault — powered by Bases. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mdelobelle/fileclass"
   }
 ]
