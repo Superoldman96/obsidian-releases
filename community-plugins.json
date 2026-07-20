@@ -30128,6 +30128,13 @@
     "repo": "xuhuaya0/obsidian-plan-panel"
   },
   {
+    "id": "notes-exporter",
+    "name": "Notes Exporter",
+    "author": "anton",
+    "description": "Decorate exported Apple Notes and Bear Notes with native app icons. Open notes in their source app. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "podviaznikov/notes-exporter-obsidian"
+  },
+  {
     "id": "dyresearch-sidecar",
     "name": "DyResearch AI Sidecar",
     "author": "Dylan Tartarini",
@@ -37541,13 +37548,6 @@
     "repo": "jamescliffordspratt/obsidian-habits"
   },
   {
-    "id": "inkedmark",
-    "name": "InkedMark",
-    "author": "Liqpil",
-    "description": "Handwrite inside your markdown notes with pressure-aware ink, a searchable text layer, inline sketches, and Apple Pencil support. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "pcrausaz/obsidian-inkedmark"
-  },
-  {
     "id": "task-deck",
     "name": "Task Deck",
     "author": "Ismail Ivanov",
@@ -41137,5 +41137,12 @@
     "author": "mdelobelle",
     "description": "Schemas, typed fields & data quality for your vault — powered by Bases. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mdelobelle/fileclass"
+  },
+  {
+    "id": "tag-to-page",
+    "name": "Tag to Page",
+    "author": "AQiong 阿琼",
+    "description": "Click #tag to navigate to [[tag]] page like Logseq - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "agarcabin/obsdian-tag-to-page"
   }
 ]
