@@ -41067,5 +41067,12 @@
     "author": "William Hardesty",
     "description": "Accurate LLM token counts in the status bar — GLM-5.2/GPT/Qwen/DeepSeek exact, Claude/Gemini approx. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hardes11/llm-token-count"
+  },
+  {
+    "id": "image-glance",
+    "name": "Image Glance",
+    "author": "chenjhu",
+    "description": "Shows marked images as compact inline thumbnails with a larger hover or tap preview. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chenjhu/image-glance"
   }
 ]
