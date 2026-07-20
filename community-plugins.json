@@ -27639,7 +27639,7 @@
     "id": "opencode",
     "name": "OpenCode",
     "author": "krisspy",
-    "description": "Use OpenCode CLI without leaving your vault. (Linux only) - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Use OpenCode CLI without leaving your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kriss-spy/obsidian-opencode"
   },
   {
@@ -28488,6 +28488,13 @@
     "author": "isragdd",
     "description": "Create isolated, highly customizable and interactive progress bars. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "isragdd12/simple-progressbar"
+  },
+  {
+    "id": "web-novel-assistant",
+    "name": "WebNovel Assistant",
+    "author": "HatanoChihiro",
+    "description": "A comprehensive Obsidian plugin for web novel writers. Track word counts, goals, and focus time. Manage foreshadowing, timelines, and timed tasks. Includes a bilingual UI and OBS overlay. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hatanochihiro/obsidian-webnovel-assistant"
   },
   {
     "id": "ghost-publish",
@@ -34277,6 +34284,13 @@
     "author": "CozeBoy",
     "description": "Save online images, base64 data, and bare image URLs in notes to local storage with configurable paths, batch conversion, and right-click support. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cozeboy/Image2Local"
+  },
+  {
+    "id": "reverysky-map",
+    "name": "ReverySky Map",
+    "author": "MoonSkorch Studio",
+    "description": "Navigate your vault through an interactive 3D graph built with a game engine and shaped into an explorable universe. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "moonskorch/ReverySky-Plugin"
   },
   {
     "id": "publish-status",
@@ -41081,5 +41095,19 @@
     "author": "kellybrendan",
     "description": "A JSON-based life timeline. Group events under colored eras, add events with date ranges, and edit everything inline. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kellybrendan/obsidian-life-timeline"
+  },
+  {
+    "id": "footprint-studio",
+    "name": "Footprint Studio",
+    "author": "vsme",
+    "description": "Create and edit travel footprint notes with maps, photos, and structured metadata. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vsme/obsidian-footprint-studio"
+  },
+  {
+    "id": "kanban-complete-mover",
+    "name": "Kanban Complete Mover",
+    "author": "valleytheknight",
+    "description": "Move a Kanban card to your Complete lane the moment its checkbox is checked, with an optional completion-date stamp. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chrisairbrown-del/Kanban-Complete-Mover"
   }
 ]
