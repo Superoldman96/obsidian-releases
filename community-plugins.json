@@ -21647,7 +21647,7 @@
     "id": "diary",
     "name": "Diary",
     "author": "pobsiz",
-    "description": "Yearly and monthly planner with date notes, range notes, and holiday support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Turn date-based Markdown notes into yearly, monthly, daily, and 3-day planners with ranges, recurrence, reminders, holidays, and calendar overlays. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "pobsiz/obsidian-diary"
   },
   {
@@ -26992,6 +26992,13 @@
     "repo": "jheddings/obsidian-folderize"
   },
   {
+    "id": "aside",
+    "name": "Aside",
+    "author": "vicky469",
+    "description": "Side comments for humans and agents. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vicky469/aside"
+  },
+  {
     "id": "markdown-minimap",
     "name": "Markdown Minimap",
     "author": "Nymbo",
@@ -28481,13 +28488,6 @@
     "author": "isragdd",
     "description": "Create isolated, highly customizable and interactive progress bars. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "isragdd12/simple-progressbar"
-  },
-  {
-    "id": "web-novel-assistant",
-    "name": "WebNovel Assistant",
-    "author": "HatanoChihiro",
-    "description": "A comprehensive Obsidian plugin for web novel writers. Track word counts, goals, and focus time. Manage foreshadowing, timelines, and timed tasks. Includes a bilingual UI and OBS overlay. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "hatanochihiro/obsidian-webnovel-assistant"
   },
   {
     "id": "ghost-publish",
@@ -40908,13 +40908,6 @@
     "repo": "notenerdofficial/doc-preview"
   },
   {
-    "id": "bible-reference-index",
-    "name": "Bible Reference Index",
-    "author": "the_nights",
-    "description": "Creates a lightweight index of Bible references and related notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "thenights20/obsidian-bible-reference-index"
-  },
-  {
     "id": "openwhispr-sync",
     "name": "OpenWhispr Sync",
     "author": "Sam K",
@@ -41020,6 +41013,13 @@
     "repo": "anuzdhk/autoicon"
   },
   {
+    "id": "animelist",
+    "name": "AnimeList",
+    "author": "cwh555",
+    "description": "A local-first anime, manga, and novel library backed by Markdown, with metadata search, covers, ratings, templates, filters, and a completion timeline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cwh555/AnimeList"
+  },
+  {
     "id": "solomon-chat",
     "name": "Solomon Chat",
     "author": "West B",
@@ -41074,5 +41074,12 @@
     "author": "chenjhu",
     "description": "Shows marked images as compact inline thumbnails with a larger hover or tap preview. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "chenjhu/image-glance"
+  },
+  {
+    "id": "life-timeline",
+    "name": "Life Timeline",
+    "author": "kellybrendan",
+    "description": "A JSON-based life timeline. Group events under colored eras, add events with date ranges, and edit everything inline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kellybrendan/obsidian-life-timeline"
   }
 ]
