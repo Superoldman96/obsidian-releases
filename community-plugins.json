@@ -41172,5 +41172,19 @@
     "author": "Magnus Wållberg",
     "description": "Slugify filename from note title - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hoxi/tidy-titles"
+  },
+  {
+    "id": "vim-commands",
+    "name": "Vim Commands",
+    "author": "Mateusz Kowalczyk",
+    "description": "Map any Obsidian command to Vim-style multi-key sequences that work everywhere, not only in the editor. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mateuszkowalczyk/obsidian-vim-commands"
+  },
+  {
+    "id": "auto-date-on-open",
+    "name": "Auto Date on Open",
+    "author": "Kaicui",
+    "description": "Adds today's date to a note when you open it, using your own line template, date format and choice of which notes to include. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kaicuichen-git/Obsidian-date-on-open"
   }
 ]
