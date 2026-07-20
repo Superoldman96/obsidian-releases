@@ -20576,7 +20576,7 @@
     "id": "voxtral-transcribe",
     "name": "Voxtral Transcribe",
     "author": "Max",
-    "description": "Real-time dictation into markdown with voice commands and automatic correction, plus transcription of existing audio files in your vault. EU based with Mistral's latest and excellent Voxtral model - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Talk, type and structure in one flow: high-quality dictation with auto-correction, on desktop and mobile. Voice commands for headings, lists and to-dos in 13 languages. File transcription included. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maxonamission/obsidian-voxtral"
   },
   {
@@ -40570,6 +40570,13 @@
     "author": "Higa Fuyuki",
     "description": "Kanban board driven by note frontmatter properties. Creating, moving, and deleting cards stays in sync with note properties, with swimlanes, quick actions, and parent/child links. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "maitake4211/property-kanban"
+  },
+  {
+    "id": "fluent-tasks",
+    "name": "Fluent Tasks",
+    "author": "Jeff1024",
+    "description": "A beautiful, drag-and-drop task manager inspired by Fluent Design. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "2607044640/fluent-tasks"
   },
   {
     "id": "ling-sync",
