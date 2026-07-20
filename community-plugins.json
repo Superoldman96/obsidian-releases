@@ -15750,13 +15750,6 @@
     "repo": "shane-lamb/obsidian-llm-docs"
   },
   {
-    "id": "tick-tones",
-    "name": "Tick Tones",
-    "author": "DontBlameMe",
-    "description": "Plays your custom tone/sound when you tick/complete a checkbox",
-    "repo": "dontblameme99/Tick-Tones"
-  },
-  {
     "id": "model-viewer",
     "name": "Model Viewer",
     "author": "janispritzkau",
@@ -21698,13 +21691,6 @@
     "author": "antoineart",
     "description": "Adds back/forward navigation arrows to the top bar, next to the sidebar collapse button. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "antoineart/obsidian-nav-buttons"
-  },
-  {
-    "id": "gtd-tasks",
-    "name": "GTD Tasks",
-    "author": "unpreditable",
-    "description": "A dedicated panel to organize tasks across the vault using the Getting Things Done methodology (Today, This Week, Someday…) - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "unpreditable/GettingThingsDone"
   },
   {
     "id": "highlight-on-copy",
@@ -38857,13 +38843,6 @@
     "repo": "ansango/obsidian-slugify"
   },
   {
-    "id": "jira-confluence-converter",
-    "name": "Jira Confluence Converter",
-    "author": "Ildar Kamalov",
-    "description": "Copy Markdown as Jira Wiki Markup or Confluence rich text - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "topk36/obsidian-jira-confluence-converter"
-  },
-  {
     "id": "voice-scribe",
     "name": "Voice Scribe",
     "author": "mrrepac",
@@ -38883,13 +38862,6 @@
     "author": "Sharky",
     "description": "Sync your vault with Notion — preserves folder hierarchy, markdown formatting, internal links, metadata, and attachments. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kaventro/notion-sync"
-  },
-  {
-    "id": "config-sync",
-    "name": "Config Sync",
-    "author": "xooooooooox",
-    "description": "Selective, on-demand distribution of vault configuration (snippets, hotkeys, plugin settings) across devices and vaults. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "xooooooooox/obsidian-config-sync"
   },
   {
     "id": "wayback-linker",
@@ -40992,6 +40964,13 @@
     "repo": "evanlyu/obsidian-crochet-weaver"
   },
   {
+    "id": "instagram-dm-inbox",
+    "name": "Instagram DM Inbox",
+    "author": "jkmoona",
+    "description": "Mirrors your Instagram Business DMs into your Obsidian vault as notes and a Canvas thread graph. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jkmoona/obsidian-instagram-dm-inbox"
+  },
+  {
     "id": "google-drive-mirror",
     "name": "Google Drive Mirror",
     "author": "Pascal  Lauener",
@@ -41144,5 +41123,26 @@
     "author": "AQiong 阿琼",
     "description": "Click #tag to navigate to [[tag]] page like Logseq - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "agarcabin/obsdian-tag-to-page"
+  },
+  {
+    "id": "epub-exporter",
+    "name": "EPUB Exporter",
+    "author": "Johannes Kaindl",
+    "description": "Export a note — or a book note with embedded chapters — as an EPUB. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "johannes-kaindl/epub-exporter"
+  },
+  {
+    "id": "smart-gantt",
+    "name": "Smart Gantt",
+    "author": "nhannht",
+    "description": "Generate Gantt charts from your tasks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nhannht/obsidian-smart-gantt"
+  },
+  {
+    "id": "paperfolio-kobo",
+    "name": "PaperFolio for Kobo",
+    "author": "Chung Kun Tao",
+    "description": "Import your Kobo highlights into Obsidian: one clean note per book, sorted by true reading order and grouped by chapter, with your own notes protected. Reads from a connected Kobo eReader or the Kobo desktop app. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fire-university/paperfolio-obsidian"
   }
 ]
