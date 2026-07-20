@@ -23387,6 +23387,13 @@
     "repo": "yy/obsidian-year-glance"
   },
   {
+    "id": "leetcode-template",
+    "name": "LeetCode template",
+    "author": "fennr",
+    "description": "Generate LeetCode problem templates in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fennr/obsidian_leetcode_template"
+  },
+  {
     "id": "youtube-transcript-fetcher",
     "name": "YouTube transcript fetcher",
     "author": "Leif Jantzen",
@@ -27718,13 +27725,6 @@
     "author": "TimiKays",
     "description": "Sync notes with images to MarkPage editor. One click to send your note to MarkPage for beautiful visual editing. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "timikays/markpage-obsidian-plugin"
-  },
-  {
-    "id": "local-dictation",
-    "name": "Local Dictation",
-    "author": "Alexander Brittain",
-    "description": "Private, offline speech-to-text, voice typing, and meeting transcription. Dictate notes live or transcribe calls and system audio with Whisper, speaker labels, timestamps, and optional AI cleanup. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "brittain9/local-dictation-obsidian-plugin"
   },
   {
     "id": "markr",
@@ -33633,13 +33633,6 @@
     "author": "Viggo Meesters",
     "description": "Read-only alternate navigation pane for folders/files with custom sorting. Does not replace or patch Obsidian File Explorer. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "viggomeesters/obsidian-folder-sort-view"
-  },
-  {
-    "id": "stashpad",
-    "name": "Stashpad",
-    "author": "Grub Basket",
-    "description": "A chat-style, nested-notes workspace: rapid capture, outliner navigation, fast search, tasks, and per-folder templates, with one-click Open Knowledge Format (OKF) export for LLMs and agents. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "grub-basket/SP"
   },
   {
     "id": "html-experience",
@@ -41172,5 +41165,12 @@
     "author": "Grub Basket",
     "description": "Excel-grade editable grid over your notes' frontmatter: multi-cell selection, fill down/right, find & replace in selection, keyboard-first editing, heading-content columns. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "grub-basket/gridsense"
+  },
+  {
+    "id": "tidy-titles",
+    "name": "Tidy Titles",
+    "author": "Magnus Wållberg",
+    "description": "Slugify filename from note title - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hoxi/tidy-titles"
   }
 ]
