@@ -19957,6 +19957,13 @@
     "repo": "xnjiang/speakpen-obsidian"
   },
   {
+    "id": "discourse-graphs",
+    "name": "Discourse Graph",
+    "author": "discoursegraphs",
+    "description": "Add semantic structure to your notes with the Discourse Graph protocol. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "discoursegraphs/discourse-graph-obsidian"
+  },
+  {
     "id": "cursor-history",
     "name": "Cursor History",
     "author": "abdelrahmanhafez",
@@ -27727,6 +27734,13 @@
     "repo": "timikays/markpage-obsidian-plugin"
   },
   {
+    "id": "local-dictation",
+    "name": "Local Dictation",
+    "author": "Alexander Brittain",
+    "description": "Local speech-to-text and text-to-speech for notes and meetings. Dictate live, transcribe microphone and system audio with Whisper and other models, add speaker labels and timestamps, shape transcripts - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "brittain9/local-dictation-obsidian-plugin"
+  },
+  {
     "id": "markr",
     "name": "Markr",
     "author": "visua1hue",
@@ -29433,13 +29447,6 @@
     "author": "telehakke",
     "description": "Display images or note on floating panel. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "telehakke/fluorite"
-  },
-  {
-    "id": "running-head",
-    "name": "Running Head",
-    "author": "Flavio Azurita",
-    "description": "Transform your notes with elegant blog-style metadata headers — dates, reading time, custom fields, breadcrumb navigation, tabs navigation, and seamless Typify integration. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "leike-dev/Obsidian-Running-Head"
   },
   {
     "id": "the-dm-compendium",
@@ -32632,13 +32639,6 @@
     "author": "Altarok",
     "description": "Renders SMILES chemical notations as crisp SVG diagrams. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "altarok/chemtrails"
-  },
-  {
-    "id": "tasks-kanban",
-    "name": "Tasks Kanban",
-    "author": "Julien Tanay",
-    "description": "Display Tasks in a Kanban board view with columns for each status - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "djiit/obsidian-tasks-kanban"
   },
   {
     "id": "glint-capture-organizer",
@@ -41181,10 +41181,24 @@
     "repo": "mateuszkowalczyk/obsidian-vim-commands"
   },
   {
+    "id": "gfm-heading-links",
+    "name": "GFM Heading Links",
+    "author": "Lucas Eduardo Galdino Silva",
+    "description": "Resolve GFM-style kebab-case heading links (e.g. #my-heading) at runtime — no export hacks, works in Live Preview and Reading view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lucasgaldinos/obsidian-gfm-headers"
+  },
+  {
     "id": "auto-date-on-open",
     "name": "Auto Date on Open",
     "author": "Kaicui",
     "description": "Adds today's date to a note when you open it, using your own line template, date format and choice of which notes to include. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kaicuichen-git/Obsidian-date-on-open"
+  },
+  {
+    "id": "storyscore",
+    "name": "StoryScore",
+    "author": "SrPernax",
+    "description": "Turn your soundtrack into a worldbuilding tool. Manage OSTs, track leitmotifs, and weave musical lore into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "srpernax/obsidian-storyscore"
   }
 ]
