@@ -41072,7 +41072,7 @@
     "id": "fileclass",
     "name": "Fileclass",
     "author": "mdelobelle",
-    "description": "Schemas, typed fields & data quality for your vault — powered by Bases. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Give your notes typed, validated properties with guided input — define reusable note types, like a schema for your frontmatter. Successor to Metadata Menu, powered by Bases. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mdelobelle/fileclass"
   },
   {
@@ -41193,6 +41193,13 @@
     "author": "Zangeti",
     "description": "Predict your next word, fix typos as you type, and suggest links to your notes. All on your device. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zangeti/obsidian-smart-autocorrect"
+  },
+  {
+    "id": "visit-history",
+    "name": "Visit History",
+    "author": "Nickolay Kondratyev",
+    "description": "Records the visit history of notes and canvases, and visualizes vault activity as a treemap heatmap. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nickolay-kondratyev/obsidian-visit-history-plugin"
   },
   {
     "id": "clang-format-code-blocks",
@@ -41363,6 +41370,13 @@
     "repo": "kageetai/obsidian-daily-from-others-plugin"
   },
   {
+    "id": "md-discord-syntax",
+    "name": "Discord Syntax",
+    "author": "edems",
+    "description": "Discord-style ||spoiler|| and \"-# subtext\" markdown formatting extension - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "edems-dev/md-discord-syntax"
+  },
+  {
     "id": "cite",
     "name": "Cite",
     "author": "Pixel",
@@ -41403,5 +41417,26 @@
     "author": "Timur",
     "description": "Getlava brings the ideas you have already captured into the conversation—so your vault becomes active material for better thinking. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "itipo/lava-plugin"
+  },
+  {
+    "id": "bulk-image-to-file-importer",
+    "name": "Bulk Image to File Importer",
+    "author": "John McAnearney",
+    "description": "Add images to a single file or create a new file for each image in bulk. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "johnmcanearney/bulk-image-to-file-importer"
+  },
+  {
+    "id": "canvas-text-scaler",
+    "name": "Canvas Text Scaler",
+    "author": "valleytheknight",
+    "description": "Scales text inside Canvas cards to the card's own size as you resize it, instead of only scaling with zoom. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "valleytheknight/Canvas-Text-Scaler"
+  },
+  {
+    "id": "linkwarden",
+    "name": "Linkwarden",
+    "author": "heiss",
+    "description": "Search and link your Linkwarden bookmarks, archive URLs, show their highlights beside your notes, and insert highlights as quotes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "heiss/obsidian-linkwarden"
   }
 ]
