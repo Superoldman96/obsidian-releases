@@ -41270,5 +41270,26 @@
     "author": "valleytheknight",
     "description": "Map a local vault file (image, font, anything) to a CSS custom property, so any theme or snippet can reference your own local files with var(). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "chrisairbrown-del/CSS-Resource-Variables"
+  },
+  {
+    "id": "table-fields",
+    "name": "Table Fields",
+    "author": "Rosetta Zidian Guo",
+    "description": "Give table columns a type — checkbox, select, date, currency, percentage — with inline controls in Live Preview and Reading view. Stays a plain pipe table on disk. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fyaic/Table-Fields-Plugin"
+  },
+  {
+    "id": "theme-school",
+    "name": "Theme School",
+    "author": "michellegdyason",
+    "description": "Learn theme development visually, then graduate to standalone CSS. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "michellegdyason/theme-school"
+  },
+  {
+    "id": "copy-indented-code-blocks",
+    "name": "Copy Indented Code Blocks",
+    "author": "Evie Hartman",
+    "description": "Removes leading indentation when copying from indented code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gvivster/obsidian-copy-indented-code-blocks"
   }
 ]
