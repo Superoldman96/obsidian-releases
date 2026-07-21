@@ -24474,7 +24474,7 @@
   {
     "id": "image-link-updater",
     "name": "Image Link Updater",
-    "author": "andy51002000",
+    "author": "hikosalaidarkcommit",
     "description": "Automatically updates markdown image links when image files are renamed or moved in the vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "andy51002000/obsidian-image-link-updater"
   },
@@ -24666,6 +24666,13 @@
     "author": "uthvah",
     "description": "Secure your vault with a beautiful lockscreen and industry-standard AES-GCM encryption. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "uthvah/vaultguard"
+  },
+  {
+    "id": "dynamic-theme-background",
+    "name": "Dynamic Theme Background",
+    "author": "sean2077",
+    "description": "Build Your Own Wallpaper Library! Make every note-taking experience visually inspiring. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sean2077/obsidian-dynamic-theme-background"
   },
   {
     "id": "stomp",
@@ -32608,7 +32615,7 @@
   {
     "id": "dainvo-task-manager",
     "name": "Dainvo Task Manager",
-    "author": "Liam H",
+    "author": "intagri-technologies",
     "description": "Sync  tasks and daily notes, with Dainvo calendar and task planner - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "intagri-technologies/dainvo-task-manager"
   },
@@ -33654,6 +33661,13 @@
     "author": "Viggo Meesters",
     "description": "Read-only alternate navigation pane for folders/files with custom sorting. Does not replace or patch Obsidian File Explorer. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "viggomeesters/obsidian-folder-sort-view"
+  },
+  {
+    "id": "stashpad",
+    "name": "Stashpad",
+    "author": "Grub Basket",
+    "description": "A chat-style, nested-notes workspace: rapid capture, outliner navigation, fast search, tasks, and per-folder templates, with one-click Open Knowledge Format (OKF) export for LLMs and agents. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/SP"
   },
   {
     "id": "html-experience",
@@ -39592,13 +39606,6 @@
     "repo": "yangzuo0621/vault-loom"
   },
   {
-    "id": "knowledge-views-studio",
-    "name": "Knowledge Views Studio",
-    "author": "W A Khan",
-    "description": "Turn Markdown tables, note properties, tasks and Excel rows scattered across your vault into live, editable dashboards — table, board, calendar, cards, gallery or pivot. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "wk-101/knowledge-views-studio"
-  },
-  {
     "id": "katazuke",
     "name": "Katazuke",
     "author": "DaisukeMiyazaki",
@@ -40915,13 +40922,6 @@
     "repo": "notenerdofficial/doc-preview"
   },
   {
-    "id": "bible-reference-index",
-    "name": "Indice Nights",
-    "author": "the_nights",
-    "description": "Creates a lightweight index of Bible references and related notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "thenights20/obsidian-bible-reference-index"
-  },
-  {
     "id": "openwhispr-sync",
     "name": "OpenWhispr Sync",
     "author": "Sam K",
@@ -40934,6 +40934,13 @@
     "author": "renyeren",
     "description": "Render Typora-style [TOC] as a clickable, nested table of contents in both reading view and Live Preview. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "muzi-xiaoren/Obsidian--TOC--reader"
+  },
+  {
+    "id": "supernote-digests",
+    "name": "Supernote Digests",
+    "author": "Tony Boules",
+    "description": "Import Supernote digest backups and convert your highlighted digests into notes in your Obsidian vault, organized as atomic or per-document notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tboules/supernote-obsidian-digest"
   },
   {
     "id": "wetongbu",
@@ -41181,6 +41188,13 @@
     "repo": "tamiroh/obsidian-interval-timer"
   },
   {
+    "id": "canvas-smart-paste",
+    "name": "Canvas Smart Paste",
+    "author": "zhao414",
+    "description": "Intelligently paste clipboard content into Canvas as nodes — single node, heading tree, list tree, or paragraphs with auto-detection. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhao414/canvas-smart-paste"
+  },
+  {
     "id": "todo-calendar",
     "name": "Todo Calendar",
     "author": "qingyu",
@@ -41291,5 +41305,19 @@
     "author": "Evie Hartman",
     "description": "Removes leading indentation when copying from indented code blocks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gvivster/obsidian-copy-indented-code-blocks"
+  },
+  {
+    "id": "freeform-link-cards",
+    "name": "Freeform Link Cards",
+    "author": "Artur Netsvetaev",
+    "description": "Turns URLs pasted on Canvas into local, Apple's Freeform-style preview cards. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "netsvetaev/obsidian-freeform-link-cards"
+  },
+  {
+    "id": "offline-whisper",
+    "name": "Offline Whisper Transcription",
+    "author": "David Manthey",
+    "description": "Offline speech-to-text using Whisper - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "manthey/offline-whisper"
   }
 ]
