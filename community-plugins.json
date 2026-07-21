@@ -12180,13 +12180,6 @@
     "repo": "dvorakdwarf/scrambling-title-animations"
   },
   {
-    "id": "draw-steel-elements",
-    "name": "Draw Steel Elements",
-    "author": "steelcompendium",
-    "description": "Components to support the Draw Steel TTRPG by MCDM.",
-    "repo": "steelcompendium/draw-steel-elements"
-  },
-  {
     "id": "highlight-active-folder-section",
     "name": "Highlight active folder section",
     "author": "justanotherjurastudent",
@@ -41377,6 +41370,13 @@
     "repo": "pmgwork/obsidian-cite"
   },
   {
+    "id": "curtis",
+    "name": "Curtis",
+    "author": "Newell",
+    "description": "Curtis — your polyglot AI chat for Obsidian. 30+ providers (Anthropic, OpenAI, Gemini, Ollama, and more), image attachments, long-term memory, slash commands, and inline selection actions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jordannewell/curtis-chat"
+  },
+  {
     "id": "taskgregator",
     "name": "Taskgregator",
     "author": "philpalmieri",
@@ -41396,5 +41396,12 @@
     "author": "Alok Kumar",
     "description": "Open Obsidian notes in focused, independent pop-out windows. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "rajalokan/obsidian-just-note-plugin"
+  },
+  {
+    "id": "getlava",
+    "name": "Getlava",
+    "author": "Timur",
+    "description": "Getlava brings the ideas you have already captured into the conversation—so your vault becomes active material for better thinking. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "itipo/lava-plugin"
   }
 ]
