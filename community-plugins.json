@@ -20412,13 +20412,6 @@
     "repo": "koshlensky/asciidoc-live"
   },
   {
-    "id": "minimalism-ui",
-    "name": "Minimalism UI",
-    "author": "lucas",
-    "description": "Transform UI into a Typora-like style, with the left side fixing the note status information and the right side focusing on the content of the note. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tcyeee/obsidian-minimalism-ui"
-  },
-  {
     "id": "memo-timeline-feed",
     "name": "Memo Timeline Feed",
     "author": "lbb2446",
@@ -25810,7 +25803,7 @@
   },
   {
     "id": "advanced-import-export",
-    "name": "Cross-App Notes Bridge",
+    "name": "Notes Bridge",
     "author": "Cheng",
     "description": "Copy notes as portable Markdown and bridge with Bear, WPS Cloud Note, and Youdao Note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "huangcheng/obsidian-advanced-import-export"
@@ -40992,20 +40985,6 @@
     "repo": "lywooye/stratify-mindmap"
   },
   {
-    "id": "autoicons",
-    "name": "AutoIcons",
-    "author": "Anuj Dhakal",
-    "description": "Automatically adds icons to files and folders based on frontmatter, custom rules, and file type. auto icon - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "anuzdhk/autoicon"
-  },
-  {
-    "id": "animelist",
-    "name": "AnimeList",
-    "author": "cwh555",
-    "description": "A local-first anime, manga, and novel library backed by Markdown, with metadata search, covers, ratings, templates, filters, and a completion timeline. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "cwh555/AnimeList"
-  },
-  {
     "id": "solomon-chat",
     "name": "Solomon Chat",
     "author": "West B",
@@ -41149,7 +41128,7 @@
     "id": "interval-timer",
     "name": "Interval Timer",
     "author": "tamiroh",
-    "description": "Run configurable focus and break cycles for methods like the Pomodoro Technique, and track completed intervals on your task lines. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Run focus and break cycles using methods like the Pomodoro Technique, and record completed intervals on your Markdown task lines. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tamiroh/obsidian-interval-timer"
   },
   {
@@ -41207,13 +41186,6 @@
     "author": "Zangeti",
     "description": "Predict your next word, fix typos as you type, and suggest links to your notes. All on your device. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zangeti/obsidian-smart-autocorrect"
-  },
-  {
-    "id": "visit-history",
-    "name": "Visit History",
-    "author": "Nickolay Kondratyev",
-    "description": "Records the visit history of notes and canvases, and visualizes vault activity as a treemap heatmap. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "nickolay-kondratyev/obsidian-visit-history-plugin"
   },
   {
     "id": "clang-format-code-blocks",
@@ -41368,5 +41340,26 @@
     "author": "Ashly Lorenzana",
     "description": "Define, render, and play quizzes inside Markdown notes. Standalone, with an optional public API for Meta Bind and JS Engine. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "monapdx/Quizzable"
+  },
+  {
+    "id": "daily-echoes",
+    "name": "Daily Echoes",
+    "author": "Wojciech Polak",
+    "description": "Revisit your daily notes from previous years: on this day, this week, this month, or this day of the month. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wojciechpolak/obsidian-daily-echoes"
+  },
+  {
+    "id": "daily-from-others",
+    "name": "Daily Notes from Others",
+    "author": "kageetai",
+    "description": "Obsidian Plugin to create daily notes from other \"daily notes\" - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kageetai/obsidian-daily-from-others-plugin"
+  },
+  {
+    "id": "cite",
+    "name": "Cite",
+    "author": "Pixel",
+    "description": "Render and link LaTeX or Pandoc citations from BibTeX blocks in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pmgwork/obsidian-cite"
   }
 ]
