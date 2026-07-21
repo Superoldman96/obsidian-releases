@@ -6869,7 +6869,7 @@
   {
     "id": "voice",
     "name": "Voice",
-    "author": "chrisurf",
+    "author": "Chris Oguntolu",
     "description": "Listen to your notes as natural speech with text-to-speech (TTS). Read notes aloud, play them like an audiobook in the voice player, download MP3 audio and listen offline hands-free on mobile.",
     "repo": "chrisurf/obsidian-voice"
   },
@@ -10286,7 +10286,7 @@
     "id": "ink",
     "name": "Ink",
     "author": "Dale de Silva",
-    "description": "Hand write or draw directly between paragraphs using a digital pen, stylus, or Apple pencil.",
+    "description": "Handwriting and drawing directly between paragraphs using a digital pen, stylus, or Apple pencil.",
     "repo": "daledesilva/obsidian_ink"
   },
   {
@@ -29050,6 +29050,13 @@
     "repo": "rockorolla/obsidian-easy-wikilink"
   },
   {
+    "id": "easy-tikz",
+    "name": "Easy TikZ",
+    "author": "Saiki77",
+    "description": "Visually design TikZ and pgfplots graphs with a live SVG preview. Supports 2D functions, 3D surfaces, tangents, extrema, and one-click code insertion. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "saiki77/easy-tikz"
+  },
+  {
     "id": "quickclip-organize",
     "name": "Quick Organize",
     "author": "Vipul Bansal",
@@ -32639,6 +32646,13 @@
     "author": "Altarok",
     "description": "Renders SMILES chemical notations as crisp SVG diagrams. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "altarok/chemtrails"
+  },
+  {
+    "id": "tasks-kanban",
+    "name": "Tasks Kanban",
+    "author": "Julien Tanay",
+    "description": "Display Tasks in a Kanban board view with columns for each status - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "djiit/obsidian-tasks-kanban"
   },
   {
     "id": "glint-capture-organizer",
@@ -40439,13 +40453,6 @@
     "repo": "anthonyfitzpatrick/manuscript-compiler"
   },
   {
-    "id": "chatobby",
-    "name": "Chatobby",
-    "author": "Madelyn",
-    "description": "A local agent with chat and tool use, custom built for Obsidian with MCP and plugin support. Bring your own API key, Chatobby supports many LLM providers - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "titaniceclair/chatobby-obsidian"
-  },
-  {
     "id": "typing-stats",
     "name": "Typing Stats",
     "author": "Ryan Hardy",
@@ -41183,7 +41190,7 @@
   {
     "id": "gfm-heading-links",
     "name": "GFM Heading Links",
-    "author": "Lucas Eduardo Galdino Silva",
+    "author": "Lucas Galdino",
     "description": "Resolve GFM-style kebab-case heading links (e.g. #my-heading) at runtime — no export hacks, works in Live Preview and Reading view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lucasgaldinos/obsidian-gfm-headers"
   },
@@ -41200,5 +41207,26 @@
     "author": "SrPernax",
     "description": "Turn your soundtrack into a worldbuilding tool. Manage OSTs, track leitmotifs, and weave musical lore into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "srpernax/obsidian-storyscore"
+  },
+  {
+    "id": "visit-history",
+    "name": "Visit History",
+    "author": "Nickolay Kondratyev",
+    "description": "Records the visit history of notes and canvases, and visualizes vault activity as a treemap heatmap. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nickolay-kondratyev/obsidian-visit-history-plugin"
+  },
+  {
+    "id": "clang-format-code-blocks",
+    "name": "Clang-Format Code Blocks",
+    "author": "Ömer Kara",
+    "description": "Format fenced code blocks in your notes using clang-format. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "oemer-kara/clang-format-obsidian-code-blocks"
+  },
+  {
+    "id": "git-history",
+    "name": "Git History",
+    "author": "Chris Oguntolu",
+    "description": "Manage Git repositories with an intuitive UI: interactive commit graph, source control panel, and diff viewer. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chrisurf/obsidian-git-history"
   }
 ]
