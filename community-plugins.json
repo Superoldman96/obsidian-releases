@@ -32263,13 +32263,6 @@
     "repo": "kuaile1407/html-viewer-plus"
   },
   {
-    "id": "markway",
-    "name": "Markway",
-    "author": "Anup Chavan",
-    "description": "Sync Apple services with Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "anupchavan/obsidian-markway"
-  },
-  {
     "id": "quick-github-sync",
     "name": "Quick GitHub Sync",
     "author": "M1LLKY",
@@ -41319,5 +41312,40 @@
     "author": "David Manthey",
     "description": "Offline speech-to-text using Whisper - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "manthey/offline-whisper"
+  },
+  {
+    "id": "myspace-tasks",
+    "name": "MySpace Tasks",
+    "author": "李向阳",
+    "description": "Send the current line or selected text to your linked MySpace task account. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hankleechn/myspace-tasks"
+  },
+  {
+    "id": "tabbed-blocks",
+    "name": "Tabbed Blocks",
+    "author": "Quincy",
+    "description": "Turn fenced code blocks into switchable tabs, with lazy rendering and syntax aids. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "quincysx/obsidian-markdown-tabs"
+  },
+  {
+    "id": "tracetime",
+    "name": "TraceTime",
+    "author": "Quincy",
+    "description": "Show when each block of a note was last edited. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "quincysx/obsidian-tracetime"
+  },
+  {
+    "id": "budget-app",
+    "name": "Budget Vault",
+    "author": "Ruan",
+    "description": "Personal budget dashboard — reads and writes markdown files in your vault's budget folder. Dashboard, transactions, budgets, savings, accounts, owed money, services, tax and CSV import. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ruanpienaarcode/budget-vault"
+  },
+  {
+    "id": "transcript-refine",
+    "name": "Transcript Refine",
+    "author": "Bemon",
+    "description": "Use AI to refine speech-to-text transcripts: fix errors, optimize structure, and turn messy spoken language into clear, readable text. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "c1921/transcript-refine"
   }
 ]
