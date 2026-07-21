@@ -18452,6 +18452,13 @@
     "repo": "polybjorn/obsidian-readest-highlights"
   },
   {
+    "id": "tether",
+    "name": "Tether",
+    "author": "Llewellyn Paintsil",
+    "description": "Sync your vault with Google Drive using your own Google Cloud credentials. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "llewellyn500/obsidian-tether"
+  },
+  {
     "id": "review-critic",
     "name": "Review Critic",
     "author": "rohrbachd",
@@ -29883,13 +29890,6 @@
     "repo": "cocoaai-it/ob-cocoa-marp"
   },
   {
-    "id": "docx-exporter-plus",
-    "name": "DOCX Exporter Plus",
-    "author": "michellegdyason",
-    "description": "Export Markdown notes to DOCX with Word heading navigation, visible colors on white paper, and working links. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "michellegdyason/docx-exporter-plus"
-  },
-  {
     "id": "traystone",
     "name": "Traystone",
     "author": "tinswangtao-web",
@@ -37863,6 +37863,13 @@
     "repo": "anthonyfitzpatrick/obsidian-metadata-visuals"
   },
   {
+    "id": "sektor-tasks",
+    "name": "Sector Tasks",
+    "author": "Tom Leonhardt",
+    "description": "A dashboard for handling tasks in an intuitive, time-based fashion, grouped by configurable tags. Requires Obsidian's Task plugin and single-file storage. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "leotomhal/sector-tasks-obsidian"
+  },
+  {
     "id": "move-done-down",
     "name": "Move Done Down",
     "author": "Mihanentalpo@yandex.ru",
@@ -38799,6 +38806,13 @@
     "author": "rhdzmota",
     "description": "Mirror your Alissa vault into your notes: projects, tasks, context, deliverables and entities as wikilinked markdown, refreshed with one click. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fahera-mx/obsidian.alissa.app"
+  },
+  {
+    "id": "piclinker",
+    "name": "PicLinker",
+    "author": "Coeris",
+    "description": "一款面向 Obsidian 的全库图片资产管理工具，覆盖扫描、去重、比对、批量等操作。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "coeris/PicLinker"
   },
   {
     "id": "mirror-archive",
@@ -41132,6 +41146,13 @@
     "repo": "n23eos/advanced_graph_view"
   },
   {
+    "id": "mq",
+    "name": "mq",
+    "author": "Takahiro Sato",
+    "description": "Run mq (a jq-like query language for Markdown) queries directly in Obsidian: live query blocks, note/vault transforms, and editor support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "harehare/obsidian-mq"
+  },
+  {
     "id": "interval-timer",
     "name": "Interval Timer",
     "author": "tamiroh",
@@ -41340,5 +41361,12 @@
     "author": "chao chih hung ",
     "description": "Unified command entry for Jason's Digital Brain. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "c8vzn4ym5g-ai/jdb-command"
+  },
+  {
+    "id": "domorium",
+    "name": "Domorium GEDCOM Editor",
+    "author": "Andrei Lobanov",
+    "description": "Edit GEDCOM files with autocomplete, validation, navigation, and semantic highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lavich/domorium-obsidian"
   }
 ]
