@@ -19257,13 +19257,6 @@
     "repo": "jabaho9523/obsidian-paste-plus"
   },
   {
-    "id": "epochgram",
-    "name": "Epochgram",
-    "author": "Andriy Babets",
-    "description": "A timemap of your mind - turn your notes into an AI-powered interactive timeline. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "2brn/epochgram"
-  },
-  {
     "id": "focus-mode-banner",
     "name": "Focus Mode Banner",
     "author": "adrianofontanari",
@@ -38766,13 +38759,6 @@
     "repo": "astraaaa02/Obsidian-Torch-Cursor"
   },
   {
-    "id": "omni-viewer",
-    "name": "Omni Viewer",
-    "author": "battlecook",
-    "description": "View audio, image, video, archive, csv, DBC, ARXML, A2L, ASC, BLF, MF4, Avro, ROS bag, PCAP, PCAPNG, STEP, DB3, ReqIF, excel, word, powerpoint, parquet, Shapefile, HDF5, MAT, jsonl, yaml, toml, markdown, mermaid, PlantUML, hwp, PSD and PDF files inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "battlecook/omni-viewer-obsidian"
-  },
-  {
     "id": "schematex",
     "name": "Schematex",
     "author": "Maarten Peels",
@@ -40418,6 +40404,13 @@
     "repo": "anthonyfitzpatrick/manuscript-compiler"
   },
   {
+    "id": "chatobby",
+    "name": "Chatobby",
+    "author": "Madelyn",
+    "description": "A local agent with chat and tool use, with MCP and plugin support. Bring your own API key, Chatobby supports many LLM providers - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "titaniceclair/chatobby-obsidian"
+  },
+  {
     "id": "typing-stats",
     "name": "Typing Stats",
     "author": "Ryan Hardy",
@@ -41438,5 +41431,19 @@
     "author": "heiss",
     "description": "Search and link your Linkwarden bookmarks, archive URLs, show their highlights beside your notes, and insert highlights as quotes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "heiss/obsidian-linkwarden"
+  },
+  {
+    "id": "kcal-calc",
+    "name": "Kcal Calc",
+    "author": "13green13",
+    "description": "Annotates ingredient lines with kcal values from USDA FoodData Central. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "13green13/kcal-calc"
+  },
+  {
+    "id": "grill",
+    "name": "Grill",
+    "author": "Adam Danielsson",
+    "description": "Get grilled on your own notes. AI quizzes you straight from your vault, grades your answers, and remembers what you miss, so every session hits your weak spots. Spaced repetition without writing flashcards. Bring your own AI key. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "theadamdanielsson/grill"
   }
 ]
