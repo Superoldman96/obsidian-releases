@@ -3591,13 +3591,6 @@
     "repo": "simplgy/obsidian-open-file-by-magic-date"
   },
   {
-    "id": "obsidian-plugin-tagged-documents-viewer",
-    "name": "Tagged Documents Viewer",
-    "author": "mgeduld",
-    "description": "Open a modal with scrollable content of all documents that contain a specific tag or tags.",
-    "repo": "mgeduld/obsidian-tagged-documents-viewer"
-  },
-  {
     "id": "better-inline-fields",
     "name": "Better Inline Fields",
     "author": "dsarman",
@@ -23046,7 +23039,7 @@
   {
     "id": "full-calendar-remastered",
     "name": "Full Calendar Remastered",
-    "author": "obsidian-full-calendar-remastered",
+    "author": "Jovi Koikkara",
     "description": "Complete Calendar HUB experience. Work with all your calendars in one place. Analyze your time and take action! - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "obsidian-full-calendar-remastered/plugin-full-calendar"
   },
@@ -41368,5 +41361,12 @@
     "author": "Andrei Lobanov",
     "description": "Edit GEDCOM files with autocomplete, validation, navigation, and semantic highlighting. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lavich/domorium-obsidian"
+  },
+  {
+    "id": "quizzable",
+    "name": "Quizzable",
+    "author": "Ashly Lorenzana",
+    "description": "Define, render, and play quizzes inside Markdown notes. Standalone, with an optional public API for Meta Bind and JS Engine. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "monapdx/Quizzable"
   }
 ]
