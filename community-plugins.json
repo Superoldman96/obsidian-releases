@@ -9618,13 +9618,6 @@
     "repo": "dominikmayer/obsidian-yesterday"
   },
   {
-    "id": "historica",
-    "name": "historica",
-    "author": "nhannht",
-    "description": "Intelligently generates timeline from your content",
-    "repo": "nhannht/obsidian-historica"
-  },
-  {
     "id": "contextual-sidecar",
     "name": "Contextual Sidecar",
     "author": "matthewturk",
@@ -20412,6 +20405,13 @@
     "repo": "koshlensky/asciidoc-live"
   },
   {
+    "id": "minimalism-ui",
+    "name": "Minimalism UI",
+    "author": "lucas",
+    "description": "Transform UI into a Typora-like style, with the left side fixing the note status information and the right side focusing on the content of the note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tcyeee/obsidian-minimalism-ui"
+  },
+  {
     "id": "memo-timeline-feed",
     "name": "Memo Timeline Feed",
     "author": "lbb2446",
@@ -29454,6 +29454,13 @@
     "author": "telehakke",
     "description": "Display images or note on floating panel. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "telehakke/fluorite"
+  },
+  {
+    "id": "running-head",
+    "name": "Running Head",
+    "author": "Flavio Azurita",
+    "description": "Transform your notes with elegant blog-style metadata headers — dates, reading time, custom fields, breadcrumb navigation, tabs navigation, and seamless Typify integration. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "leike-dev/Obsidian-Running-Head"
   },
   {
     "id": "the-dm-compendium",
@@ -41167,6 +41174,13 @@
     "repo": "mateuszkowalczyk/obsidian-vim-commands"
   },
   {
+    "id": "gfm-heading-links",
+    "name": "GFM Heading Links",
+    "author": "Lucas Galdino",
+    "description": "Resolve GFM-style kebab-case heading links (e.g. #my-heading) at runtime — no export hacks, works in Live Preview and Reading view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lucasgaldinos/obsidian-gfm-headers"
+  },
+  {
     "id": "auto-date-on-open",
     "name": "Auto Date on Open",
     "author": "Kaicui",
@@ -41361,5 +41375,26 @@
     "author": "Pixel",
     "description": "Render and link LaTeX or Pandoc citations from BibTeX blocks in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "pmgwork/obsidian-cite"
+  },
+  {
+    "id": "taskgregator",
+    "name": "Taskgregator",
+    "author": "philpalmieri",
+    "description": "Aggregate your native Obsidian tasks into one fast dashboard, inspired by the best dedicated to-do apps. Buckets every checkbox by its People, Projects, and Areas context, with smart lists, priorities, dates, sorting, grouping, and per-task notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "philpalmieri/obsidian-taskgregator"
+  },
+  {
+    "id": "easyfilereplace",
+    "name": "Easy File Replace",
+    "author": "SrPernax",
+    "description": "An Obsidian plugin to effortlessly replace your attachments' contents without breaking links - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "srpernax/obsidian-easyfilereplace"
+  },
+  {
+    "id": "just-note",
+    "name": "Just Note",
+    "author": "Alok Kumar",
+    "description": "Open Obsidian notes in focused, independent pop-out windows. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rajalokan/obsidian-just-note-plugin"
   }
 ]
