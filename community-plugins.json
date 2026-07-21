@@ -23632,6 +23632,13 @@
     "repo": "jacklitstar/writetex-obsidian"
   },
   {
+    "id": "bases-paginator",
+    "name": "Bases Paginator",
+    "author": "sean2077",
+    "description": "Adds a paginated table view with quick filtering to Bases. Features include pagination controls, global search, click-to-filter, and filter presets. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sean2077/obsidian-bases-paginator"
+  },
+  {
     "id": "chordgrid",
     "name": "Chord Grid With Rhythmic Notation",
     "author": "mathieucgit",
@@ -36820,13 +36827,6 @@
     "repo": "nnyj/obsidian-indented-table"
   },
   {
-    "id": "konbini-kanban",
-    "name": "Konbini Kanban",
-    "author": "Nick",
-    "description": "Organize notes as a Linear-style kanban board in a Bases view, with status columns, drag-to-restatus, priority, labels, and sub-issues. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "nicholasvo/konbini-kanban"
-  },
-  {
     "id": "khiip",
     "name": "Khiip",
     "author": "Khiip",
@@ -39095,13 +39095,6 @@
     "repo": "korthomasjeong/live-scribe"
   },
   {
-    "id": "leadsheet",
-    "name": "Leadsheet",
-    "author": "chrisamber",
-    "description": "Render ChordPro lead sheets with transpose, capo shapes, chord diagrams, set lists, and autoscroll. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "chrisamber/obsidian-leadsheet"
-  },
-  {
     "id": "web-embed",
     "name": "Web Embed",
     "author": "notenerd",
@@ -39597,13 +39590,6 @@
     "author": "Malte Henriksson",
     "description": "Smart heading commands that respect document hierarchy and indentation. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "goopii/heading-handler"
-  },
-  {
-    "id": "fancy-kanban",
-    "name": "Fancy Kanban",
-    "author": "Roberto Allende",
-    "description": "Kanban that finally lives where your notes do. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "robertoallende/fancy-kanban"
   },
   {
     "id": "yijing-oracle",
@@ -41216,6 +41202,13 @@
     "repo": "srpernax/obsidian-storyscore"
   },
   {
+    "id": "smart-autocorrect",
+    "name": "Smart Autocorrect",
+    "author": "Zangeti",
+    "description": "Predict your next word, fix typos as you type, and suggest links to your notes. All on your device. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zangeti/obsidian-smart-autocorrect"
+  },
+  {
     "id": "visit-history",
     "name": "Visit History",
     "author": "Nickolay Kondratyev",
@@ -41340,5 +41333,19 @@
     "author": "Mr Jahanbin",
     "description": "Automatically find unused attachments, review them in a managed bilingual trash, restore them to their original location, or delete them permanently. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mrjahanbin90/safe-attachment-trash"
+  },
+  {
+    "id": "export-img",
+    "name": "Export Img",
+    "author": "HUANG CONG",
+    "description": "Export notes as images with reading-view fidelity (callouts, code, embeds, Mermaid, and more). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "379949990/obsidian-export-img"
+  },
+  {
+    "id": "loupe",
+    "name": "Loupe",
+    "author": "Casper",
+    "description": "See and preview the files Obsidian normally hides — Office (Word/Excel/PowerPoint), HTML, CSV/TSV, JSON, and 50+ code & config formats — right in the file explorer. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "casperkwok/obsidian-loupe"
   }
 ]
