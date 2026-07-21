@@ -4495,5 +4495,12 @@
     "repo": "cogito-ergo-video/lcars-inspired-obsidian-theme",
     "screenshot": "screenshot.png",
     "modes": ["dark"]
+  },
+  {
+    "name": "Haze Note",
+    "author": "JiongN",
+    "repo": "jiongn/haze-note-obsidian-theme",
+    "screenshot": "screenshots/screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]

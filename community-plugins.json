@@ -23632,13 +23632,6 @@
     "repo": "jacklitstar/writetex-obsidian"
   },
   {
-    "id": "bases-paginator",
-    "name": "Bases Paginator",
-    "author": "sean2077",
-    "description": "Adds a paginated table view with quick filtering to Bases. Features include pagination controls, global search, click-to-filter, and filter presets. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sean2077/obsidian-bases-paginator"
-  },
-  {
     "id": "chordgrid",
     "name": "Chord Grid With Rhythmic Notation",
     "author": "mathieucgit",
@@ -32606,13 +32599,6 @@
     "repo": "levis-code/markcalc"
   },
   {
-    "id": "dainvo-task-manager",
-    "name": "Dainvo Task Manager",
-    "author": "intagri-technologies",
-    "description": "Sync  tasks and daily notes, with Dainvo calendar and task planner - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "intagri-technologies/dainvo-task-manager"
-  },
-  {
     "id": "html-visual-editor",
     "name": "HTML Visual Editor",
     "author": "suntinglu777",
@@ -40068,13 +40054,6 @@
     "repo": "louie-vibecoding/time-recorder"
   },
   {
-    "id": "finance-tracker",
-    "name": "Finance Tracker",
-    "author": "AJ",
-    "description": "Log spending as tags in your daily notes, then turn them into pace-aware budget, holiday, and savings dashboards. Capture via Apple Shortcuts or a quick-add modal. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "arangutambo/finance-tracker"
-  },
-  {
     "id": "inline-note",
     "name": "Inline Note",
     "author": "yaye.work",
@@ -41342,10 +41321,24 @@
     "repo": "ruanpienaarcode/budget-vault"
   },
   {
+    "id": "bible-search",
+    "name": "Bible Search",
+    "author": "Ruan",
+    "description": "Full-text Bible search and reading in a first-class Obsidian view. The setup wizard downloads public-domain translations (KJV, BSB, WEB) and builds the search page — no extra tools needed. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ruanpienaarcode/obsidian-bible-search"
+  },
+  {
     "id": "transcript-refine",
     "name": "Transcript Refine",
     "author": "Bemon",
     "description": "Use AI to refine speech-to-text transcripts: fix errors, optimize structure, and turn messy spoken language into clear, readable text. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "c1921/transcript-refine"
+  },
+  {
+    "id": "safe-attachment-trash",
+    "name": "Safe Attachment Trash",
+    "author": "Mr Jahanbin",
+    "description": "Automatically find unused attachments, review them in a managed bilingual trash, restore them to their original location, or delete them permanently. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mrjahanbin90/safe-attachment-trash"
   }
 ]
