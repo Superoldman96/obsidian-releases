@@ -21693,6 +21693,13 @@
     "repo": "antoineart/obsidian-nav-buttons"
   },
   {
+    "id": "gtd-tasks",
+    "name": "GTD Tasks",
+    "author": "unpreditable",
+    "description": "A dedicated panel to organize tasks across the vault using the Getting Things Done methodology (Today, This Week, Someday…) - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "unpreditable/GettingThingsDone"
+  },
+  {
     "id": "highlight-on-copy",
     "name": "Highlight on Copy",
     "author": "trevortylerlee",
@@ -41160,6 +41167,13 @@
     "repo": "johannes-kaindl/health-vitals"
   },
   {
+    "id": "graph-insight",
+    "name": "Advanced Graph View",
+    "author": "N23eos",
+    "description": "Alternative graph view for large vaults with 3D visualization, clusters, PageRank and color schemes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "n23eos/advanced_graph_view"
+  },
+  {
     "id": "interval-timer",
     "name": "Interval Timer",
     "author": "tamiroh",
@@ -41216,6 +41230,13 @@
     "repo": "srpernax/obsidian-storyscore"
   },
   {
+    "id": "visit-history",
+    "name": "Visit History",
+    "author": "Nickolay Kondratyev",
+    "description": "Records the visit history of notes and canvases, and visualizes vault activity as a treemap heatmap. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nickolay-kondratyev/obsidian-visit-history-plugin"
+  },
+  {
     "id": "clang-format-code-blocks",
     "name": "Clang-Format Code Blocks",
     "author": "Ömer Kara",
@@ -41228,5 +41249,26 @@
     "author": "Chris Oguntolu",
     "description": "Manage Git repositories with an intuitive UI: interactive commit graph, source control panel, and diff viewer. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "chrisurf/obsidian-git-history"
+  },
+  {
+    "id": "manuscript-export",
+    "name": "Manuscript Export",
+    "author": "Dr3pi",
+    "description": "Export a book manuscript written in Obsidian to a clean, professionally-structured EPUB. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dr3pi/obsidian-manuscript-export"
+  },
+  {
+    "id": "note-sweep",
+    "name": "Note Sweep",
+    "author": "reallygood83",
+    "description": "Local vault radar + triage. Open notes, trash, open Obsigravity chat. KO/EN. No AI. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "reallygood83/note-sweep"
+  },
+  {
+    "id": "css-resource-variables",
+    "name": "CSS Resource Variables",
+    "author": "valleytheknight",
+    "description": "Map a local vault file (image, font, anything) to a CSS custom property, so any theme or snippet can reference your own local files with var(). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chrisairbrown-del/CSS-Resource-Variables"
   }
 ]
