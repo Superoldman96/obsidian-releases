@@ -11354,13 +11354,6 @@
     "repo": "quorafind/Obsidian-Search-In-Canvas"
   },
   {
-    "id": "sheet-plus",
-    "name": "Sheet Plus",
-    "author": "ljcoder",
-    "description": "Create Excel-like spreadsheets and easily embed them in Markdown.",
-    "repo": "ljcoder2015/obsidian-sheet-plus"
-  },
-  {
     "id": "asciidoc-reader",
     "name": "Asciidoc Reader",
     "author": "voidgrown",
@@ -32606,6 +32599,13 @@
     "repo": "levis-code/markcalc"
   },
   {
+    "id": "dainvo-task-manager",
+    "name": "Dainvo Task Manager",
+    "author": "intagri-technologies",
+    "description": "Sync  tasks and daily notes, with Dainvo calendar and task planner - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "intagri-technologies/dainvo-task-manager"
+  },
+  {
     "id": "html-visual-editor",
     "name": "HTML Visual Editor",
     "author": "suntinglu777",
@@ -37863,13 +37863,6 @@
     "repo": "anthonyfitzpatrick/obsidian-metadata-visuals"
   },
   {
-    "id": "sektor-tasks",
-    "name": "Sector Tasks",
-    "author": "Tom Leonhardt",
-    "description": "A dashboard for handling tasks in an intuitive, time-based fashion, grouped by configurable tags. Requires Obsidian's Task plugin and single-file storage. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "leotomhal/sector-tasks-obsidian"
-  },
-  {
     "id": "move-done-down",
     "name": "Move Done Down",
     "author": "Mihanentalpo@yandex.ru",
@@ -38738,13 +38731,6 @@
     "repo": "nitinvishway/Inline-AI"
   },
   {
-    "id": "vault-activity-heatmap",
-    "name": "Vault Activity Heatmap",
-    "author": "Andrew Rao",
-    "description": "GitHub-style contribution heatmap of your daily note-taking activity, with daily tasks, edit timeline, AI weekly/monthly summaries, and customizable panel themes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "andrewrao114/vault-activity-heatmap"
-  },
-  {
     "id": "gitee-sync",
     "name": "Gitee Sync",
     "author": "eric",
@@ -39590,6 +39576,13 @@
     "author": "Malte Henriksson",
     "description": "Smart heading commands that respect document hierarchy and indentation. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "goopii/heading-handler"
+  },
+  {
+    "id": "fancy-kanban",
+    "name": "Fancy Kanban",
+    "author": "Roberto Allende",
+    "description": "Kanban that finally lives where your notes do. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "robertoallende/fancy-kanban"
   },
   {
     "id": "yijing-oracle",
@@ -41181,13 +41174,6 @@
     "repo": "mateuszkowalczyk/obsidian-vim-commands"
   },
   {
-    "id": "gfm-heading-links",
-    "name": "GFM Heading Links",
-    "author": "Lucas Galdino",
-    "description": "Resolve GFM-style kebab-case heading links (e.g. #my-heading) at runtime — no export hacks, works in Live Preview and Reading view. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "lucasgaldinos/obsidian-gfm-headers"
-  },
-  {
     "id": "auto-date-on-open",
     "name": "Auto Date on Open",
     "author": "Kaicui",
@@ -41293,6 +41279,13 @@
     "repo": "hankleechn/myspace-tasks"
   },
   {
+    "id": "swipe-words",
+    "name": "Swipe Words",
+    "author": "LeafChage",
+    "description": "swipe words to remember - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "leafchage/swipe-words"
+  },
+  {
     "id": "tabbed-blocks",
     "name": "Tabbed Blocks",
     "author": "Quincy",
@@ -41335,17 +41328,17 @@
     "repo": "mrjahanbin90/safe-attachment-trash"
   },
   {
-    "id": "export-img",
-    "name": "Export Img",
-    "author": "HUANG CONG",
-    "description": "Export notes as images with reading-view fidelity (callouts, code, embeds, Mermaid, and more). - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "379949990/obsidian-export-img"
-  },
-  {
     "id": "loupe",
     "name": "Loupe",
     "author": "Casper",
     "description": "See and preview the files Obsidian normally hides — Office (Word/Excel/PowerPoint), HTML, CSV/TSV, JSON, and 50+ code & config formats — right in the file explorer. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "casperkwok/obsidian-loupe"
+  },
+  {
+    "id": "jdb-command",
+    "name": "JDB Command",
+    "author": "chao chih hung ",
+    "description": "Unified command entry for Jason's Digital Brain. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "c8vzn4ym5g-ai/jdb-command"
   }
 ]
