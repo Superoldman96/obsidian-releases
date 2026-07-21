@@ -36879,7 +36879,7 @@
     "id": "learning-practice-coevolution",
     "name": "Learning Practice Coevolution",
     "author": "Jie Huang",
-    "description": "Local-first active recall, AI critique, transfer practice, and learning session workflows. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Turn reading into active recall, critique prompts, and real-task practice—so you can use what you learn. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "michael-uplive021/learning-practice-coevolution"
   },
   {
@@ -41167,6 +41167,13 @@
     "repo": "tamiroh/obsidian-interval-timer"
   },
   {
+    "id": "todo-calendar",
+    "name": "Todo Calendar",
+    "author": "qingyu",
+    "description": "Visual calendar for your to-do-calendar.md. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "itzqingyu/todo-calendar"
+  },
+  {
     "id": "gridsense",
     "name": "GridSense",
     "author": "Grub Basket",
@@ -41207,13 +41214,6 @@
     "author": "SrPernax",
     "description": "Turn your soundtrack into a worldbuilding tool. Manage OSTs, track leitmotifs, and weave musical lore into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "srpernax/obsidian-storyscore"
-  },
-  {
-    "id": "visit-history",
-    "name": "Visit History",
-    "author": "Nickolay Kondratyev",
-    "description": "Records the visit history of notes and canvases, and visualizes vault activity as a treemap heatmap. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "nickolay-kondratyev/obsidian-visit-history-plugin"
   },
   {
     "id": "clang-format-code-blocks",
