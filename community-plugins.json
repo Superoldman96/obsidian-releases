@@ -41132,13 +41132,6 @@
     "repo": "n23eos/advanced_graph_view"
   },
   {
-    "id": "mq",
-    "name": "mq",
-    "author": "Takahiro Sato",
-    "description": "Run mq (a jq-like query language for Markdown) queries directly in Obsidian: live query blocks, note/vault transforms, and editor support. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "harehare/obsidian-mq"
-  },
-  {
     "id": "interval-timer",
     "name": "Interval Timer",
     "author": "tamiroh",
@@ -41342,13 +41335,6 @@
     "repo": "mrjahanbin90/safe-attachment-trash"
   },
   {
-    "id": "export-img",
-    "name": "Export Img",
-    "author": "Egoism",
-    "description": "Export notes as images with reading-view fidelity (callouts, code, embeds, Mermaid, and more). - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "379949990/obsidian-export-img"
-  },
-  {
     "id": "loupe",
     "name": "Loupe",
     "author": "Casper",
@@ -41545,6 +41531,13 @@
     "repo": "ashenashes/word-count-heatmap"
   },
   {
+    "id": "ai-translate",
+    "name": "AI Translate",
+    "author": "DXShelley",
+    "description": "Translate, look up, hear, and retain words without leaving your Obsidian note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dxshelley/ai-translate"
+  },
+  {
     "id": "pavel-dashboard",
     "name": "Focus Workbench",
     "author": "pavel",
@@ -41578,5 +41571,19 @@
     "author": "fanthus",
     "description": "Sync Flomo memos into Obsidian with per-year folders, monthly merge, and incremental updates. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fanthus/flomo2obsidian"
+  },
+  {
+    "id": "knowledge-objects",
+    "name": "Knowledge Objects",
+    "author": "LockedCore",
+    "description": "Render semantic objects in Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "linye0/knowledge-objects"
+  },
+  {
+    "id": "chrono-notes",
+    "name": "Chrono Notes",
+    "author": "Yuxiang Zheng",
+    "description": "A calendar workspace for periodic notes, lunar dates, tasks, and time ranges. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhyx91/obsidian-chrono-notes"
   }
 ]
