@@ -35736,7 +35736,7 @@
   },
   {
     "id": "folder-routines",
-    "name": "Habit Checklist",
+    "name": "Pixel Habits",
     "author": "shabbirpatheria",
     "description": "Render a checklist in your daily note from a folder structure. Checking an item logs the daily note's date into that note's 'entries' property. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "shabbirpatheria/folder-routines"
@@ -41636,10 +41636,24 @@
     "repo": "alinefan/linqq-handwritten-annotation-plugin"
   },
   {
+    "id": "motes",
+    "name": "Motes",
+    "author": "Hencter Lew",
+    "description": "A flow-style note plugin with native editor, waterfall layout and flexible storage. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hencter/obsidian-motes"
+  },
+  {
     "id": "s-three-image-sync-pro",
     "name": "S3 Image Sync Pro",
     "author": "hailan",
     "description": "Upload images to S3/R2 with note-path matching, WebP WASM compression, and auto-delete sync. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hailanbb/s3-image-sync-pro"
+  },
+  {
+    "id": "section-variants",
+    "name": "Section Variants",
+    "author": "Gabriel Bacha",
+    "description": "Switch, compare, and manage parallel versions of Markdown sections within one note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gabrielbacha/Obsidian-Section-Variants"
   }
 ]

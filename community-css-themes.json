@@ -3804,6 +3804,13 @@
     "modes": ["dark"]
   },
   {
+    "name": "Lucy",
+    "author": "Gabriel Bacha",
+    "repo": "gabrielbacha/Obsidian-Lucy",
+    "screenshot": "Screenshot-1.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Alien",
     "author": "jabaho9523",
     "repo": "jabaho9523/AlienTheme",
@@ -4089,6 +4096,13 @@
     "repo": "huydnd/night-owl-obsidian-theme",
     "screenshot": "images/screenshot.png",
     "modes": ["dark"]
+  },
+  {
+    "name": "Clawdia",
+    "author": "TheShield2594",
+    "repo": "theshield2594/clawdia-obsidian-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   },
   {
     "name": "Lapfly",
