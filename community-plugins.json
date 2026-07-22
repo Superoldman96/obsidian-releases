@@ -41132,6 +41132,13 @@
     "repo": "n23eos/advanced_graph_view"
   },
   {
+    "id": "mq",
+    "name": "mq",
+    "author": "Takahiro Sato",
+    "description": "Run mq (a jq-like query language for Markdown) queries directly in Obsidian: live query blocks, note/vault transforms, and editor support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "harehare/obsidian-mq"
+  },
+  {
     "id": "interval-timer",
     "name": "Interval Timer",
     "author": "tamiroh",
@@ -41585,5 +41592,33 @@
     "author": "Yuxiang Zheng",
     "description": "A calendar workspace for periodic notes, lunar dates, tasks, and time ranges. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zhyx91/obsidian-chrono-notes"
+  },
+  {
+    "id": "local-image-resizer",
+    "name": "Local Image Resizer",
+    "author": "JSTools Space",
+    "description": "Resize, convert, and compress images locally while preserving the originals. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jstoolsspace/img-resizer-obsidian"
+  },
+  {
+    "id": "sidebrace",
+    "name": "SideBrace",
+    "author": "Henry Lo",
+    "description": "Group a few lines of related text with a large curly brace and a side note, using familiar callout syntax (> [!brace]). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "realhenrylo/obsidian-sidebrace"
+  },
+  {
+    "id": "retrieva",
+    "name": "Retrieva",
+    "author": "Daichi",
+    "description": "Markdown-native spaced repetition with FSRS. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "daichi-629/obsidian-retrieva"
+  },
+  {
+    "id": "html-font-toolbar",
+    "name": "HTML Font Toolbar",
+    "author": "Charette-AI-Group",
+    "description": "Floating toolbar that styles selected text with clean inline HTML: color, highlight, size, font, bold/italic/underline/strikethrough, and table-aware alignment. Repeated formatting merges into a single span instead of nesting. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "charette-ai-group/html-font-toolbar"
   }
 ]
