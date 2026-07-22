@@ -13006,13 +13006,6 @@
     "repo": "farcaller/obsidian-clojure-plugin-host"
   },
   {
-    "id": "gay-toolbar",
-    "name": "Gay Toolbar",
-    "author": "chaskane",
-    "description": "Colorful, customizable toolbar, designed for mobile",
-    "repo": "chaskane/gay-toolbar"
-  },
-  {
     "id": "weekly-goal-tracker",
     "name": "Weekly Goal Tracker",
     "author": "gitgorman",
@@ -25042,7 +25035,7 @@
     "id": "callout-studio",
     "name": "Callout Studio",
     "author": "niv20",
-    "description": "Callout Studio is a comprehensive toolkit featuring custom types, autocomplete, context menu actions, and support for Lucide, Material icons and emojis. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Callout Studio is the only callout plugin you'll ever need to download. It offers regular callouts, inline callouts, and callout headings. Plus, you can easily design your own custom styles! - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "niv20/obsidian-Plugin-Callout-Studio"
   },
   {
@@ -38843,6 +38836,13 @@
     "repo": "kaventro/notion-sync"
   },
   {
+    "id": "config-sync",
+    "name": "Config Sync",
+    "author": "xooooooooox",
+    "description": "Selective, on-demand distribution of vault configuration (snippets, hotkeys, plugin settings) across devices and vaults. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xooooooooox/obsidian-config-sync"
+  },
+  {
     "id": "wayback-linker",
     "name": "Wayback Linker",
     "author": "Real-Fruit-Snacks",
@@ -40159,6 +40159,13 @@
     "repo": "yaye-work/note-diary"
   },
   {
+    "id": "np-rf-analysis",
+    "name": "nPort RF Analysis",
+    "author": "Jerome G Wiltz",
+    "description": "Analyze RF and microwave networks from Markdown and render SVG charts, tables, and Smith plots. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jerrywiltz/np-rf-analysis"
+  },
+  {
     "id": "code-playground",
     "name": "Code Playground",
     "author": "touss59",
@@ -40486,13 +40493,6 @@
     "author": "SVM0N",
     "description": "View and edit CSV files as cards, kanban, table, charts, a habit dashboard, a tasks board, a focus reader, or an interactive travel map. Charts with best-fit lines, formulas, and color-by splits. Notes columns render as Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "svm0n/datadeck"
-  },
-  {
-    "id": "banshan-skillhub",
-    "name": "Banshan Skill Hub",
-    "author": "PassengerC07",
-    "description": "Import, organize, and install AI agent skills from an Obsidian vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "drbanshan/banshan-skillhub"
   },
   {
     "id": "wave-toc",
@@ -41634,5 +41634,12 @@
     "author": "linqq",
     "description": "Add colorful handwritten-style annotations. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "alinefan/linqq-handwritten-annotation-plugin"
+  },
+  {
+    "id": "s-three-image-sync-pro",
+    "name": "S3 Image Sync Pro",
+    "author": "hailan",
+    "description": "Upload images to S3/R2 with note-path matching, WebP WASM compression, and auto-delete sync. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hailanbb/s3-image-sync-pro"
   }
 ]
