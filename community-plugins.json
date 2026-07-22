@@ -38843,13 +38843,6 @@
     "repo": "kaventro/notion-sync"
   },
   {
-    "id": "config-sync",
-    "name": "Config Sync",
-    "author": "xooooooooox",
-    "description": "Selective, on-demand distribution of vault configuration (snippets, hotkeys, plugin settings) across devices and vaults. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "xooooooooox/obsidian-config-sync"
-  },
-  {
     "id": "wayback-linker",
     "name": "Wayback Linker",
     "author": "Real-Fruit-Snacks",
@@ -41499,7 +41492,7 @@
     "id": "grill",
     "name": "Grill",
     "author": "Adam Danielsson",
-    "description": "Get grilled on your own notes. AI quizzes you straight from your vault, grades your answers, and remembers what you miss, so every session hits your weak spots. Spaced repetition without writing flashcards. Bring your own AI key. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Get grilled on your notes. AI quizzes you straight from your vault, grades you, every session hits your weak spots. Spaced repetition without writing flashcards. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "theadamdanielsson/grill"
   },
   {
