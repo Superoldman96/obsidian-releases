@@ -38759,6 +38759,13 @@
     "repo": "astraaaa02/Obsidian-Torch-Cursor"
   },
   {
+    "id": "omni-viewer",
+    "name": "Omni Viewer",
+    "author": "battlecook",
+    "description": "View audio, image, video, archive, csv, DBC, ARXML, A2L, ASC, BLF, MF4, Avro, ROS bag, PCAP, PCAPNG, STEP, DB3, ReqIF, excel, word, powerpoint, parquet, Shapefile, HDF5, MAT, jsonl, yaml, toml, markdown, mermaid, PlantUML, hwp, PSD and PDF files inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "battlecook/omni-viewer-obsidian"
+  },
+  {
     "id": "schematex",
     "name": "Schematex",
     "author": "Maarten Peels",
