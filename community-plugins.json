@@ -15281,6 +15281,13 @@
     "repo": "zhouhua/obsidian-waveform-player"
   },
   {
+    "id": "wheel-tab-switcher",
+    "name": "Wheel Tab Switcher",
+    "author": "22-2",
+    "description": "Switch between Tabs using your mouse wheel when hovering over tab headers",
+    "repo": "22-2/wheel-tab-switcher"
+  },
+  {
     "id": "pinned-daily-notes",
     "name": "Pinned Daily Notes",
     "author": "docmarionum1",
@@ -36757,13 +36764,6 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
-    "id": "pivi",
-    "name": "Pivi",
-    "author": "shuuul",
-    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "shuuul/obsidian-pivi"
-  },
-  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -39065,6 +39065,13 @@
     "author": "Thomas Jeong",
     "description": "Real-time meeting transcription in a sidebar, powered by ElevenLabs Scribe. Buffer the transcript and insert chosen parts into your note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "korthomasjeong/live-scribe"
+  },
+  {
+    "id": "leadsheet",
+    "name": "Leadsheet",
+    "author": "chrisamber",
+    "description": "Render ChordPro lead sheets with transpose, capo shapes, chord diagrams, set lists, and autoscroll. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "chrisamber/obsidian-leadsheet"
   },
   {
     "id": "web-embed",
