@@ -21371,13 +21371,6 @@
     "repo": "caesarloo/obsidian-svn"
   },
   {
-    "id": "pdf-commenter",
-    "name": "PDF Commenter",
-    "author": "kirangathani",
-    "description": "A PDF viewer with an annotation system backed by markdown notes. Select text, create comments with backlinks, and keep everything inside your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kirangathani/pdf-commenter"
-  },
-  {
     "id": "evc-team-relay",
     "name": "EVC Team Relay",
     "author": "entire-vc",
@@ -41452,5 +41445,19 @@
     "author": "Nossimonov",
     "description": "Render Chartdown map blocks (battlemaps, hex charts, region maps) as SVG, right in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nossimonov/obsidian-chartdown"
+  },
+  {
+    "id": "auto-tag-graph-colors",
+    "name": "Auto Tag Graph Colors",
+    "author": "Tristan Cassius",
+    "description": "Automatically assign distinct, stable colors to every tag in the graph view. Includes smart tag blending, monochrome mode, and heat coloring by connection count. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "trisko06/auto-tag-graph-colors"
+  },
+  {
+    "id": "canvas-positioning-toolkit",
+    "name": "Canvas Positioning Toolkit",
+    "author": "valleytheknight",
+    "description": "Auto-layout and arrange Canvas cards into a grid, pick one up and place it with a hotkey instead of dragging, or find a card in a cluster with a text search. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "valleytheknight/Canvas-Positioning-Toolkit"
   }
 ]
