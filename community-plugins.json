@@ -40985,6 +40985,13 @@
     "repo": "lywooye/stratify-mindmap"
   },
   {
+    "id": "animelist",
+    "name": "AnimeList",
+    "author": "cwh555",
+    "description": "A local-first anime, manga, and novel library backed by Markdown, with metadata search, covers, ratings, templates, filters, and a completion timeline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cwh555/AnimeList"
+  },
+  {
     "id": "solomon-chat",
     "name": "Solomon Chat",
     "author": "West B",
@@ -41330,7 +41337,7 @@
   {
     "id": "export-img",
     "name": "Export Img",
-    "author": "HUANG CONG",
+    "author": "Egoism",
     "description": "Export notes as images with reading-view fidelity (callouts, code, embeds, Mermaid, and more). - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "379949990/obsidian-export-img"
   },
@@ -41340,6 +41347,13 @@
     "author": "Casper",
     "description": "See and preview the files Obsidian normally hides — Office (Word/Excel/PowerPoint), HTML, CSV/TSV, JSON, and 50+ code & config formats — right in the file explorer. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "casperkwok/obsidian-loupe"
+  },
+  {
+    "id": "rootr-sync",
+    "name": "Rootr Sync",
+    "author": "Van Ryu",
+    "description": "Team collaboration for your vault: share a chosen folder (or tagged notes) into a Rootr cloud workspace, so teammates and Claude or ChatGPT can read and write it. One-way sync — your vault stays local. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gwmage/obsidian-rootr-sync"
   },
   {
     "id": "jdb-command",
