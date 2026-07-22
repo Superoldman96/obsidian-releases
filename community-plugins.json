@@ -24836,13 +24836,6 @@
     "repo": "yllucsyeoj/quackblocks"
   },
   {
-    "id": "surface-notes",
-    "name": "Surface",
-    "author": "mistergf",
-    "description": "Automatically gathers all your date-based and keyword-marked notes into one sidebar view, so your past thoughts are always easy to find. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mistergf/obsidian-surface"
-  },
-  {
     "id": "wechat-article",
     "name": "WeChat Article Composer",
     "author": "frankl1u",
@@ -29874,6 +29867,13 @@
     "author": "cocoa",
     "description": "Create and present Marp markdown slides with a fullscreen mode, popout presenter view, and laser pointer. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cocoaai-it/ob-cocoa-marp"
+  },
+  {
+    "id": "docx-exporter-plus",
+    "name": "DOCX Exporter Plus",
+    "author": "michellegdyason",
+    "description": "Export Markdown notes to DOCX with Word heading navigation, visible colors on white paper, and working links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "michellegdyason/docx-exporter-plus"
   },
   {
     "id": "traystone",
@@ -40026,6 +40026,13 @@
     "repo": "louie-vibecoding/time-recorder"
   },
   {
+    "id": "finance-tracker",
+    "name": "Finance Tracker",
+    "author": "AJ",
+    "description": "Log spending as tags in your daily notes, then turn them into pace-aware budget, holiday, and savings dashboards. Capture via Apple Shortcuts or a quick-add modal. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "arangutambo/finance-tracker"
+  },
+  {
     "id": "inline-note",
     "name": "Inline Note",
     "author": "yaye.work",
@@ -40113,15 +40120,8 @@
     "id": "simple-calendar",
     "name": "Simple Calendar",
     "author": "newcodejin",
-    "description": "A simple calendar that shows a dot on days that have a daily note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A minimal calendar you can lightly decorate. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "newcodejin/simple-calendar"
-  },
-  {
-    "id": "easy-sync",
-    "name": "EasySync",
-    "author": "Jiao Yingxing",
-    "description": "Two-way OneDrive sync for Obsidian, with conflict safeguards, mobile support, and optional settings/plugin sync. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jiaoyingxing/easy-sync"
   },
   {
     "id": "no-more-untitled",
@@ -41349,6 +41349,13 @@
     "repo": "casperkwok/obsidian-loupe"
   },
   {
+    "id": "canvas-enhance",
+    "name": "Canvas Enhance",
+    "author": "joeytoday",
+    "description": "Supercharge your canvas experience! Create presentations, flowcharts and more! - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "joeytoday/obsidian-canvas-enhance"
+  },
+  {
     "id": "rootr-sync",
     "name": "Rootr Sync",
     "author": "Van Ryu",
@@ -41496,10 +41503,38 @@
     "repo": "valleytheknight/Canvas-Positioning-Toolkit"
   },
   {
+    "id": "zoom-mynotes-sync",
+    "name": "Zoom MyNotes Sync",
+    "author": "Daemon Behr",
+    "description": "Deploy and run Zoom Notes transcript sync into this vault (Python + Playwright backend). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "script-repo/Zoom-MyNotes-Obsidian-plugin"
+  },
+  {
     "id": "fullscreen-image",
     "name": "Fullscreen Image",
     "author": "Robert Fleming",
     "description": "Click any image to expand it fullscreen, with pinch, wheel, and button zoom plus drag to pan. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "haivri/obsidian-fullscreen-image"
+  },
+  {
+    "id": "word-count-heatmap",
+    "name": "Word Count Heatmap",
+    "author": "Aluxes",
+    "description": "Visualizes your daily writing productivity with GitHub-style word count heatmaps. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ashenashes/word-count-heatmap"
+  },
+  {
+    "id": "pavel-dashboard",
+    "name": "Focus Workbench",
+    "author": "pavel",
+    "description": "A local-first dashboard for Pavel's existing tasks and knowledge cards. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pavelpeng7/obsidian-ultra-dashboard"
+  },
+  {
+    "id": "safe-passage",
+    "name": "SafePassage",
+    "author": "Ji-ho Lee",
+    "description": "A secure, lightweight, and high-performance KeePass integration plugin for Obsidian, featuring WebAssembly Argon2 decryption, masked inline chips, and interactive credential tables. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "search5/safe-passage"
   }
 ]
