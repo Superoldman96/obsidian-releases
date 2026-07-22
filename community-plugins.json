@@ -23744,13 +23744,6 @@
     "repo": "liuyangart/obsidian-canvas-banana"
   },
   {
-    "id": "gemini-helper",
-    "name": "Gemini Helper",
-    "author": "TAKESHI MORITA",
-    "description": "AI chat, workflow automation, semantic search (RAG), LLM Wiki (OKF), and dashboards with reading memos powered by Google Gemini. Works on both desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "takeshy/obsidian-gemini-helper"
-  },
-  {
     "id": "dropdown-vars",
     "name": "Dropdown Vars",
     "author": "majid-khonji",
@@ -40124,6 +40117,13 @@
     "repo": "newcodejin/simple-calendar"
   },
   {
+    "id": "easy-sync",
+    "name": "EasySync",
+    "author": "Jiao Yingxing",
+    "description": "Two-way OneDrive sync for Obsidian, with conflict safeguards, mobile support, and optional settings/plugin sync. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jiaoyingxing/easy-sync"
+  },
+  {
     "id": "no-more-untitled",
     "name": "No More Untitled",
     "author": "woodamsclark",
@@ -41377,6 +41377,13 @@
     "repo": "lavich/domorium-obsidian"
   },
   {
+    "id": "ogenda",
+    "name": "Ogenda",
+    "author": "jiang198012",
+    "description": "Two-way calendar sync (CalDAV/iCloud) with an agenda view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jiang198012/ogenda"
+  },
+  {
     "id": "quizzable",
     "name": "Quizzable",
     "author": "Ashly Lorenzana",
@@ -41424,6 +41431,13 @@
     "author": "philpalmieri",
     "description": "Aggregate your native Obsidian tasks into one fast dashboard, inspired by the best dedicated to-do apps. Buckets every checkbox by its People, Projects, and Areas context, with smart lists, priorities, dates, sorting, grouping, and per-task notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "philpalmieri/obsidian-taskgregator"
+  },
+  {
+    "id": "smart-quiz-tutor",
+    "name": "Smart Question Tutor",
+    "author": "XXJ",
+    "description": "读取本地md知识库，调用Ollama/OpenAI兼容API自动生成试题，支持导出MD、Word、PDF，AI识别试卷、错题本、间隔复习 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xxinjie21/question-generator"
   },
   {
     "id": "easyfilereplace",
@@ -41536,5 +41550,19 @@
     "author": "Ji-ho Lee",
     "description": "A secure, lightweight, and high-performance KeePass integration plugin for Obsidian, featuring WebAssembly Argon2 decryption, masked inline chips, and interactive credential tables. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "search5/safe-passage"
+  },
+  {
+    "id": "htmlto-link",
+    "name": "Share Page",
+    "author": "licc168",
+    "description": "Instantly share a note as a beautiful webpage and copy the public link. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "licc168/obsidian-htmlto-link"
+  },
+  {
+    "id": "wechat-collector",
+    "name": "WeChat Collector",
+    "author": "lizhen",
+    "description": "Sync WeChat Official Account articles to your vault as Markdown, archived by date. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lizhen0628/obsidian-wechat-sync"
   }
 ]
