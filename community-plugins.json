@@ -41445,5 +41445,12 @@
     "author": "Adam Danielsson",
     "description": "Get grilled on your own notes. AI quizzes you straight from your vault, grades your answers, and remembers what you miss, so every session hits your weak spots. Spaced repetition without writing flashcards. Bring your own AI key. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "theadamdanielsson/grill"
+  },
+  {
+    "id": "chartdown",
+    "name": "Chartdown",
+    "author": "Nossimonov",
+    "description": "Render Chartdown map blocks (battlemaps, hex charts, region maps) as SVG, right in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nossimonov/obsidian-chartdown"
   }
 ]
