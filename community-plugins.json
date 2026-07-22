@@ -36764,6 +36764,13 @@
     "repo": "zhaohongxuan/journal-partner"
   },
   {
+    "id": "pivi",
+    "name": "Pivi",
+    "author": "shuuul",
+    "description": "Bring AI agents into your vault with fine-grained context controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "shuuul/obsidian-pivi"
+  },
+  {
     "id": "read-it-never",
     "name": "Read It Never",
     "author": "Jakob He",
@@ -41590,7 +41597,7 @@
     "id": "chrono-notes",
     "name": "Chrono Notes",
     "author": "Yuxiang Zheng",
-    "description": "A calendar workspace for periodic notes, lunar dates, tasks, and time ranges. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "A calendar workspace for periodic notes, calendar extensions, regional holidays, tasks, and time ranges. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zhyx91/obsidian-chrono-notes"
   },
   {
@@ -41620,5 +41627,19 @@
     "author": "Charette-AI-Group",
     "description": "Floating toolbar that styles selected text with clean inline HTML: color, highlight, size, font, bold/italic/underline/strikethrough, and table-aware alignment. Repeated formatting merges into a single span instead of nesting. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "charette-ai-group/html-font-toolbar"
+  },
+  {
+    "id": "line-ending-controller",
+    "name": "Line Ending Controller",
+    "author": "anse",
+    "description": "Control line ending format (LF/CRLF) per file or per folder. Prevent Obsidian from silently converting CRLF to LF. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "anseyuyin/line-ending-controller"
+  },
+  {
+    "id": "visual-annotations",
+    "name": "linqq-handwritten annotation",
+    "author": "linqq",
+    "description": "Add colorful handwritten-style annotations. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "alinefan/linqq-handwritten-annotation-plugin"
   }
 ]
