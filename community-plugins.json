@@ -7000,6 +7000,13 @@
     "repo": "julix14/chatGPT-Obsidian"
   },
   {
+    "id": "local-backup",
+    "name": "Local Backup",
+    "author": "velviagris",
+    "description": "Automatically creates a local backup of the vault.",
+    "repo": "velviagris/obsidian-local-backup"
+  },
+  {
     "id": "battlesnake-viewer",
     "name": "BattleSnake Board Viewer",
     "author": "enderinvader",
@@ -11338,6 +11345,13 @@
     "author": "quorafind",
     "description": "Search text in canvas.",
     "repo": "quorafind/Obsidian-Search-In-Canvas"
+  },
+  {
+    "id": "sheet-plus",
+    "name": "Sheet Plus",
+    "author": "ljcoder",
+    "description": "Create Excel-like spreadsheets and easily embed them in Markdown.",
+    "repo": "ljcoder2015/obsidian-sheet-plus"
   },
   {
     "id": "asciidoc-reader",
@@ -41314,6 +41328,13 @@
     "repo": "mrjahanbin90/safe-attachment-trash"
   },
   {
+    "id": "export-img",
+    "name": "Export Img",
+    "author": "HUANG CONG",
+    "description": "Export notes as images with reading-view fidelity (callouts, code, embeds, Mermaid, and more). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "379949990/obsidian-export-img"
+  },
+  {
     "id": "loupe",
     "name": "Loupe",
     "author": "Casper",
@@ -41459,5 +41480,12 @@
     "author": "valleytheknight",
     "description": "Auto-layout and arrange Canvas cards into a grid, pick one up and place it with a hotkey instead of dragging, or find a card in a cluster with a text search. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "valleytheknight/Canvas-Positioning-Toolkit"
+  },
+  {
+    "id": "fullscreen-image",
+    "name": "Fullscreen Image",
+    "author": "Robert Fleming",
+    "description": "Click any image to expand it fullscreen, with pinch, wheel, and button zoom plus drag to pan. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "haivri/obsidian-fullscreen-image"
   }
 ]
