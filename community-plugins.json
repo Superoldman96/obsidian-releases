@@ -23744,6 +23744,13 @@
     "repo": "liuyangart/obsidian-canvas-banana"
   },
   {
+    "id": "gemini-helper",
+    "name": "Gemini Helper",
+    "author": "TAKESHI MORITA",
+    "description": "AI chat, workflow automation, semantic search (RAG), LLM Wiki (OKF), and dashboards with reading memos powered by Google Gemini. Works on both desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "takeshy/obsidian-gemini-helper"
+  },
+  {
     "id": "dropdown-vars",
     "name": "Dropdown Vars",
     "author": "majid-khonji",
@@ -34398,13 +34405,6 @@
     "repo": "maximilianwte/Obsidian_CoNote_Git"
   },
   {
-    "id": "tufte-chart",
-    "name": "Tufte Chart",
-    "author": "Arvin Dang",
-    "description": "Render `chart` code blocks as Tufte-style ASCII charts using Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "arvindang/tufte"
-  },
-  {
     "id": "subscription-calculator",
     "name": "Subscription Calculator",
     "author": "citrusrenegade",
@@ -41564,5 +41564,12 @@
     "author": "lizhen",
     "description": "Sync WeChat Official Account articles to your vault as Markdown, archived by date. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lizhen0628/obsidian-wechat-sync"
+  },
+  {
+    "id": "flomo-sync-me",
+    "name": "Flomo Sync Me",
+    "author": "fanthus",
+    "description": "Sync Flomo memos into Obsidian with per-year folders, monthly merge, and incremental updates. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fanthus/flomo2obsidian"
   }
 ]
