@@ -27531,13 +27531,6 @@
     "repo": "galeas/recording-transcript-player"
   },
   {
-    "id": "scratchblocks",
-    "name": "Scratchblocks",
-    "author": "hayribakici",
-    "description": "Render scratchblocks codeblocks - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "hayribakici/obsidian-scratchblocks"
-  },
-  {
     "id": "marp-tikz-plus",
     "name": "Marp TikZ Plus",
     "author": "Kevin",
@@ -29328,6 +29321,13 @@
     "author": "Nikita Gaziev",
     "description": "Adds a chart layout to bases so you can display notes as interactive bar or line charts. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zobweyt/obsidian-charts"
+  },
+  {
+    "id": "autolink-keywords",
+    "name": "Linkosaurus",
+    "author": "polygonhunter",
+    "description": "Automatically converts keywords into Obsidian wikilinks as you type. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "polygonhunter/linkosaurus"
   },
   {
     "id": "writing-habit",
@@ -41314,13 +41314,6 @@
     "repo": "quincysx/obsidian-markdown-tabs"
   },
   {
-    "id": "tracetime",
-    "name": "TraceTime",
-    "author": "Quincy",
-    "description": "Show when each block of a note was last edited. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "quincysx/obsidian-tracetime"
-  },
-  {
     "id": "budget-app",
     "name": "Budget Vault",
     "author": "Ruan",
@@ -41566,6 +41559,13 @@
     "repo": "ashenashes/word-count-heatmap"
   },
   {
+    "id": "ai-translate",
+    "name": "AI Translate",
+    "author": "DXShelley",
+    "description": "Translate, look up, hear, and retain words without leaving your Obsidian note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dxshelley/ai-translate"
+  },
+  {
     "id": "pavel-dashboard",
     "name": "Focus Workbench",
     "author": "pavel",
@@ -41706,6 +41706,13 @@
     "repo": "gabrielbacha/Obsidian-Section-Variants"
   },
   {
+    "id": "coupon-scheduler",
+    "name": "Coupon Scheduler",
+    "author": "方咸琦",
+    "description": "Schedule coupons, groceries, shopping reminders, and recurring activities in a calendar. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vrytfmcat/coupon-scheduler"
+  },
+  {
     "id": "property-order",
     "name": "Property Order",
     "author": "ZhengYX",
@@ -41825,10 +41832,24 @@
     "repo": "aitsuki/obsidian-mermaid-lens"
   },
   {
+    "id": "save-to-vault",
+    "name": "Save2Vault",
+    "author": "save to obsidian",
+    "description": "Save posts and threads from X into your Obsidian as clean Markdown notes. Mention @save2obsidian under any post on X. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "notesynchelper/save2obsidian"
+  },
+  {
     "id": "gpx-preview",
     "name": "GPX Preview",
     "author": "Thomas",
     "description": "Renders Apple-style map previews of embedded GPX files, with workout stats and offline caching. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tschoffelen/obsidian-gpx"
+  },
+  {
+    "id": "docs-sync",
+    "name": "Docs Sync",
+    "author": "luhaifeng666",
+    "description": "Safely sync notes and attachments through a private GitHub repository. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "luhaifeng666/obsidian-docs-sync"
   }
 ]
