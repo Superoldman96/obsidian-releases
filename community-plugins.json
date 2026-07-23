@@ -19656,6 +19656,13 @@
     "repo": "pandanocturne/obsidian-advanced-search-ui"
   },
   {
+    "id": "bring-to-front",
+    "name": "Bring to Front",
+    "author": "rockbenben",
+    "description": "Automatically brings the window to front when modals or notices appear in the background. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rockbenben/bring-obsidian-to-front"
+  },
+  {
     "id": "vaultcrypt",
     "name": "VaultCrypt",
     "author": "romejoe",
@@ -40432,13 +40439,6 @@
     "repo": "anthonyfitzpatrick/manuscript-compiler"
   },
   {
-    "id": "chatobby",
-    "name": "Chatobby",
-    "author": "Madelyn",
-    "description": "A local agent with chat and tool use, with MCP and plugin support. Bring your own API key, Chatobby supports many LLM providers - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "titaniceclair/chatobby-obsidian"
-  },
-  {
     "id": "typing-stats",
     "name": "Typing Stats",
     "author": "Ryan Hardy",
@@ -41377,6 +41377,13 @@
     "repo": "c8vzn4ym5g-ai/jdb-command"
   },
   {
+    "id": "person-network",
+    "name": "Person Network",
+    "author": "oxilldat",
+    "description": "Visualize the people in your vault as an interactive relationship map, with roles, filtering, potential contacts and Bases support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "oxilldat/obsidian-person-network"
+  },
+  {
     "id": "domorium",
     "name": "Domorium GEDCOM Editor",
     "author": "Andrei Lobanov",
@@ -41487,6 +41494,13 @@
     "author": "heiss",
     "description": "Search and link your Linkwarden bookmarks, archive URLs, show their highlights beside your notes, and insert highlights as quotes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "heiss/obsidian-linkwarden"
+  },
+  {
+    "id": "publish-git",
+    "name": "Publish on GitHub",
+    "author": "fleker",
+    "description": "Publish selective notes marked with a tag (e.g. #public) to a Git repository hosting Jekyll. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "fleker/publish-on-github-for-obsidian"
   },
   {
     "id": "kcal-calc",
@@ -41608,6 +41622,13 @@
     "repo": "jstoolsspace/img-resizer-obsidian"
   },
   {
+    "id": "study-pdf",
+    "name": "Study PDF",
+    "author": "Joao Gris",
+    "description": "Highlight text and add notes to PDFs, saved into the file itself so they work in any reader — with a built-in page to browse, jump to, and copy them all. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gris/study-pdf"
+  },
+  {
     "id": "sidebrace",
     "name": "SideBrace",
     "author": "Henry Lo",
@@ -41643,6 +41664,13 @@
     "repo": "alinefan/linqq-handwritten-annotation-plugin"
   },
   {
+    "id": "prayer-chime",
+    "name": "PrayerChime",
+    "author": "MjavadH",
+    "description": "Offline prayer times for Iranian cities using local city data. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mjavadh/PrayerChime"
+  },
+  {
     "id": "motes",
     "name": "Motes",
     "author": "Hencter Lew",
@@ -41662,5 +41690,12 @@
     "author": "Gabriel Bacha",
     "description": "Switch, compare, and manage parallel versions of Markdown sections within one note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gabrielbacha/Obsidian-Section-Variants"
+  },
+  {
+    "id": "property-order",
+    "name": "Property Order",
+    "author": "Yuxiang Zheng",
+    "description": "Reorder property values and customize property key suggestion order in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhyx91/obsidian-property-order"
   }
 ]
