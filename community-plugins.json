@@ -26085,7 +26085,7 @@
     "id": "git-file-sync",
     "name": "Git File Sync",
     "author": "ClaudiaFang",
-    "description": "Selectively sync individual notes with GitLab or GitHub. Push, pull, diff, and resolve conflicts — file by file, on mobile and desktop. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Selectively sync individual notes with GitLab or GitHub. Use API key to push, pull, diff, and resolve conflicts — file by file, on mobile and desktop. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "firstsun-dev/git-files-sync"
   },
   {
@@ -35700,13 +35700,6 @@
     "repo": "acornyio/acorny-obsidian"
   },
   {
-    "id": "claudian-api",
-    "name": "AI Study Buddy",
-    "author": "virbird",
-    "description": "AI chat embedded in your vault — direct API calls and local CLI(only for Desktop), works on Desktop and iPad. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "virbird/LLM_Private_Teacher"
-  },
-  {
     "id": "opml-editor",
     "name": "OPML Editor",
     "author": "Rob",
@@ -41823,5 +41816,12 @@
     "author": "angus kung",
     "description": "Embed independent, editable Eisenhower Matrix task boards in Markdown notes, with Chinese and English interfaces. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "angusk97/obsidian-eisenhower-matrix-blocks"
+  },
+  {
+    "id": "vk-inbox",
+    "name": "VK Inbox",
+    "author": "Timur Belov",
+    "description": "Imports VK messages and voice notes into a selected note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jesterspot1-svg/obsidian-vk-inbox"
   }
 ]

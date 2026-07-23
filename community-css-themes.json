@@ -4511,13 +4511,6 @@
     "modes": ["dark"]
   },
   {
-    "name": "Haze Note",
-    "author": "JiongN",
-    "repo": "jiongn/haze-note-obsidian-theme",
-    "screenshot": "screenshots/screenshot.png",
-    "modes": ["dark", "light"]
-  },
-  {
     "name": "Ink Paper",
     "author": "Jayanta Kumar Das",
     "repo": "dsvictor/Ink-Paper",
