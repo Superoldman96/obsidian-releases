@@ -34421,7 +34421,7 @@
   {
     "id": "stonegate",
     "name": "StoneGate",
-    "author": "Abdulrahman Agiba || xsiphr",
+    "author": "xsiphr",
     "description": "Lock screen protection for your vault - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xsiphr/StoneGate-plugin"
   },
@@ -41617,7 +41617,7 @@
   {
     "id": "chrono-notes",
     "name": "Chrono Notes",
-    "author": "Yuxiang Zheng",
+    "author": "ZhengYX",
     "description": "A calendar workspace for periodic notes, calendar extensions, regional holidays, tasks, and time ranges. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zhyx91/obsidian-chrono-notes"
   },
@@ -41701,7 +41701,7 @@
   {
     "id": "property-order",
     "name": "Property Order",
-    "author": "Yuxiang Zheng",
+    "author": "ZhengYX",
     "description": "Reorder property values and customize property key suggestion order in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zhyx91/obsidian-property-order"
   },
@@ -41732,5 +41732,12 @@
     "author": "Zhuo",
     "description": "Track trustworthy file activity and explore it by folder. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ffy6511/obsidian-activity-map"
+  },
+  {
+    "id": "ribbon-organizer",
+    "name": "Ribbon Organizer",
+    "author": "xooooooooox",
+    "description": "Group your ribbon and launch commands from a configurable ribbon menu. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xooooooooox/obsidian-ribbon-organizer"
   }
 ]
