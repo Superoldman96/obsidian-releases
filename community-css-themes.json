@@ -4523,5 +4523,12 @@
     "repo": "dsvictor/Ink-Paper",
     "screenshot": "assets/01.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "unsent-letters",
+    "author": "antonabbac",
+    "repo": "antonabbac/unsent-letters",
+    "screenshot": "Screenshots/main.png",
+    "modes": ["dark"]
   }
 ]

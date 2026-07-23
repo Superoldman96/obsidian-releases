@@ -40502,6 +40502,13 @@
     "repo": "svm0n/datadeck"
   },
   {
+    "id": "banshan-skillhub",
+    "name": "Banshan Skill Hub",
+    "author": "PassengerC07",
+    "description": "Import, organize, and install AI agent skills from an Obsidian vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "drbanshan/banshan-skillhub"
+  },
+  {
     "id": "wave-toc",
     "name": "Wave TOC",
     "author": "Hanser",
@@ -41356,6 +41363,13 @@
     "repo": "mrjahanbin90/safe-attachment-trash"
   },
   {
+    "id": "export-img",
+    "name": "Export Img",
+    "author": "Egoism",
+    "description": "Export notes as images with reading-view fidelity (callouts, code, embeds, Mermaid, and more). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "379949990/obsidian-export-img"
+  },
+  {
     "id": "loupe",
     "name": "Loupe",
     "author": "Casper",
@@ -41566,13 +41580,6 @@
     "repo": "ashenashes/word-count-heatmap"
   },
   {
-    "id": "ai-translate",
-    "name": "AI Translate",
-    "author": "DXShelley",
-    "description": "Translate, look up, hear, and retain words without leaving your Obsidian note. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dxshelley/ai-translate"
-  },
-  {
     "id": "pavel-dashboard",
     "name": "Focus Workbench",
     "author": "pavel",
@@ -41692,6 +41699,13 @@
     "repo": "hailanbb/s3-image-sync-pro"
   },
   {
+    "id": "confluence-import",
+    "name": "Confluence Page Import",
+    "author": "hikosalaidarkcommit",
+    "description": "Import Confluence pages into Obsidian notes (one-way pull) with a read-only diff preview before anything is written. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hikosalaidarkcommit/confluence-import"
+  },
+  {
     "id": "section-variants",
     "name": "Section Variants",
     "author": "Gabriel Bacha",
@@ -41720,6 +41734,13 @@
     "repo": "thequietmind/obsidian-github-linker"
   },
   {
+    "id": "second-brain-tarot",
+    "name": "Second-Brain Tarot",
+    "author": "h-jessen",
+    "description": "A tarot reading drawn from a real, complete deck and interpreted fresh against your own vault's content — not a lookup table, not generic tarot copy. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "h-jessen/second-brain-tarot-plugin"
+  },
+  {
     "id": "mubu-sync",
     "name": "Mubu Sync",
     "author": "Bo Pan",
@@ -41739,5 +41760,40 @@
     "author": "xooooooooox",
     "description": "Group your ribbon and launch commands from a configurable ribbon menu. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xooooooooox/obsidian-ribbon-organizer"
+  },
+  {
+    "id": "trello-kanban-sync",
+    "name": "Trello Kanban Sync",
+    "author": "Lewis Starkov",
+    "description": "Mirrors Trello boards into native Kanban-plugin boards on an interval, with optional two-way sync. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lewisstarkov/obsidian-trello-kanban-sync"
+  },
+  {
+    "id": "browser-bookmark",
+    "name": "Browser Bookmark",
+    "author": "notenerd",
+    "description": "An independent bookmarks sidebar that opens saved links in Obsidian's built-in Web Viewer, so you never have to leave the app to browse. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "notenerdofficial/browser-bookmark"
+  },
+  {
+    "id": "mood-calendar",
+    "name": "Mood Calendar",
+    "author": "xzhi",
+    "description": "Calendar view of your daily notes, with a mood emoji displayed beneath. 以日历视图展示你的日记，并在下方显示心情 emoji。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "github-xzhi/obsidian-mood-calendar"
+  },
+  {
+    "id": "web-card",
+    "name": "Web Card",
+    "author": "xuxiaominger2024",
+    "description": "Paste web highlights into beautiful info cards — 一键粘贴网页高亮为精美信息卡片 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xuxiaominger/obsidian-web-card"
+  },
+  {
+    "id": "canvas-card-info",
+    "name": "Canvas Card Info",
+    "author": "jihan",
+    "description": "Right-click a canvas card to copy its information (text/file/link/group, id, position, size, color) to the clipboard. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "2jihan/canvas-card-info"
   }
 ]
