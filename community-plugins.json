@@ -27531,6 +27531,13 @@
     "repo": "galeas/recording-transcript-player"
   },
   {
+    "id": "scratchblocks",
+    "name": "Scratchblocks",
+    "author": "hayribakici",
+    "description": "Render scratchblocks codeblocks - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "hayribakici/obsidian-scratchblocks"
+  },
+  {
     "id": "marp-tikz-plus",
     "name": "Marp TikZ Plus",
     "author": "Kevin",
@@ -41851,5 +41858,12 @@
     "author": "luhaifeng666",
     "description": "Safely sync notes and attachments through a private GitHub repository. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "luhaifeng666/obsidian-docs-sync"
+  },
+  {
+    "id": "obsipastepic",
+    "name": "PastePic",
+    "author": "zengyincen",
+    "description": "Paste images, upload to GitHub or your image host, and insert customizable CDN links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zengyincen/Obsidian-PastePic"
   }
 ]
