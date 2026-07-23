@@ -26691,6 +26691,13 @@
     "repo": "rogerdigital/document-exporter"
   },
   {
+    "id": "buttons-panel",
+    "name": "Buttons Panel",
+    "author": "Kevin",
+    "description": "Create customizable button panels for quick access to files, commands, links, and scripts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "tracingorigins/obsidian-buttons-panel-plugin"
+  },
+  {
     "id": "smart-punctuation-on-rendering",
     "name": "Smart Punctuation on Rendering",
     "author": "ile-24556",
@@ -38822,13 +38829,6 @@
     "repo": "mrrepac/voice-scribe"
   },
   {
-    "id": "eleven-days",
-    "name": "Eleven Days",
-    "author": "Dylan Wright",
-    "description": "Today across eleven calendar systems — Gregorian plus ten esoteric calendars, with personal annual holidays and archive-aware daily-note navigation. How to live eleven days in twenty-four hours. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "dyllonwright/Eleven-Days"
-  },
-  {
     "id": "notion-vault-sync",
     "name": "Notion Vault Sync",
     "author": "Sharky",
@@ -41865,6 +41865,13 @@
     "author": "Daewon Hwang",
     "description": "Classify, tag, link, and organize your notes with AI-powered vault maintenance. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dhwang0803-glitch/Vaultend"
+  },
+  {
+    "id": "koofr-sync",
+    "name": "Koofr Sync",
+    "author": "bartekmp",
+    "description": "Sync your vault with Koofr cloud storage. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bartekmp/koofr-obsidian-sync"
   },
   {
     "id": "node-tree-graph",
