@@ -28058,7 +28058,7 @@
   {
     "id": "wechat-messenger",
     "name": "Wechat Messenger",
-    "author": "beijing-bijitongbu",
+    "author": "notesyncer",
     "description": "Capture content from WeChat Official Accounts, Xiaohongshu, Dedao, Yuanbao, and Zhihu. Save chat records, images, and files with ease. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "notesynchelper/obsidian-wechat-messenger"
   },
@@ -28121,7 +28121,7 @@
   {
     "id": "bijitongbu",
     "name": "Biji Tongbu",
-    "author": "beijing-bijitongbu",
+    "author": "notesyncer",
     "description": "文章、视频、文字、笔记、图片、问答、帖子、语音、附件、聊天记录通通交给AI 帮你整理到Obsidian中 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "notesynchelper/obsidian-bijitongbu"
   },
@@ -28553,6 +28553,13 @@
     "repo": "mingjuner123-spec/wechat-inbox-sync"
   },
   {
+    "id": "obsidian-pretext",
+    "name": "Pretext Optimizer",
+    "author": "wuyifan-code",
+    "description": "Integrates Pretext library to reduce DOM measurement overhead in Obsidian's rendering pipeline, improving performance for large documents. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wuyifan-code/Obsidian-pretext"
+  },
+  {
     "id": "wrot",
     "name": "Wrot",
     "author": "Vill Yoshioka",
@@ -28772,7 +28779,7 @@
   {
     "id": "shoujidiannao",
     "name": "Shouji Diannao",
-    "author": "beijing-bijitongbu",
+    "author": "notesyncer",
     "description": "A convenient, fast, and secure plugin for synchronizing Obsidian notes across mobile devices and computers. Convenient—simply link your devices using a dynamic code to begin syncing immediately; Fast— - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "notesynchelper/shoujidiannao"
   },
@@ -31523,7 +31530,7 @@
   {
     "id": "china-speedup",
     "name": "China Speedup",
-    "author": "beijing-bijitongbu",
+    "author": "notesyncer",
     "description": "国内加速的 Obsidian 插件商店：浏览、搜索、一键安装社区插件，下载经国内中转节点加速，自动选最快线路。支持服务端黑名单与特殊导入配置，以及官网调起一键安装。 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "notesynchelper/china-speedup"
   },
@@ -32051,13 +32058,6 @@
     "author": "Xiaoqiang Huang",
     "description": "Organize diary entries, tasks, knowledge, memory, and AI-assisted reviews inside your Obsidian vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "xiaoqiang-huang/obsidian-life-os-community"
-  },
-  {
-    "id": "live-image-editor",
-    "name": "Live Image Editor",
-    "author": "britz",
-    "description": "Edit images non-destructively: crop, rotate, flip, resize, and apply CSS filters live, without modifying the original file. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "britz/obsidian-live-image-editor"
   },
   {
     "id": "logcollector",
@@ -41748,6 +41748,13 @@
     "repo": "bopan3/mubu-obsidian-sync"
   },
   {
+    "id": "epub-reader-plus",
+    "name": "EPUB Reader Plus",
+    "author": "Ikari",
+    "description": "A polished EPUB reader for Obsidian with paginated navigation and theme-aware reading. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ikarikr/obsidian-epub-reader-plus"
+  },
+  {
     "id": "activity-map",
     "name": "Activity Map",
     "author": "Zhuo",
@@ -41790,10 +41797,31 @@
     "repo": "xuxiaominger/obsidian-web-card"
   },
   {
+    "id": "agent",
+    "name": "Agent",
+    "author": "munroe153",
+    "description": "Chat with an AI agent that reads and edits your notes through 27 built-in tools. Works with any OpenAI-compatible provider (DeepSeek, Moonshot, Ollama, LM Studio), with long-term memory and skills, on both desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "munroe153/obsidian-agent"
+  },
+  {
+    "id": "spherical-knowledge-graph",
+    "name": "Spherical Knowledge Graph",
+    "author": "Sam Yuan",
+    "description": "Turns any Obsidian vault into an auto-updating 3D knowledge sphere with learning paths, graph health checks, missing concepts, and semantic links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ironmind15/spherical-knowledge-graph"
+  },
+  {
     "id": "canvas-card-info",
     "name": "Canvas Card Info",
     "author": "jihan",
     "description": "Right-click a canvas card to copy its information (text/file/link/group, id, position, size, color) to the clipboard. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "2jihan/canvas-card-info"
+  },
+  {
+    "id": "eisenhower-matrix-blocks",
+    "name": "Eisenhower Matrix Blocks",
+    "author": "angus kung",
+    "description": "Embed independent, editable Eisenhower Matrix task boards in Markdown notes, with Chinese and English interfaces. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "angusk97/obsidian-eisenhower-matrix-blocks"
   }
 ]
