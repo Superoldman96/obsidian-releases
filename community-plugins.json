@@ -15260,13 +15260,6 @@
     "repo": "busyogg/OneStepWikiLink"
   },
   {
-    "id": "markitdown",
-    "name": "Markitdown File Converter",
-    "author": "ethanolivertroy",
-    "description": "Convert PDFs, Office documents, images, and other file formats to Markdown using Microsoft's Markitdown tool",
-    "repo": "ethanolivertroy/obsidian-markitdown"
-  },
-  {
     "id": "waveform-player",
     "name": "Waveform Player",
     "author": "zhouhua",
@@ -36487,7 +36480,7 @@
     "id": "synapses",
     "name": "Synapses",
     "author": "qoob23",
-    "description": "Map out and edit note relations in a focused graph. Inspired by TheBrain. Requires Dataview. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Map out and edit note relations in a focused graph. Requires Dataview. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "qoob23/synapses"
   },
   {
@@ -37756,6 +37749,13 @@
     "author": "羽鳞君",
     "description": "个人写作专栏 · 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生 | Personal writing column reader - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "miaoziguan/obsidian-bamboo-walking"
+  },
+  {
+    "id": "promptbox",
+    "name": "Promptbox",
+    "author": "istefox",
+    "description": "Local-first library of AI prompts with categorization, search, and quick reuse. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "istefox/promptbox"
   },
   {
     "id": "propsync",
@@ -41893,5 +41893,12 @@
     "author": "Jiao Yingxing",
     "description": "A lightweight habit tracker for Obsidian with built-in templates, project notes, and overview charts. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "jiaoyingxing/square"
+  },
+  {
+    "id": "daily-bible-verse",
+    "name": "Daily Bible Verse",
+    "author": "polygonhunter",
+    "description": "Start each day with Scripture: a daily Bible verse in your daily note as an elegant callout. Smart no-repeat rotation, offline public-domain translations in five languages, themed verse collections, and whole-Bible mode. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "polygonhunter/daily-bible-verse"
   }
 ]
