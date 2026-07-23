@@ -41293,6 +41293,13 @@
     "repo": "manthey/offline-whisper"
   },
   {
+    "id": "time-blocks",
+    "name": "Time Blocks",
+    "author": "Jonny McConnell",
+    "description": "Weekly time-blocking canvas with Tasks-plugin backlog, drag-and-drop scheduling, and Google Calendar integration. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jonmccon/obsidian-time-blocks"
+  },
+  {
     "id": "myspace-tasks",
     "name": "MySpace Tasks",
     "author": "李向阳",
@@ -41697,5 +41704,19 @@
     "author": "Yuxiang Zheng",
     "description": "Reorder property values and customize property key suggestion order in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zhyx91/obsidian-property-order"
+  },
+  {
+    "id": "mercenai-vault-sync",
+    "name": "MERCENAI Vault Sync",
+    "author": "George Tasan",
+    "description": "Synchronizes approved Markdown notes from an Obsidian vault into a MERCENAI knowledge base. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xmachinesai/mercenai-vault-sync"
+  },
+  {
+    "id": "github-pr-linker",
+    "name": "GitHub PR Linker",
+    "author": "Quiet Mind Creative",
+    "description": "Turn GitHub pull request references like repo#123 into Markdown links. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "thequietmind/obsidian-github-linker"
   }
 ]
