@@ -26355,6 +26355,13 @@
     "repo": "dsebastien/obsidian-hidden-folders-access"
   },
   {
+    "id": "resojot",
+    "name": "Resojot",
+    "author": "Jiao Yingxing",
+    "description": "Capture voice notes in Obsidian, write them into Markdown, and transcribe them with local or cloud providers. (Closed source) - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jiaoyingxing/resojot"
+  },
+  {
     "id": "digital-garden-timer",
     "name": "Digital Garden Timer",
     "author": "Anton",
@@ -41321,6 +41328,13 @@
     "repo": "quincysx/obsidian-markdown-tabs"
   },
   {
+    "id": "tracetime",
+    "name": "TraceTime",
+    "author": "Quincy",
+    "description": "Show when each block of a note was last edited. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "quincysx/obsidian-tracetime"
+  },
+  {
     "id": "budget-app",
     "name": "Budget Vault",
     "author": "Ruan",
@@ -41424,13 +41438,6 @@
     "author": "kageetai",
     "description": "Obsidian Plugin to create daily notes from other \"daily notes\" - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "kageetai/obsidian-daily-from-others-plugin"
-  },
-  {
-    "id": "md-discord-syntax",
-    "name": "Discord Syntax",
-    "author": "edems",
-    "description": "Discord-style ||spoiler|| and \"-# subtext\" markdown formatting extension - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "edems-dev/md-discord-syntax"
   },
   {
     "id": "cite",
@@ -41858,6 +41865,13 @@
     "author": "luhaifeng666",
     "description": "Safely sync notes and attachments through a private GitHub repository. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "luhaifeng666/obsidian-docs-sync"
+  },
+  {
+    "id": "noterelay",
+    "name": "NoteRelay",
+    "author": "super meng",
+    "description": "将 Obsidian 笔记排版后复制到公众号、小红书和 X。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "x-supermeng/noterelay"
   },
   {
     "id": "obsipastepic",
