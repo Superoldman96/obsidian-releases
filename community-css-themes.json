@@ -4523,5 +4523,12 @@
     "repo": "antonabbac/unsent-letters",
     "screenshot": "Screenshots/main.png",
     "modes": ["dark"]
+  },
+  {
+    "name": "OB Everforest",
+    "author": "smoose",
+    "repo": "smoosex/ob-everforest",
+    "screenshot": "obsidian-everforest.png",
+    "modes": ["dark", "light"]
   }
 ]

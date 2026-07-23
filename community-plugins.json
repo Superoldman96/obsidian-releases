@@ -25802,6 +25802,13 @@
     "repo": "amanxarora/my-todo"
   },
   {
+    "id": "advanced-import-export",
+    "name": "Notes Bridge",
+    "author": "Cheng",
+    "description": "Copy notes as portable Markdown and bridge with Bear, WPS Cloud Note, and Youdao Note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "huangcheng/obsidian-advanced-import-export"
+  },
+  {
     "id": "qmd-semantic-search",
     "name": "QMD Semantic Search",
     "author": "winboost",
@@ -26689,13 +26696,6 @@
     "author": "rogerdigital",
     "description": "Export notes, folders, and query results into Markdown bundles, HTML documents, and print-ready exports. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "rogerdigital/document-exporter"
-  },
-  {
-    "id": "buttons-panel",
-    "name": "Buttons Panel",
-    "author": "Kevin",
-    "description": "Create customizable button panels for quick access to files, commands, links, and scripts. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tracingorigins/obsidian-buttons-panel-plugin"
   },
   {
     "id": "smart-punctuation-on-rendering",
@@ -41426,18 +41426,18 @@
     "repo": "kageetai/obsidian-daily-from-others-plugin"
   },
   {
+    "id": "md-discord-syntax",
+    "name": "Discord Syntax",
+    "author": "edems",
+    "description": "Discord-style ||spoiler|| and \"-# subtext\" markdown formatting extension - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "edems-dev/md-discord-syntax"
+  },
+  {
     "id": "cite",
     "name": "Cite",
     "author": "Pixel",
     "description": "Render and link LaTeX or Pandoc citations from BibTeX blocks in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "pmgwork/obsidian-cite"
-  },
-  {
-    "id": "curtis",
-    "name": "Curtis",
-    "author": "Newell",
-    "description": "Curtis — your polyglot AI chat for Obsidian. 30+ providers (Anthropic, OpenAI, Gemini, Ollama, and more), image attachments, long-term memory, slash commands, and inline selection actions. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jordannewell/curtis-chat"
   },
   {
     "id": "taskgregator",
@@ -41708,7 +41708,7 @@
   {
     "id": "coupon-scheduler",
     "name": "Coupon Scheduler",
-    "author": "方咸琦",
+    "author": "vrytfmcat",
     "description": "Schedule coupons, groceries, shopping reminders, and recurring activities in a calendar. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "vrytfmcat/coupon-scheduler"
   },
@@ -41760,13 +41760,6 @@
     "author": "Zhuo",
     "description": "Track trustworthy file activity and explore it by folder. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ffy6511/obsidian-activity-map"
-  },
-  {
-    "id": "ribbon-organizer",
-    "name": "Ribbon Organizer",
-    "author": "xooooooooox",
-    "description": "Group your ribbon and launch commands from a configurable ribbon menu. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "xooooooooox/obsidian-ribbon-organizer"
   },
   {
     "id": "trello-kanban-sync",
@@ -41886,5 +41879,19 @@
     "author": "Ji-ho Lee",
     "description": "Load and save note images from/to Immich. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "search5/harang-immich"
+  },
+  {
+    "id": "messenger-for-chat",
+    "name": "Messenger for chat view",
+    "author": "CD",
+    "description": "Gives a messenger/chat like interface to use the chat view plugin by adifyr - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "crashdhabal/obsidian-messenger-for-chat-view"
+  },
+  {
+    "id": "square",
+    "name": "Square",
+    "author": "Jiao Yingxing",
+    "description": "A lightweight habit tracker for Obsidian with built-in templates, project notes, and overview charts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jiaoyingxing/square"
   }
 ]
