@@ -19271,6 +19271,13 @@
     "repo": "jabaho9523/obsidian-paste-plus"
   },
   {
+    "id": "epochgram",
+    "name": "Epochgram",
+    "author": "Andriy Babets",
+    "description": "A timemap of your mind - turn your notes into an AI-powered interactive timeline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "2brn/epochgram"
+  },
+  {
     "id": "focus-mode-banner",
     "name": "Focus Mode Banner",
     "author": "adrianofontanari",
@@ -25793,13 +25800,6 @@
     "author": "amanxarora",
     "description": "Sorting based personal todo system with categories, weekly and daily planning for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "amanxarora/my-todo"
-  },
-  {
-    "id": "advanced-import-export",
-    "name": "Notes Bridge",
-    "author": "Cheng",
-    "description": "Copy notes as portable Markdown and bridge with Bear, WPS Cloud Note, and Youdao Note. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "huangcheng/obsidian-advanced-import-export"
   },
   {
     "id": "qmd-semantic-search",
@@ -37660,13 +37660,6 @@
     "repo": "aiken884/obsidian-h1aligner"
   },
   {
-    "id": "obsyncian",
-    "name": "Syncian",
-    "author": "Almas Abulkhairov",
-    "description": "Sync and back up your vault across devices with end-to-end encryption. Requires an Obsyncian account; free tier available, paid plans add storage and vault limit - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "aabulkhairov/obsyncian"
-  },
-  {
     "id": "folder-limit",
     "name": "Folder Limit",
     "author": "Naggischnulu",
@@ -37763,13 +37756,6 @@
     "author": "羽鳞君",
     "description": "个人写作专栏 · 竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生 | Personal writing column reader - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "miaoziguan/obsidian-bamboo-walking"
-  },
-  {
-    "id": "promptbox",
-    "name": "Promptbox",
-    "author": "istefox",
-    "description": "Local-first library of AI prompts with categorization, search, and quick reuse. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "istefox/promptbox"
   },
   {
     "id": "propsync",
@@ -41645,7 +41631,7 @@
   {
     "id": "study-pdf",
     "name": "Study PDF",
-    "author": "Joao Gris",
+    "author": "João Gris",
     "description": "Highlight text and add notes to PDFs, saved into the file itself so they work in any reader — with a built-in page to browse, jump to, and copy them all. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gris/study-pdf"
   },
@@ -41879,5 +41865,26 @@
     "author": "zengyincen",
     "description": "Paste images, upload to GitHub or your image host, and insert customizable CDN links. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zengyincen/Obsidian-PastePic"
+  },
+  {
+    "id": "vaultend",
+    "name": "Vaultend",
+    "author": "Daewon Hwang",
+    "description": "Classify, tag, link, and organize your notes with AI-powered vault maintenance. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dhwang0803-glitch/Vaultend"
+  },
+  {
+    "id": "node-tree-graph",
+    "name": "Node Tree Graph",
+    "author": "Zheng YUAN",
+    "description": "Visualize your vault as a hierarchical heading-based graph. Break notes into granular nodes based on their internal heading structure. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhengyuan-public/obsidian-node-tree-graph"
+  },
+  {
+    "id": "harang-immich",
+    "name": "Harang Immich",
+    "author": "Ji-ho Lee",
+    "description": "Load and save note images from/to Immich. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "search5/harang-immich"
   }
 ]
