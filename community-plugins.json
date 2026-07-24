@@ -24829,6 +24829,13 @@
     "repo": "yllucsyeoj/quackblocks"
   },
   {
+    "id": "surface-notes",
+    "name": "Surface",
+    "author": "mistergf",
+    "description": "Automatically gathers all your date-based and keyword-marked notes into one sidebar view, so your past thoughts are always easy to find. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "mistergf/obsidian-surface"
+  },
+  {
     "id": "wechat-article",
     "name": "WeChat Article Composer",
     "author": "frankl1u",
@@ -27788,13 +27795,6 @@
     "author": "akudlay-ru",
     "description": "Export IMAP mail into analysis-ready Markdown digests and optional mail notes with adjacent attachments. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "akudlay-ru/MailDump"
-  },
-  {
-    "id": "chinese-novel-assistant",
-    "name": "Chinese Novel Assistant",
-    "author": "pingo888",
-    "description": "A set of small features designed to make writing Chinese novels more convenient. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "pingo8888/chinese-novel-assistant"
   },
   {
     "id": "audio-transcript",
@@ -41363,13 +41363,6 @@
     "repo": "joeytoday/obsidian-canvas-enhance"
   },
   {
-    "id": "rootr-sync",
-    "name": "Rootr Sync",
-    "author": "Van Ryu",
-    "description": "Team collaboration for your vault: share a chosen folder (or tagged notes) into a Rootr cloud workspace, so teammates and Claude or ChatGPT can read and write it. One-way sync — your vault stays local. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "gwmage/obsidian-rootr-sync"
-  },
-  {
     "id": "jdb-command",
     "name": "JDB Command",
     "author": "chao chih hung ",
@@ -41840,7 +41833,7 @@
   },
   {
     "id": "obsipastepic",
-    "name": "PastePic",
+    "name": "Pastepic",
     "author": "zengyincen",
     "description": "Paste images, upload to GitHub or your image host, and insert customizable CDN links. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zengyincen/Obsidian-PastePic"
