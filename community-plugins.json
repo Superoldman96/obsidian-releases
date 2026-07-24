@@ -39721,7 +39721,7 @@
     "id": "simple-homepage",
     "name": "Simple Homepage",
     "author": "Dajhiro",
-    "description": "Set a note as your homepage and open it automatically on startup or with a command. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Set a note as your homepage that behaves just like a web browser. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dajhiro/obsidian-simple-homepage"
   },
   {
@@ -41573,13 +41573,6 @@
     "repo": "pavelpeng7/obsidian-ultra-dashboard"
   },
   {
-    "id": "safe-passage",
-    "name": "SafePassage",
-    "author": "Ji-ho Lee",
-    "description": "A secure, lightweight, and high-performance KeePass integration plugin for Obsidian, featuring WebAssembly Argon2 decryption, masked inline chips, and interactive credential tables. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "search5/safe-passage"
-  },
-  {
     "id": "htmlto-link",
     "name": "Share Page",
     "author": "licc168",
@@ -41755,6 +41748,13 @@
     "repo": "ffy6511/obsidian-activity-map"
   },
   {
+    "id": "ribbon-organizer",
+    "name": "Ribbon Organizer",
+    "author": "xooooooooox",
+    "description": "Group your ribbon and launch commands from a configurable ribbon menu. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "xooooooooox/obsidian-ribbon-organizer"
+  },
+  {
     "id": "trello-kanban-sync",
     "name": "Trello Kanban Sync",
     "author": "Lewis Starkov",
@@ -41888,6 +41888,13 @@
     "repo": "search5/harang-immich"
   },
   {
+    "id": "curtis-ai-chat",
+    "name": "Curtis AI Chat",
+    "author": "Jordan Newell",
+    "description": "Polyglot AI chat with 30+ providers (Anthropic, OpenAI, Gemini, Ollama, and more), image attachments, long-term memory, slash commands, and inline selection actions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jordannewell/curtis-ai-chat"
+  },
+  {
     "id": "messenger-for-chat",
     "name": "Messenger for chat view",
     "author": "CD",
@@ -41921,5 +41928,12 @@
     "author": "bgarciamoura",
     "description": "Track your Pokémon TCG collection, build decks and browse cards inside your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "bgarciamoura/obsidian-tcg-binder"
+  },
+  {
+    "id": "glink",
+    "name": "GLink",
+    "author": "Nathan Kelly",
+    "description": "Open Google Drive placeholder files in embedded views on Windows using a local link registry. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nedkelly/obsidian-glink"
   }
 ]
