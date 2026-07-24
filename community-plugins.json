@@ -28826,13 +28826,6 @@
     "repo": "seeyou2n1ght/obsidian-MoonReaderNoteSync"
   },
   {
-    "id": "meetings-plus",
-    "name": "Meetings Plus",
-    "author": "jabaho9523",
-    "description": "Subscribe to calendars and create pre-filled meeting notes in one click. No drag-and-drop, no Outlook required. ICS-based, privacy-first. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jabaho9523/obsidian-meetings-plus"
-  },
-  {
     "id": "aibrowser-chat",
     "name": "OmniChat",
     "author": "Mohammed Thanseer",
@@ -29020,6 +29013,13 @@
     "author": "fanthus",
     "description": "Wrap mixed English segments with inline code and insert CJK-adjacent spaces. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fanthus/obsidian-auto-spacer"
+  },
+  {
+    "id": "better-embedded-canvas",
+    "name": "Better Embedded Canvas",
+    "author": "kotaindah55",
+    "description": "Give your embedded canvas better display and interactivity. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kotaindah55/better-embedded-canvas"
   },
   {
     "id": "ezimage",
@@ -41970,5 +41970,19 @@
     "author": "Robert Fleming",
     "description": "Turn a simple, YAML-inspired list of image embeds into a responsive photo grid. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "haivri/obsidian-simple-gallery"
+  },
+  {
+    "id": "life-log",
+    "name": "Life Log",
+    "author": "Sahil A",
+    "description": "Record atomic life events as Markdown files. A personal timeline of your life. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sahilium/obsidian-life-log"
+  },
+  {
+    "id": "live-tennis",
+    "name": "Live Tennis",
+    "author": "Live Tennis Api",
+    "description": "Embed live tennis scores in notes and freeze match snapshots or player profiles into permanent markdown, powered by the Live Tennis API. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "livetennisapi/obsidian-live-tennis"
   }
 ]
