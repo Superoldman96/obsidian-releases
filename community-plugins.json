@@ -18529,13 +18529,6 @@
     "repo": "heono3h/simple-folder-note"
   },
   {
-    "id": "html-embed",
-    "name": "HTML Embed",
-    "author": "the-pieza",
-    "description": "Embed standalone interactive HTML files (with working JavaScript) inline in your notes via a simple html-embed code block. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "the-pieza/obsidian-html-embed"
-  },
-  {
     "id": "project-cockpit",
     "name": "Project Cockpit",
     "author": "30jannik06",
@@ -38829,6 +38822,13 @@
     "repo": "mrrepac/voice-scribe"
   },
   {
+    "id": "eleven-days",
+    "name": "Eleven Days",
+    "author": "Dylan Wright",
+    "description": "Today across eleven calendar systems — Gregorian plus ten esoteric calendars, with personal annual holidays and archive-aware daily-note navigation. How to live eleven days in twenty-four hours. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dyllonwright/Eleven-Days"
+  },
+  {
     "id": "notion-vault-sync",
     "name": "Notion Vault Sync",
     "author": "Sharky",
@@ -41671,13 +41671,6 @@
     "repo": "alinefan/linqq-handwritten-annotation-plugin"
   },
   {
-    "id": "prayer-chime",
-    "name": "PrayerChime",
-    "author": "MjavadH",
-    "description": "Offline prayer times for Iranian cities using local city data. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "mjavadh/PrayerChime"
-  },
-  {
     "id": "motes",
     "name": "Motes",
     "author": "Hencter Lew",
@@ -41881,6 +41874,13 @@
     "repo": "zhengyuan-public/obsidian-node-tree-graph"
   },
   {
+    "id": "liefwork",
+    "name": "Liefwork",
+    "author": "Pavlos Zafiropoulos",
+    "description": "Reveal your vault's true shape and grow \"memory corals\" for your AI agents - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "phoelectrix/liefwork-obsidian"
+  },
+  {
     "id": "harang-immich",
     "name": "Harang Immich",
     "author": "Ji-ho Lee",
@@ -41902,10 +41902,24 @@
     "repo": "jiaoyingxing/square"
   },
   {
+    "id": "beautiful-graph",
+    "name": "Beautiful Graph",
+    "author": "Dawson Bodenhamer",
+    "description": "A cinematic, GPU-rendered knowledge graph with groups, folder lenses, search, focus, and live controls. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dawsonbodenhamer/beautiful-graph"
+  },
+  {
     "id": "daily-bible-verse",
     "name": "Daily Bible Verse",
     "author": "polygonhunter",
     "description": "Start each day with Scripture: a daily Bible verse in your daily note as an elegant callout. Smart no-repeat rotation, offline public-domain translations in five languages, themed verse collections, and whole-Bible mode. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "polygonhunter/daily-bible-verse"
+  },
+  {
+    "id": "tcg-binder",
+    "name": "TCG Binder",
+    "author": "bgarciamoura",
+    "description": "Track your Pokémon TCG collection, build decks and browse cards inside your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bgarciamoura/obsidian-tcg-binder"
   }
 ]
