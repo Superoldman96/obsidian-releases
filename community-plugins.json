@@ -20373,7 +20373,7 @@
     "id": "vault-coach",
     "name": "Vault Coach",
     "author": "wanjin5508",
-    "description": "Local-first Q&A and exam practice across Markdown notes and PDFs, with cited answers, AI scoring, saved records, and Ollama or OpenAI-compatible models. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Build a reviewable knowledge graph from your Obsidian notes and PDFs. Explore concept relationships, ask cited questions, generate scoped exams, and track mastery through a Learning Map and dashboard. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wanjin5508/vault-coach"
   },
   {
@@ -41699,6 +41699,13 @@
     "repo": "zhyx91/obsidian-property-order"
   },
   {
+    "id": "kuaifanyi",
+    "name": "Kuaifanyi",
+    "author": "wjzixi",
+    "description": "选中即译：短词词典模式+长句流式翻译，AI 解释并行渲染，豆包神经语音朗读（支持声音克隆），兼容 DeepSeek 等 OpenAI 格式 API - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wjzixi/kuaifanyi"
+  },
+  {
     "id": "mercenai-vault-sync",
     "name": "MERCENAI Vault Sync",
     "author": "George Tasan",
@@ -41972,6 +41979,13 @@
     "repo": "haivri/obsidian-simple-gallery"
   },
   {
+    "id": "tasks-datetime",
+    "name": "Tasks Datetime",
+    "author": "DXShelley",
+    "description": "Tasks with date and time support down to seconds. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dxshelley/obsidian-tasks-datetime"
+  },
+  {
     "id": "life-log",
     "name": "Life Log",
     "author": "Sahil A",
@@ -41984,5 +41998,26 @@
     "author": "Live Tennis Api",
     "description": "Embed live tennis scores in notes and freeze match snapshots or player profiles into permanent markdown, powered by the Live Tennis API. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "livetennisapi/obsidian-live-tennis"
+  },
+  {
+    "id": "mindmap-editor",
+    "name": "Mind map editor",
+    "author": "vulture039",
+    "description": "Edit your outline as a mind map, synced to Markdown. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vulture039/obsidian-mindmap-editor"
+  },
+  {
+    "id": "scuttlebutt",
+    "name": "Scuttlebutt",
+    "author": "Quek Kar Min",
+    "description": "Scuttlebutt - Record or import meeting audio in the sidebar, transcribe it with your local Whisper/vLLM server, then auto-summarize it into a tidy, tagged note. Fully local and private. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "qkm2000/Scuttlebutt"
+  },
+  {
+    "id": "discussion-hub",
+    "name": "Discussion Hub",
+    "author": "TAKESHI MORITA",
+    "description": "Shared multi-model AI discussions for Obsidian AI plugins. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "takeshy/obsidian-discussion-hub"
   }
 ]
