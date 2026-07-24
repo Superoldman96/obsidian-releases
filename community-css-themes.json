@@ -4530,5 +4530,12 @@
     "repo": "smoosex/ob-everforest",
     "screenshot": "obsidian-everforest.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "Perch",
+    "author": "C.T",
+    "repo": "bewater8066/obsidian-theme-perch",
+    "screenshot": "composite.png",
+    "modes": ["dark", "light"]
   }
 ]
