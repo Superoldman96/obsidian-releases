@@ -17388,6 +17388,13 @@
     "repo": "tomelliot/obsidian-granola-sync"
   },
   {
+    "id": "note-navigator",
+    "name": "Note Navigator",
+    "author": "mudnug",
+    "description": "Streamlines note review by automatically navigating to the next note upon deletion. Adds commands to go to the previous and next note, respecting user-selected sort order.",
+    "repo": "mudnug/note-navigator"
+  },
+  {
     "id": "daggerforge",
     "name": "DaggerForge",
     "author": "torutu",
@@ -26558,13 +26565,6 @@
     "repo": "neves007/line-ref-copier"
   },
   {
-    "id": "karpathywiki",
-    "name": "Karpathy LLM Wiki",
-    "author": "Greener-Dalii",
-    "description": "Karpathy's LLM Wiki implementation - multi-page knowledge generation with entity/concept pages and conversational query. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "green-dalii/obsidian-llm-wiki"
-  },
-  {
     "id": "sync-trakt",
     "name": "Sync Trakt",
     "author": "o1xhack",
@@ -27795,6 +27795,13 @@
     "author": "akudlay-ru",
     "description": "Export IMAP mail into analysis-ready Markdown digests and optional mail notes with adjacent attachments. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "akudlay-ru/MailDump"
+  },
+  {
+    "id": "chinese-novel-assistant",
+    "name": "Chinese Novel Assistant",
+    "author": "pingo888",
+    "description": "A set of small features designed to make writing Chinese novels more convenient. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pingo8888/chinese-novel-assistant"
   },
   {
     "id": "audio-transcript",
@@ -29622,13 +29629,6 @@
     "author": "wesswart77",
     "description": "Manage projects in plain markdown: track status, milestones, tasks, and progress with a kanban-style sidebar view. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wesswart77/obsidian-project-manager"
-  },
-  {
-    "id": "spotify-control",
-    "name": "Spotify Control",
-    "author": "caezium",
-    "description": "Control Spotify from your notes. Now-playing sidebar with hover controls, time-synced lyrics via LRCLIB, queue, search, transport hotkeys, and insert-track-into-note. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "caezium/obsidian-spotify-control"
   },
   {
     "id": "gemmanotes",
@@ -41806,7 +41806,7 @@
   {
     "id": "save-to-vault",
     "name": "Save2Vault",
-    "author": "save to obsidian",
+    "author": "save2obsidian",
     "description": "Save posts and threads from X into your Obsidian as clean Markdown notes. Mention @save2obsidian under any post on X. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "notesynchelper/save2obsidian"
   },
@@ -41935,5 +41935,26 @@
     "author": "TAKESHI MORITA",
     "description": "Shared dashboards, timelines, calendars, kanban boards, memos, bases, and secrets. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "takeshy/obsidian-dashboard-hub"
+  },
+  {
+    "id": "task-tree",
+    "name": "Task Tree",
+    "author": "Hypnotist6979",
+    "description": "See your Markdown tasks as a tree and a Kanban board at once. Break projects into nested subtasks; a parent's progress rolls up from its children. Plain Markdown, agent-ready. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aldorithm392/obsidian-task-tree"
+  },
+  {
+    "id": "oppopad-pdf-annotation",
+    "name": "OPPO Pad PDF Annotation",
+    "author": "Daniel Xu",
+    "description": "Stylus-first PDF annotation with palm rejection, touch navigation, pressure-sensitive ink, and export tools. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "decai335335-debug/oppopad-pdf-annotation"
+  },
+  {
+    "id": "handwriting-markdown-view",
+    "name": "Handwriting Markdown View",
+    "author": "Daniel Xu",
+    "description": "A vector handwriting annotation view layered over rendered Markdown, with pen/touch separation, autosave, SVG preview, and basic block re-anchoring. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "decai335335-debug/handwriting-markdown-view"
   }
 ]
