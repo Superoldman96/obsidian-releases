@@ -17388,13 +17388,6 @@
     "repo": "tomelliot/obsidian-granola-sync"
   },
   {
-    "id": "note-navigator",
-    "name": "Note Navigator",
-    "author": "mudnug",
-    "description": "Streamlines note review by automatically navigating to the next note upon deletion. Adds commands to go to the previous and next note, respecting user-selected sort order.",
-    "repo": "mudnug/note-navigator"
-  },
-  {
     "id": "daggerforge",
     "name": "DaggerForge",
     "author": "torutu",
@@ -26631,7 +26624,7 @@
     "id": "vaultman",
     "name": "Vaultman",
     "author": "meibbo",
-    "description": "Bulk property editor and vault management tool for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Composable layout, bulk data editor and vault management tool for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "meibbo/Vaultman"
   },
   {
@@ -41888,6 +41881,13 @@
     "repo": "search5/harang-immich"
   },
   {
+    "id": "codianz",
+    "name": "Codian",
+    "author": "bcs",
+    "description": "Embeds Codex, Claude Code, and other coding agents as AI collaborators in your vault. Your vault becomes their working directory, giving them capabilities for file reads and writes, search, bash commands, and multi-step workflows. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "bcs1037/codian"
+  },
+  {
     "id": "curtis-ai-chat",
     "name": "Curtis AI Chat",
     "author": "Jordan Newell",
@@ -41935,5 +41935,12 @@
     "author": "Nathan Kelly",
     "description": "Open Google Drive placeholder files in embedded views on Windows using a local link registry. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nedkelly/obsidian-glink"
+  },
+  {
+    "id": "dashboard-hub",
+    "name": "Dashboard Hub",
+    "author": "TAKESHI MORITA",
+    "description": "Shared dashboards, timelines, calendars, kanban boards, memos, bases, and secrets. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "takeshy/obsidian-dashboard-hub"
   }
 ]
