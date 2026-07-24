@@ -26565,6 +26565,13 @@
     "repo": "neves007/line-ref-copier"
   },
   {
+    "id": "karpathywiki",
+    "name": "Karpathy LLM Wiki",
+    "author": "Greener-Dalii",
+    "description": "Karpathy's LLM Wiki implementation - multi-page knowledge generation with entity/concept pages and conversational query. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "green-dalii/obsidian-llm-wiki"
+  },
+  {
     "id": "sync-trakt",
     "name": "Sync Trakt",
     "author": "o1xhack",
@@ -29631,6 +29638,13 @@
     "repo": "wesswart77/obsidian-project-manager"
   },
   {
+    "id": "spotify-control",
+    "name": "Spotify Control",
+    "author": "caezium",
+    "description": "Control Spotify from your notes. Now-playing sidebar with hover controls, time-synced lyrics via LRCLIB, queue, search, transport hotkeys, and insert-track-into-note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "caezium/obsidian-spotify-control"
+  },
+  {
     "id": "gemmanotes",
     "name": "GemmaNotes",
     "author": "Sarath Chandra",
@@ -32562,13 +32576,6 @@
     "author": "Sebastien Delisle",
     "description": "Render bullet-journal markers (events, migration, future log, emotions) in your notes in the same way you would on paper. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lumargh/better-bujo"
-  },
-  {
-    "id": "claude-companion",
-    "name": "Companion for Claude",
-    "author": "Sasan Sotoodehfar",
-    "description": "Chat with Claude inside your vault, generate gallery-grade interactive planning artifacts, and sync everything Claude produces back into your notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "cavi-ai/companion-for-claude"
   },
   {
     "id": "markcalc",
@@ -41956,5 +41963,12 @@
     "author": "Daniel Xu",
     "description": "A vector handwriting annotation view layered over rendered Markdown, with pen/touch separation, autosave, SVG preview, and basic block re-anchoring. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "decai335335-debug/handwriting-markdown-view"
+  },
+  {
+    "id": "simple-gallery",
+    "name": "Simple Gallery",
+    "author": "Robert Fleming",
+    "description": "Turn a simple, YAML-inspired list of image embeds into a responsive photo grid. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "haivri/obsidian-simple-gallery"
   }
 ]
