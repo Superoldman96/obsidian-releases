@@ -18704,6 +18704,13 @@
     "repo": "binnyva/obsidian-slasher"
   },
   {
+    "id": "memex",
+    "name": "Memex",
+    "author": "worldbrain",
+    "description": "Search, cite & chat with your bookmarking second brain. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "worldbrain/memex-obsidian"
+  },
+  {
     "id": "engnese",
     "name": "Engnese",
     "author": "xxxgeorge",
@@ -34000,9 +34007,9 @@
   },
   {
     "id": "german-law-lookup",
-    "name": "Law Lookup for Germany + Austria + Switzerland",
+    "name": "European Law Lookup",
     "author": "GammaFunds",
-    "description": "Look up German federal law references in Obsidian and insert formatted law text into notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Look up EU regulations, directives and decisions in 24 official languages, plus German, Austrian and Swiss law. Preview legal text from official sources and insert formatted citations into your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "gammafunds/german-law-lookup"
   },
   {
@@ -43078,6 +43085,13 @@
     "repo": "aipyer/bitfield"
   },
   {
+    "id": "window-spaces",
+    "name": "Window Spaces",
+    "author": "Edward Hsieh",
+    "description": "Save and restore window layouts for Obsidian popout windows. Seamlessly manage multi-window popout workspaces. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "edwardsayer/obsidian-window-spaces"
+  },
+  {
     "id": "anki-cloze-sync",
     "name": "Anki Flashcard Sync",
     "author": "joey",
@@ -50372,6 +50386,13 @@
     "repo": "techne-tools/enodios"
   },
   {
+    "id": "rosary",
+    "name": "Daily Rosary",
+    "author": "squigglbunny",
+    "description": "Opens Today's Rosary. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "squigglbunny/obsidian-rosary"
+  },
+  {
     "id": "filen-cloud-sync",
     "name": "Filen Cloud Sync",
     "author": "Real-Fruit-Snacks",
@@ -50713,6 +50734,13 @@
     "author": "cyrill",
     "description": "Collect TODO markers from your vault in a sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cyrill0/obsidian-cairn"
+  },
+  {
+    "id": "scrollstream",
+    "name": "ScrollStream",
+    "author": "Theo Tatsuyama",
+    "description": "Notes stream in tandem with relevant chapters as you read your document. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "midorinohoshi/scrollstream-obsidian"
   },
   {
     "id": "remove-empty-assets",
@@ -51058,6 +51086,13 @@
     "repo": "kumoonet/obsidian-kumoo-calendar"
   },
   {
+    "id": "folder-spaces",
+    "name": "Folder Spaces",
+    "author": "Edward Hsieh",
+    "description": "Create folder-scoped File Explorer spaces in sidebars, editor tabs, and popout windows. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "edwardsayer/obsidian-folder-spaces"
+  },
+  {
     "id": "hash-pasted-image-plus",
     "name": "Hash Pasted Image Plus",
     "author": "xzhi",
@@ -51079,10 +51114,45 @@
     "repo": "ichenh/obsidian-typesetter"
   },
   {
+    "id": "html-studio",
+    "name": "HTML Studio",
+    "author": "pherehouse",
+    "description": "Read, view and visually edit HTML files in Obsidian — slide decks, long pages and more. Based on obsidian-html-plugin by Nuthrash. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "pherehouse/obsidian-html-studio"
+  },
+  {
     "id": "summary-only",
     "name": "SummaryOnly",
     "author": "Tyler Carrol",
     "description": "Base view that shows summaries only. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tylercarrol/obsidian-summary-only"
+  },
+  {
+    "id": "super-smart-random-note",
+    "name": "Super Smart Random Note",
+    "author": "zakin",
+    "description": "Open random notes matched by saved filters written in Obsidian's search query syntax. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "isaquepereira/obsidian-super-smart-random-note"
+  },
+  {
+    "id": "task-cascade",
+    "name": "Task Cascade",
+    "author": "nikvoronin",
+    "description": "Keeps parent checkboxes in sync with their children's status using configurable rules. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nikvoronin/task-cascade"
+  },
+  {
+    "id": "emberly-maps",
+    "name": "Emberly Maps",
+    "author": "seagnu",
+    "description": "Open Markdown notes as visual Emberly-style mind maps. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ginaofthesea/emberly-obsidian-plugin"
+  },
+  {
+    "id": "detailsearch-linker",
+    "name": "DetailSearch Linker",
+    "author": "zoupuyo",
+    "description": "Search other note bodies on demand for a selected term, highlight it in the current note, and insert heading links in Obsidian's configured internal-link format. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zoupuyo-obsidian/obsidian-detailsearch-linker"
   }
 ]
