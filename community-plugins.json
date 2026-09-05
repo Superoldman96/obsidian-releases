@@ -11578,6 +11578,13 @@
     "repo": "mnaoumov/obsidian-better-markdown-links"
   },
   {
+    "id": "geulo-youtube-liked-video",
+    "name": "Geulo",
+    "author": "Junyoung Bang",
+    "description": "Fetch all the YouTube videos you have liked, search and sort them with multiple sort options, and add them to your daily note.",
+    "repo": "zzunebye/obsidian-google-liked-video"
+  },
+  {
     "id": "ca-sync",
     "name": "Cognitive Architect Sync",
     "author": "bhavers",
@@ -29603,6 +29610,13 @@
     "repo": "reggie86/vaultdex"
   },
   {
+    "id": "initiative-tracker-plus",
+    "name": "Initiative Tracker Plus",
+    "author": "Mike",
+    "description": "Track TTRPG combat initiative, HP, conditions, and XP in Obsidian encounter blocks. A community fork of Initiative Tracker. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "msweat254/initiative-tracker"
+  },
+  {
     "id": "gallery-view",
     "name": "Gallery View",
     "author": "mkshp-dev",
@@ -34010,7 +34024,7 @@
     "name": "European Law Lookup",
     "author": "GammaFunds",
     "description": "Look up EU regulations, directives and decisions in 24 official languages, plus German, Austrian and Swiss law. Preview legal text from official sources and insert formatted citations into your notes. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "gammafunds/german-law-lookup"
+    "repo": "gammafunds/European-Law-Lookup"
   },
   {
     "id": "dual-link",
@@ -41416,7 +41430,7 @@
     "name": "Second-Brain Tarot",
     "author": "h-jessen",
     "description": "A tarot reading drawn from a real, complete deck and interpreted fresh against your own vault's content — not a lookup table, not generic tarot copy. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "h-jessen/second-brain-tarot-plugin"
+    "repo": "neon-weaver/second-brain-tarot-plugin"
   },
   {
     "id": "mubu-sync",
@@ -48111,13 +48125,6 @@
     "repo": "linyunerr/Journal-Sync"
   },
   {
-    "id": "creative-writer",
-    "name": "Creative Writer",
-    "author": "André Amnc",
-    "description": "Zen Mode, typewriter scrolling, focus fade, paragraph rhythm and offline style checks for creative writing. Optional local-model assistant. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "amancioandre/creative-writer"
-  },
-  {
     "id": "webview-ua-override",
     "name": "Web Viewer UA Override",
     "author": "Ian Monroe",
@@ -51149,10 +51156,38 @@
     "repo": "ginaofthesea/emberly-obsidian-plugin"
   },
   {
+    "id": "featherweight-local-wallpaper",
+    "name": "Featherweight Local Wallpaper",
+    "author": "Theo Tatsuyama",
+    "description": "Minimal, zero-overhead background wallpaper plugin supporting local vault files and remote URLs via CSS variables. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "midorinohoshi/featherweight-local-wallpaper"
+  },
+  {
     "id": "detailsearch-linker",
     "name": "DetailSearch Linker",
     "author": "zoupuyo",
     "description": "Search other note bodies on demand for a selected term, highlight it in the current note, and insert heading links in Obsidian's configured internal-link format. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zoupuyo-obsidian/obsidian-detailsearch-linker"
+  },
+  {
+    "id": "canvas-sync-bridge",
+    "name": "Canvas Sync Bridge",
+    "author": "Joshua Aaron Wortz",
+    "description": "Receives Canvas data from a browser extension and syncs it into your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sixfivemil/obsidian-canvas-sync"
+  },
+  {
+    "id": "folder-templates",
+    "name": "Folder Templates",
+    "author": "imbalet",
+    "description": "Automatically apply templates to notes based on their paths. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "imbalet/folder-templates"
+  },
+  {
+    "id": "folder-tags",
+    "name": "Folder Tags",
+    "author": "imbalet",
+    "description": "Automatically apply tags to notes based on their paths. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "imbalet/folder-tags"
   }
 ]
