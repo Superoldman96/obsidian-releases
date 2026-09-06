@@ -18340,6 +18340,13 @@
     "repo": "rohrbachd/obsidian-review-critics"
   },
   {
+    "id": "health-md",
+    "name": "Health.md Visualizations",
+    "author": "codybontecou",
+    "description": "Render Apple Health data visualizations from JSON, CSV, or Markdown files, with custom date and time range filters. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "codybontecou/health-md-visualizations"
+  },
+  {
     "id": "odyssey",
     "name": "Odyssey",
     "author": "zzzzswh",
@@ -24850,13 +24857,6 @@
     "repo": "rgomezjnr/copy-notes-to-vault"
   },
   {
-    "id": "callout-studio",
-    "name": "Callout Studio",
-    "author": "niv20",
-    "description": "Callout Studio is the only callout plugin you'll ever need to download. It offers regular callouts, inline callouts, and callout headings. Plus, you can easily design your own custom styles! - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "niv20/obsidian-Plugin-Callout-Studio"
-  },
-  {
     "id": "akaire",
     "name": "Akaire",
     "author": "asonas",
@@ -25261,6 +25261,13 @@
     "author": "paulobsf",
     "description": "Render a life-in-weeks (memento mori) calendar with work, life, and other planning phases, plus linked key events. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "paulobsf/obsidian-life-calendar"
+  },
+  {
+    "id": "mix-calendar",
+    "name": "Mix Calendar",
+    "author": "liury23",
+    "description": "A calendar widget combining Gregorian and Lunar calendars with 5 levels of periodic notes, task tracking, and holiday support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "liury23/mix-calendar"
   },
   {
     "id": "vox-reader",
@@ -27403,13 +27410,6 @@
     "author": "hayribakici",
     "description": "Render scratchblocks codeblocks - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "hayribakici/obsidian-scratchblocks"
-  },
-  {
-    "id": "marp-tikz-plus",
-    "name": "Marp TikZ Plus",
-    "author": "Kevin",
-    "description": "TikZ diagrams and full Marp presentation support — Slide Navigator, Speaker Notes, and PPTX export. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "kevinyuan/marp-tikz-plus"
   },
   {
     "id": "article-annotator",
@@ -35087,7 +35087,7 @@
     "id": "pdf-scholia-scribe",
     "name": "PDF Scholia Scribe",
     "author": "michellegdyason",
-    "description": "Citation-focused PDF & Docx annotation & collaboration, and note-linking for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Citation-focused PDF & Docx annotation & collaboration, and note-linking & import annotations. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "michellegdyason/pdf-scholia-scribe"
   },
   {
@@ -39319,13 +39319,6 @@
     "repo": "dcadolph/slop-chop-obsidian"
   },
   {
-    "id": "workbuddian",
-    "name": "Workbuddian",
-    "author": "jiang198012",
-    "description": "Chat with the local WorkBuddy/CodeBuddy CLI as an AI agent in your vault: streaming replies, thinking/tool-call cards, @-note references, file attachments, model/permission toolbar, slash commands, inline edit with diff, export and search. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "jiang198012/workbuddian"
-  },
-  {
     "id": "daily-work-log",
     "name": "Daily Work Log",
     "author": "Hong SeongChan",
@@ -43008,6 +43001,13 @@
     "repo": "agarcabin/obsidian-tag-lock"
   },
   {
+    "id": "token-usage",
+    "name": "Token Usage",
+    "author": "Björn-Olaf Lange",
+    "description": "Live Claude Code token tracking — sidebar with an activity heatmap, an HTML dashboard with per-vault/project breakdown, and automatic rate-limit detection. No API key needed. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "beolatn/TokenUsage"
+  },
+  {
     "id": "conversum",
     "name": "conVERsum",
     "author": "Eryk J.",
@@ -43404,7 +43404,7 @@
     "name": "Azure Wiki Preview",
     "author": "Harshit Singhal",
     "description": "Preview Azure DevOps Wiki pages as they will publish: :::mermaid diagrams, table of contents macros, and decoded page names. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "harshitsnghl/obsidian-azure-wiki-preview"
+    "repo": "dwayne-singhal/obsidian-azure-wiki-preview"
   },
   {
     "id": "bullet-journal",
@@ -44945,6 +44945,13 @@
     "author": "Knut Hagane-Lunden",
     "description": "Track bonsai care windows (repotting, feeding, pruning, wiring, and more) from species notes written in Markdown with frontmatter, right inside your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dotknewt/bonsai-almanac"
+  },
+  {
+    "id": "link-integrity",
+    "name": "Link Integrity",
+    "author": "ZhengYX",
+    "description": "Continuously find broken internal links and isolated files across your Vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhyx91/obsidian-link-integrity"
   },
   {
     "id": "html-table-toolbar",
@@ -47649,6 +47656,13 @@
     "repo": "n23eos/obsidian-vault-sunburst"
   },
   {
+    "id": "re-supercharged-links",
+    "name": "Re-supercharged Links",
+    "author": "Carl Bechstrom",
+    "description": "continued development & fixes for The original Obsidian Supercarged Links, by mdelobelle & Emile - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "carlb01/re-supercharged-links"
+  },
+  {
     "id": "local-agent-assistant",
     "name": "Local Agent Assistant",
     "author": "zero",
@@ -48865,6 +48879,13 @@
     "author": "flowing-abyss",
     "description": "Create lazy-loading tabs in your notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "flowing-abyss/obsidian-tabbed"
+  },
+  {
+    "id": "dnd-wiki",
+    "name": "DnD Wiki",
+    "author": "David Grasböck",
+    "description": "Turn D&D wiki content into interactive reference cards and filtered lists in Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "infernomoon/dnd-wiki"
   },
   {
     "id": "journal-creater",
@@ -50981,6 +51002,13 @@
     "repo": "bmcclung055/obsidian-dragon-glass"
   },
   {
+    "id": "agent-llms",
+    "name": "Agent LLMs",
+    "author": "TeiNam",
+    "description": "Agentic LLM sidebar with four backends (AWS Bedrock, Google Gemini, OpenAI, Ollama). Includes chat, Graph RAG vault search, Second Brain layer, to-do management, web clipper, and MCP server integration. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "teinam/obsidian-agent-llms"
+  },
+  {
     "id": "gemma-litert-wiki",
     "name": "Gemma 4 E4B LLM Wiki",
     "author": "yuimorii",
@@ -51093,6 +51121,13 @@
     "repo": "github-xzhi/obsidian-hash-pasted-image-plus"
   },
   {
+    "id": "easy-paste-table",
+    "name": "Paste Table",
+    "author": "jyqqs",
+    "description": "把 AI 对话（豆包/DeepSeek 等）复制的 Tab/空格纯文本一键转成标准 Markdown 表格，支持可选的数字排序列 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "spiderk-104/paste-table"
+  },
+  {
     "id": "custom-folder-links",
     "name": "Custom Folder Links",
     "author": "Ian Hays",
@@ -51196,5 +51231,12 @@
     "author": "zakin",
     "description": "Browse and query your local file system as an interactive, collapsible tree inside any note. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "isaquepereira/obsidian-fsview"
+  },
+  {
+    "id": "apple-reminders-plus",
+    "name": "Apple Reminders Plus",
+    "author": "zakin",
+    "description": "View and manage Apple Reminders from a sidebar panel. macOS only. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "isaquepereira/obsidian-apple-reminders-plus"
   }
 ]

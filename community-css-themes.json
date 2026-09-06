@@ -5132,5 +5132,12 @@
     "repo": "devabdallahabdelrahim/atom-one-pro",
     "screenshot": "assets/dark theme main preview screenshot.png",
     "modes": ["dark", "light"]
+  },
+  {
+    "name": "LessWrong Inspired",
+    "author": "mario",
+    "repo": "mariohaya/lesswrong-obsidian-theme",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   }
 ]
