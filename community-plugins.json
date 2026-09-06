@@ -3374,13 +3374,6 @@
     "repo": "bramses/obsidian-stack-overflow"
   },
   {
-    "id": "obsidian-redirect",
-    "name": "Redirect",
-    "author": "jglev",
-    "description": "Facilitate management of especially non-Markdown files, by allowing aliases to be set on any file.",
-    "repo": "jglev/obsidian-redirect"
-  },
-  {
     "id": "zotero-bridge",
     "name": "Zotero Bridge",
     "author": "vanakat",
@@ -32354,13 +32347,6 @@
     "repo": "flowing-abyss/obsidian-hybrid-search-plugin"
   },
   {
-    "id": "grimoire",
-    "name": "Grimoire",
-    "author": "Michael Makarov",
-    "description": "Run Claude Code, Codex, Grok, AntiGravity, Qwen Code, and OpenCode as local AI agents in your vault, with chat, inline editing, and tools. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "sandsaber/Grimoire"
-  },
-  {
     "id": "metadata-validator",
     "name": "Metadata Validator",
     "author": "flowing-abyss",
@@ -43701,13 +43687,6 @@
     "repo": "dctanugi/obsidian-flow-writer"
   },
   {
-    "id": "meta-quest-sync",
-    "name": "Meta Quest Sync",
-    "author": "Elioenai Siqueira Costa",
-    "description": "Starts and pairs the WebXR viewer to explore the vault in augmented reality. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "nelscost/meta-quest-sync"
-  },
-  {
     "id": "tekken-code-image",
     "name": "Tekken Code Image",
     "author": "omowne",
@@ -45017,13 +44996,6 @@
     "repo": "jasonqg26/Nux-Exporter"
   },
   {
-    "id": "starlightv-codetime",
-    "name": "Codetime",
-    "author": "StarlightV",
-    "description": "This is a plugin that integrates with CodeTime.dev to track your writing activity. This is not made by or affiliated with codetime.dev. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "starlightv-org/obsidian-codetime"
-  },
-  {
     "id": "compact-pinned-tabs",
     "name": "Pinned Tabs",
     "author": "NameIsKyro",
@@ -45293,7 +45265,7 @@
     "id": "table-csv",
     "name": "TableCSV",
     "author": "k-tech-studio",
-    "description": "Open CSV files as tables. View with a text filter, edit cells, and copy or paste via the system clipboard. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Open CSV files as tables. Create a new CSV from a folder, view with a filter, pin the last row or first column, resize columns, undo or redo edits, copy a selected range, edit cells with Tab or Enter, - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "crossbeat461-a11y/table-csv"
   },
   {
@@ -48067,13 +48039,6 @@
     "author": "charlesxiaomi",
     "description": "A minimal AI writing and knowledge agent for your vault. Calls the Anthropic API directly, so it works on mobile as well as desktop. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "charlesxiaomi/claudian-mobile"
-  },
-  {
-    "id": "zerocloud-notes",
-    "name": "Link to Notes",
-    "author": "skylines010101",
-    "description": "Clip Xiaohongshu, Bilibili, and web articles into local Markdown notes — 100% offline, zero API cost. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "lamvanbien65-crypto/obsidian-zerocloud-notes"
   },
   {
     "id": "explorer-icon-studio",
@@ -51341,7 +51306,7 @@
     "id": "quick-voice-note",
     "name": "Quick Voice Note",
     "author": "Spencer Clark",
-    "description": "Press a button, talk as long as you like, read it in tonight's note. Long-form voice memos saved to your vault and transcribed to text. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Press a button, talk as long as you like, read it in tonight's note. Long voice memos saved to your vault and transcribed to text. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "spencer1975/quick-voice-note"
   },
   {
@@ -51378,5 +51343,12 @@
     "author": "sx kan",
     "description": "Automatically move or copy notes to target folders based on frontmatter properties or file names, with flexible rules and exact or fuzzy matching. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "lsywk25/auto-move-file"
+  },
+  {
+    "id": "lumaframe",
+    "name": "LumaFrame",
+    "author": "asro",
+    "description": "Turn photos, GIFs and videos into a customizable ambient gallery and digital photo frame inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "loopman90/LumaFrame"
   }
 ]
