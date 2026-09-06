@@ -21014,6 +21014,13 @@
     "repo": "samhopwell/obsidian-foldstate"
   },
   {
+    "id": "weave",
+    "name": "Weave Deck",
+    "author": "zhuzhige123",
+    "description": "Enhance knowledge learning and memory consolidation with incremental reading, memory decks, and practice quiz decks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhuzhige123/obsidian---Weave"
+  },
+  {
     "id": "ai-link-summarizer",
     "name": "AI Link Summarizer",
     "author": "laroy-sh",
@@ -25933,6 +25940,13 @@
     "author": "zerodark-0",
     "description": "Customize your notes with custom color palettes and built-in background patterns. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zerodark-0/vIbGyOr"
+  },
+  {
+    "id": "review-simple",
+    "name": "Review Simple",
+    "author": "citrusrenegade",
+    "description": "Revisit notes on a schedule you define. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "citrusrenegade/review-simple-obsidian"
   },
   {
     "id": "drag-out",
@@ -38853,7 +38867,7 @@
     "id": "random-review",
     "name": "Random Review",
     "author": "TimeLine",
-    "description": "从指定文件夹随机抽取笔记，支持标签和属性筛选，全屏浏览复习。Randomly select notes from specified folders with tag and property filtering, and review them in fullscreen. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Randomly pick notes from your vault with tag and property filtering, review them fullscreen with answer toggle, quiz   mode with timer and scoring, and export to HTML, Markdown, or Word. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ktlamors/obsidian-random-review"
   },
   {
@@ -46795,6 +46809,13 @@
     "repo": "duskengservices/obsidian-armillary"
   },
   {
+    "id": "inline-handwriting-puria",
+    "name": "Inline Handwriting",
+    "author": "puria",
+    "description": "Write and edit handwriting directly inside an Obsidian note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "puriakazemieh/obsidian-inline-handwriting"
+  },
+  {
     "id": "vault-ai-chat",
     "name": "AI Vault Memory",
     "author": "puria",
@@ -49967,7 +49988,7 @@
   },
   {
     "id": "wiki-companion",
-    "name": "Wiki Companion",
+    "name": "Bureau",
     "author": "Mo A",
     "description": "A calendar, task board, reminders and time tracker built for my own wiki-style vault — plain tags and dates, no new format to learn. Sharing it as-is in case it's useful to you too. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "cityplannermo/companion"
@@ -50155,13 +50176,6 @@
     "repo": "normanchine/obsidian-japanese-reading-assistant"
   },
   {
-    "id": "markdown-memos",
-    "name": "Markdown Memos",
-    "author": "王小",
-    "description": "Capture one memo per Markdown file in an Obsidian-native timeline. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "tyh-art/markdown-memos"
-  },
-  {
     "id": "hans-safedoc",
     "name": "Hans SafeDoc",
     "author": "Hans Lin 林思翰",
@@ -50319,7 +50333,7 @@
     "id": "shorthand",
     "name": "Shorthand",
     "author": "Horizon Vector",
-    "description": "Capture Shorthand transcripts and maintain an AI-owned meeting-note summary. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "AI meeting notes and personal note taking using your existing AI subscription. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mshish/shorthand-obsidian-plugin"
   },
   {
@@ -50657,13 +50671,6 @@
     "author": "Adlin",
     "description": "Annotate images in your vault with rectangles, arrows, text, and freehand marks, then save the result as a PNG. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "adlinz/obsidian-image-annotator"
-  },
-  {
-    "id": "notelens",
-    "name": "NoteLens",
-    "author": "jotatito05",
-    "description": "Infinite whiteboard with pressure-sensitive stylus ink, smart tags, PDFs and interactive videos on the canvas. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "veloik/Plugin-Obsidian"
   },
   {
     "id": "ltoolkit",
@@ -51033,7 +51040,7 @@
     "id": "gemma-litert-wiki",
     "name": "Gemma 4 E4B LLM Wiki",
     "author": "yuimorii",
-    "description": "Gemma 4 inside Obsidian via LiteRT-LM and WebGPU: chat, improve and relink your notes, quiz and flashcards — free local AI. Follows Karpathy's LLM-wiki — ingest into a wiki it maintains (index, tags, links), grounded in your notes. One-time download. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Turn your notes into a living Karpathy LLM wiki. Chat with your vault, connect ideas, find gaps, generate quizzes and flashcards — with Gemma 4 E4B running locally. No API key, no Ollama, no server. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "itsyuimorii/obsidian-gemma4-litert-wiki"
   },
   {
