@@ -23737,6 +23737,13 @@
     "repo": "tcyeee/obsidian-image-cluster"
   },
   {
+    "id": "narrator",
+    "name": "Narrator",
+    "author": "jtcorrin",
+    "description": "Transform notes into AI-narrated audio. Select text for instant narration or create multi-voice character scripts. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jtcorrin/narrator"
+  },
+  {
     "id": "board-view",
     "name": "Board View",
     "author": "seventhxiv",
@@ -32347,6 +32354,13 @@
     "repo": "flowing-abyss/obsidian-hybrid-search-plugin"
   },
   {
+    "id": "grimoire",
+    "name": "Grimoire",
+    "author": "Michael Makarov",
+    "description": "Run Claude Code, Codex, Grok, AntiGravity, Qwen Code, and OpenCode as local AI agents in your vault, with chat, inline editing, and tools. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sandsaber/Grimoire"
+  },
+  {
     "id": "metadata-validator",
     "name": "Metadata Validator",
     "author": "flowing-abyss",
@@ -34022,7 +34036,7 @@
   {
     "id": "dual-link",
     "name": "DualLink",
-    "author": "马可菠萝",
+    "author": "MarcBolo",
     "description": "将本地和保险库中的文件嵌入到您的文档中。支持图片、音频和视频的内联渲染。 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "mowdw/DualLink"
   },
@@ -45164,13 +45178,6 @@
     "repo": "madforstrength/obsidian-wispr-flow-sync"
   },
   {
-    "id": "kindle-bridge",
-    "name": "Kindle Bridge",
-    "author": "Daisuke Masuda",
-    "description": "Sync Kindle highlights and notes from Amazon into per-book Markdown notes in your vault. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "x5gtrn/kindle-bridge"
-  },
-  {
     "id": "vaultforge",
     "name": "VaultForge",
     "author": "walsplitter",
@@ -48685,13 +48692,6 @@
     "repo": "shayher5525/obsidian-vault-dashboard"
   },
   {
-    "id": "chemspec",
-    "name": "ChemSpec",
-    "author": "Ruzal Sitdikov",
-    "description": "An interactive, offline viewer for NMR, FT-IR, and analytical chemistry spectra directly inside your electronic lab notebook. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "ruzx/chemspec"
-  },
-  {
     "id": "vinyle",
     "name": "Vinyle",
     "author": "liotou",
@@ -51037,6 +51037,13 @@
     "repo": "kellynovax/ai-knowledge-workflow"
   },
   {
+    "id": "tc-bridge",
+    "name": "TC Bridge",
+    "author": "suavecito",
+    "description": "Companion bridge plugin for The 40 Thieves' vault-access MCP server. Extends Local REST API with command dispatch and plugin firepower bridges. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "the-40-thieves/obsidian-tc"
+  },
+  {
     "id": "poppy",
     "name": "Poppy",
     "author": "opa-oz",
@@ -51056,6 +51063,13 @@
     "author": "zoupuyo",
     "description": "On-demand highlight of vault note titles and aliases in the current note, then confirm and insert wikilinks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "zoupuyo-obsidian/obsidian-spot-linker"
+  },
+  {
+    "id": "att-meta-map",
+    "name": "Att Meta Map",
+    "author": "heptazero",
+    "description": "Maps resource collections to index notes through the source property, with sidecar/folder layouts and a paired source view. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "heptazero/obsidian-attach-meta-map"
   },
   {
     "id": "digital-rain-background",
@@ -51133,6 +51147,13 @@
     "author": "jyqqs",
     "description": "把 AI 对话（豆包/DeepSeek 等）复制的 Tab/空格纯文本一键转成标准 Markdown 表格，支持可选的数字排序列 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "spiderk-104/paste-table"
+  },
+  {
+    "id": "nutegg",
+    "name": "NutEgg",
+    "author": "staff-000",
+    "description": "Read less, hatch more. Capture web content, curate your knowledge base in Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "staff-000/nutegg-obsidian-release"
   },
   {
     "id": "custom-folder-links",
@@ -51350,5 +51371,19 @@
     "author": "asro",
     "description": "Turn photos, GIFs and videos into a customizable ambient gallery and digital photo frame inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "loopman90/LumaFrame"
+  },
+  {
+    "id": "anbing-image-upload",
+    "name": "anbing-image-upload",
+    "author": "anbing cui",
+    "description": "Upload images to S3-compatible storage - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "cuianbing/obsidian-image-upload"
+  },
+  {
+    "id": "bili-card",
+    "name": "Bili Card",
+    "author": "DaoWang",
+    "description": "Renders div.bili-card / div.bili-up-card one-liners as Bilibili video & UP-owner card galleries. Data lives in data-* attributes; template, styles and layout settings live here. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "dao1023/bili-card"
   }
 ]
