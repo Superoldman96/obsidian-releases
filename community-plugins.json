@@ -21329,6 +21329,13 @@
     "repo": "daolyap/openterm"
   },
   {
+    "id": "floating-quick-note",
+    "name": "Floating Quick Note",
+    "author": "sabosman",
+    "description": "Open a floating always-on-top note window for quick notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "sabosman/obisidian-floatingnote"
+  },
+  {
     "id": "replace-em-dash",
     "name": "Replace Em Dash",
     "author": "joaonoturno",
@@ -48692,6 +48699,13 @@
     "repo": "shayher5525/obsidian-vault-dashboard"
   },
   {
+    "id": "chemspec",
+    "name": "ChemSpec",
+    "author": "Ruzal Sitdikov",
+    "description": "An interactive, offline viewer for NMR, FT-IR, and analytical chemistry spectra directly inside your electronic lab notebook. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ruzx/chemspec"
+  },
+  {
     "id": "vinyle",
     "name": "Vinyle",
     "author": "liotou",
@@ -51249,7 +51263,7 @@
   {
     "id": "constella",
     "name": "Constella",
-    "author": "asro",
+    "author": "loopman90",
     "description": "Turn your Obsidian vault graph into a living, configurable knowledge visualization. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "loopman90/constella-obsidian-plugin"
   },
@@ -51359,6 +51373,13 @@
     "repo": "aqu-lab/maic-for-office"
   },
   {
+    "id": "canvas-map-pins",
+    "name": "Canvas Map Pins",
+    "author": "mach-erik",
+    "description": "Adds the ability to put map pins on any image in a Canvas - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "erikmach/obsidian-canvas-map-plugin"
+  },
+  {
     "id": "auto-move-file",
     "name": "Auto Move File",
     "author": "sx kan",
@@ -51368,9 +51389,30 @@
   {
     "id": "lumaframe",
     "name": "LumaFrame",
-    "author": "asro",
+    "author": "loopman90",
     "description": "Turn photos, GIFs and videos into a customizable ambient gallery and digital photo frame inside Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "loopman90/LumaFrame"
+  },
+  {
+    "id": "annocard",
+    "name": "AnnoCard",
+    "author": "wbl",
+    "description": "独立标注数据 + 卡片化管理：高亮、批注、标签、批量删除、复习模式。融合自 annotation-marker (MIT) 与 HiLighter | Standalone annotation data + card management, based on annotation-marker (MIT) & HiLighter. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "power-ioi/annocard"
+  },
+  {
+    "id": "regen",
+    "name": "Regen",
+    "author": "loopman90",
+    "description": "A local, gamified work-rhythm HUD for Obsidian: work, recover, continue. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "loopman90/regen"
+  },
+  {
+    "id": "sidecar-ai",
+    "name": "Sidecar AI",
+    "author": "Andrey Eremin",
+    "description": "Native AI chat sidebar supporting Google Antigravity, GitHub Copilot, and local AI CLI providers with zero API tokens needed. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "developer88/obsidian-ai-chat-extension"
   },
   {
     "id": "anbing-image-upload",
@@ -51385,5 +51427,12 @@
     "author": "DaoWang",
     "description": "Renders div.bili-card / div.bili-up-card one-liners as Bilibili video & UP-owner card galleries. Data lives in data-* attributes; template, styles and layout settings live here. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "dao1023/bili-card"
+  },
+  {
+    "id": "highlightextractor",
+    "name": "Highlight-Extractor",
+    "author": "KfirG",
+    "description": "Extract highlights and bold from different notes into a single note - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kfirgumay2005-hash/Highlight-Extractor"
   }
 ]
