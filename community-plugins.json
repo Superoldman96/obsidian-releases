@@ -48447,13 +48447,6 @@
     "repo": "joahyi-ai/WeChat-Publish-Preview"
   },
   {
-    "id": "structural-tables",
-    "name": "Structural Tables",
-    "author": "ZhengYX",
-    "description": "Merged cells, multi-row headers, and row headers for readable Markdown tables. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zhyx91/obsidian-structural-tables"
-  },
-  {
     "id": "homepage-dashboard",
     "name": "Homepage Dashboard",
     "author": "pengze",
@@ -49229,13 +49222,6 @@
     "author": "Olivier LB",
     "description": "A contextual AI assistant for discussing, improving, and organizing your Obsidian notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "olivierlb/Tandem"
-  },
-  {
-    "id": "fleur-annotation",
-    "name": "FleurAnnotation",
-    "author": "JC5",
-    "description": "Markdown 智能阅读与标注插件，支持高亮、划线、AI 批注与翻译。 - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "gibsonchan-5/fleur-annotation"
   },
   {
     "id": "class-schedule",
@@ -51259,5 +51245,19 @@
     "author": "冬季蚊子",
     "description": "Mind map rendering for Markdown: edit .mindmap.md as a mind map, with Markdown outline round-trip, native wikilinks and images, layouts, search, auto-arrange and PNG export. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "wintermosquito/Obsidian-Mindmap-Studio"
+  },
+  {
+    "id": "cn-natsort",
+    "name": "CN Natural Sort",
+    "author": "琉璃幻影",
+    "description": "让文件浏览器按「第一章 / 第二章 / 第十章」的中文数字自然排序。不改文件名、不改内容、零配置，直接接管 Obsidian 自身的排序逻辑。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "liu-li-huan-ying/obsidian-cn-natsort"
+  },
+  {
+    "id": "menu-hider",
+    "name": "Menu Hider",
+    "author": "IcyCat",
+    "description": "Hide, reorder and promote context menu entries, and copy absolute file paths from the file explorer. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "icy-cat/obsidian-menu-hider"
   }
 ]
