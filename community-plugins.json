@@ -21021,13 +21021,6 @@
     "repo": "samhopwell/obsidian-foldstate"
   },
   {
-    "id": "weave",
-    "name": "Weave Deck",
-    "author": "zhuzhige123",
-    "description": "Enhance knowledge learning and memory consolidation with incremental reading, memory decks, and practice quiz decks. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "zhuzhige123/obsidian---Weave"
-  },
-  {
     "id": "ai-link-summarizer",
     "name": "AI Link Summarizer",
     "author": "laroy-sh",
@@ -27487,6 +27480,13 @@
     "author": "caulfieldsbrain",
     "description": "Create, import, and render Shadowdark RPG monster stat blocks. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "caulfieldsbrain/shadowdark-statblocks"
+  },
+  {
+    "id": "opencode",
+    "name": "OpenCode",
+    "author": "krisspy",
+    "description": "Use OpenCode CLI without leaving your vault. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kriss-spy/obsidian-opencode"
   },
   {
     "id": "claude-panel-ryukyuhub",
@@ -44222,7 +44222,7 @@
     "id": "vault-orrery",
     "name": "Vault Orrery",
     "author": "Elliott Park",
-    "description": "Fly through your vault as a star system — a 3D graph with a spaceship, a surface mode and a formation timeline. Runs entirely offline. - This plugin has not been manually reviewed by Obsidian staff.",
+    "description": "Folders become stars, notes orbit them, cited sources become moons. Replay how the vault formed, open any note from orbit, map its neighbours. No network access at all. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "elliott-json-park/obsidian-vault-orrery"
   },
   {
@@ -49224,6 +49224,13 @@
     "repo": "olivierlb/Tandem"
   },
   {
+    "id": "fleur-annotation",
+    "name": "FleurAnnotation",
+    "author": "JC5",
+    "description": "Markdown 智能阅读与标注插件，支持高亮、划线、AI 批注与翻译。 - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gibsonchan-5/fleur-annotation"
+  },
+  {
     "id": "class-schedule",
     "name": "Class Schedule",
     "author": "蝶梦",
@@ -50792,6 +50799,13 @@
     "repo": "makespdf/makespdf-obsidian-plugin"
   },
   {
+    "id": "highlight-migrator",
+    "name": "Highlight Migrator",
+    "author": "Grub Basket",
+    "description": "Scan legacy HTML highlights, map each colour to a native highlight colour, back up affected notes, then convert them — with full revert. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "grub-basket/Highlight-Migrator"
+  },
+  {
     "id": "askmyu",
     "name": "askMyu",
     "author": "askMyu",
@@ -50825,6 +50839,13 @@
     "author": "Miyoung_liu",
     "description": "Obsidian 内打开好看的工作台：任务汇总 + 看板拖拽 + 笔记卡片墙，实时读写 - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "miyoungliu/obsidian-workbench-dashboard"
+  },
+  {
+    "id": "rich-mindmap",
+    "name": "Rich Mindmap",
+    "author": "Younian",
+    "description": "Editable mind maps backed by plain Markdown lists — priority, progress and flag marks, drag to reorganize. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "younianc/obsidian-rich-mindmap"
   },
   {
     "id": "onyx",
@@ -50888,6 +50909,13 @@
     "author": "awesomedog",
     "description": "A Markdown formatting bar for Obsidian. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "awesomedog/obsidian-awesome-format-bar"
+  },
+  {
+    "id": "aider",
+    "name": "Aider",
+    "author": "vimbackground",
+    "description": "Chat with AI models to read, write, and explore your notes with zero-config native tools and vault knowledge retrieval. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "vimbackground/obsidian-aider"
   },
   {
     "id": "superproductivity-todo-sync",
@@ -51254,10 +51282,52 @@
     "repo": "liu-li-huan-ying/obsidian-cn-natsort"
   },
   {
+    "id": "github-vault-relay",
+    "name": "GitHub Vault Relay",
+    "author": "Nguyễn An Khang",
+    "description": "A conservative GitHub bridge for Obsidian Mobile - without running Git on the phone. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ankhang0704/github-vault-relay"
+  },
+  {
+    "id": "excel-lite",
+    "name": "Excel Lite",
+    "author": "nightfall",
+    "description": "Free Excel-like spreadsheet plugin for Obsidian with xlsx import/export, based on Univer. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "nightfall-yl/obsidian-excel-lite"
+  },
+  {
     "id": "menu-hider",
     "name": "Menu Hider",
     "author": "IcyCat",
     "description": "Hide, reorder and promote context menu entries, and copy absolute file paths from the file explorer. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "icy-cat/obsidian-menu-hider"
+  },
+  {
+    "id": "quiet-tree",
+    "name": "Quiet Tree",
+    "author": "elfmedy",
+    "description": "Arrange the native file explorer with deliberate dragging, clear tree drop targets, and editable JSON ordering. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "elfmedy/quiet-tree"
+  },
+  {
+    "id": "pi-ide-context",
+    "name": "pi-ide-context",
+    "author": "Andy Luo",
+    "description": "Share the open note, cursor and selection in your vault with pi (npm pi-ide-context). - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "andy8647/pi-ide-context"
+  },
+  {
+    "id": "quick-voice-note",
+    "name": "Quick Voice Note",
+    "author": "Spencer Clark",
+    "description": "Press a button, talk as long as you like, read it in tonight's note. Long-form voice memos saved to your vault and transcribed to text. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "spencer1975/quick-voice-note"
+  },
+  {
+    "id": "tap-toggle-task",
+    "name": "TaskTap",
+    "author": "rel1nce",
+    "description": "Toggle tasks by tapping their text on mobile. Tap after the text in editing view to place the cursor. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "rprudchenko/obsidian-tasktap"
   }
 ]
