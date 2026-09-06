@@ -34027,6 +34027,13 @@
     "repo": "kouge0510/obsidian-dagens-ord"
   },
   {
+    "id": "german-law-lookup",
+    "name": "European Law Lookup",
+    "author": "GammaFunds",
+    "description": "Look up EU regulations, directives and decisions in 24 official languages, plus German, Austrian and Swiss law. Preview legal text from official sources and insert formatted citations into your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "gammafunds/European-Law-Lookup"
+  },
+  {
     "id": "dual-link",
     "name": "DualLink",
     "author": "马可菠萝",
@@ -48447,6 +48454,13 @@
     "repo": "joahyi-ai/WeChat-Publish-Preview"
   },
   {
+    "id": "structural-tables",
+    "name": "Structural Tables",
+    "author": "ZhengYX",
+    "description": "Merged cells, multi-row headers, and row headers for readable Markdown tables. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "zhyx91/obsidian-structural-tables"
+  },
+  {
     "id": "homepage-dashboard",
     "name": "Homepage Dashboard",
     "author": "pengze",
@@ -51079,13 +51093,6 @@
     "repo": "zoupuyo-obsidian/obsidian-spot-linker"
   },
   {
-    "id": "att-meta-map",
-    "name": "Att Meta Map",
-    "author": "heptazero",
-    "description": "Maps resource collections to index notes through the source property, with sidecar/folder layouts and a paired source view. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "heptazero/obsidian-attach-meta-map"
-  },
-  {
     "id": "digital-rain-background",
     "name": "Digital Rain Background",
     "author": "Musashino Software",
@@ -51140,6 +51147,13 @@
     "author": "Edward Hsieh",
     "description": "Create folder-scoped File Explorer spaces in sidebars, editor tabs, and popout windows. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "edwardsayer/obsidian-folder-spaces"
+  },
+  {
+    "id": "integrated-task-manager",
+    "name": "Integrated Task Manager",
+    "author": "kuberrr05",
+    "description": "Markdown-native Inbox, Today, Upcoming, All Tasks, and Projects views. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "kuberrr0/obsidian-integrated-tasks"
   },
   {
     "id": "hash-pasted-image-plus",
@@ -51247,6 +51261,13 @@
     "repo": "imbalet/folder-tags"
   },
   {
+    "id": "constella",
+    "name": "Constella",
+    "author": "asro",
+    "description": "Turn your Obsidian vault graph into a living, configurable knowledge visualization. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "loopman90/constella-obsidian-plugin"
+  },
+  {
     "id": "unique-suite",
     "name": "Unique Suite",
     "author": "Benjamín Alcalde G.",
@@ -51329,5 +51350,33 @@
     "author": "rel1nce",
     "description": "Toggle tasks by tapping their text on mobile. Tap after the text in editing view to place the cursor. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "rprudchenko/obsidian-tasktap"
+  },
+  {
+    "id": "stay-folded",
+    "name": "Stay Folded",
+    "author": "crayonzgrim",
+    "description": "Keep folded sections collapsed until you explicitly expand them. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "crayonzgrim/stay-folded"
+  },
+  {
+    "id": "media-recorder",
+    "name": "Media Recorder",
+    "author": "Jackshell",
+    "description": "A dockable media recorder for capturing webcam, screen, and audio directly into your notes. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "alaxanalax10/obsidian-media-journal"
+  },
+  {
+    "id": "maic-for-office",
+    "name": "Office Attachment Viewer",
+    "author": "李骥远",
+    "description": "Preview Word (.docx), PowerPoint (.pptx) and Excel (.xlsx) attachments right inside Obsidian. Fully local, read-only. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "aqu-lab/maic-for-office"
+  },
+  {
+    "id": "auto-move-file",
+    "name": "Auto Move File",
+    "author": "sx kan",
+    "description": "Automatically move or copy notes to target folders based on frontmatter properties or file names, with flexible rules and exact or fuzzy matching. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lsywk25/auto-move-file"
   }
 ]
