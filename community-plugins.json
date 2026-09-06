@@ -24857,6 +24857,13 @@
     "repo": "rgomezjnr/copy-notes-to-vault"
   },
   {
+    "id": "callout-studio",
+    "name": "Callout Studio",
+    "author": "niv20",
+    "description": "Callout Studio is the only callout plugin you'll ever need to download. It offers regular callouts, inline callouts, and callout headings. Plus, you can easily design your own custom styles! - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "niv20/obsidian-Plugin-Callout-Studio"
+  },
+  {
     "id": "akaire",
     "name": "Akaire",
     "author": "asonas",
@@ -32562,6 +32569,13 @@
     "author": "ducktapekiller",
     "description": "Add events to your calendar with a beautiful timeline view. Features recurring events, time support, and visual day highlights. Works alongside the Calendar plugin. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ducktapekiller/memento"
+  },
+  {
+    "id": "simple-scanner",
+    "name": "Simple Scanner-OLD",
+    "author": "Extski",
+    "description": "Simple Scanner-OLD plugin for Obsidian - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jzstoller/jzs-simple-scanner"
   },
   {
     "id": "simple-plug-in-organizer",
@@ -51238,5 +51252,12 @@
     "author": "zakin",
     "description": "View and manage Apple Reminders from a sidebar panel. macOS only. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "isaquepereira/obsidian-apple-reminders-plus"
+  },
+  {
+    "id": "mindmap-studio",
+    "name": "MindMap Studio",
+    "author": "冬季蚊子",
+    "description": "Mind map rendering for Markdown: edit .mindmap.md as a mind map, with Markdown outline round-trip, native wikilinks and images, layouts, search, auto-arrange and PNG export. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "wintermosquito/Obsidian-Mindmap-Studio"
   }
 ]
