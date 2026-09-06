@@ -26292,6 +26292,13 @@
     "repo": "bryanmanio/obsidian-lexophile"
   },
   {
+    "id": "wikilink-helper",
+    "name": "Wikilink Helper",
+    "author": "ivan1248",
+    "description": "Automatically adds wikilink display text or normalizes existing wikilinks. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "ivan1248/obsidian-wikilink-helper"
+  },
+  {
     "id": "ai-model-workbench",
     "name": "AI Model Workbench",
     "author": "flash555588",
@@ -49994,13 +50001,6 @@
     "repo": "n23eos/obsidian-always-on-top-tasks"
   },
   {
-    "id": "wiki-companion",
-    "name": "Bureau",
-    "author": "Mo A",
-    "description": "A calendar, task board, reminders and time tracker built for my own wiki-style vault — plain tags and dates, no new format to learn. Sharing it as-is in case it's useful to you too. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "cityplannermo/companion"
-  },
-  {
     "id": "communitynoteshub",
     "name": "Notes hub",
     "author": "adi gorn",
@@ -51275,13 +51275,6 @@
     "repo": "loopman90/constella-obsidian-plugin"
   },
   {
-    "id": "unique-suite",
-    "name": "Unique Suite",
-    "author": "Benjamín Alcalde G.",
-    "description": "University workspace: home, class capture, daily notes, timetable, reminders, calendar, events, ICS feeds, and layers. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "benhaman9/unique-suite"
-  },
-  {
     "id": "fsview",
     "name": "File System View",
     "author": "zakin",
@@ -51471,6 +51464,13 @@
     "repo": "dojje/chronobars"
   },
   {
+    "id": "sheetsmith",
+    "name": "Sheetsmith",
+    "author": "richie735",
+    "description": "Design and use character sheets for any tabletop RPG. Build a layout on a grid, define your own formulas, and keep every character as a plain markdown note. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "richie735/obsidian-sheetsmith"
+  },
+  {
     "id": "oncemarked",
     "name": "OnceMarked",
     "author": "Chuang Niu",
@@ -51494,8 +51494,15 @@
   {
     "id": "icor-for-life-outliner",
     "name": "ICOR for Life - Outliner",
-    "author": "Paperless Movement S.L.",
+    "author": "Thomas Roedl",
     "description": "Lists that behave like an outline: indent, outdent and move a bullet together with everything under it, Enter that knows about children, a cursor that stays out of the bullet, and a select-all that climbs. Part of the ICOR for Life suite. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "myicor/icor-for-life-outliner"
+  },
+  {
+    "id": "caption-gallery-slider",
+    "name": "Caption Gallery Slider",
+    "author": "Pauline Skrypnik",
+    "description": "A native-feeling gallery slider for local images and videos with editable Markdown captions. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "skrpln/caption-gallery-slider"
   }
 ]
